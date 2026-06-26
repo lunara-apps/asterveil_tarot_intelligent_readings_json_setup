@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "latestContentVersion": "v1-a88b1a5c2e94",
+  "latestContentVersion": "v1-7f774efc3a64",
   "minimumAppVersion": "1.0.0",
   "defaultLocale": "en",
   "availableLocales": [
@@ -10,22 +10,22 @@
   ],
   "bundles": {
     "en": {
-      "version": "v1-a88b1a5c2e94",
-      "url": "bundles/v1-a88b1a5c2e94/tarot_content_en.json",
-      "sha256": "43c60ce0df6128ee8df45be349bec46ad056e064d5d33b6f1a8339e7bb6a22b6",
-      "sizeBytes": 23009
+      "version": "v1-7f774efc3a64",
+      "url": "bundles/v1-7f774efc3a64/tarot_content_en.json",
+      "sha256": "cf07b42bb354efb15352003da848c6c23e92757dbdc0a47f697d295e5d90b1b9",
+      "sizeBytes": 1032701
     },
     "it": {
-      "version": "v1-a88b1a5c2e94",
-      "url": "bundles/v1-a88b1a5c2e94/tarot_content_it.json",
-      "sha256": "6a7bc0d8426df033bf94c4ff213af2ae8f7ce6426fe42de8c39a8169ce5f5455",
-      "sizeBytes": 26663
+      "version": "v1-7f774efc3a64",
+      "url": "bundles/v1-7f774efc3a64/tarot_content_it.json",
+      "sha256": "5ca835732010534e37efb33ab5895f01b56bc017d596b35db61b763595a1cb69",
+      "sizeBytes": 1403245
     },
     "es": {
-      "version": "v1-a88b1a5c2e94",
-      "url": "bundles/v1-a88b1a5c2e94/tarot_content_es.json",
-      "sha256": "c5bcf50204ca769893508262d33ed656ea782e966d78da1186bc093fac0abe90",
-      "sizeBytes": 26640
+      "version": "v1-7f774efc3a64",
+      "url": "bundles/v1-7f774efc3a64/tarot_content_es.json",
+      "sha256": "15a3660f5b51253b89b9cf623330b73dc261a060a7a6fc59a02d860ebd4c5be2",
+      "sizeBytes": 1552596
     }
   }
 }

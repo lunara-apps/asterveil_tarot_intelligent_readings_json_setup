@@ -11,8 +11,10 @@ no split files exist (if both are present, the split files win).
 For each locale the script merges the five sets into one flat ``cards`` array
 (Major Arcana first, then Cups, Wands, Swords, Pentacles; each sorted by
 ``number`` ascending — Ace=1 .. King=14), assembles the bundle, validates the
-content, writes the bundle + manifest, refreshes the public reading pages, and
-self-verifies the generated output.
+content, writes the bundle + manifest, refreshes the public reading pages,
+self-verifies the generated output, and prunes superseded bundle version folders
+(keeping only the version the manifest points at, so old ``v1-*`` folders never
+accumulate).
 
 The content version (``v1-<hash>``) is content-addressed: it is derived from a
 hash of the delivered content, so it changes automatically — and only — when the
@@ -26,6 +28,7 @@ Stdlib only; exits non-zero with a clear message on any validation failure.
 """
 import hashlib
 import json
+import re
 import shutil
 import sys
 from pathlib import Path
@@ -314,6 +317,45 @@ def self_verify(manifest_path):
         json.loads(raw.decode("utf-8"))  # must parse
 
 
+def prune_old_bundles(keep_versions):
+    """Delete superseded ``docs/bundles/<version>/`` folders.
+
+    Keeps only the version(s) the freshly built manifest points at (today that's
+    the single ``latestContentVersion``) and removes every other generated
+    version folder, so they can't pile up. Stale folders are harmless to the app
+    (it always follows the manifest) but untidy, and a checkout that carried more
+    than one of them is what broke the old shell-glob CI validation.
+
+    Safe by construction: runs only after ``self_verify`` has confirmed the kept
+    version is good, and touches only directories named like a generated version
+    (``v<digits>-<hex>``) — anything else under ``docs/bundles/`` is left alone.
+    Best-effort: a folder that can't be removed logs a warning but never fails
+    the build, since the kept bundle is already written and verified.
+
+    Old folders are never needed for rollback: the version is content-addressed
+    and rebuilt from source, so reverting content in git regenerates the prior
+    folder on the next build.
+    """
+    bundles_root = ROOT / "docs" / "bundles"
+    if not bundles_root.is_dir():
+        return []
+    keep = set(keep_versions)
+    removed = []
+    for child in sorted(bundles_root.iterdir()):
+        if not child.is_dir() or child.name in keep:
+            continue
+        if re.fullmatch(r"v\d+-[0-9a-f]+", child.name) is None:
+            continue  # not a generated version folder — leave it untouched
+        try:
+            shutil.rmtree(child)
+        except OSError as exc:
+            print(f"WARNING: could not prune {rel(child)}: {exc}", file=sys.stderr)
+            continue
+        removed.append(child.name)
+        print(f"Pruned superseded bundle version: {child.name}")
+    return removed
+
+
 def main():
     try:
         per_locale = {loc: load_locale(loc) for loc in LOCALES}
@@ -327,6 +369,7 @@ def main():
         manifest_path = write_outputs(bundles, version)
         generate_pages()
         self_verify(manifest_path)
+        prune_old_bundles({version})
     except BuildError as exc:
         print(f"BUILD FAILED: {exc}", file=sys.stderr)
         return 1
