@@ -32,17 +32,47 @@ jobs:
       - name: Build tarot content bundles
         run: python scripts/build_bundle.py
 
-      - name: Validate generated manifest exists
-        run: test -f docs/manifest.json
+      - name: Validate generated manifest and referenced bundles
+        shell: bash
+        run: |
+          set -euo pipefail
 
-      - name: Validate generated English bundle exists
-        run: test -f docs/bundles/*/tarot_content_en.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
 
-      - name: Validate generated Italian bundle exists
-        run: test -f docs/bundles/*/tarot_content_it.json
+          docs_dir = Path("docs")
+          manifest_path = docs_dir / "manifest.json"
 
-      - name: Validate generated Spanish bundle exists
-        run: test -f docs/bundles/*/tarot_content_es.json
+          if not manifest_path.is_file():
+              raise SystemExit("Missing docs/manifest.json")
+
+          with manifest_path.open("r", encoding="utf-8") as f:
+              manifest = json.load(f)
+
+          required_locales = ["en", "it", "es"]
+          bundles = manifest.get("bundles", {})
+
+          for locale in required_locales:
+              if locale not in bundles:
+                  raise SystemExit(f"Missing locale '{locale}' in manifest.bundles")
+
+              url = bundles[locale].get("url")
+              if not url:
+                  raise SystemExit(f"Missing bundle URL for locale '{locale}'")
+
+              bundle_path = docs_dir / url
+
+              if not bundle_path.is_file():
+                  raise SystemExit(f"Manifest points to missing file: {bundle_path}")
+
+              with bundle_path.open("r", encoding="utf-8") as f:
+                  json.load(f)
+
+              print(f"Validated {locale}: {bundle_path}")
+
+          print("Manifest and referenced locale bundles are valid.")
+          PY
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
