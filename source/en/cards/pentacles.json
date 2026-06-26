@@ -51,61 +51,1478 @@
     },
     "positions": {
       "message": {
-        "general": "A small practical beginning deserves your attention.",
-        "love": "Trust may grow through consistent actions, not only feelings.",
-        "career": "A real opportunity needs structure and follow-through.",
-        "money": "A simple financial step can support future stability.",
-        "growth": "A grounded habit can change more than a dramatic promise."
+        "general": "Take the opportunity seriously, but let it grow one step at a time.",
+        "love": "Look for consistency, care, and actions that can become trust.",
+        "career": "Give the opportunity structure so it can become something lasting.",
+        "money": "Small stable choices can become long-term growth.",
+        "growth": "Plant the seed, then protect it with consistency."
       },
       "situation": {
-        "general": "The situation contains potential, but it needs care and consistency.",
-        "love": "A connection may become real through patience and reliability.",
-        "career": "This is a moment to treat opportunity as something to build.",
-        "money": "A stable plan can begin with one manageable action.",
-        "growth": "Your growth wants practical roots."
+        "general": "The situation reflects the Ace of Pentacles brings the seed of a stable new beginning.",
+        "love": "The situation reflects a grounded connection with real potential may be forming.",
+        "career": "The situation reflects a practical opportunity may be opening around work, study, or resources.",
+        "money": "The situation reflects a new financial opportunity, resource, or practical start may appear.",
+        "growth": "The situation reflects personal growth may begin through a simple, grounded habit or commitment."
       },
       "past": {
-        "general": "The past may have offered the first seed of something stable.",
-        "love": "A connection may have begun with practical care or quiet potential.",
-        "career": "A past opportunity may have given you something to build on.",
-        "money": "You may have already received or created the foundation for better stability.",
-        "growth": "A small habit or decision from the past may still be growing."
+        "general": "In the past, Ace of Pentacles points to the Ace of Pentacles brings the seed of a stable new beginning.",
+        "love": "In the past, Ace of Pentacles points to a grounded connection with real potential may be forming.",
+        "career": "In the past, Ace of Pentacles points to a practical opportunity may be opening around work, study, or resources.",
+        "money": "In the past, Ace of Pentacles points to a new financial opportunity, resource, or practical start may appear.",
+        "growth": "In the past, Ace of Pentacles points to personal growth may begin through a simple, grounded habit or commitment."
       },
       "present": {
-        "general": "The present offers a grounded opportunity that can become something real.",
-        "love": "A relationship or emotional connection may need patience, consistency, and trust.",
-        "career": "This is a good moment to act on a practical opportunity.",
-        "money": "A stable financial step may be available now.",
-        "growth": "Your growth is asking for simple, consistent action."
+        "general": "In the present, Ace of Pentacles highlights the Ace of Pentacles brings the seed of a stable new beginning.",
+        "love": "In the present, Ace of Pentacles highlights a grounded connection with real potential may be forming.",
+        "career": "In the present, Ace of Pentacles highlights a practical opportunity may be opening around work, study, or resources.",
+        "money": "In the present, Ace of Pentacles highlights a new financial opportunity, resource, or practical start may appear.",
+        "growth": "In the present, Ace of Pentacles highlights personal growth may begin through a simple, grounded habit or commitment."
       },
       "future": {
-        "general": "The future may bring a new stable beginning or practical opportunity.",
-        "love": "A connection may become more grounded, steady, and real.",
-        "career": "A new opportunity could become something reliable if you nurture it.",
-        "money": "A small practical choice may grow into greater stability.",
-        "growth": "Your future growth may come from patience, structure, and care."
+        "general": "Looking ahead, Ace of Pentacles suggests the Ace of Pentacles brings the seed of a stable new beginning.",
+        "love": "Looking ahead, Ace of Pentacles suggests a grounded connection with real potential may be forming.",
+        "career": "Looking ahead, Ace of Pentacles suggests a practical opportunity may be opening around work, study, or resources.",
+        "money": "Looking ahead, Ace of Pentacles suggests a new financial opportunity, resource, or practical start may appear.",
+        "growth": "Looking ahead, Ace of Pentacles suggests personal growth may begin through a simple, grounded habit or commitment."
       }
     },
     "journalPrompts": {
       "general": [
-        "What small seed am I ready to protect?",
-        "What practical step would help this opportunity grow?"
+        "Where is new beginning showing up in my life?",
+        "What is the gentlest truthful next step?"
       ],
       "love": [
-        "What action would make love feel more grounded?",
-        "Where do I need consistency more than intensity?"
+        "How does new beginning affect the way I give or receive love?",
+        "What would help my heart feel respected?"
       ],
       "career": [
-        "What opportunity needs a plan?",
-        "What small action can I take today?"
+        "How can new beginning guide my work or direction?",
+        "What action would make this more grounded?"
       ],
       "money": [
-        "What stable choice can I repeat?",
-        "Where can I build security step by step?"
+        "What does new beginning reveal about my resources or values?",
+        "What practical choice can I repeat?"
       ],
       "growth": [
-        "What habit would support the person I am becoming?",
-        "What does grounded growth look like today?"
+        "What can new beginning teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "two_of_pentacles",
+    "name": "Two of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "two",
+    "number": 2,
+    "assetId": "pentacles_02_two.png",
+    "keywords": [
+      "balance",
+      "priorities",
+      "adaptability",
+      "juggling",
+      "change"
+    ],
+    "tags": [
+      "balance",
+      "priorities",
+      "adaptability",
+      "juggling",
+      "change"
+    ],
+    "toneTags": [
+      "flexible",
+      "busy",
+      "practical"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Two of Pentacles asks for balance, adaptability, and honest prioritizing.",
+        "advice": "Keep the rhythm flexible, but do not pretend everything has equal weight."
+      },
+      "love": {
+        "summary": "Love may need better balance between affection, time, and responsibilities.",
+        "advice": "Make space for connection in the real schedule, not only in intention."
+      },
+      "career": {
+        "summary": "Career may involve multitasking, shifting demands, or managing priorities.",
+        "advice": "Choose the next most important task instead of spinning all plates equally."
+      },
+      "money": {
+        "summary": "Money may require budgeting, cash-flow awareness, or flexible planning.",
+        "advice": "Track what is moving before it becomes overwhelming."
+      },
+      "growth": {
+        "summary": "Growth comes through learning how to stay centered while life moves.",
+        "advice": "Let balance be responsive, not perfect."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Keep the rhythm flexible, but do not pretend everything has equal weight.",
+        "love": "Make space for connection in the real schedule, not only in intention.",
+        "career": "Choose the next most important task instead of spinning all plates equally.",
+        "money": "Track what is moving before it becomes overwhelming.",
+        "growth": "Let balance be responsive, not perfect."
+      },
+      "situation": {
+        "general": "The situation reflects the Two of Pentacles asks for balance, adaptability, and honest prioritizing.",
+        "love": "The situation reflects love may need better balance between affection, time, and responsibilities.",
+        "career": "The situation reflects career may involve multitasking, shifting demands, or managing priorities.",
+        "money": "The situation reflects money may require budgeting, cash-flow awareness, or flexible planning.",
+        "growth": "The situation reflects growth comes through learning how to stay centered while life moves."
+      },
+      "past": {
+        "general": "In the past, Two of Pentacles points to the Two of Pentacles asks for balance, adaptability, and honest prioritizing.",
+        "love": "In the past, Two of Pentacles points to love may need better balance between affection, time, and responsibilities.",
+        "career": "In the past, Two of Pentacles points to career may involve multitasking, shifting demands, or managing priorities.",
+        "money": "In the past, Two of Pentacles points to money may require budgeting, cash-flow awareness, or flexible planning.",
+        "growth": "In the past, Two of Pentacles points to growth comes through learning how to stay centered while life moves."
+      },
+      "present": {
+        "general": "In the present, Two of Pentacles highlights the Two of Pentacles asks for balance, adaptability, and honest prioritizing.",
+        "love": "In the present, Two of Pentacles highlights love may need better balance between affection, time, and responsibilities.",
+        "career": "In the present, Two of Pentacles highlights career may involve multitasking, shifting demands, or managing priorities.",
+        "money": "In the present, Two of Pentacles highlights money may require budgeting, cash-flow awareness, or flexible planning.",
+        "growth": "In the present, Two of Pentacles highlights growth comes through learning how to stay centered while life moves."
+      },
+      "future": {
+        "general": "Looking ahead, Two of Pentacles suggests the Two of Pentacles asks for balance, adaptability, and honest prioritizing.",
+        "love": "Looking ahead, Two of Pentacles suggests love may need better balance between affection, time, and responsibilities.",
+        "career": "Looking ahead, Two of Pentacles suggests career may involve multitasking, shifting demands, or managing priorities.",
+        "money": "Looking ahead, Two of Pentacles suggests money may require budgeting, cash-flow awareness, or flexible planning.",
+        "growth": "Looking ahead, Two of Pentacles suggests growth comes through learning how to stay centered while life moves."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is balance showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does balance affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can balance guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does balance reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can balance teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "three_of_pentacles",
+    "name": "Three of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "three",
+    "number": 3,
+    "assetId": "pentacles_03_three.png",
+    "keywords": [
+      "teamwork",
+      "craft",
+      "collaboration",
+      "skill",
+      "planning"
+    ],
+    "tags": [
+      "teamwork",
+      "craft",
+      "collaboration",
+      "skill",
+      "planning"
+    ],
+    "toneTags": [
+      "cooperative",
+      "grounded",
+      "skilled"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Three of Pentacles builds through collaboration, skill, and practical planning.",
+        "advice": "Let good work be shaped with help, feedback, and shared standards."
+      },
+      "love": {
+        "summary": "Love may benefit from teamwork, shared effort, and building something together.",
+        "advice": "Ask how both people can contribute to the foundation."
+      },
+      "career": {
+        "summary": "Career favors collaboration, apprenticeship, planning, and recognized skill.",
+        "advice": "Bring your craft to the table and respect what others bring too."
+      },
+      "money": {
+        "summary": "Money may improve through planning, professional help, or cooperative effort.",
+        "advice": "Use expertise instead of guessing alone."
+      },
+      "growth": {
+        "summary": "Growth comes through humility, practice, and shared learning.",
+        "advice": "Let yourself be both student and contributor."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let good work be shaped with help, feedback, and shared standards.",
+        "love": "Ask how both people can contribute to the foundation.",
+        "career": "Bring your craft to the table and respect what others bring too.",
+        "money": "Use expertise instead of guessing alone.",
+        "growth": "Let yourself be both student and contributor."
+      },
+      "situation": {
+        "general": "The situation reflects the Three of Pentacles builds through collaboration, skill, and practical planning.",
+        "love": "The situation reflects love may benefit from teamwork, shared effort, and building something together.",
+        "career": "The situation reflects career favors collaboration, apprenticeship, planning, and recognized skill.",
+        "money": "The situation reflects money may improve through planning, professional help, or cooperative effort.",
+        "growth": "The situation reflects growth comes through humility, practice, and shared learning."
+      },
+      "past": {
+        "general": "In the past, Three of Pentacles points to the Three of Pentacles builds through collaboration, skill, and practical planning.",
+        "love": "In the past, Three of Pentacles points to love may benefit from teamwork, shared effort, and building something together.",
+        "career": "In the past, Three of Pentacles points to career favors collaboration, apprenticeship, planning, and recognized skill.",
+        "money": "In the past, Three of Pentacles points to money may improve through planning, professional help, or cooperative effort.",
+        "growth": "In the past, Three of Pentacles points to growth comes through humility, practice, and shared learning."
+      },
+      "present": {
+        "general": "In the present, Three of Pentacles highlights the Three of Pentacles builds through collaboration, skill, and practical planning.",
+        "love": "In the present, Three of Pentacles highlights love may benefit from teamwork, shared effort, and building something together.",
+        "career": "In the present, Three of Pentacles highlights career favors collaboration, apprenticeship, planning, and recognized skill.",
+        "money": "In the present, Three of Pentacles highlights money may improve through planning, professional help, or cooperative effort.",
+        "growth": "In the present, Three of Pentacles highlights growth comes through humility, practice, and shared learning."
+      },
+      "future": {
+        "general": "Looking ahead, Three of Pentacles suggests the Three of Pentacles builds through collaboration, skill, and practical planning.",
+        "love": "Looking ahead, Three of Pentacles suggests love may benefit from teamwork, shared effort, and building something together.",
+        "career": "Looking ahead, Three of Pentacles suggests career favors collaboration, apprenticeship, planning, and recognized skill.",
+        "money": "Looking ahead, Three of Pentacles suggests money may improve through planning, professional help, or cooperative effort.",
+        "growth": "Looking ahead, Three of Pentacles suggests growth comes through humility, practice, and shared learning."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is teamwork showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does teamwork affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can teamwork guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does teamwork reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can teamwork teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "four_of_pentacles",
+    "name": "Four of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "four",
+    "number": 4,
+    "assetId": "pentacles_04_four.png",
+    "keywords": [
+      "security",
+      "control",
+      "holding on",
+      "boundaries",
+      "scarcity"
+    ],
+    "tags": [
+      "security",
+      "control",
+      "holding_on",
+      "boundaries",
+      "scarcity"
+    ],
+    "toneTags": [
+      "guarded",
+      "stable",
+      "cautious"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Four of Pentacles seeks security, but may hold too tightly from fear.",
+        "advice": "Protect what matters without letting control become a cage."
+      },
+      "love": {
+        "summary": "Love may involve guardedness, possessiveness, or fear of vulnerability.",
+        "advice": "Ask what safety would look like without closing the heart."
+      },
+      "career": {
+        "summary": "Career may focus on preserving status, stability, or resources.",
+        "advice": "Keep what works, but stay open to necessary movement."
+      },
+      "money": {
+        "summary": "Money may require saving and boundaries, but also awareness of scarcity fear.",
+        "advice": "Create security without worshiping control."
+      },
+      "growth": {
+        "summary": "Growth comes through loosening the grip where fear has taken over.",
+        "advice": "Let stability support life, not shrink it."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Protect what matters without letting control become a cage.",
+        "love": "Ask what safety would look like without closing the heart.",
+        "career": "Keep what works, but stay open to necessary movement.",
+        "money": "Create security without worshiping control.",
+        "growth": "Let stability support life, not shrink it."
+      },
+      "situation": {
+        "general": "The situation reflects the Four of Pentacles seeks security, but may hold too tightly from fear.",
+        "love": "The situation reflects love may involve guardedness, possessiveness, or fear of vulnerability.",
+        "career": "The situation reflects career may focus on preserving status, stability, or resources.",
+        "money": "The situation reflects money may require saving and boundaries, but also awareness of scarcity fear.",
+        "growth": "The situation reflects growth comes through loosening the grip where fear has taken over."
+      },
+      "past": {
+        "general": "In the past, Four of Pentacles points to the Four of Pentacles seeks security, but may hold too tightly from fear.",
+        "love": "In the past, Four of Pentacles points to love may involve guardedness, possessiveness, or fear of vulnerability.",
+        "career": "In the past, Four of Pentacles points to career may focus on preserving status, stability, or resources.",
+        "money": "In the past, Four of Pentacles points to money may require saving and boundaries, but also awareness of scarcity fear.",
+        "growth": "In the past, Four of Pentacles points to growth comes through loosening the grip where fear has taken over."
+      },
+      "present": {
+        "general": "In the present, Four of Pentacles highlights the Four of Pentacles seeks security, but may hold too tightly from fear.",
+        "love": "In the present, Four of Pentacles highlights love may involve guardedness, possessiveness, or fear of vulnerability.",
+        "career": "In the present, Four of Pentacles highlights career may focus on preserving status, stability, or resources.",
+        "money": "In the present, Four of Pentacles highlights money may require saving and boundaries, but also awareness of scarcity fear.",
+        "growth": "In the present, Four of Pentacles highlights growth comes through loosening the grip where fear has taken over."
+      },
+      "future": {
+        "general": "Looking ahead, Four of Pentacles suggests the Four of Pentacles seeks security, but may hold too tightly from fear.",
+        "love": "Looking ahead, Four of Pentacles suggests love may involve guardedness, possessiveness, or fear of vulnerability.",
+        "career": "Looking ahead, Four of Pentacles suggests career may focus on preserving status, stability, or resources.",
+        "money": "Looking ahead, Four of Pentacles suggests money may require saving and boundaries, but also awareness of scarcity fear.",
+        "growth": "Looking ahead, Four of Pentacles suggests growth comes through loosening the grip where fear has taken over."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is security showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does security affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can security guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does security reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can security teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "five_of_pentacles",
+    "name": "Five of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "five",
+    "number": 5,
+    "assetId": "pentacles_05_five.png",
+    "keywords": [
+      "hardship",
+      "exclusion",
+      "lack",
+      "support needed",
+      "winter"
+    ],
+    "tags": [
+      "hardship",
+      "exclusion",
+      "lack",
+      "support_needed",
+      "vulnerability"
+    ],
+    "toneTags": [
+      "tender",
+      "difficult",
+      "humble"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Five of Pentacles reflects hardship, insecurity, or feeling left outside support.",
+        "advice": "Do not mistake a hard season for proof that you are alone."
+      },
+      "love": {
+        "summary": "Love may feel lonely, unsupported, or strained by practical difficulty.",
+        "advice": "Ask for care clearly instead of suffering silently."
+      },
+      "career": {
+        "summary": "Career may involve instability, rejection, or a difficult material period.",
+        "advice": "Seek practical support and do not isolate in shame."
+      },
+      "money": {
+        "summary": "Money may feel tight or uncertain, asking for help and honest planning.",
+        "advice": "Use available support before the cold becomes harsher."
+      },
+      "growth": {
+        "summary": "Growth comes through receiving help without losing dignity.",
+        "advice": "Let need become a doorway to connection."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Do not mistake a hard season for proof that you are alone.",
+        "love": "Ask for care clearly instead of suffering silently.",
+        "career": "Seek practical support and do not isolate in shame.",
+        "money": "Use available support before the cold becomes harsher.",
+        "growth": "Let need become a doorway to connection."
+      },
+      "situation": {
+        "general": "The situation reflects the Five of Pentacles reflects hardship, insecurity, or feeling left outside support.",
+        "love": "The situation reflects love may feel lonely, unsupported, or strained by practical difficulty.",
+        "career": "The situation reflects career may involve instability, rejection, or a difficult material period.",
+        "money": "The situation reflects money may feel tight or uncertain, asking for help and honest planning.",
+        "growth": "The situation reflects growth comes through receiving help without losing dignity."
+      },
+      "past": {
+        "general": "In the past, Five of Pentacles points to the Five of Pentacles reflects hardship, insecurity, or feeling left outside support.",
+        "love": "In the past, Five of Pentacles points to love may feel lonely, unsupported, or strained by practical difficulty.",
+        "career": "In the past, Five of Pentacles points to career may involve instability, rejection, or a difficult material period.",
+        "money": "In the past, Five of Pentacles points to money may feel tight or uncertain, asking for help and honest planning.",
+        "growth": "In the past, Five of Pentacles points to growth comes through receiving help without losing dignity."
+      },
+      "present": {
+        "general": "In the present, Five of Pentacles highlights the Five of Pentacles reflects hardship, insecurity, or feeling left outside support.",
+        "love": "In the present, Five of Pentacles highlights love may feel lonely, unsupported, or strained by practical difficulty.",
+        "career": "In the present, Five of Pentacles highlights career may involve instability, rejection, or a difficult material period.",
+        "money": "In the present, Five of Pentacles highlights money may feel tight or uncertain, asking for help and honest planning.",
+        "growth": "In the present, Five of Pentacles highlights growth comes through receiving help without losing dignity."
+      },
+      "future": {
+        "general": "Looking ahead, Five of Pentacles suggests the Five of Pentacles reflects hardship, insecurity, or feeling left outside support.",
+        "love": "Looking ahead, Five of Pentacles suggests love may feel lonely, unsupported, or strained by practical difficulty.",
+        "career": "Looking ahead, Five of Pentacles suggests career may involve instability, rejection, or a difficult material period.",
+        "money": "Looking ahead, Five of Pentacles suggests money may feel tight or uncertain, asking for help and honest planning.",
+        "growth": "Looking ahead, Five of Pentacles suggests growth comes through receiving help without losing dignity."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is hardship showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does hardship affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can hardship guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does hardship reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can hardship teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "six_of_pentacles",
+    "name": "Six of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "six",
+    "number": 6,
+    "assetId": "pentacles_06_six.png",
+    "keywords": [
+      "generosity",
+      "exchange",
+      "support",
+      "fairness",
+      "receiving"
+    ],
+    "tags": [
+      "generosity",
+      "exchange",
+      "support",
+      "fairness",
+      "receiving"
+    ],
+    "toneTags": [
+      "balanced",
+      "kind",
+      "practical"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Six of Pentacles shows giving, receiving, and the balance of support.",
+        "advice": "Let generosity be fair, clean, and free of hidden control."
+      },
+      "love": {
+        "summary": "Love may involve care, unequal effort, or learning to receive.",
+        "advice": "Notice whether support flows both ways over time."
+      },
+      "career": {
+        "summary": "Career may bring mentorship, assistance, or a chance to help others.",
+        "advice": "Share resources wisely and accept help when appropriate."
+      },
+      "money": {
+        "summary": "Money may involve gifts, assistance, repayment, or charitable choices.",
+        "advice": "Give or receive with clear boundaries and gratitude."
+      },
+      "growth": {
+        "summary": "Growth comes through understanding the dignity of both giving and receiving.",
+        "advice": "Let support circulate instead of becoming power."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let generosity be fair, clean, and free of hidden control.",
+        "love": "Notice whether support flows both ways over time.",
+        "career": "Share resources wisely and accept help when appropriate.",
+        "money": "Give or receive with clear boundaries and gratitude.",
+        "growth": "Let support circulate instead of becoming power."
+      },
+      "situation": {
+        "general": "The situation reflects the Six of Pentacles shows giving, receiving, and the balance of support.",
+        "love": "The situation reflects love may involve care, unequal effort, or learning to receive.",
+        "career": "The situation reflects career may bring mentorship, assistance, or a chance to help others.",
+        "money": "The situation reflects money may involve gifts, assistance, repayment, or charitable choices.",
+        "growth": "The situation reflects growth comes through understanding the dignity of both giving and receiving."
+      },
+      "past": {
+        "general": "In the past, Six of Pentacles points to the Six of Pentacles shows giving, receiving, and the balance of support.",
+        "love": "In the past, Six of Pentacles points to love may involve care, unequal effort, or learning to receive.",
+        "career": "In the past, Six of Pentacles points to career may bring mentorship, assistance, or a chance to help others.",
+        "money": "In the past, Six of Pentacles points to money may involve gifts, assistance, repayment, or charitable choices.",
+        "growth": "In the past, Six of Pentacles points to growth comes through understanding the dignity of both giving and receiving."
+      },
+      "present": {
+        "general": "In the present, Six of Pentacles highlights the Six of Pentacles shows giving, receiving, and the balance of support.",
+        "love": "In the present, Six of Pentacles highlights love may involve care, unequal effort, or learning to receive.",
+        "career": "In the present, Six of Pentacles highlights career may bring mentorship, assistance, or a chance to help others.",
+        "money": "In the present, Six of Pentacles highlights money may involve gifts, assistance, repayment, or charitable choices.",
+        "growth": "In the present, Six of Pentacles highlights growth comes through understanding the dignity of both giving and receiving."
+      },
+      "future": {
+        "general": "Looking ahead, Six of Pentacles suggests the Six of Pentacles shows giving, receiving, and the balance of support.",
+        "love": "Looking ahead, Six of Pentacles suggests love may involve care, unequal effort, or learning to receive.",
+        "career": "Looking ahead, Six of Pentacles suggests career may bring mentorship, assistance, or a chance to help others.",
+        "money": "Looking ahead, Six of Pentacles suggests money may involve gifts, assistance, repayment, or charitable choices.",
+        "growth": "Looking ahead, Six of Pentacles suggests growth comes through understanding the dignity of both giving and receiving."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is generosity showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does generosity affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can generosity guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does generosity reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can generosity teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "seven_of_pentacles",
+    "name": "Seven of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "seven",
+    "number": 7,
+    "assetId": "pentacles_07_seven.png",
+    "keywords": [
+      "patience",
+      "assessment",
+      "investment",
+      "waiting",
+      "long-term growth"
+    ],
+    "tags": [
+      "patience",
+      "assessment",
+      "investment",
+      "waiting",
+      "long_term_growth"
+    ],
+    "toneTags": [
+      "patient",
+      "practical",
+      "reflective"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Seven of Pentacles pauses to assess effort, patience, and long-term growth.",
+        "advice": "Review what is growing before deciding whether to continue or change strategy."
+      },
+      "love": {
+        "summary": "Love may be in a patient stage where investment needs honest evaluation.",
+        "advice": "Ask whether the care you give is producing the relationship you need."
+      },
+      "career": {
+        "summary": "Career may require patience, review, and faith in steady effort.",
+        "advice": "Measure progress honestly and adjust the method if needed."
+      },
+      "money": {
+        "summary": "Money may involve investment, savings, or delayed results.",
+        "advice": "Let time and consistency work, but keep reviewing the plan."
+      },
+      "growth": {
+        "summary": "Growth comes through patience with feedback.",
+        "advice": "Learn the difference between waiting wisely and waiting forever."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Review what is growing before deciding whether to continue or change strategy.",
+        "love": "Ask whether the care you give is producing the relationship you need.",
+        "career": "Measure progress honestly and adjust the method if needed.",
+        "money": "Let time and consistency work, but keep reviewing the plan.",
+        "growth": "Learn the difference between waiting wisely and waiting forever."
+      },
+      "situation": {
+        "general": "The situation reflects the Seven of Pentacles pauses to assess effort, patience, and long-term growth.",
+        "love": "The situation reflects love may be in a patient stage where investment needs honest evaluation.",
+        "career": "The situation reflects career may require patience, review, and faith in steady effort.",
+        "money": "The situation reflects money may involve investment, savings, or delayed results.",
+        "growth": "The situation reflects growth comes through patience with feedback."
+      },
+      "past": {
+        "general": "In the past, Seven of Pentacles points to the Seven of Pentacles pauses to assess effort, patience, and long-term growth.",
+        "love": "In the past, Seven of Pentacles points to love may be in a patient stage where investment needs honest evaluation.",
+        "career": "In the past, Seven of Pentacles points to career may require patience, review, and faith in steady effort.",
+        "money": "In the past, Seven of Pentacles points to money may involve investment, savings, or delayed results.",
+        "growth": "In the past, Seven of Pentacles points to growth comes through patience with feedback."
+      },
+      "present": {
+        "general": "In the present, Seven of Pentacles highlights the Seven of Pentacles pauses to assess effort, patience, and long-term growth.",
+        "love": "In the present, Seven of Pentacles highlights love may be in a patient stage where investment needs honest evaluation.",
+        "career": "In the present, Seven of Pentacles highlights career may require patience, review, and faith in steady effort.",
+        "money": "In the present, Seven of Pentacles highlights money may involve investment, savings, or delayed results.",
+        "growth": "In the present, Seven of Pentacles highlights growth comes through patience with feedback."
+      },
+      "future": {
+        "general": "Looking ahead, Seven of Pentacles suggests the Seven of Pentacles pauses to assess effort, patience, and long-term growth.",
+        "love": "Looking ahead, Seven of Pentacles suggests love may be in a patient stage where investment needs honest evaluation.",
+        "career": "Looking ahead, Seven of Pentacles suggests career may require patience, review, and faith in steady effort.",
+        "money": "Looking ahead, Seven of Pentacles suggests money may involve investment, savings, or delayed results.",
+        "growth": "Looking ahead, Seven of Pentacles suggests growth comes through patience with feedback."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is patience showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does patience affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can patience guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does patience reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can patience teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "eight_of_pentacles",
+    "name": "Eight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "eight",
+    "number": 8,
+    "assetId": "pentacles_08_eight.png",
+    "keywords": [
+      "practice",
+      "craft",
+      "dedication",
+      "learning",
+      "mastery"
+    ],
+    "tags": [
+      "practice",
+      "craft",
+      "dedication",
+      "learning",
+      "mastery"
+    ],
+    "toneTags": [
+      "focused",
+      "steady",
+      "diligent"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Eight of Pentacles develops mastery through practice, repetition, and devotion to craft.",
+        "advice": "Keep improving through small, honest work."
+      },
+      "love": {
+        "summary": "Love may need daily effort, skillful communication, and care in practice.",
+        "advice": "Love grows through what is repeated, not only what is promised."
+      },
+      "career": {
+        "summary": "Career strongly favors learning, craftsmanship, discipline, and improvement.",
+        "advice": "Keep showing up for the skill that will carry you forward."
+      },
+      "money": {
+        "summary": "Money improves through steady work, training, or practical competence.",
+        "advice": "Invest in the abilities that increase your stability."
+      },
+      "growth": {
+        "summary": "Growth comes through disciplined practice.",
+        "advice": "Let repetition become devotion."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Keep improving through small, honest work.",
+        "love": "Love grows through what is repeated, not only what is promised.",
+        "career": "Keep showing up for the skill that will carry you forward.",
+        "money": "Invest in the abilities that increase your stability.",
+        "growth": "Let repetition become devotion."
+      },
+      "situation": {
+        "general": "The situation reflects the Eight of Pentacles develops mastery through practice, repetition, and devotion to craft.",
+        "love": "The situation reflects love may need daily effort, skillful communication, and care in practice.",
+        "career": "The situation reflects career strongly favors learning, craftsmanship, discipline, and improvement.",
+        "money": "The situation reflects money improves through steady work, training, or practical competence.",
+        "growth": "The situation reflects growth comes through disciplined practice."
+      },
+      "past": {
+        "general": "In the past, Eight of Pentacles points to the Eight of Pentacles develops mastery through practice, repetition, and devotion to craft.",
+        "love": "In the past, Eight of Pentacles points to love may need daily effort, skillful communication, and care in practice.",
+        "career": "In the past, Eight of Pentacles points to career strongly favors learning, craftsmanship, discipline, and improvement.",
+        "money": "In the past, Eight of Pentacles points to money improves through steady work, training, or practical competence.",
+        "growth": "In the past, Eight of Pentacles points to growth comes through disciplined practice."
+      },
+      "present": {
+        "general": "In the present, Eight of Pentacles highlights the Eight of Pentacles develops mastery through practice, repetition, and devotion to craft.",
+        "love": "In the present, Eight of Pentacles highlights love may need daily effort, skillful communication, and care in practice.",
+        "career": "In the present, Eight of Pentacles highlights career strongly favors learning, craftsmanship, discipline, and improvement.",
+        "money": "In the present, Eight of Pentacles highlights money improves through steady work, training, or practical competence.",
+        "growth": "In the present, Eight of Pentacles highlights growth comes through disciplined practice."
+      },
+      "future": {
+        "general": "Looking ahead, Eight of Pentacles suggests the Eight of Pentacles develops mastery through practice, repetition, and devotion to craft.",
+        "love": "Looking ahead, Eight of Pentacles suggests love may need daily effort, skillful communication, and care in practice.",
+        "career": "Looking ahead, Eight of Pentacles suggests career strongly favors learning, craftsmanship, discipline, and improvement.",
+        "money": "Looking ahead, Eight of Pentacles suggests money improves through steady work, training, or practical competence.",
+        "growth": "Looking ahead, Eight of Pentacles suggests growth comes through disciplined practice."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is practice showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does practice affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can practice guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does practice reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can practice teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "nine_of_pentacles",
+    "name": "Nine of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "nine",
+    "number": 9,
+    "assetId": "pentacles_09_nine.png",
+    "keywords": [
+      "independence",
+      "self-worth",
+      "luxury",
+      "harvest",
+      "self-sufficiency"
+    ],
+    "tags": [
+      "independence",
+      "self_worth",
+      "harvest",
+      "self_sufficiency",
+      "pleasure"
+    ],
+    "toneTags": [
+      "graceful",
+      "abundant",
+      "self_possessed"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Nine of Pentacles enjoys independence, self-worth, and the harvest of patient effort.",
+        "advice": "Let yourself receive the fruits of what you have cultivated."
+      },
+      "love": {
+        "summary": "Love may ask for healthy independence and self-respect inside connection.",
+        "advice": "Choose love that honors the life you have built within yourself."
+      },
+      "career": {
+        "summary": "Career may bring achievement, refinement, or satisfaction in your own competence.",
+        "advice": "Own your progress without needing constant validation."
+      },
+      "money": {
+        "summary": "Money may support comfort, quality, or well-earned enjoyment.",
+        "advice": "Enjoy what is stable without losing the habits that built it."
+      },
+      "growth": {
+        "summary": "Growth comes through self-possession and earned confidence.",
+        "advice": "Let pleasure be rooted in self-respect."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let yourself receive the fruits of what you have cultivated.",
+        "love": "Choose love that honors the life you have built within yourself.",
+        "career": "Own your progress without needing constant validation.",
+        "money": "Enjoy what is stable without losing the habits that built it.",
+        "growth": "Let pleasure be rooted in self-respect."
+      },
+      "situation": {
+        "general": "The situation reflects the Nine of Pentacles enjoys independence, self-worth, and the harvest of patient effort.",
+        "love": "The situation reflects love may ask for healthy independence and self-respect inside connection.",
+        "career": "The situation reflects career may bring achievement, refinement, or satisfaction in your own competence.",
+        "money": "The situation reflects money may support comfort, quality, or well-earned enjoyment.",
+        "growth": "The situation reflects growth comes through self-possession and earned confidence."
+      },
+      "past": {
+        "general": "In the past, Nine of Pentacles points to the Nine of Pentacles enjoys independence, self-worth, and the harvest of patient effort.",
+        "love": "In the past, Nine of Pentacles points to love may ask for healthy independence and self-respect inside connection.",
+        "career": "In the past, Nine of Pentacles points to career may bring achievement, refinement, or satisfaction in your own competence.",
+        "money": "In the past, Nine of Pentacles points to money may support comfort, quality, or well-earned enjoyment.",
+        "growth": "In the past, Nine of Pentacles points to growth comes through self-possession and earned confidence."
+      },
+      "present": {
+        "general": "In the present, Nine of Pentacles highlights the Nine of Pentacles enjoys independence, self-worth, and the harvest of patient effort.",
+        "love": "In the present, Nine of Pentacles highlights love may ask for healthy independence and self-respect inside connection.",
+        "career": "In the present, Nine of Pentacles highlights career may bring achievement, refinement, or satisfaction in your own competence.",
+        "money": "In the present, Nine of Pentacles highlights money may support comfort, quality, or well-earned enjoyment.",
+        "growth": "In the present, Nine of Pentacles highlights growth comes through self-possession and earned confidence."
+      },
+      "future": {
+        "general": "Looking ahead, Nine of Pentacles suggests the Nine of Pentacles enjoys independence, self-worth, and the harvest of patient effort.",
+        "love": "Looking ahead, Nine of Pentacles suggests love may ask for healthy independence and self-respect inside connection.",
+        "career": "Looking ahead, Nine of Pentacles suggests career may bring achievement, refinement, or satisfaction in your own competence.",
+        "money": "Looking ahead, Nine of Pentacles suggests money may support comfort, quality, or well-earned enjoyment.",
+        "growth": "Looking ahead, Nine of Pentacles suggests growth comes through self-possession and earned confidence."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is independence showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does independence affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can independence guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does independence reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can independence teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "ten_of_pentacles",
+    "name": "Ten of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "ten",
+    "number": 10,
+    "assetId": "pentacles_10_ten.png",
+    "keywords": [
+      "legacy",
+      "family",
+      "wealth",
+      "stability",
+      "inheritance"
+    ],
+    "tags": [
+      "legacy",
+      "family",
+      "wealth",
+      "stability",
+      "long_term_security"
+    ],
+    "toneTags": [
+      "rooted",
+      "prosperous",
+      "ancestral"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Ten of Pentacles points to legacy, family patterns, long-term security, and what lasts.",
+        "advice": "Think beyond the immediate moment and choose what can support future roots."
+      },
+      "love": {
+        "summary": "Love may involve family, commitment, shared home, or long-term values.",
+        "advice": "Ask what kind of life the connection is building."
+      },
+      "career": {
+        "summary": "Career may involve institutions, seniority, business legacy, or durable success.",
+        "advice": "Build systems that can outlast a single burst of effort."
+      },
+      "money": {
+        "summary": "Money may concern assets, inheritance, property, or long-term security.",
+        "advice": "Make choices that future-you can thank you for."
+      },
+      "growth": {
+        "summary": "Growth comes through understanding the legacy you inherit and the one you create.",
+        "advice": "Let stability become a blessing, not a burden."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Think beyond the immediate moment and choose what can support future roots.",
+        "love": "Ask what kind of life the connection is building.",
+        "career": "Build systems that can outlast a single burst of effort.",
+        "money": "Make choices that future-you can thank you for.",
+        "growth": "Let stability become a blessing, not a burden."
+      },
+      "situation": {
+        "general": "The situation reflects the Ten of Pentacles points to legacy, family patterns, long-term security, and what lasts.",
+        "love": "The situation reflects love may involve family, commitment, shared home, or long-term values.",
+        "career": "The situation reflects career may involve institutions, seniority, business legacy, or durable success.",
+        "money": "The situation reflects money may concern assets, inheritance, property, or long-term security.",
+        "growth": "The situation reflects growth comes through understanding the legacy you inherit and the one you create."
+      },
+      "past": {
+        "general": "In the past, Ten of Pentacles points to the Ten of Pentacles points to legacy, family patterns, long-term security, and what lasts.",
+        "love": "In the past, Ten of Pentacles points to love may involve family, commitment, shared home, or long-term values.",
+        "career": "In the past, Ten of Pentacles points to career may involve institutions, seniority, business legacy, or durable success.",
+        "money": "In the past, Ten of Pentacles points to money may concern assets, inheritance, property, or long-term security.",
+        "growth": "In the past, Ten of Pentacles points to growth comes through understanding the legacy you inherit and the one you create."
+      },
+      "present": {
+        "general": "In the present, Ten of Pentacles highlights the Ten of Pentacles points to legacy, family patterns, long-term security, and what lasts.",
+        "love": "In the present, Ten of Pentacles highlights love may involve family, commitment, shared home, or long-term values.",
+        "career": "In the present, Ten of Pentacles highlights career may involve institutions, seniority, business legacy, or durable success.",
+        "money": "In the present, Ten of Pentacles highlights money may concern assets, inheritance, property, or long-term security.",
+        "growth": "In the present, Ten of Pentacles highlights growth comes through understanding the legacy you inherit and the one you create."
+      },
+      "future": {
+        "general": "Looking ahead, Ten of Pentacles suggests the Ten of Pentacles points to legacy, family patterns, long-term security, and what lasts.",
+        "love": "Looking ahead, Ten of Pentacles suggests love may involve family, commitment, shared home, or long-term values.",
+        "career": "Looking ahead, Ten of Pentacles suggests career may involve institutions, seniority, business legacy, or durable success.",
+        "money": "Looking ahead, Ten of Pentacles suggests money may concern assets, inheritance, property, or long-term security.",
+        "growth": "Looking ahead, Ten of Pentacles suggests growth comes through understanding the legacy you inherit and the one you create."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is legacy showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does legacy affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can legacy guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does legacy reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can legacy teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "page_of_pentacles",
+    "name": "Page of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "page",
+    "number": 11,
+    "assetId": "pentacles_11_page.png",
+    "keywords": [
+      "student",
+      "opportunity",
+      "study",
+      "manifestation",
+      "practical learning"
+    ],
+    "tags": [
+      "student",
+      "opportunity",
+      "study",
+      "manifestation",
+      "practical_learning"
+    ],
+    "toneTags": [
+      "earnest",
+      "grounded",
+      "curious"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Page of Pentacles brings the student’s mind to practical opportunity and grounded learning.",
+        "advice": "Treat the beginning seriously and learn how to make it real."
+      },
+      "love": {
+        "summary": "Love may grow through patience, reliability, and small sincere gestures.",
+        "advice": "Value consistency more than dramatic promises."
+      },
+      "career": {
+        "summary": "Career may bring study, training, or an entry-level opportunity with potential.",
+        "advice": "Be willing to learn the basics well."
+      },
+      "money": {
+        "summary": "Money may benefit from education, planning, or a new practical habit.",
+        "advice": "Start with one skill or system you can repeat."
+      },
+      "growth": {
+        "summary": "Growth comes through humble practice and grounded curiosity.",
+        "advice": "Let learning become the first form of commitment."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Treat the beginning seriously and learn how to make it real.",
+        "love": "Value consistency more than dramatic promises.",
+        "career": "Be willing to learn the basics well.",
+        "money": "Start with one skill or system you can repeat.",
+        "growth": "Let learning become the first form of commitment."
+      },
+      "situation": {
+        "general": "The situation reflects the Page of Pentacles brings the student’s mind to practical opportunity and grounded learning.",
+        "love": "The situation reflects love may grow through patience, reliability, and small sincere gestures.",
+        "career": "The situation reflects career may bring study, training, or an entry-level opportunity with potential.",
+        "money": "The situation reflects money may benefit from education, planning, or a new practical habit.",
+        "growth": "The situation reflects growth comes through humble practice and grounded curiosity."
+      },
+      "past": {
+        "general": "In the past, Page of Pentacles points to the Page of Pentacles brings the student’s mind to practical opportunity and grounded learning.",
+        "love": "In the past, Page of Pentacles points to love may grow through patience, reliability, and small sincere gestures.",
+        "career": "In the past, Page of Pentacles points to career may bring study, training, or an entry-level opportunity with potential.",
+        "money": "In the past, Page of Pentacles points to money may benefit from education, planning, or a new practical habit.",
+        "growth": "In the past, Page of Pentacles points to growth comes through humble practice and grounded curiosity."
+      },
+      "present": {
+        "general": "In the present, Page of Pentacles highlights the Page of Pentacles brings the student’s mind to practical opportunity and grounded learning.",
+        "love": "In the present, Page of Pentacles highlights love may grow through patience, reliability, and small sincere gestures.",
+        "career": "In the present, Page of Pentacles highlights career may bring study, training, or an entry-level opportunity with potential.",
+        "money": "In the present, Page of Pentacles highlights money may benefit from education, planning, or a new practical habit.",
+        "growth": "In the present, Page of Pentacles highlights growth comes through humble practice and grounded curiosity."
+      },
+      "future": {
+        "general": "Looking ahead, Page of Pentacles suggests the Page of Pentacles brings the student’s mind to practical opportunity and grounded learning.",
+        "love": "Looking ahead, Page of Pentacles suggests love may grow through patience, reliability, and small sincere gestures.",
+        "career": "Looking ahead, Page of Pentacles suggests career may bring study, training, or an entry-level opportunity with potential.",
+        "money": "Looking ahead, Page of Pentacles suggests money may benefit from education, planning, or a new practical habit.",
+        "growth": "Looking ahead, Page of Pentacles suggests growth comes through humble practice and grounded curiosity."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is student showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does student affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can student guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does student reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can student teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "knight_of_pentacles",
+    "name": "Knight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "knight",
+    "number": 12,
+    "assetId": "pentacles_12_knight.png",
+    "keywords": [
+      "reliability",
+      "routine",
+      "persistence",
+      "duty",
+      "slow progress"
+    ],
+    "tags": [
+      "reliability",
+      "routine",
+      "persistence",
+      "duty",
+      "slow_progress"
+    ],
+    "toneTags": [
+      "steady",
+      "patient",
+      "dependable"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Knight of Pentacles advances through reliability, routine, and steady effort.",
+        "advice": "Do the next practical thing, even if it is not glamorous."
+      },
+      "love": {
+        "summary": "Love may need dependability, patience, and trust built through action.",
+        "advice": "Let steady care prove what words cannot."
+      },
+      "career": {
+        "summary": "Career favors discipline, consistency, and long-term follow-through.",
+        "advice": "Keep the system moving one step at a time."
+      },
+      "money": {
+        "summary": "Money improves through routine, budgeting, and reliable habits.",
+        "advice": "Small repeated choices matter more than dramatic gestures."
+      },
+      "growth": {
+        "summary": "Growth comes through devotion to the path.",
+        "advice": "Let patience become strength."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Do the next practical thing, even if it is not glamorous.",
+        "love": "Let steady care prove what words cannot.",
+        "career": "Keep the system moving one step at a time.",
+        "money": "Small repeated choices matter more than dramatic gestures.",
+        "growth": "Let patience become strength."
+      },
+      "situation": {
+        "general": "The situation reflects the Knight of Pentacles advances through reliability, routine, and steady effort.",
+        "love": "The situation reflects love may need dependability, patience, and trust built through action.",
+        "career": "The situation reflects career favors discipline, consistency, and long-term follow-through.",
+        "money": "The situation reflects money improves through routine, budgeting, and reliable habits.",
+        "growth": "The situation reflects growth comes through devotion to the path."
+      },
+      "past": {
+        "general": "In the past, Knight of Pentacles points to the Knight of Pentacles advances through reliability, routine, and steady effort.",
+        "love": "In the past, Knight of Pentacles points to love may need dependability, patience, and trust built through action.",
+        "career": "In the past, Knight of Pentacles points to career favors discipline, consistency, and long-term follow-through.",
+        "money": "In the past, Knight of Pentacles points to money improves through routine, budgeting, and reliable habits.",
+        "growth": "In the past, Knight of Pentacles points to growth comes through devotion to the path."
+      },
+      "present": {
+        "general": "In the present, Knight of Pentacles highlights the Knight of Pentacles advances through reliability, routine, and steady effort.",
+        "love": "In the present, Knight of Pentacles highlights love may need dependability, patience, and trust built through action.",
+        "career": "In the present, Knight of Pentacles highlights career favors discipline, consistency, and long-term follow-through.",
+        "money": "In the present, Knight of Pentacles highlights money improves through routine, budgeting, and reliable habits.",
+        "growth": "In the present, Knight of Pentacles highlights growth comes through devotion to the path."
+      },
+      "future": {
+        "general": "Looking ahead, Knight of Pentacles suggests the Knight of Pentacles advances through reliability, routine, and steady effort.",
+        "love": "Looking ahead, Knight of Pentacles suggests love may need dependability, patience, and trust built through action.",
+        "career": "Looking ahead, Knight of Pentacles suggests career favors discipline, consistency, and long-term follow-through.",
+        "money": "Looking ahead, Knight of Pentacles suggests money improves through routine, budgeting, and reliable habits.",
+        "growth": "Looking ahead, Knight of Pentacles suggests growth comes through devotion to the path."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is reliability showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does reliability affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can reliability guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does reliability reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can reliability teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "queen_of_pentacles",
+    "name": "Queen of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "queen",
+    "number": 13,
+    "assetId": "pentacles_13_queen.png",
+    "keywords": [
+      "nurturing",
+      "practical care",
+      "comfort",
+      "resourcefulness",
+      "home"
+    ],
+    "tags": [
+      "nurturing",
+      "practical_care",
+      "comfort",
+      "resourcefulness",
+      "home"
+    ],
+    "toneTags": [
+      "warm",
+      "earthy",
+      "capable"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Queen of Pentacles nurtures through practical care, resourcefulness, and grounded comfort.",
+        "advice": "Care for the body, home, and resources as sacred parts of life."
+      },
+      "love": {
+        "summary": "Love may be expressed through consistency, care, and everyday devotion.",
+        "advice": "Notice the love shown through practical support."
+      },
+      "career": {
+        "summary": "Career may benefit from competence, hospitality, management, or grounded leadership.",
+        "advice": "Make the environment supportive enough for people to thrive."
+      },
+      "money": {
+        "summary": "Money matters favor resourcefulness, wise spending, and care for essentials.",
+        "advice": "Let comfort and responsibility work together."
+      },
+      "growth": {
+        "summary": "Growth comes through treating ordinary life as a place of magic.",
+        "advice": "Let care become tangible."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Care for the body, home, and resources as sacred parts of life.",
+        "love": "Notice the love shown through practical support.",
+        "career": "Make the environment supportive enough for people to thrive.",
+        "money": "Let comfort and responsibility work together.",
+        "growth": "Let care become tangible."
+      },
+      "situation": {
+        "general": "The situation reflects the Queen of Pentacles nurtures through practical care, resourcefulness, and grounded comfort.",
+        "love": "The situation reflects love may be expressed through consistency, care, and everyday devotion.",
+        "career": "The situation reflects career may benefit from competence, hospitality, management, or grounded leadership.",
+        "money": "The situation reflects money matters favor resourcefulness, wise spending, and care for essentials.",
+        "growth": "The situation reflects growth comes through treating ordinary life as a place of magic."
+      },
+      "past": {
+        "general": "In the past, Queen of Pentacles points to the Queen of Pentacles nurtures through practical care, resourcefulness, and grounded comfort.",
+        "love": "In the past, Queen of Pentacles points to love may be expressed through consistency, care, and everyday devotion.",
+        "career": "In the past, Queen of Pentacles points to career may benefit from competence, hospitality, management, or grounded leadership.",
+        "money": "In the past, Queen of Pentacles points to money matters favor resourcefulness, wise spending, and care for essentials.",
+        "growth": "In the past, Queen of Pentacles points to growth comes through treating ordinary life as a place of magic."
+      },
+      "present": {
+        "general": "In the present, Queen of Pentacles highlights the Queen of Pentacles nurtures through practical care, resourcefulness, and grounded comfort.",
+        "love": "In the present, Queen of Pentacles highlights love may be expressed through consistency, care, and everyday devotion.",
+        "career": "In the present, Queen of Pentacles highlights career may benefit from competence, hospitality, management, or grounded leadership.",
+        "money": "In the present, Queen of Pentacles highlights money matters favor resourcefulness, wise spending, and care for essentials.",
+        "growth": "In the present, Queen of Pentacles highlights growth comes through treating ordinary life as a place of magic."
+      },
+      "future": {
+        "general": "Looking ahead, Queen of Pentacles suggests the Queen of Pentacles nurtures through practical care, resourcefulness, and grounded comfort.",
+        "love": "Looking ahead, Queen of Pentacles suggests love may be expressed through consistency, care, and everyday devotion.",
+        "career": "Looking ahead, Queen of Pentacles suggests career may benefit from competence, hospitality, management, or grounded leadership.",
+        "money": "Looking ahead, Queen of Pentacles suggests money matters favor resourcefulness, wise spending, and care for essentials.",
+        "growth": "Looking ahead, Queen of Pentacles suggests growth comes through treating ordinary life as a place of magic."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is nurturing showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does nurturing affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can nurturing guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does nurturing reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can nurturing teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "king_of_pentacles",
+    "name": "King of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "king",
+    "number": 14,
+    "assetId": "pentacles_14_king.png",
+    "keywords": [
+      "security",
+      "leadership",
+      "prosperity",
+      "discipline",
+      "stewardship"
+    ],
+    "tags": [
+      "security",
+      "leadership",
+      "prosperity",
+      "discipline",
+      "stewardship"
+    ],
+    "toneTags": [
+      "stable",
+      "generous",
+      "commanding"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The King of Pentacles represents stable leadership, prosperity, discipline, and wise stewardship.",
+        "advice": "Build security that is generous, ethical, and lasting."
+      },
+      "love": {
+        "summary": "Love may seek dependability, maturity, and practical commitment.",
+        "advice": "Let love prove itself through presence and responsibility."
+      },
+      "career": {
+        "summary": "Career favors leadership, business sense, expertise, and durable success.",
+        "advice": "Make decisions that protect both value and people."
+      },
+      "money": {
+        "summary": "Money benefits from discipline, long-term planning, and stewardship.",
+        "advice": "Let prosperity be managed with wisdom, not fear or excess."
+      },
+      "growth": {
+        "summary": "Growth comes through becoming trustworthy with what you hold.",
+        "advice": "Let success become grounded generosity."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Build security that is generous, ethical, and lasting.",
+        "love": "Let love prove itself through presence and responsibility.",
+        "career": "Make decisions that protect both value and people.",
+        "money": "Let prosperity be managed with wisdom, not fear or excess.",
+        "growth": "Let success become grounded generosity."
+      },
+      "situation": {
+        "general": "The situation reflects the King of Pentacles represents stable leadership, prosperity, discipline, and wise stewardship.",
+        "love": "The situation reflects love may seek dependability, maturity, and practical commitment.",
+        "career": "The situation reflects career favors leadership, business sense, expertise, and durable success.",
+        "money": "The situation reflects money benefits from discipline, long-term planning, and stewardship.",
+        "growth": "The situation reflects growth comes through becoming trustworthy with what you hold."
+      },
+      "past": {
+        "general": "In the past, King of Pentacles points to the King of Pentacles represents stable leadership, prosperity, discipline, and wise stewardship.",
+        "love": "In the past, King of Pentacles points to love may seek dependability, maturity, and practical commitment.",
+        "career": "In the past, King of Pentacles points to career favors leadership, business sense, expertise, and durable success.",
+        "money": "In the past, King of Pentacles points to money benefits from discipline, long-term planning, and stewardship.",
+        "growth": "In the past, King of Pentacles points to growth comes through becoming trustworthy with what you hold."
+      },
+      "present": {
+        "general": "In the present, King of Pentacles highlights the King of Pentacles represents stable leadership, prosperity, discipline, and wise stewardship.",
+        "love": "In the present, King of Pentacles highlights love may seek dependability, maturity, and practical commitment.",
+        "career": "In the present, King of Pentacles highlights career favors leadership, business sense, expertise, and durable success.",
+        "money": "In the present, King of Pentacles highlights money benefits from discipline, long-term planning, and stewardship.",
+        "growth": "In the present, King of Pentacles highlights growth comes through becoming trustworthy with what you hold."
+      },
+      "future": {
+        "general": "Looking ahead, King of Pentacles suggests the King of Pentacles represents stable leadership, prosperity, discipline, and wise stewardship.",
+        "love": "Looking ahead, King of Pentacles suggests love may seek dependability, maturity, and practical commitment.",
+        "career": "Looking ahead, King of Pentacles suggests career favors leadership, business sense, expertise, and durable success.",
+        "money": "Looking ahead, King of Pentacles suggests money benefits from discipline, long-term planning, and stewardship.",
+        "growth": "Looking ahead, King of Pentacles suggests growth comes through becoming trustworthy with what you hold."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is security showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does security affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can security guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does security reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can security teach me about myself?",
+        "What would it mean to grow without forcing myself?"
       ]
     }
   }

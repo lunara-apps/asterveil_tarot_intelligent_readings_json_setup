@@ -1,1 +1,1528 @@
-[]
+[
+  {
+    "id": "ace_of_swords",
+    "name": "Ace of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "ace",
+    "number": 1,
+    "assetId": "swords_01_ace.png",
+    "keywords": [
+      "clarity",
+      "truth",
+      "breakthrough",
+      "decision",
+      "mental focus"
+    ],
+    "tags": [
+      "clarity",
+      "truth",
+      "breakthrough",
+      "decision",
+      "mental_focus"
+    ],
+    "toneTags": [
+      "clear",
+      "sharp",
+      "direct"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Ace of Swords brings a clean truth, mental clarity, and the power of a decisive idea.",
+        "advice": "Let clarity cut through confusion, but use truth with care."
+      },
+      "love": {
+        "summary": "Love may need honest words, a clear conversation, or a fresh understanding.",
+        "advice": "Speak truth kindly and listen for truth in return."
+      },
+      "career": {
+        "summary": "Career may receive a breakthrough idea, decision, or problem-solving edge.",
+        "advice": "Write it down and turn clarity into action."
+      },
+      "money": {
+        "summary": "Money matters may need exact numbers, contracts, or a clear decision.",
+        "advice": "Choose facts over assumptions."
+      },
+      "growth": {
+        "summary": "Growth comes through naming what is true.",
+        "advice": "Let clarity become liberation, not harshness."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let clarity cut through confusion, but use truth with care.",
+        "love": "Speak truth kindly and listen for truth in return.",
+        "career": "Write it down and turn clarity into action.",
+        "money": "Choose facts over assumptions.",
+        "growth": "Let clarity become liberation, not harshness."
+      },
+      "situation": {
+        "general": "The situation reflects the Ace of Swords brings a clean truth, mental clarity, and the power of a decisive idea.",
+        "love": "The situation reflects love may need honest words, a clear conversation, or a fresh understanding.",
+        "career": "The situation reflects career may receive a breakthrough idea, decision, or problem-solving edge.",
+        "money": "The situation reflects money matters may need exact numbers, contracts, or a clear decision.",
+        "growth": "The situation reflects growth comes through naming what is true."
+      },
+      "past": {
+        "general": "In the past, Ace of Swords points to the Ace of Swords brings a clean truth, mental clarity, and the power of a decisive idea.",
+        "love": "In the past, Ace of Swords points to love may need honest words, a clear conversation, or a fresh understanding.",
+        "career": "In the past, Ace of Swords points to career may receive a breakthrough idea, decision, or problem-solving edge.",
+        "money": "In the past, Ace of Swords points to money matters may need exact numbers, contracts, or a clear decision.",
+        "growth": "In the past, Ace of Swords points to growth comes through naming what is true."
+      },
+      "present": {
+        "general": "In the present, Ace of Swords highlights the Ace of Swords brings a clean truth, mental clarity, and the power of a decisive idea.",
+        "love": "In the present, Ace of Swords highlights love may need honest words, a clear conversation, or a fresh understanding.",
+        "career": "In the present, Ace of Swords highlights career may receive a breakthrough idea, decision, or problem-solving edge.",
+        "money": "In the present, Ace of Swords highlights money matters may need exact numbers, contracts, or a clear decision.",
+        "growth": "In the present, Ace of Swords highlights growth comes through naming what is true."
+      },
+      "future": {
+        "general": "Looking ahead, Ace of Swords suggests the Ace of Swords brings a clean truth, mental clarity, and the power of a decisive idea.",
+        "love": "Looking ahead, Ace of Swords suggests love may need honest words, a clear conversation, or a fresh understanding.",
+        "career": "Looking ahead, Ace of Swords suggests career may receive a breakthrough idea, decision, or problem-solving edge.",
+        "money": "Looking ahead, Ace of Swords suggests money matters may need exact numbers, contracts, or a clear decision.",
+        "growth": "Looking ahead, Ace of Swords suggests growth comes through naming what is true."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is clarity showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does clarity affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can clarity guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does clarity reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can clarity teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "two_of_swords",
+    "name": "Two of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "two",
+    "number": 2,
+    "assetId": "swords_02_two.png",
+    "keywords": [
+      "indecision",
+      "stalemate",
+      "blocked feelings",
+      "choice",
+      "avoidance"
+    ],
+    "tags": [
+      "indecision",
+      "stalemate",
+      "avoidance",
+      "choice",
+      "blocked_clarity"
+    ],
+    "toneTags": [
+      "still",
+      "tense",
+      "balanced"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Two of Swords shows a stalemate, difficult choice, or truth being held at a distance.",
+        "advice": "Remove the blindfold gently; not choosing is also a choice."
+      },
+      "love": {
+        "summary": "Love may involve emotional avoidance or a decision no one wants to name.",
+        "advice": "Create enough safety for truth to be spoken."
+      },
+      "career": {
+        "summary": "Career may be stalled by conflicting options or incomplete information.",
+        "advice": "List what you know, what you fear, and what you are avoiding."
+      },
+      "money": {
+        "summary": "Money choices may feel frozen between two imperfect options.",
+        "advice": "Choose based on facts and priorities, not only discomfort."
+      },
+      "growth": {
+        "summary": "Growth comes through facing the decision you have delayed.",
+        "advice": "Let peace come from honesty, not avoidance."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Remove the blindfold gently; not choosing is also a choice.",
+        "love": "Create enough safety for truth to be spoken.",
+        "career": "List what you know, what you fear, and what you are avoiding.",
+        "money": "Choose based on facts and priorities, not only discomfort.",
+        "growth": "Let peace come from honesty, not avoidance."
+      },
+      "situation": {
+        "general": "The situation reflects the Two of Swords shows a stalemate, difficult choice, or truth being held at a distance.",
+        "love": "The situation reflects love may involve emotional avoidance or a decision no one wants to name.",
+        "career": "The situation reflects career may be stalled by conflicting options or incomplete information.",
+        "money": "The situation reflects money choices may feel frozen between two imperfect options.",
+        "growth": "The situation reflects growth comes through facing the decision you have delayed."
+      },
+      "past": {
+        "general": "In the past, Two of Swords points to the Two of Swords shows a stalemate, difficult choice, or truth being held at a distance.",
+        "love": "In the past, Two of Swords points to love may involve emotional avoidance or a decision no one wants to name.",
+        "career": "In the past, Two of Swords points to career may be stalled by conflicting options or incomplete information.",
+        "money": "In the past, Two of Swords points to money choices may feel frozen between two imperfect options.",
+        "growth": "In the past, Two of Swords points to growth comes through facing the decision you have delayed."
+      },
+      "present": {
+        "general": "In the present, Two of Swords highlights the Two of Swords shows a stalemate, difficult choice, or truth being held at a distance.",
+        "love": "In the present, Two of Swords highlights love may involve emotional avoidance or a decision no one wants to name.",
+        "career": "In the present, Two of Swords highlights career may be stalled by conflicting options or incomplete information.",
+        "money": "In the present, Two of Swords highlights money choices may feel frozen between two imperfect options.",
+        "growth": "In the present, Two of Swords highlights growth comes through facing the decision you have delayed."
+      },
+      "future": {
+        "general": "Looking ahead, Two of Swords suggests the Two of Swords shows a stalemate, difficult choice, or truth being held at a distance.",
+        "love": "Looking ahead, Two of Swords suggests love may involve emotional avoidance or a decision no one wants to name.",
+        "career": "Looking ahead, Two of Swords suggests career may be stalled by conflicting options or incomplete information.",
+        "money": "Looking ahead, Two of Swords suggests money choices may feel frozen between two imperfect options.",
+        "growth": "Looking ahead, Two of Swords suggests growth comes through facing the decision you have delayed."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is indecision showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does indecision affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can indecision guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does indecision reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can indecision teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "three_of_swords",
+    "name": "Three of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "three",
+    "number": 3,
+    "assetId": "swords_03_three.png",
+    "keywords": [
+      "heartbreak",
+      "sorrow",
+      "truth",
+      "grief",
+      "painful clarity"
+    ],
+    "tags": [
+      "heartbreak",
+      "sorrow",
+      "truth",
+      "grief",
+      "painful_clarity"
+    ],
+    "toneTags": [
+      "tender",
+      "piercing",
+      "honest"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Three of Swords brings pain, heartbreak, or a truth that hurts but clarifies.",
+        "advice": "Let the wound be real without making it your permanent home."
+      },
+      "love": {
+        "summary": "Love may involve grief, disappointment, separation, or painful honesty.",
+        "advice": "Honor the pain and do not rush forgiveness or closure."
+      },
+      "career": {
+        "summary": "Career may carry criticism, disappointment, or a difficult realization.",
+        "advice": "Separate the lesson from the wound to recover your clarity."
+      },
+      "money": {
+        "summary": "Money matters may involve disappointing news or hard truth.",
+        "advice": "Face the numbers with compassion and a plan."
+      },
+      "growth": {
+        "summary": "Growth comes through letting sorrow teach without defining you.",
+        "advice": "Give the heart room to breathe."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let the wound be real without making it your permanent home.",
+        "love": "Honor the pain and do not rush forgiveness or closure.",
+        "career": "Separate the lesson from the wound to recover your clarity.",
+        "money": "Face the numbers with compassion and a plan.",
+        "growth": "Give the heart room to breathe."
+      },
+      "situation": {
+        "general": "The situation reflects the Three of Swords brings pain, heartbreak, or a truth that hurts but clarifies.",
+        "love": "The situation reflects love may involve grief, disappointment, separation, or painful honesty.",
+        "career": "The situation reflects career may carry criticism, disappointment, or a difficult realization.",
+        "money": "The situation reflects money matters may involve disappointing news or hard truth.",
+        "growth": "The situation reflects growth comes through letting sorrow teach without defining you."
+      },
+      "past": {
+        "general": "In the past, Three of Swords points to the Three of Swords brings pain, heartbreak, or a truth that hurts but clarifies.",
+        "love": "In the past, Three of Swords points to love may involve grief, disappointment, separation, or painful honesty.",
+        "career": "In the past, Three of Swords points to career may carry criticism, disappointment, or a difficult realization.",
+        "money": "In the past, Three of Swords points to money matters may involve disappointing news or hard truth.",
+        "growth": "In the past, Three of Swords points to growth comes through letting sorrow teach without defining you."
+      },
+      "present": {
+        "general": "In the present, Three of Swords highlights the Three of Swords brings pain, heartbreak, or a truth that hurts but clarifies.",
+        "love": "In the present, Three of Swords highlights love may involve grief, disappointment, separation, or painful honesty.",
+        "career": "In the present, Three of Swords highlights career may carry criticism, disappointment, or a difficult realization.",
+        "money": "In the present, Three of Swords highlights money matters may involve disappointing news or hard truth.",
+        "growth": "In the present, Three of Swords highlights growth comes through letting sorrow teach without defining you."
+      },
+      "future": {
+        "general": "Looking ahead, Three of Swords suggests the Three of Swords brings pain, heartbreak, or a truth that hurts but clarifies.",
+        "love": "Looking ahead, Three of Swords suggests love may involve grief, disappointment, separation, or painful honesty.",
+        "career": "Looking ahead, Three of Swords suggests career may carry criticism, disappointment, or a difficult realization.",
+        "money": "Looking ahead, Three of Swords suggests money matters may involve disappointing news or hard truth.",
+        "growth": "Looking ahead, Three of Swords suggests growth comes through letting sorrow teach without defining you."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is heartbreak showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does heartbreak affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can heartbreak guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does heartbreak reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can heartbreak teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "four_of_swords",
+    "name": "Four of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "four",
+    "number": 4,
+    "assetId": "swords_04_four.png",
+    "keywords": [
+      "rest",
+      "recovery",
+      "pause",
+      "contemplation",
+      "healing"
+    ],
+    "tags": [
+      "rest",
+      "recovery",
+      "pause",
+      "contemplation",
+      "healing"
+    ],
+    "toneTags": [
+      "quiet",
+      "restorative",
+      "calm"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Four of Swords asks for rest, recovery, and a sacred pause before the next effort.",
+        "advice": "Step back and let your mind repair itself."
+      },
+      "love": {
+        "summary": "Love may need space, quiet, or a pause in conflict.",
+        "advice": "Let silence restore what constant talking cannot fix."
+      },
+      "career": {
+        "summary": "Career may require recovery, planning, or time away from pressure.",
+        "advice": "Rest before burnout makes the choice for you."
+      },
+      "money": {
+        "summary": "Money choices may benefit from a temporary pause and calm review.",
+        "advice": "Do not decide from exhaustion."
+      },
+      "growth": {
+        "summary": "Growth comes through respecting the need for stillness.",
+        "advice": "Let rest become part of your discipline."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Step back and let your mind repair itself.",
+        "love": "Let silence restore what constant talking cannot fix.",
+        "career": "Rest before burnout makes the choice for you.",
+        "money": "Do not decide from exhaustion.",
+        "growth": "Let rest become part of your discipline."
+      },
+      "situation": {
+        "general": "The situation reflects the Four of Swords asks for rest, recovery, and a sacred pause before the next effort.",
+        "love": "The situation reflects love may need space, quiet, or a pause in conflict.",
+        "career": "The situation reflects career may require recovery, planning, or time away from pressure.",
+        "money": "The situation reflects money choices may benefit from a temporary pause and calm review.",
+        "growth": "The situation reflects growth comes through respecting the need for stillness."
+      },
+      "past": {
+        "general": "In the past, Four of Swords points to the Four of Swords asks for rest, recovery, and a sacred pause before the next effort.",
+        "love": "In the past, Four of Swords points to love may need space, quiet, or a pause in conflict.",
+        "career": "In the past, Four of Swords points to career may require recovery, planning, or time away from pressure.",
+        "money": "In the past, Four of Swords points to money choices may benefit from a temporary pause and calm review.",
+        "growth": "In the past, Four of Swords points to growth comes through respecting the need for stillness."
+      },
+      "present": {
+        "general": "In the present, Four of Swords highlights the Four of Swords asks for rest, recovery, and a sacred pause before the next effort.",
+        "love": "In the present, Four of Swords highlights love may need space, quiet, or a pause in conflict.",
+        "career": "In the present, Four of Swords highlights career may require recovery, planning, or time away from pressure.",
+        "money": "In the present, Four of Swords highlights money choices may benefit from a temporary pause and calm review.",
+        "growth": "In the present, Four of Swords highlights growth comes through respecting the need for stillness."
+      },
+      "future": {
+        "general": "Looking ahead, Four of Swords suggests the Four of Swords asks for rest, recovery, and a sacred pause before the next effort.",
+        "love": "Looking ahead, Four of Swords suggests love may need space, quiet, or a pause in conflict.",
+        "career": "Looking ahead, Four of Swords suggests career may require recovery, planning, or time away from pressure.",
+        "money": "Looking ahead, Four of Swords suggests money choices may benefit from a temporary pause and calm review.",
+        "growth": "Looking ahead, Four of Swords suggests growth comes through respecting the need for stillness."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is rest showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does rest affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can rest guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does rest reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can rest teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "five_of_swords",
+    "name": "Five of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "five",
+    "number": 5,
+    "assetId": "swords_05_five.png",
+    "keywords": [
+      "conflict",
+      "hollow victory",
+      "ego",
+      "tension",
+      "self-protection"
+    ],
+    "tags": [
+      "conflict",
+      "hollow_victory",
+      "ego",
+      "tension",
+      "self_protection"
+    ],
+    "toneTags": [
+      "sharp",
+      "cautionary",
+      "honest"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Five of Swords warns of conflict, ego, and victories that may cost too much.",
+        "advice": "Ask whether winning is worth the damage it leaves behind."
+      },
+      "love": {
+        "summary": "Love may involve arguments, defensiveness, or a need to be right.",
+        "advice": "Choose repair over triumph where repair is possible."
+      },
+      "career": {
+        "summary": "Career may include rivalry, politics, or strained communication.",
+        "advice": "Protect yourself without becoming the harm you are facing."
+      },
+      "money": {
+        "summary": "Money choices may involve competing interests or unfair dynamics.",
+        "advice": "Avoid decisions made from spite or pride."
+      },
+      "growth": {
+        "summary": "Growth comes through learning when to disengage.",
+        "advice": "Let dignity matter more than domination."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Ask whether winning is worth the damage it leaves behind.",
+        "love": "Choose repair over triumph where repair is possible.",
+        "career": "Protect yourself without becoming the harm you are facing.",
+        "money": "Avoid decisions made from spite or pride.",
+        "growth": "Let dignity matter more than domination."
+      },
+      "situation": {
+        "general": "The situation reflects the Five of Swords warns of conflict, ego, and victories that may cost too much.",
+        "love": "The situation reflects love may involve arguments, defensiveness, or a need to be right.",
+        "career": "The situation reflects career may include rivalry, politics, or strained communication.",
+        "money": "The situation reflects money choices may involve competing interests or unfair dynamics.",
+        "growth": "The situation reflects growth comes through learning when to disengage."
+      },
+      "past": {
+        "general": "In the past, Five of Swords points to the Five of Swords warns of conflict, ego, and victories that may cost too much.",
+        "love": "In the past, Five of Swords points to love may involve arguments, defensiveness, or a need to be right.",
+        "career": "In the past, Five of Swords points to career may include rivalry, politics, or strained communication.",
+        "money": "In the past, Five of Swords points to money choices may involve competing interests or unfair dynamics.",
+        "growth": "In the past, Five of Swords points to growth comes through learning when to disengage."
+      },
+      "present": {
+        "general": "In the present, Five of Swords highlights the Five of Swords warns of conflict, ego, and victories that may cost too much.",
+        "love": "In the present, Five of Swords highlights love may involve arguments, defensiveness, or a need to be right.",
+        "career": "In the present, Five of Swords highlights career may include rivalry, politics, or strained communication.",
+        "money": "In the present, Five of Swords highlights money choices may involve competing interests or unfair dynamics.",
+        "growth": "In the present, Five of Swords highlights growth comes through learning when to disengage."
+      },
+      "future": {
+        "general": "Looking ahead, Five of Swords suggests the Five of Swords warns of conflict, ego, and victories that may cost too much.",
+        "love": "Looking ahead, Five of Swords suggests love may involve arguments, defensiveness, or a need to be right.",
+        "career": "Looking ahead, Five of Swords suggests career may include rivalry, politics, or strained communication.",
+        "money": "Looking ahead, Five of Swords suggests money choices may involve competing interests or unfair dynamics.",
+        "growth": "Looking ahead, Five of Swords suggests growth comes through learning when to disengage."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is conflict showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does conflict affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can conflict guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does conflict reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can conflict teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "six_of_swords",
+    "name": "Six of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "six",
+    "number": 6,
+    "assetId": "swords_06_six.png",
+    "keywords": [
+      "transition",
+      "moving on",
+      "healing journey",
+      "distance",
+      "mental relief"
+    ],
+    "tags": [
+      "transition",
+      "moving_on",
+      "healing_journey",
+      "distance",
+      "relief"
+    ],
+    "toneTags": [
+      "quiet",
+      "hopeful",
+      "moving"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Six of Swords marks a transition away from turbulence toward calmer waters.",
+        "advice": "Accept the passage; healing may begin before everything feels resolved."
+      },
+      "love": {
+        "summary": "Love may be moving from conflict toward peace, distance, or emotional recovery.",
+        "advice": "Let the journey be gentle and honest."
+      },
+      "career": {
+        "summary": "Career may involve relocation, transition, or a calmer direction.",
+        "advice": "Move toward the environment where your mind can function again."
+      },
+      "money": {
+        "summary": "Money may improve through gradual recovery and safer planning.",
+        "advice": "Focus on steady movement away from chaos."
+      },
+      "growth": {
+        "summary": "Growth comes through leaving the old mental storm behind.",
+        "advice": "Trust small signs of peace."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Accept the passage; healing may begin before everything feels resolved.",
+        "love": "Let the journey be gentle and honest.",
+        "career": "Move toward the environment where your mind can function again.",
+        "money": "Focus on steady movement away from chaos.",
+        "growth": "Trust small signs of peace."
+      },
+      "situation": {
+        "general": "The situation reflects the Six of Swords marks a transition away from turbulence toward calmer waters.",
+        "love": "The situation reflects love may be moving from conflict toward peace, distance, or emotional recovery.",
+        "career": "The situation reflects career may involve relocation, transition, or a calmer direction.",
+        "money": "The situation reflects money may improve through gradual recovery and safer planning.",
+        "growth": "The situation reflects growth comes through leaving the old mental storm behind."
+      },
+      "past": {
+        "general": "In the past, Six of Swords points to the Six of Swords marks a transition away from turbulence toward calmer waters.",
+        "love": "In the past, Six of Swords points to love may be moving from conflict toward peace, distance, or emotional recovery.",
+        "career": "In the past, Six of Swords points to career may involve relocation, transition, or a calmer direction.",
+        "money": "In the past, Six of Swords points to money may improve through gradual recovery and safer planning.",
+        "growth": "In the past, Six of Swords points to growth comes through leaving the old mental storm behind."
+      },
+      "present": {
+        "general": "In the present, Six of Swords highlights the Six of Swords marks a transition away from turbulence toward calmer waters.",
+        "love": "In the present, Six of Swords highlights love may be moving from conflict toward peace, distance, or emotional recovery.",
+        "career": "In the present, Six of Swords highlights career may involve relocation, transition, or a calmer direction.",
+        "money": "In the present, Six of Swords highlights money may improve through gradual recovery and safer planning.",
+        "growth": "In the present, Six of Swords highlights growth comes through leaving the old mental storm behind."
+      },
+      "future": {
+        "general": "Looking ahead, Six of Swords suggests the Six of Swords marks a transition away from turbulence toward calmer waters.",
+        "love": "Looking ahead, Six of Swords suggests love may be moving from conflict toward peace, distance, or emotional recovery.",
+        "career": "Looking ahead, Six of Swords suggests career may involve relocation, transition, or a calmer direction.",
+        "money": "Looking ahead, Six of Swords suggests money may improve through gradual recovery and safer planning.",
+        "growth": "Looking ahead, Six of Swords suggests growth comes through leaving the old mental storm behind."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is transition showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does transition affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can transition guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does transition reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can transition teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "seven_of_swords",
+    "name": "Seven of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "seven",
+    "number": 7,
+    "assetId": "swords_07_seven.png",
+    "keywords": [
+      "strategy",
+      "secrecy",
+      "avoidance",
+      "cleverness",
+      "self-interest"
+    ],
+    "tags": [
+      "strategy",
+      "secrecy",
+      "avoidance",
+      "cleverness",
+      "self_interest"
+    ],
+    "toneTags": [
+      "cautious",
+      "subtle",
+      "strategic"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Seven of Swords points to strategy, secrecy, avoidance, or the need to move carefully.",
+        "advice": "Be clever without betraying your integrity."
+      },
+      "love": {
+        "summary": "Love may involve guardedness, hidden motives, or avoiding a direct conversation.",
+        "advice": "Ask for honesty, and offer it where it is safe to do so."
+      },
+      "career": {
+        "summary": "Career may require strategy, discretion, or watching the politics around you.",
+        "advice": "Move wisely, but do not confuse secrecy with strength."
+      },
+      "money": {
+        "summary": "Money choices may need caution around unclear terms or hidden costs.",
+        "advice": "Read the details before acting."
+      },
+      "growth": {
+        "summary": "Growth comes through noticing where avoidance has become a habit.",
+        "advice": "Let strategy serve truth, not escape."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Be clever without betraying your integrity.",
+        "love": "Ask for honesty, and offer it where it is safe to do so.",
+        "career": "Move wisely, but do not confuse secrecy with strength.",
+        "money": "Read the details before acting.",
+        "growth": "Let strategy serve truth, not escape."
+      },
+      "situation": {
+        "general": "The situation reflects the Seven of Swords points to strategy, secrecy, avoidance, or the need to move carefully.",
+        "love": "The situation reflects love may involve guardedness, hidden motives, or avoiding a direct conversation.",
+        "career": "The situation reflects career may require strategy, discretion, or watching the politics around you.",
+        "money": "The situation reflects money choices may need caution around unclear terms or hidden costs.",
+        "growth": "The situation reflects growth comes through noticing where avoidance has become a habit."
+      },
+      "past": {
+        "general": "In the past, Seven of Swords points to the Seven of Swords points to strategy, secrecy, avoidance, or the need to move carefully.",
+        "love": "In the past, Seven of Swords points to love may involve guardedness, hidden motives, or avoiding a direct conversation.",
+        "career": "In the past, Seven of Swords points to career may require strategy, discretion, or watching the politics around you.",
+        "money": "In the past, Seven of Swords points to money choices may need caution around unclear terms or hidden costs.",
+        "growth": "In the past, Seven of Swords points to growth comes through noticing where avoidance has become a habit."
+      },
+      "present": {
+        "general": "In the present, Seven of Swords highlights the Seven of Swords points to strategy, secrecy, avoidance, or the need to move carefully.",
+        "love": "In the present, Seven of Swords highlights love may involve guardedness, hidden motives, or avoiding a direct conversation.",
+        "career": "In the present, Seven of Swords highlights career may require strategy, discretion, or watching the politics around you.",
+        "money": "In the present, Seven of Swords highlights money choices may need caution around unclear terms or hidden costs.",
+        "growth": "In the present, Seven of Swords highlights growth comes through noticing where avoidance has become a habit."
+      },
+      "future": {
+        "general": "Looking ahead, Seven of Swords suggests the Seven of Swords points to strategy, secrecy, avoidance, or the need to move carefully.",
+        "love": "Looking ahead, Seven of Swords suggests love may involve guardedness, hidden motives, or avoiding a direct conversation.",
+        "career": "Looking ahead, Seven of Swords suggests career may require strategy, discretion, or watching the politics around you.",
+        "money": "Looking ahead, Seven of Swords suggests money choices may need caution around unclear terms or hidden costs.",
+        "growth": "Looking ahead, Seven of Swords suggests growth comes through noticing where avoidance has become a habit."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is strategy showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does strategy affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can strategy guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does strategy reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can strategy teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "eight_of_swords",
+    "name": "Eight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "eight",
+    "number": 8,
+    "assetId": "swords_08_eight.png",
+    "keywords": [
+      "restriction",
+      "self-limiting beliefs",
+      "fear",
+      "mental trap",
+      "helplessness"
+    ],
+    "tags": [
+      "restriction",
+      "self_limiting_beliefs",
+      "fear",
+      "mental_trap",
+      "perception"
+    ],
+    "toneTags": [
+      "tight",
+      "anxious",
+      "reflective"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Eight of Swords shows restriction, fear, and the mental stories that make freedom seem impossible.",
+        "advice": "Look for the one small movement that proves you are not as trapped as you feel."
+      },
+      "love": {
+        "summary": "Love may feel limited by fear, assumptions, or silence.",
+        "advice": "Notice what is actually true before believing every anxious thought."
+      },
+      "career": {
+        "summary": "Career may feel blocked by doubt or narrow thinking.",
+        "advice": "Ask what option you have not allowed yourself to see."
+      },
+      "money": {
+        "summary": "Money stress may feel bigger because fear is framing the view.",
+        "advice": "Take one concrete step rather than solving everything at once."
+      },
+      "growth": {
+        "summary": "Growth comes through questioning the cage in the mind.",
+        "advice": "Let one honest action loosen the knot."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Look for the one small movement that proves you are not as trapped as you feel.",
+        "love": "Notice what is actually true before believing every anxious thought.",
+        "career": "Ask what option you have not allowed yourself to see.",
+        "money": "Take one concrete step rather than solving everything at once.",
+        "growth": "Let one honest action loosen the knot."
+      },
+      "situation": {
+        "general": "The situation reflects the Eight of Swords shows restriction, fear, and the mental stories that make freedom seem impossible.",
+        "love": "The situation reflects love may feel limited by fear, assumptions, or silence.",
+        "career": "The situation reflects career may feel blocked by doubt or narrow thinking.",
+        "money": "The situation reflects money stress may feel bigger because fear is framing the view.",
+        "growth": "The situation reflects growth comes through questioning the cage in the mind."
+      },
+      "past": {
+        "general": "In the past, Eight of Swords points to the Eight of Swords shows restriction, fear, and the mental stories that make freedom seem impossible.",
+        "love": "In the past, Eight of Swords points to love may feel limited by fear, assumptions, or silence.",
+        "career": "In the past, Eight of Swords points to career may feel blocked by doubt or narrow thinking.",
+        "money": "In the past, Eight of Swords points to money stress may feel bigger because fear is framing the view.",
+        "growth": "In the past, Eight of Swords points to growth comes through questioning the cage in the mind."
+      },
+      "present": {
+        "general": "In the present, Eight of Swords highlights the Eight of Swords shows restriction, fear, and the mental stories that make freedom seem impossible.",
+        "love": "In the present, Eight of Swords highlights love may feel limited by fear, assumptions, or silence.",
+        "career": "In the present, Eight of Swords highlights career may feel blocked by doubt or narrow thinking.",
+        "money": "In the present, Eight of Swords highlights money stress may feel bigger because fear is framing the view.",
+        "growth": "In the present, Eight of Swords highlights growth comes through questioning the cage in the mind."
+      },
+      "future": {
+        "general": "Looking ahead, Eight of Swords suggests the Eight of Swords shows restriction, fear, and the mental stories that make freedom seem impossible.",
+        "love": "Looking ahead, Eight of Swords suggests love may feel limited by fear, assumptions, or silence.",
+        "career": "Looking ahead, Eight of Swords suggests career may feel blocked by doubt or narrow thinking.",
+        "money": "Looking ahead, Eight of Swords suggests money stress may feel bigger because fear is framing the view.",
+        "growth": "Looking ahead, Eight of Swords suggests growth comes through questioning the cage in the mind."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is restriction showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does restriction affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can restriction guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does restriction reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can restriction teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "nine_of_swords",
+    "name": "Nine of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "nine",
+    "number": 9,
+    "assetId": "swords_09_nine.png",
+    "keywords": [
+      "anxiety",
+      "worry",
+      "night thoughts",
+      "guilt",
+      "mental anguish"
+    ],
+    "tags": [
+      "anxiety",
+      "worry",
+      "night_thoughts",
+      "guilt",
+      "mental_anguish"
+    ],
+    "toneTags": [
+      "heavy",
+      "compassionate",
+      "honest"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Nine of Swords reflects worry, guilt, and the mind turning pain over in the dark.",
+        "advice": "Do not face the fear alone inside your head; bring it into gentle light."
+      },
+      "love": {
+        "summary": "Love may be affected by anxiety, overthinking, or fear of loss.",
+        "advice": "Ask for clarity instead of letting imagination punish you."
+      },
+      "career": {
+        "summary": "Career stress may be stealing rest or magnifying mistakes.",
+        "advice": "Separate responsibility from self-torment."
+      },
+      "money": {
+        "summary": "Money worries may feel overwhelming at night or in silence.",
+        "advice": "Write down the facts and one next step."
+      },
+      "growth": {
+        "summary": "Growth comes through compassion for the anxious mind.",
+        "advice": "Let care interrupt the spiral."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Do not face the fear alone inside your head; bring it into gentle light.",
+        "love": "Ask for clarity instead of letting imagination punish you.",
+        "career": "Separate responsibility from self-torment.",
+        "money": "Write down the facts and one next step.",
+        "growth": "Let care interrupt the spiral."
+      },
+      "situation": {
+        "general": "The situation reflects the Nine of Swords reflects worry, guilt, and the mind turning pain over in the dark.",
+        "love": "The situation reflects love may be affected by anxiety, overthinking, or fear of loss.",
+        "career": "The situation reflects career stress may be stealing rest or magnifying mistakes.",
+        "money": "The situation reflects money worries may feel overwhelming at night or in silence.",
+        "growth": "The situation reflects growth comes through compassion for the anxious mind."
+      },
+      "past": {
+        "general": "In the past, Nine of Swords points to the Nine of Swords reflects worry, guilt, and the mind turning pain over in the dark.",
+        "love": "In the past, Nine of Swords points to love may be affected by anxiety, overthinking, or fear of loss.",
+        "career": "In the past, Nine of Swords points to career stress may be stealing rest or magnifying mistakes.",
+        "money": "In the past, Nine of Swords points to money worries may feel overwhelming at night or in silence.",
+        "growth": "In the past, Nine of Swords points to growth comes through compassion for the anxious mind."
+      },
+      "present": {
+        "general": "In the present, Nine of Swords highlights the Nine of Swords reflects worry, guilt, and the mind turning pain over in the dark.",
+        "love": "In the present, Nine of Swords highlights love may be affected by anxiety, overthinking, or fear of loss.",
+        "career": "In the present, Nine of Swords highlights career stress may be stealing rest or magnifying mistakes.",
+        "money": "In the present, Nine of Swords highlights money worries may feel overwhelming at night or in silence.",
+        "growth": "In the present, Nine of Swords highlights growth comes through compassion for the anxious mind."
+      },
+      "future": {
+        "general": "Looking ahead, Nine of Swords suggests the Nine of Swords reflects worry, guilt, and the mind turning pain over in the dark.",
+        "love": "Looking ahead, Nine of Swords suggests love may be affected by anxiety, overthinking, or fear of loss.",
+        "career": "Looking ahead, Nine of Swords suggests career stress may be stealing rest or magnifying mistakes.",
+        "money": "Looking ahead, Nine of Swords suggests money worries may feel overwhelming at night or in silence.",
+        "growth": "Looking ahead, Nine of Swords suggests growth comes through compassion for the anxious mind."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is anxiety showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does anxiety affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can anxiety guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does anxiety reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can anxiety teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "ten_of_swords",
+    "name": "Ten of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "ten",
+    "number": 10,
+    "assetId": "swords_10_ten.png",
+    "keywords": [
+      "ending",
+      "collapse",
+      "exhaustion",
+      "finality",
+      "release"
+    ],
+    "tags": [
+      "ending",
+      "collapse",
+      "exhaustion",
+      "finality",
+      "release"
+    ],
+    "toneTags": [
+      "stark",
+      "final",
+      "clearing"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Ten of Swords marks a painful ending, exhaustion, or the final point of a mental cycle.",
+        "advice": "Let the ending be real; the dawn comes after you stop arguing with what is over."
+      },
+      "love": {
+        "summary": "Love may involve a final realization, betrayal, or the end of an old pattern.",
+        "advice": "Do not keep reopening what is asking to close."
+      },
+      "career": {
+        "summary": "Career may bring burnout, completion, or a hard ending.",
+        "advice": "Recover first, then decide what the ending has taught you."
+      },
+      "money": {
+        "summary": "Money may require accepting a loss or ending an unsustainable pattern.",
+        "advice": "Close the leak before planning the rebuild."
+      },
+      "growth": {
+        "summary": "Growth comes through allowing finality to become release.",
+        "advice": "Let this be the end of the story, not the end of you."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let the ending be real; the dawn comes after you stop arguing with what is over.",
+        "love": "Do not keep reopening what is asking to close.",
+        "career": "Recover first, then decide what the ending has taught you.",
+        "money": "Close the leak before planning the rebuild.",
+        "growth": "Let this be the end of the story, not the end of you."
+      },
+      "situation": {
+        "general": "The situation reflects the Ten of Swords marks a painful ending, exhaustion, or the final point of a mental cycle.",
+        "love": "The situation reflects love may involve a final realization, betrayal, or the end of an old pattern.",
+        "career": "The situation reflects career may bring burnout, completion, or a hard ending.",
+        "money": "The situation reflects money may require accepting a loss or ending an unsustainable pattern.",
+        "growth": "The situation reflects growth comes through allowing finality to become release."
+      },
+      "past": {
+        "general": "In the past, Ten of Swords points to the Ten of Swords marks a painful ending, exhaustion, or the final point of a mental cycle.",
+        "love": "In the past, Ten of Swords points to love may involve a final realization, betrayal, or the end of an old pattern.",
+        "career": "In the past, Ten of Swords points to career may bring burnout, completion, or a hard ending.",
+        "money": "In the past, Ten of Swords points to money may require accepting a loss or ending an unsustainable pattern.",
+        "growth": "In the past, Ten of Swords points to growth comes through allowing finality to become release."
+      },
+      "present": {
+        "general": "In the present, Ten of Swords highlights the Ten of Swords marks a painful ending, exhaustion, or the final point of a mental cycle.",
+        "love": "In the present, Ten of Swords highlights love may involve a final realization, betrayal, or the end of an old pattern.",
+        "career": "In the present, Ten of Swords highlights career may bring burnout, completion, or a hard ending.",
+        "money": "In the present, Ten of Swords highlights money may require accepting a loss or ending an unsustainable pattern.",
+        "growth": "In the present, Ten of Swords highlights growth comes through allowing finality to become release."
+      },
+      "future": {
+        "general": "Looking ahead, Ten of Swords suggests the Ten of Swords marks a painful ending, exhaustion, or the final point of a mental cycle.",
+        "love": "Looking ahead, Ten of Swords suggests love may involve a final realization, betrayal, or the end of an old pattern.",
+        "career": "Looking ahead, Ten of Swords suggests career may bring burnout, completion, or a hard ending.",
+        "money": "Looking ahead, Ten of Swords suggests money may require accepting a loss or ending an unsustainable pattern.",
+        "growth": "Looking ahead, Ten of Swords suggests growth comes through allowing finality to become release."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is ending showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does ending affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can ending guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does ending reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can ending teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "page_of_swords",
+    "name": "Page of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "page",
+    "number": 11,
+    "assetId": "swords_11_page.png",
+    "keywords": [
+      "curiosity",
+      "questions",
+      "watchfulness",
+      "learning",
+      "mental spark"
+    ],
+    "tags": [
+      "curiosity",
+      "questions",
+      "watchfulness",
+      "learning",
+      "mental_spark"
+    ],
+    "toneTags": [
+      "alert",
+      "curious",
+      "quick"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Page of Swords brings curiosity, questions, and the restless desire to understand.",
+        "advice": "Ask clearly, learn actively, and avoid turning curiosity into suspicion."
+      },
+      "love": {
+        "summary": "Love may involve observation, messages, or a need for honest conversation.",
+        "advice": "Ask the real question instead of testing for the answer."
+      },
+      "career": {
+        "summary": "Career may bring study, research, or a new intellectual challenge.",
+        "advice": "Stay teachable and precise."
+      },
+      "money": {
+        "summary": "Money matters may need research and careful comparison.",
+        "advice": "Learn before committing."
+      },
+      "growth": {
+        "summary": "Growth comes through sharpening the mind without hardening the heart.",
+        "advice": "Let questions become bridges."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Ask clearly, learn actively, and avoid turning curiosity into suspicion.",
+        "love": "Ask the real question instead of testing for the answer.",
+        "career": "Stay teachable and precise.",
+        "money": "Learn before committing.",
+        "growth": "Let questions become bridges."
+      },
+      "situation": {
+        "general": "The situation reflects the Page of Swords brings curiosity, questions, and the restless desire to understand.",
+        "love": "The situation reflects love may involve observation, messages, or a need for honest conversation.",
+        "career": "The situation reflects career may bring study, research, or a new intellectual challenge.",
+        "money": "The situation reflects money matters may need research and careful comparison.",
+        "growth": "The situation reflects growth comes through sharpening the mind without hardening the heart."
+      },
+      "past": {
+        "general": "In the past, Page of Swords points to the Page of Swords brings curiosity, questions, and the restless desire to understand.",
+        "love": "In the past, Page of Swords points to love may involve observation, messages, or a need for honest conversation.",
+        "career": "In the past, Page of Swords points to career may bring study, research, or a new intellectual challenge.",
+        "money": "In the past, Page of Swords points to money matters may need research and careful comparison.",
+        "growth": "In the past, Page of Swords points to growth comes through sharpening the mind without hardening the heart."
+      },
+      "present": {
+        "general": "In the present, Page of Swords highlights the Page of Swords brings curiosity, questions, and the restless desire to understand.",
+        "love": "In the present, Page of Swords highlights love may involve observation, messages, or a need for honest conversation.",
+        "career": "In the present, Page of Swords highlights career may bring study, research, or a new intellectual challenge.",
+        "money": "In the present, Page of Swords highlights money matters may need research and careful comparison.",
+        "growth": "In the present, Page of Swords highlights growth comes through sharpening the mind without hardening the heart."
+      },
+      "future": {
+        "general": "Looking ahead, Page of Swords suggests the Page of Swords brings curiosity, questions, and the restless desire to understand.",
+        "love": "Looking ahead, Page of Swords suggests love may involve observation, messages, or a need for honest conversation.",
+        "career": "Looking ahead, Page of Swords suggests career may bring study, research, or a new intellectual challenge.",
+        "money": "Looking ahead, Page of Swords suggests money matters may need research and careful comparison.",
+        "growth": "Looking ahead, Page of Swords suggests growth comes through sharpening the mind without hardening the heart."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is curiosity showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does curiosity affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can curiosity guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does curiosity reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can curiosity teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "knight_of_swords",
+    "name": "Knight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "knight",
+    "number": 12,
+    "assetId": "swords_12_knight.png",
+    "keywords": [
+      "speed",
+      "ambition",
+      "directness",
+      "argument",
+      "mental force"
+    ],
+    "tags": [
+      "speed",
+      "ambition",
+      "directness",
+      "argument",
+      "mental_force"
+    ],
+    "toneTags": [
+      "fast",
+      "sharp",
+      "forceful"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Knight of Swords rushes toward the goal with speed, certainty, and mental force.",
+        "advice": "Move quickly only after checking that the direction is right."
+      },
+      "love": {
+        "summary": "Love may involve blunt words, sudden decisions, or intellectual intensity.",
+        "advice": "Slow down enough to hear the person, not only the point."
+      },
+      "career": {
+        "summary": "Career favors bold action, quick thinking, and decisive communication.",
+        "advice": "Use urgency wisely and avoid needless conflict."
+      },
+      "money": {
+        "summary": "Money decisions may be rushed or reactive.",
+        "advice": "Pause before a fast choice creates a long consequence."
+      },
+      "growth": {
+        "summary": "Growth comes through learning that truth does not need to trample.",
+        "advice": "Let courage be precise, not reckless."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Move quickly only after checking that the direction is right.",
+        "love": "Slow down enough to hear the person, not only the point.",
+        "career": "Use urgency wisely and avoid needless conflict.",
+        "money": "Pause before a fast choice creates a long consequence.",
+        "growth": "Let courage be precise, not reckless."
+      },
+      "situation": {
+        "general": "The situation reflects the Knight of Swords rushes toward the goal with speed, certainty, and mental force.",
+        "love": "The situation reflects love may involve blunt words, sudden decisions, or intellectual intensity.",
+        "career": "The situation reflects career favors bold action, quick thinking, and decisive communication.",
+        "money": "The situation reflects money decisions may be rushed or reactive.",
+        "growth": "The situation reflects growth comes through learning that truth does not need to trample."
+      },
+      "past": {
+        "general": "In the past, Knight of Swords points to the Knight of Swords rushes toward the goal with speed, certainty, and mental force.",
+        "love": "In the past, Knight of Swords points to love may involve blunt words, sudden decisions, or intellectual intensity.",
+        "career": "In the past, Knight of Swords points to career favors bold action, quick thinking, and decisive communication.",
+        "money": "In the past, Knight of Swords points to money decisions may be rushed or reactive.",
+        "growth": "In the past, Knight of Swords points to growth comes through learning that truth does not need to trample."
+      },
+      "present": {
+        "general": "In the present, Knight of Swords highlights the Knight of Swords rushes toward the goal with speed, certainty, and mental force.",
+        "love": "In the present, Knight of Swords highlights love may involve blunt words, sudden decisions, or intellectual intensity.",
+        "career": "In the present, Knight of Swords highlights career favors bold action, quick thinking, and decisive communication.",
+        "money": "In the present, Knight of Swords highlights money decisions may be rushed or reactive.",
+        "growth": "In the present, Knight of Swords highlights growth comes through learning that truth does not need to trample."
+      },
+      "future": {
+        "general": "Looking ahead, Knight of Swords suggests the Knight of Swords rushes toward the goal with speed, certainty, and mental force.",
+        "love": "Looking ahead, Knight of Swords suggests love may involve blunt words, sudden decisions, or intellectual intensity.",
+        "career": "Looking ahead, Knight of Swords suggests career favors bold action, quick thinking, and decisive communication.",
+        "money": "Looking ahead, Knight of Swords suggests money decisions may be rushed or reactive.",
+        "growth": "Looking ahead, Knight of Swords suggests growth comes through learning that truth does not need to trample."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is speed showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does speed affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can speed guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does speed reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can speed teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "queen_of_swords",
+    "name": "Queen of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "queen",
+    "number": 13,
+    "assetId": "swords_13_queen.png",
+    "keywords": [
+      "discernment",
+      "boundaries",
+      "truth",
+      "independence",
+      "clear perception"
+    ],
+    "tags": [
+      "discernment",
+      "boundaries",
+      "truth",
+      "independence",
+      "clear_perception"
+    ],
+    "toneTags": [
+      "clear",
+      "wise",
+      "independent"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Queen of Swords sees clearly, speaks truth, and protects her peace with wise boundaries.",
+        "advice": "Be honest without becoming cold to your own tenderness."
+      },
+      "love": {
+        "summary": "Love may need clarity, standards, and emotionally mature communication.",
+        "advice": "Say what is true and notice who respects it."
+      },
+      "career": {
+        "summary": "Career benefits from strategy, editing, analysis, or clear leadership.",
+        "advice": "Cut through confusion and define the standard."
+      },
+      "money": {
+        "summary": "Money choices need discernment, documentation, and clean boundaries.",
+        "advice": "Say no where the numbers or terms do not respect you."
+      },
+      "growth": {
+        "summary": "Growth comes through trusting your perception.",
+        "advice": "Let boundaries become self-respect in practice."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Be honest without becoming cold to your own tenderness.",
+        "love": "Say what is true and notice who respects it.",
+        "career": "Cut through confusion and define the standard.",
+        "money": "Say no where the numbers or terms do not respect you.",
+        "growth": "Let boundaries become self-respect in practice."
+      },
+      "situation": {
+        "general": "The situation reflects the Queen of Swords sees clearly, speaks truth, and protects her peace with wise boundaries.",
+        "love": "The situation reflects love may need clarity, standards, and emotionally mature communication.",
+        "career": "The situation reflects career benefits from strategy, editing, analysis, or clear leadership.",
+        "money": "The situation reflects money choices need discernment, documentation, and clean boundaries.",
+        "growth": "The situation reflects growth comes through trusting your perception."
+      },
+      "past": {
+        "general": "In the past, Queen of Swords points to the Queen of Swords sees clearly, speaks truth, and protects her peace with wise boundaries.",
+        "love": "In the past, Queen of Swords points to love may need clarity, standards, and emotionally mature communication.",
+        "career": "In the past, Queen of Swords points to career benefits from strategy, editing, analysis, or clear leadership.",
+        "money": "In the past, Queen of Swords points to money choices need discernment, documentation, and clean boundaries.",
+        "growth": "In the past, Queen of Swords points to growth comes through trusting your perception."
+      },
+      "present": {
+        "general": "In the present, Queen of Swords highlights the Queen of Swords sees clearly, speaks truth, and protects her peace with wise boundaries.",
+        "love": "In the present, Queen of Swords highlights love may need clarity, standards, and emotionally mature communication.",
+        "career": "In the present, Queen of Swords highlights career benefits from strategy, editing, analysis, or clear leadership.",
+        "money": "In the present, Queen of Swords highlights money choices need discernment, documentation, and clean boundaries.",
+        "growth": "In the present, Queen of Swords highlights growth comes through trusting your perception."
+      },
+      "future": {
+        "general": "Looking ahead, Queen of Swords suggests the Queen of Swords sees clearly, speaks truth, and protects her peace with wise boundaries.",
+        "love": "Looking ahead, Queen of Swords suggests love may need clarity, standards, and emotionally mature communication.",
+        "career": "Looking ahead, Queen of Swords suggests career benefits from strategy, editing, analysis, or clear leadership.",
+        "money": "Looking ahead, Queen of Swords suggests money choices need discernment, documentation, and clean boundaries.",
+        "growth": "Looking ahead, Queen of Swords suggests growth comes through trusting your perception."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is discernment showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does discernment affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can discernment guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does discernment reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can discernment teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "king_of_swords",
+    "name": "King of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "king",
+    "number": 14,
+    "assetId": "swords_14_king.png",
+    "keywords": [
+      "logic",
+      "authority",
+      "strategy",
+      "ethics",
+      "mental mastery"
+    ],
+    "tags": [
+      "logic",
+      "authority",
+      "strategy",
+      "ethics",
+      "mental_mastery"
+    ],
+    "toneTags": [
+      "rational",
+      "commanding",
+      "fair"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The King of Swords brings logic, strategy, and ethical authority of the mind.",
+        "advice": "Lead with clarity, fairness, and disciplined thought."
+      },
+      "love": {
+        "summary": "Love may require mature conversation, truth, and balanced judgment.",
+        "advice": "Let clarity guide the heart without dismissing feeling."
+      },
+      "career": {
+        "summary": "Career favors leadership, planning, law, systems, or strategic decisions.",
+        "advice": "Think several steps ahead and communicate cleanly."
+      },
+      "money": {
+        "summary": "Money choices benefit from analysis, contracts, and principled decision-making.",
+        "advice": "Let evidence and values work together."
+      },
+      "growth": {
+        "summary": "Growth comes through mastering thought instead of being ruled by it.",
+        "advice": "Use the mind as a tool for justice and peace."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Lead with clarity, fairness, and disciplined thought.",
+        "love": "Let clarity guide the heart without dismissing feeling.",
+        "career": "Think several steps ahead and communicate cleanly.",
+        "money": "Let evidence and values work together.",
+        "growth": "Use the mind as a tool for justice and peace."
+      },
+      "situation": {
+        "general": "The situation reflects the King of Swords brings logic, strategy, and ethical authority of the mind.",
+        "love": "The situation reflects love may require mature conversation, truth, and balanced judgment.",
+        "career": "The situation reflects career favors leadership, planning, law, systems, or strategic decisions.",
+        "money": "The situation reflects money choices benefit from analysis, contracts, and principled decision-making.",
+        "growth": "The situation reflects growth comes through mastering thought instead of being ruled by it."
+      },
+      "past": {
+        "general": "In the past, King of Swords points to the King of Swords brings logic, strategy, and ethical authority of the mind.",
+        "love": "In the past, King of Swords points to love may require mature conversation, truth, and balanced judgment.",
+        "career": "In the past, King of Swords points to career favors leadership, planning, law, systems, or strategic decisions.",
+        "money": "In the past, King of Swords points to money choices benefit from analysis, contracts, and principled decision-making.",
+        "growth": "In the past, King of Swords points to growth comes through mastering thought instead of being ruled by it."
+      },
+      "present": {
+        "general": "In the present, King of Swords highlights the King of Swords brings logic, strategy, and ethical authority of the mind.",
+        "love": "In the present, King of Swords highlights love may require mature conversation, truth, and balanced judgment.",
+        "career": "In the present, King of Swords highlights career favors leadership, planning, law, systems, or strategic decisions.",
+        "money": "In the present, King of Swords highlights money choices benefit from analysis, contracts, and principled decision-making.",
+        "growth": "In the present, King of Swords highlights growth comes through mastering thought instead of being ruled by it."
+      },
+      "future": {
+        "general": "Looking ahead, King of Swords suggests the King of Swords brings logic, strategy, and ethical authority of the mind.",
+        "love": "Looking ahead, King of Swords suggests love may require mature conversation, truth, and balanced judgment.",
+        "career": "Looking ahead, King of Swords suggests career favors leadership, planning, law, systems, or strategic decisions.",
+        "money": "Looking ahead, King of Swords suggests money choices benefit from analysis, contracts, and principled decision-making.",
+        "growth": "Looking ahead, King of Swords suggests growth comes through mastering thought instead of being ruled by it."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is logic showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does logic affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can logic guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does logic reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can logic teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  }
+]

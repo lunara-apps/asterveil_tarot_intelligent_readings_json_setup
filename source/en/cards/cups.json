@@ -1,5 +1,441 @@
 [
   {
+    "id": "ace_of_cups",
+    "name": "Ace of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "ace",
+    "number": 1,
+    "assetId": "cups_01_ace.png",
+    "keywords": [
+      "new love",
+      "emotional opening",
+      "compassion",
+      "intuition",
+      "overflow"
+    ],
+    "tags": [
+      "new_beginning",
+      "love",
+      "emotional_opening",
+      "compassion",
+      "intuition"
+    ],
+    "toneTags": [
+      "tender",
+      "open",
+      "gentle"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Ace of Cups opens the heart to feeling, compassion, creativity, and emotional renewal.",
+        "advice": "Receive what is sincere, and let your heart soften without losing discernment."
+      },
+      "love": {
+        "summary": "A new feeling, healing connection, or emotional beginning may be emerging.",
+        "advice": "Let tenderness grow naturally instead of demanding immediate certainty."
+      },
+      "career": {
+        "summary": "Creative or people-centered work may benefit from empathy and inspiration.",
+        "advice": "Bring sincerity into the work, but keep emotional boundaries clear."
+      },
+      "money": {
+        "summary": "Money choices may be influenced by generosity, desire, or emotional needs.",
+        "advice": "Let kindness guide you without ignoring practical limits."
+      },
+      "growth": {
+        "summary": "Growth begins when you allow feeling to move again.",
+        "advice": "Let your emotional life become a source of wisdom, not overwhelm."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Receive what is sincere, and let your heart soften without losing discernment.",
+        "love": "Let tenderness grow naturally instead of demanding immediate certainty.",
+        "career": "Bring sincerity into the work, but keep emotional boundaries clear.",
+        "money": "Let kindness guide you without ignoring practical limits.",
+        "growth": "Let your emotional life become a source of wisdom, not overwhelm."
+      },
+      "situation": {
+        "general": "The situation reflects the Ace of Cups opens the heart to feeling, compassion, creativity, and emotional renewal.",
+        "love": "The situation reflects a new feeling, healing connection, or emotional beginning may be emerging.",
+        "career": "The situation reflects creative or people-centered work may benefit from empathy and inspiration.",
+        "money": "The situation reflects money choices may be influenced by generosity, desire, or emotional needs.",
+        "growth": "The situation reflects growth begins when you allow feeling to move again."
+      },
+      "past": {
+        "general": "In the past, Ace of Cups points to the Ace of Cups opens the heart to feeling, compassion, creativity, and emotional renewal.",
+        "love": "In the past, Ace of Cups points to a new feeling, healing connection, or emotional beginning may be emerging.",
+        "career": "In the past, Ace of Cups points to creative or people-centered work may benefit from empathy and inspiration.",
+        "money": "In the past, Ace of Cups points to money choices may be influenced by generosity, desire, or emotional needs.",
+        "growth": "In the past, Ace of Cups points to growth begins when you allow feeling to move again."
+      },
+      "present": {
+        "general": "In the present, Ace of Cups highlights the Ace of Cups opens the heart to feeling, compassion, creativity, and emotional renewal.",
+        "love": "In the present, Ace of Cups highlights a new feeling, healing connection, or emotional beginning may be emerging.",
+        "career": "In the present, Ace of Cups highlights creative or people-centered work may benefit from empathy and inspiration.",
+        "money": "In the present, Ace of Cups highlights money choices may be influenced by generosity, desire, or emotional needs.",
+        "growth": "In the present, Ace of Cups highlights growth begins when you allow feeling to move again."
+      },
+      "future": {
+        "general": "Looking ahead, Ace of Cups suggests the Ace of Cups opens the heart to feeling, compassion, creativity, and emotional renewal.",
+        "love": "Looking ahead, Ace of Cups suggests a new feeling, healing connection, or emotional beginning may be emerging.",
+        "career": "Looking ahead, Ace of Cups suggests creative or people-centered work may benefit from empathy and inspiration.",
+        "money": "Looking ahead, Ace of Cups suggests money choices may be influenced by generosity, desire, or emotional needs.",
+        "growth": "Looking ahead, Ace of Cups suggests growth begins when you allow feeling to move again."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is new love showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does new love affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can new love guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does new love reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can new love teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "two_of_cups",
+    "name": "Two of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "two",
+    "number": 2,
+    "assetId": "cups_02_two.png",
+    "keywords": [
+      "partnership",
+      "mutuality",
+      "attraction",
+      "agreement",
+      "emotional exchange"
+    ],
+    "tags": [
+      "partnership",
+      "mutuality",
+      "connection",
+      "harmony",
+      "agreement"
+    ],
+    "toneTags": [
+      "warm",
+      "relational",
+      "balanced"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Two of Cups reflects mutual recognition, emotional exchange, and balanced connection.",
+        "advice": "Meet the other side with honesty, openness, and equal respect."
+      },
+      "love": {
+        "summary": "A bond may be deepening through mutual care and shared vulnerability.",
+        "advice": "Choose reciprocity over chasing or withdrawing."
+      },
+      "career": {
+        "summary": "A partnership, client relationship, or collaboration may be important.",
+        "advice": "Build trust through clear expectations and shared effort."
+      },
+      "money": {
+        "summary": "Shared resources or agreements may need fairness and transparency.",
+        "advice": "Make sure both sides understand what is being offered and received."
+      },
+      "growth": {
+        "summary": "Growth comes through learning how to relate without losing yourself.",
+        "advice": "Practice connection as a meeting of equals."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Meet the other side with honesty, openness, and equal respect.",
+        "love": "Choose reciprocity over chasing or withdrawing.",
+        "career": "Build trust through clear expectations and shared effort.",
+        "money": "Make sure both sides understand what is being offered and received.",
+        "growth": "Practice connection as a meeting of equals."
+      },
+      "situation": {
+        "general": "The situation reflects the Two of Cups reflects mutual recognition, emotional exchange, and balanced connection.",
+        "love": "The situation reflects a bond may be deepening through mutual care and shared vulnerability.",
+        "career": "The situation reflects a partnership, client relationship, or collaboration may be important.",
+        "money": "The situation reflects shared resources or agreements may need fairness and transparency.",
+        "growth": "The situation reflects growth comes through learning how to relate without losing yourself."
+      },
+      "past": {
+        "general": "In the past, Two of Cups points to the Two of Cups reflects mutual recognition, emotional exchange, and balanced connection.",
+        "love": "In the past, Two of Cups points to a bond may be deepening through mutual care and shared vulnerability.",
+        "career": "In the past, Two of Cups points to a partnership, client relationship, or collaboration may be important.",
+        "money": "In the past, Two of Cups points to shared resources or agreements may need fairness and transparency.",
+        "growth": "In the past, Two of Cups points to growth comes through learning how to relate without losing yourself."
+      },
+      "present": {
+        "general": "In the present, Two of Cups highlights the Two of Cups reflects mutual recognition, emotional exchange, and balanced connection.",
+        "love": "In the present, Two of Cups highlights a bond may be deepening through mutual care and shared vulnerability.",
+        "career": "In the present, Two of Cups highlights a partnership, client relationship, or collaboration may be important.",
+        "money": "In the present, Two of Cups highlights shared resources or agreements may need fairness and transparency.",
+        "growth": "In the present, Two of Cups highlights growth comes through learning how to relate without losing yourself."
+      },
+      "future": {
+        "general": "Looking ahead, Two of Cups suggests the Two of Cups reflects mutual recognition, emotional exchange, and balanced connection.",
+        "love": "Looking ahead, Two of Cups suggests a bond may be deepening through mutual care and shared vulnerability.",
+        "career": "Looking ahead, Two of Cups suggests a partnership, client relationship, or collaboration may be important.",
+        "money": "Looking ahead, Two of Cups suggests shared resources or agreements may need fairness and transparency.",
+        "growth": "Looking ahead, Two of Cups suggests growth comes through learning how to relate without losing yourself."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is partnership showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does partnership affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can partnership guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does partnership reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can partnership teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "three_of_cups",
+    "name": "Three of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "three",
+    "number": 3,
+    "assetId": "cups_03_three.png",
+    "keywords": [
+      "friendship",
+      "celebration",
+      "community",
+      "support",
+      "joy"
+    ],
+    "tags": [
+      "friendship",
+      "celebration",
+      "community",
+      "support",
+      "joy"
+    ],
+    "toneTags": [
+      "joyful",
+      "social",
+      "supportive"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Three of Cups celebrates friendship, shared joy, and the healing power of community.",
+        "advice": "Let support be received, not only offered."
+      },
+      "love": {
+        "summary": "Love may be supported by friendship, community, or shared celebration.",
+        "advice": "Make room for joy without turning connection into performance."
+      },
+      "career": {
+        "summary": "Team spirit, networking, or creative collaboration can lift the work.",
+        "advice": "Celebrate progress and let allies help you move forward."
+      },
+      "money": {
+        "summary": "Money may connect to shared plans, social spending, or group support.",
+        "advice": "Enjoy what is good while staying mindful of limits."
+      },
+      "growth": {
+        "summary": "Growth is supported by belonging and honest companionship.",
+        "advice": "Notice who helps you feel more like yourself."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let support be received, not only offered.",
+        "love": "Make room for joy without turning connection into performance.",
+        "career": "Celebrate progress and let allies help you move forward.",
+        "money": "Enjoy what is good while staying mindful of limits.",
+        "growth": "Notice who helps you feel more like yourself."
+      },
+      "situation": {
+        "general": "The situation reflects the Three of Cups celebrates friendship, shared joy, and the healing power of community.",
+        "love": "The situation reflects love may be supported by friendship, community, or shared celebration.",
+        "career": "The situation reflects team spirit, networking, or creative collaboration can lift the work.",
+        "money": "The situation reflects money may connect to shared plans, social spending, or group support.",
+        "growth": "The situation reflects growth is supported by belonging and honest companionship."
+      },
+      "past": {
+        "general": "In the past, Three of Cups points to the Three of Cups celebrates friendship, shared joy, and the healing power of community.",
+        "love": "In the past, Three of Cups points to love may be supported by friendship, community, or shared celebration.",
+        "career": "In the past, Three of Cups points to team spirit, networking, or creative collaboration can lift the work.",
+        "money": "In the past, Three of Cups points to money may connect to shared plans, social spending, or group support.",
+        "growth": "In the past, Three of Cups points to growth is supported by belonging and honest companionship."
+      },
+      "present": {
+        "general": "In the present, Three of Cups highlights the Three of Cups celebrates friendship, shared joy, and the healing power of community.",
+        "love": "In the present, Three of Cups highlights love may be supported by friendship, community, or shared celebration.",
+        "career": "In the present, Three of Cups highlights team spirit, networking, or creative collaboration can lift the work.",
+        "money": "In the present, Three of Cups highlights money may connect to shared plans, social spending, or group support.",
+        "growth": "In the present, Three of Cups highlights growth is supported by belonging and honest companionship."
+      },
+      "future": {
+        "general": "Looking ahead, Three of Cups suggests the Three of Cups celebrates friendship, shared joy, and the healing power of community.",
+        "love": "Looking ahead, Three of Cups suggests love may be supported by friendship, community, or shared celebration.",
+        "career": "Looking ahead, Three of Cups suggests team spirit, networking, or creative collaboration can lift the work.",
+        "money": "Looking ahead, Three of Cups suggests money may connect to shared plans, social spending, or group support.",
+        "growth": "Looking ahead, Three of Cups suggests growth is supported by belonging and honest companionship."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is friendship showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does friendship affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can friendship guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does friendship reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can friendship teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "four_of_cups",
+    "name": "Four of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "four",
+    "number": 4,
+    "assetId": "cups_04_four.png",
+    "keywords": [
+      "apathy",
+      "reflection",
+      "emotional pause",
+      "discontent",
+      "reconsideration"
+    ],
+    "tags": [
+      "apathy",
+      "reflection",
+      "emotional_pause",
+      "discontent",
+      "inner_focus"
+    ],
+    "toneTags": [
+      "quiet",
+      "detached",
+      "reflective"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Four of Cups shows emotional withdrawal, dissatisfaction, or the need to look inward.",
+        "advice": "Pause before rejecting what is offered; ask what your heart is really tired of."
+      },
+      "love": {
+        "summary": "In love, boredom, emotional distance, or missed signals may be present.",
+        "advice": "Look honestly at whether you need space, renewal, or a different kind of attention."
+      },
+      "career": {
+        "summary": "At work, motivation may feel low or an opportunity may not inspire you yet.",
+        "advice": "Do not decide from numbness; reconnect with what matters."
+      },
+      "money": {
+        "summary": "Money choices may be affected by dissatisfaction or comparison.",
+        "advice": "Clarify what enough means before seeking more."
+      },
+      "growth": {
+        "summary": "Growth comes through listening to the emotion beneath the indifference.",
+        "advice": "Let stillness reveal what wanting has become."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Pause before rejecting what is offered; ask what your heart is really tired of.",
+        "love": "Look honestly at whether you need space, renewal, or a different kind of attention.",
+        "career": "Do not decide from numbness; reconnect with what matters.",
+        "money": "Clarify what enough means before seeking more.",
+        "growth": "Let stillness reveal what wanting has become."
+      },
+      "situation": {
+        "general": "The situation reflects the Four of Cups shows emotional withdrawal, dissatisfaction, or the need to look inward.",
+        "love": "The situation reflects in love, boredom, emotional distance, or missed signals may be present.",
+        "career": "The situation reflects at work, motivation may feel low or an opportunity may not inspire you yet.",
+        "money": "The situation reflects money choices may be affected by dissatisfaction or comparison.",
+        "growth": "The situation reflects growth comes through listening to the emotion beneath the indifference."
+      },
+      "past": {
+        "general": "In the past, Four of Cups points to the Four of Cups shows emotional withdrawal, dissatisfaction, or the need to look inward.",
+        "love": "In the past, Four of Cups points to in love, boredom, emotional distance, or missed signals may be present.",
+        "career": "In the past, Four of Cups points to at work, motivation may feel low or an opportunity may not inspire you yet.",
+        "money": "In the past, Four of Cups points to money choices may be affected by dissatisfaction or comparison.",
+        "growth": "In the past, Four of Cups points to growth comes through listening to the emotion beneath the indifference."
+      },
+      "present": {
+        "general": "In the present, Four of Cups highlights the Four of Cups shows emotional withdrawal, dissatisfaction, or the need to look inward.",
+        "love": "In the present, Four of Cups highlights in love, boredom, emotional distance, or missed signals may be present.",
+        "career": "In the present, Four of Cups highlights at work, motivation may feel low or an opportunity may not inspire you yet.",
+        "money": "In the present, Four of Cups highlights money choices may be affected by dissatisfaction or comparison.",
+        "growth": "In the present, Four of Cups highlights growth comes through listening to the emotion beneath the indifference."
+      },
+      "future": {
+        "general": "Looking ahead, Four of Cups suggests the Four of Cups shows emotional withdrawal, dissatisfaction, or the need to look inward.",
+        "love": "Looking ahead, Four of Cups suggests in love, boredom, emotional distance, or missed signals may be present.",
+        "career": "Looking ahead, Four of Cups suggests at work, motivation may feel low or an opportunity may not inspire you yet.",
+        "money": "Looking ahead, Four of Cups suggests money choices may be affected by dissatisfaction or comparison.",
+        "growth": "Looking ahead, Four of Cups suggests growth comes through listening to the emotion beneath the indifference."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is apathy showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does apathy affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can apathy guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does apathy reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can apathy teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
     "id": "five_of_cups",
     "name": "Five of Cups",
     "arcana": "minor",
@@ -50,61 +486,1042 @@
     },
     "positions": {
       "message": {
-        "general": "Something may still feel disappointing, but the whole picture is not lost.",
-        "love": "Your heart may be protecting itself because something once hurt.",
-        "career": "A result may feel discouraging, but it can still become useful information.",
-        "money": "Regret can become a clearer plan when you look at what remains.",
-        "growth": "This is a moment to process pain without becoming defined by it."
+        "general": "Acknowledge what hurt, but do not forget what still remains.",
+        "love": "Healing begins when you stop living only inside what went wrong.",
+        "career": "Learn from the loss, then look for what can still be rebuilt.",
+        "money": "Focus on the resources still available instead of only what was lost.",
+        "growth": "Do not let one difficult chapter become your entire story."
       },
       "situation": {
-        "general": "The situation may be colored by disappointment or regret.",
-        "love": "A previous hurt may still influence how open you feel.",
-        "career": "You may be judging the whole path through one setback.",
-        "money": "An old financial worry may be taking too much emotional space.",
-        "growth": "Self-compassion is needed before clarity can return."
+        "general": "The situation reflects the Five of Cups points to disappointment, regret, or emotional loss.",
+        "love": "The situation reflects old hurt, disappointment, or emotional distance may still be affecting the heart.",
+        "career": "The situation reflects a setback or missed opportunity may still weigh on your confidence.",
+        "money": "The situation reflects this card can suggest regret around past choices or missed financial chances.",
+        "growth": "The situation reflects growth may begin by facing grief, disappointment, or self-blame with honesty."
       },
       "past": {
-        "general": "The past may have carried disappointment, grief, or emotional loss.",
-        "love": "A previous hurt or relationship disappointment may still shape how you protect your heart.",
-        "career": "A past setback may have affected your confidence or direction.",
-        "money": "A previous financial disappointment may still influence your choices.",
-        "growth": "You may have grown through a painful lesson that still asks for compassion."
+        "general": "In the past, Five of Cups points to the Five of Cups points to disappointment, regret, or emotional loss.",
+        "love": "In the past, Five of Cups points to old hurt, disappointment, or emotional distance may still be affecting the heart.",
+        "career": "In the past, Five of Cups points to a setback or missed opportunity may still weigh on your confidence.",
+        "money": "In the past, Five of Cups points to this card can suggest regret around past choices or missed financial chances.",
+        "growth": "In the past, Five of Cups points to growth may begin by facing grief, disappointment, or self-blame with honesty."
       },
       "present": {
-        "general": "Right now, you may be focused on what went wrong instead of what still remains.",
-        "love": "Your heart may need gentleness before it can fully open again.",
-        "career": "You may be carrying disappointment from a recent result, but the path is not closed.",
-        "money": "A financial worry or regret may be asking for a calmer, clearer look.",
-        "growth": "This moment asks you to process what hurts without letting it define you."
+        "general": "In the present, Five of Cups highlights the Five of Cups points to disappointment, regret, or emotional loss.",
+        "love": "In the present, Five of Cups highlights old hurt, disappointment, or emotional distance may still be affecting the heart.",
+        "career": "In the present, Five of Cups highlights a setback or missed opportunity may still weigh on your confidence.",
+        "money": "In the present, Five of Cups highlights this card can suggest regret around past choices or missed financial chances.",
+        "growth": "In the present, Five of Cups highlights growth may begin by facing grief, disappointment, or self-blame with honesty."
       },
       "future": {
-        "general": "The future asks you to process what was lost without letting it define you.",
-        "love": "Emotional healing is possible, but it may require releasing old regret.",
-        "career": "A difficult lesson can become useful if you stop seeing it only as failure.",
-        "money": "A past mistake can guide wiser choices ahead.",
-        "growth": "Your next step may be learning how to carry wisdom without carrying blame."
+        "general": "Looking ahead, Five of Cups suggests the Five of Cups points to disappointment, regret, or emotional loss.",
+        "love": "Looking ahead, Five of Cups suggests old hurt, disappointment, or emotional distance may still be affecting the heart.",
+        "career": "Looking ahead, Five of Cups suggests a setback or missed opportunity may still weigh on your confidence.",
+        "money": "Looking ahead, Five of Cups suggests this card can suggest regret around past choices or missed financial chances.",
+        "growth": "Looking ahead, Five of Cups suggests growth may begin by facing grief, disappointment, or self-blame with honesty."
       }
     },
     "journalPrompts": {
       "general": [
-        "What am I still carrying that I am ready to set down?",
-        "What remains available to me, even after disappointment?"
+        "Where is loss showing up in my life?",
+        "What is the gentlest truthful next step?"
       ],
       "love": [
-        "What past hurt am I ready to stop bringing into every new moment?",
+        "How does loss affect the way I give or receive love?",
         "What would help my heart feel respected?"
       ],
       "career": [
-        "What did this setback teach me?",
-        "What part of the path is still open?"
+        "How can loss guide my work or direction?",
+        "What action would make this more grounded?"
       ],
       "money": [
-        "Which regret can become a practical lesson?",
-        "What resource do I still have?"
+        "What does loss reveal about my resources or values?",
+        "What practical choice can I repeat?"
       ],
       "growth": [
-        "Where can I offer myself compassion instead of blame?",
-        "What would it mean to move forward gently?"
+        "What can loss teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "six_of_cups",
+    "name": "Six of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "six",
+    "number": 6,
+    "assetId": "cups_06_six.png",
+    "keywords": [
+      "nostalgia",
+      "kindness",
+      "memory",
+      "innocence",
+      "return"
+    ],
+    "tags": [
+      "nostalgia",
+      "memory",
+      "kindness",
+      "past_influence",
+      "softness"
+    ],
+    "toneTags": [
+      "sweet",
+      "gentle",
+      "wistful"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Six of Cups brings memory, tenderness, and the influence of the past on the present.",
+        "advice": "Receive the sweetness of memory without needing to live inside it."
+      },
+      "love": {
+        "summary": "A past connection, old feeling, or familiar tenderness may be returning.",
+        "advice": "Let the past inform the heart without deciding everything for it."
+      },
+      "career": {
+        "summary": "Past experience or earlier skills may become useful again.",
+        "advice": "Reconnect with what once felt natural and sincere."
+      },
+      "money": {
+        "summary": "Money may relate to family, old habits, gifts, or familiar patterns.",
+        "advice": "Notice which old patterns still support you and which keep you small."
+      },
+      "growth": {
+        "summary": "Growth comes through honoring the child within without abandoning the adult you are.",
+        "advice": "Let memory soften you, not trap you."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Receive the sweetness of memory without needing to live inside it.",
+        "love": "Let the past inform the heart without deciding everything for it.",
+        "career": "Reconnect with what once felt natural and sincere.",
+        "money": "Notice which old patterns still support you and which keep you small.",
+        "growth": "Let memory soften you, not trap you."
+      },
+      "situation": {
+        "general": "The situation reflects the Six of Cups brings memory, tenderness, and the influence of the past on the present.",
+        "love": "The situation reflects a past connection, old feeling, or familiar tenderness may be returning.",
+        "career": "The situation reflects past experience or earlier skills may become useful again.",
+        "money": "The situation reflects money may relate to family, old habits, gifts, or familiar patterns.",
+        "growth": "The situation reflects growth comes through honoring the child within without abandoning the adult you are."
+      },
+      "past": {
+        "general": "In the past, Six of Cups points to the Six of Cups brings memory, tenderness, and the influence of the past on the present.",
+        "love": "In the past, Six of Cups points to a past connection, old feeling, or familiar tenderness may be returning.",
+        "career": "In the past, Six of Cups points to past experience or earlier skills may become useful again.",
+        "money": "In the past, Six of Cups points to money may relate to family, old habits, gifts, or familiar patterns.",
+        "growth": "In the past, Six of Cups points to growth comes through honoring the child within without abandoning the adult you are."
+      },
+      "present": {
+        "general": "In the present, Six of Cups highlights the Six of Cups brings memory, tenderness, and the influence of the past on the present.",
+        "love": "In the present, Six of Cups highlights a past connection, old feeling, or familiar tenderness may be returning.",
+        "career": "In the present, Six of Cups highlights past experience or earlier skills may become useful again.",
+        "money": "In the present, Six of Cups highlights money may relate to family, old habits, gifts, or familiar patterns.",
+        "growth": "In the present, Six of Cups highlights growth comes through honoring the child within without abandoning the adult you are."
+      },
+      "future": {
+        "general": "Looking ahead, Six of Cups suggests the Six of Cups brings memory, tenderness, and the influence of the past on the present.",
+        "love": "Looking ahead, Six of Cups suggests a past connection, old feeling, or familiar tenderness may be returning.",
+        "career": "Looking ahead, Six of Cups suggests past experience or earlier skills may become useful again.",
+        "money": "Looking ahead, Six of Cups suggests money may relate to family, old habits, gifts, or familiar patterns.",
+        "growth": "Looking ahead, Six of Cups suggests growth comes through honoring the child within without abandoning the adult you are."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is nostalgia showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does nostalgia affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can nostalgia guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does nostalgia reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can nostalgia teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "seven_of_cups",
+    "name": "Seven of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "seven",
+    "number": 7,
+    "assetId": "cups_07_seven.png",
+    "keywords": [
+      "choices",
+      "fantasy",
+      "imagination",
+      "temptation",
+      "possibility"
+    ],
+    "tags": [
+      "choices",
+      "fantasy",
+      "imagination",
+      "confusion",
+      "possibility"
+    ],
+    "toneTags": [
+      "dreamy",
+      "uncertain",
+      "imaginative"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Seven of Cups opens many possibilities, but not every vision is grounded.",
+        "advice": "Let imagination inspire you, then choose what can become real."
+      },
+      "love": {
+        "summary": "In love, attraction, fantasy, or too many emotional options may cloud clarity.",
+        "advice": "Look for consistency beneath the dream."
+      },
+      "career": {
+        "summary": "Career possibilities may be exciting, but focus is needed.",
+        "advice": "Choose one path to test instead of living in endless options."
+      },
+      "money": {
+        "summary": "Money decisions may be affected by wishful thinking or tempting offers.",
+        "advice": "Pause before buying into a fantasy of easy gain."
+      },
+      "growth": {
+        "summary": "Growth comes through discernment: learning which dreams deserve devotion.",
+        "advice": "Ask which desire is true, not only which is brightest."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let imagination inspire you, then choose what can become real.",
+        "love": "Look for consistency beneath the dream.",
+        "career": "Choose one path to test instead of living in endless options.",
+        "money": "Pause before buying into a fantasy of easy gain.",
+        "growth": "Ask which desire is true, not only which is brightest."
+      },
+      "situation": {
+        "general": "The situation reflects the Seven of Cups opens many possibilities, but not every vision is grounded.",
+        "love": "The situation reflects in love, attraction, fantasy, or too many emotional options may cloud clarity.",
+        "career": "The situation reflects career possibilities may be exciting, but focus is needed.",
+        "money": "The situation reflects money decisions may be affected by wishful thinking or tempting offers.",
+        "growth": "The situation reflects growth comes through discernment: learning which dreams deserve devotion."
+      },
+      "past": {
+        "general": "In the past, Seven of Cups points to the Seven of Cups opens many possibilities, but not every vision is grounded.",
+        "love": "In the past, Seven of Cups points to in love, attraction, fantasy, or too many emotional options may cloud clarity.",
+        "career": "In the past, Seven of Cups points to career possibilities may be exciting, but focus is needed.",
+        "money": "In the past, Seven of Cups points to money decisions may be affected by wishful thinking or tempting offers.",
+        "growth": "In the past, Seven of Cups points to growth comes through discernment: learning which dreams deserve devotion."
+      },
+      "present": {
+        "general": "In the present, Seven of Cups highlights the Seven of Cups opens many possibilities, but not every vision is grounded.",
+        "love": "In the present, Seven of Cups highlights in love, attraction, fantasy, or too many emotional options may cloud clarity.",
+        "career": "In the present, Seven of Cups highlights career possibilities may be exciting, but focus is needed.",
+        "money": "In the present, Seven of Cups highlights money decisions may be affected by wishful thinking or tempting offers.",
+        "growth": "In the present, Seven of Cups highlights growth comes through discernment: learning which dreams deserve devotion."
+      },
+      "future": {
+        "general": "Looking ahead, Seven of Cups suggests the Seven of Cups opens many possibilities, but not every vision is grounded.",
+        "love": "Looking ahead, Seven of Cups suggests in love, attraction, fantasy, or too many emotional options may cloud clarity.",
+        "career": "Looking ahead, Seven of Cups suggests career possibilities may be exciting, but focus is needed.",
+        "money": "Looking ahead, Seven of Cups suggests money decisions may be affected by wishful thinking or tempting offers.",
+        "growth": "Looking ahead, Seven of Cups suggests growth comes through discernment: learning which dreams deserve devotion."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is choices showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does choices affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can choices guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does choices reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can choices teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "eight_of_cups",
+    "name": "Eight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "eight",
+    "number": 8,
+    "assetId": "cups_08_eight.png",
+    "keywords": [
+      "departure",
+      "searching",
+      "release",
+      "emotional truth",
+      "moving on"
+    ],
+    "tags": [
+      "departure",
+      "release",
+      "searching",
+      "emotional_truth",
+      "self_respect"
+    ],
+    "toneTags": [
+      "quiet",
+      "brave",
+      "melancholic"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Eight of Cups marks the choice to leave what no longer nourishes the soul.",
+        "advice": "Honor the truth that staying is not always the same as loyalty."
+      },
+      "love": {
+        "summary": "In love, an emotional pattern or connection may no longer be enough.",
+        "advice": "Walk toward what respects your deeper needs."
+      },
+      "career": {
+        "summary": "Career may call for leaving a role, goal, or version of success that feels empty.",
+        "advice": "Let meaning matter as much as achievement."
+      },
+      "money": {
+        "summary": "Money choices may need to move away from habits that drain fulfillment.",
+        "advice": "Do not keep funding a life that no longer feels aligned."
+      },
+      "growth": {
+        "summary": "Growth comes through the courage to seek what is emotionally true.",
+        "advice": "Leave with honesty, not bitterness."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Honor the truth that staying is not always the same as loyalty.",
+        "love": "Walk toward what respects your deeper needs.",
+        "career": "Let meaning matter as much as achievement.",
+        "money": "Do not keep funding a life that no longer feels aligned.",
+        "growth": "Leave with honesty, not bitterness."
+      },
+      "situation": {
+        "general": "The situation reflects the Eight of Cups marks the choice to leave what no longer nourishes the soul.",
+        "love": "The situation reflects in love, an emotional pattern or connection may no longer be enough.",
+        "career": "The situation reflects career may call for leaving a role, goal, or version of success that feels empty.",
+        "money": "The situation reflects money choices may need to move away from habits that drain fulfillment.",
+        "growth": "The situation reflects growth comes through the courage to seek what is emotionally true."
+      },
+      "past": {
+        "general": "In the past, Eight of Cups points to the Eight of Cups marks the choice to leave what no longer nourishes the soul.",
+        "love": "In the past, Eight of Cups points to in love, an emotional pattern or connection may no longer be enough.",
+        "career": "In the past, Eight of Cups points to career may call for leaving a role, goal, or version of success that feels empty.",
+        "money": "In the past, Eight of Cups points to money choices may need to move away from habits that drain fulfillment.",
+        "growth": "In the past, Eight of Cups points to growth comes through the courage to seek what is emotionally true."
+      },
+      "present": {
+        "general": "In the present, Eight of Cups highlights the Eight of Cups marks the choice to leave what no longer nourishes the soul.",
+        "love": "In the present, Eight of Cups highlights in love, an emotional pattern or connection may no longer be enough.",
+        "career": "In the present, Eight of Cups highlights career may call for leaving a role, goal, or version of success that feels empty.",
+        "money": "In the present, Eight of Cups highlights money choices may need to move away from habits that drain fulfillment.",
+        "growth": "In the present, Eight of Cups highlights growth comes through the courage to seek what is emotionally true."
+      },
+      "future": {
+        "general": "Looking ahead, Eight of Cups suggests the Eight of Cups marks the choice to leave what no longer nourishes the soul.",
+        "love": "Looking ahead, Eight of Cups suggests in love, an emotional pattern or connection may no longer be enough.",
+        "career": "Looking ahead, Eight of Cups suggests career may call for leaving a role, goal, or version of success that feels empty.",
+        "money": "Looking ahead, Eight of Cups suggests money choices may need to move away from habits that drain fulfillment.",
+        "growth": "Looking ahead, Eight of Cups suggests growth comes through the courage to seek what is emotionally true."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is departure showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does departure affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can departure guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does departure reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can departure teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "nine_of_cups",
+    "name": "Nine of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "nine",
+    "number": 9,
+    "assetId": "cups_09_nine.png",
+    "keywords": [
+      "wish fulfillment",
+      "contentment",
+      "pleasure",
+      "satisfaction",
+      "gratitude"
+    ],
+    "tags": [
+      "wish_fulfillment",
+      "contentment",
+      "pleasure",
+      "gratitude",
+      "emotional_reward"
+    ],
+    "toneTags": [
+      "warm",
+      "satisfied",
+      "celebratory"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Nine of Cups brings satisfaction, gratitude, and the pleasure of receiving a heartfelt wish.",
+        "advice": "Enjoy what is here without needing it to be perfect forever."
+      },
+      "love": {
+        "summary": "In love, emotional satisfaction or a wished-for moment may arrive.",
+        "advice": "Let pleasure be honest, generous, and grounded."
+      },
+      "career": {
+        "summary": "Career may bring a personal win, confidence, or recognition of progress.",
+        "advice": "Celebrate the result while staying connected to the next honest step."
+      },
+      "money": {
+        "summary": "Money may support comfort, reward, or a meaningful treat.",
+        "advice": "Enjoy responsibly instead of turning pleasure into avoidance."
+      },
+      "growth": {
+        "summary": "Growth comes through allowing joy without guilt.",
+        "advice": "Notice what fulfillment feels like in your body."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Enjoy what is here without needing it to be perfect forever.",
+        "love": "Let pleasure be honest, generous, and grounded.",
+        "career": "Celebrate the result while staying connected to the next honest step.",
+        "money": "Enjoy responsibly instead of turning pleasure into avoidance.",
+        "growth": "Notice what fulfillment feels like in your body."
+      },
+      "situation": {
+        "general": "The situation reflects the Nine of Cups brings satisfaction, gratitude, and the pleasure of receiving a heartfelt wish.",
+        "love": "The situation reflects in love, emotional satisfaction or a wished-for moment may arrive.",
+        "career": "The situation reflects career may bring a personal win, confidence, or recognition of progress.",
+        "money": "The situation reflects money may support comfort, reward, or a meaningful treat.",
+        "growth": "The situation reflects growth comes through allowing joy without guilt."
+      },
+      "past": {
+        "general": "In the past, Nine of Cups points to the Nine of Cups brings satisfaction, gratitude, and the pleasure of receiving a heartfelt wish.",
+        "love": "In the past, Nine of Cups points to in love, emotional satisfaction or a wished-for moment may arrive.",
+        "career": "In the past, Nine of Cups points to career may bring a personal win, confidence, or recognition of progress.",
+        "money": "In the past, Nine of Cups points to money may support comfort, reward, or a meaningful treat.",
+        "growth": "In the past, Nine of Cups points to growth comes through allowing joy without guilt."
+      },
+      "present": {
+        "general": "In the present, Nine of Cups highlights the Nine of Cups brings satisfaction, gratitude, and the pleasure of receiving a heartfelt wish.",
+        "love": "In the present, Nine of Cups highlights in love, emotional satisfaction or a wished-for moment may arrive.",
+        "career": "In the present, Nine of Cups highlights career may bring a personal win, confidence, or recognition of progress.",
+        "money": "In the present, Nine of Cups highlights money may support comfort, reward, or a meaningful treat.",
+        "growth": "In the present, Nine of Cups highlights growth comes through allowing joy without guilt."
+      },
+      "future": {
+        "general": "Looking ahead, Nine of Cups suggests the Nine of Cups brings satisfaction, gratitude, and the pleasure of receiving a heartfelt wish.",
+        "love": "Looking ahead, Nine of Cups suggests in love, emotional satisfaction or a wished-for moment may arrive.",
+        "career": "Looking ahead, Nine of Cups suggests career may bring a personal win, confidence, or recognition of progress.",
+        "money": "Looking ahead, Nine of Cups suggests money may support comfort, reward, or a meaningful treat.",
+        "growth": "Looking ahead, Nine of Cups suggests growth comes through allowing joy without guilt."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is wish fulfillment showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does wish fulfillment affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can wish fulfillment guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does wish fulfillment reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can wish fulfillment teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "ten_of_cups",
+    "name": "Ten of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "ten",
+    "number": 10,
+    "assetId": "cups_10_ten.png",
+    "keywords": [
+      "harmony",
+      "family",
+      "belonging",
+      "emotional fulfillment",
+      "peace"
+    ],
+    "tags": [
+      "harmony",
+      "belonging",
+      "family",
+      "emotional_fulfillment",
+      "peace"
+    ],
+    "toneTags": [
+      "warm",
+      "peaceful",
+      "whole"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Ten of Cups points to emotional harmony, belonging, and shared peace.",
+        "advice": "Notice what creates real home for your heart."
+      },
+      "love": {
+        "summary": "In love, this card suggests warmth, commitment, and emotional safety.",
+        "advice": "Build happiness through daily care, not only ideal images."
+      },
+      "career": {
+        "summary": "Career may benefit from a supportive environment or values-aligned success.",
+        "advice": "Choose a path that supports the life you want to live."
+      },
+      "money": {
+        "summary": "Money may relate to family security, home, or long-term peace.",
+        "advice": "Let financial choices serve wellbeing, not only appearance."
+      },
+      "growth": {
+        "summary": "Growth comes through learning what genuine belonging means.",
+        "advice": "Let joy be shared, simple, and sincere."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Notice what creates real home for your heart.",
+        "love": "Build happiness through daily care, not only ideal images.",
+        "career": "Choose a path that supports the life you want to live.",
+        "money": "Let financial choices serve wellbeing, not only appearance.",
+        "growth": "Let joy be shared, simple, and sincere."
+      },
+      "situation": {
+        "general": "The situation reflects the Ten of Cups points to emotional harmony, belonging, and shared peace.",
+        "love": "The situation reflects in love, this card suggests warmth, commitment, and emotional safety.",
+        "career": "The situation reflects career may benefit from a supportive environment or values-aligned success.",
+        "money": "The situation reflects money may relate to family security, home, or long-term peace.",
+        "growth": "The situation reflects growth comes through learning what genuine belonging means."
+      },
+      "past": {
+        "general": "In the past, Ten of Cups points to the Ten of Cups points to emotional harmony, belonging, and shared peace.",
+        "love": "In the past, Ten of Cups points to in love, this card suggests warmth, commitment, and emotional safety.",
+        "career": "In the past, Ten of Cups points to career may benefit from a supportive environment or values-aligned success.",
+        "money": "In the past, Ten of Cups points to money may relate to family security, home, or long-term peace.",
+        "growth": "In the past, Ten of Cups points to growth comes through learning what genuine belonging means."
+      },
+      "present": {
+        "general": "In the present, Ten of Cups highlights the Ten of Cups points to emotional harmony, belonging, and shared peace.",
+        "love": "In the present, Ten of Cups highlights in love, this card suggests warmth, commitment, and emotional safety.",
+        "career": "In the present, Ten of Cups highlights career may benefit from a supportive environment or values-aligned success.",
+        "money": "In the present, Ten of Cups highlights money may relate to family security, home, or long-term peace.",
+        "growth": "In the present, Ten of Cups highlights growth comes through learning what genuine belonging means."
+      },
+      "future": {
+        "general": "Looking ahead, Ten of Cups suggests the Ten of Cups points to emotional harmony, belonging, and shared peace.",
+        "love": "Looking ahead, Ten of Cups suggests in love, this card suggests warmth, commitment, and emotional safety.",
+        "career": "Looking ahead, Ten of Cups suggests career may benefit from a supportive environment or values-aligned success.",
+        "money": "Looking ahead, Ten of Cups suggests money may relate to family security, home, or long-term peace.",
+        "growth": "Looking ahead, Ten of Cups suggests growth comes through learning what genuine belonging means."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is harmony showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does harmony affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can harmony guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does harmony reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can harmony teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "page_of_cups",
+    "name": "Page of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "page",
+    "number": 11,
+    "assetId": "cups_11_page.png",
+    "keywords": [
+      "sensitivity",
+      "creative message",
+      "curiosity",
+      "gentle feelings",
+      "imagination"
+    ],
+    "tags": [
+      "sensitivity",
+      "creative_message",
+      "curiosity",
+      "imagination",
+      "emotional_learning"
+    ],
+    "toneTags": [
+      "sweet",
+      "curious",
+      "soft"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Page of Cups brings emotional curiosity, creative messages, and tender openness.",
+        "advice": "Let yourself be sincere, even if the feeling is new or awkward."
+      },
+      "love": {
+        "summary": "In love, a sweet message, crush, apology, or emotional opening may appear.",
+        "advice": "Respond gently, but do not abandon maturity."
+      },
+      "career": {
+        "summary": "Creative work may receive inspiration through play and curiosity.",
+        "advice": "Let a small idea be explored before judging it."
+      },
+      "money": {
+        "summary": "Money choices may be influenced by imagination or emotional impulse.",
+        "advice": "Give dreams a budget and a structure."
+      },
+      "growth": {
+        "summary": "Growth comes through listening to your sensitive inner voice.",
+        "advice": "Let vulnerability be a beginning, not a weakness."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let yourself be sincere, even if the feeling is new or awkward.",
+        "love": "Respond gently, but do not abandon maturity.",
+        "career": "Let a small idea be explored before judging it.",
+        "money": "Give dreams a budget and a structure.",
+        "growth": "Let vulnerability be a beginning, not a weakness."
+      },
+      "situation": {
+        "general": "The situation reflects the Page of Cups brings emotional curiosity, creative messages, and tender openness.",
+        "love": "The situation reflects in love, a sweet message, crush, apology, or emotional opening may appear.",
+        "career": "The situation reflects creative work may receive inspiration through play and curiosity.",
+        "money": "The situation reflects money choices may be influenced by imagination or emotional impulse.",
+        "growth": "The situation reflects growth comes through listening to your sensitive inner voice."
+      },
+      "past": {
+        "general": "In the past, Page of Cups points to the Page of Cups brings emotional curiosity, creative messages, and tender openness.",
+        "love": "In the past, Page of Cups points to in love, a sweet message, crush, apology, or emotional opening may appear.",
+        "career": "In the past, Page of Cups points to creative work may receive inspiration through play and curiosity.",
+        "money": "In the past, Page of Cups points to money choices may be influenced by imagination or emotional impulse.",
+        "growth": "In the past, Page of Cups points to growth comes through listening to your sensitive inner voice."
+      },
+      "present": {
+        "general": "In the present, Page of Cups highlights the Page of Cups brings emotional curiosity, creative messages, and tender openness.",
+        "love": "In the present, Page of Cups highlights in love, a sweet message, crush, apology, or emotional opening may appear.",
+        "career": "In the present, Page of Cups highlights creative work may receive inspiration through play and curiosity.",
+        "money": "In the present, Page of Cups highlights money choices may be influenced by imagination or emotional impulse.",
+        "growth": "In the present, Page of Cups highlights growth comes through listening to your sensitive inner voice."
+      },
+      "future": {
+        "general": "Looking ahead, Page of Cups suggests the Page of Cups brings emotional curiosity, creative messages, and tender openness.",
+        "love": "Looking ahead, Page of Cups suggests in love, a sweet message, crush, apology, or emotional opening may appear.",
+        "career": "Looking ahead, Page of Cups suggests creative work may receive inspiration through play and curiosity.",
+        "money": "Looking ahead, Page of Cups suggests money choices may be influenced by imagination or emotional impulse.",
+        "growth": "Looking ahead, Page of Cups suggests growth comes through listening to your sensitive inner voice."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is sensitivity showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does sensitivity affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can sensitivity guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does sensitivity reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can sensitivity teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "knight_of_cups",
+    "name": "Knight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "knight",
+    "number": 12,
+    "assetId": "cups_12_knight.png",
+    "keywords": [
+      "romance",
+      "quest",
+      "idealism",
+      "invitation",
+      "emotional movement"
+    ],
+    "tags": [
+      "romance",
+      "idealism",
+      "invitation",
+      "emotional_movement",
+      "quest"
+    ],
+    "toneTags": [
+      "romantic",
+      "flowing",
+      "dreamy"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Knight of Cups follows feeling, beauty, and the call of the heart.",
+        "advice": "Move with romance and sincerity, but keep your feet on the ground."
+      },
+      "love": {
+        "summary": "In love, this card can bring attraction, invitation, or poetic emotional expression.",
+        "advice": "Enjoy the gesture, then look for steady follow-through."
+      },
+      "career": {
+        "summary": "Career may involve creative pursuit, diplomacy, or work that needs emotional intelligence.",
+        "advice": "Let inspiration travel with practical planning."
+      },
+      "money": {
+        "summary": "Money choices may be colored by desire, aesthetics, or idealism.",
+        "advice": "Do not let the dream spend for you before the plan exists."
+      },
+      "growth": {
+        "summary": "Growth comes through learning how to follow feeling without being carried away.",
+        "advice": "Let the heart lead, but let wisdom steer."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Move with romance and sincerity, but keep your feet on the ground.",
+        "love": "Enjoy the gesture, then look for steady follow-through.",
+        "career": "Let inspiration travel with practical planning.",
+        "money": "Do not let the dream spend for you before the plan exists.",
+        "growth": "Let the heart lead, but let wisdom steer."
+      },
+      "situation": {
+        "general": "The situation reflects the Knight of Cups follows feeling, beauty, and the call of the heart.",
+        "love": "The situation reflects in love, this card can bring attraction, invitation, or poetic emotional expression.",
+        "career": "The situation reflects career may involve creative pursuit, diplomacy, or work that needs emotional intelligence.",
+        "money": "The situation reflects money choices may be colored by desire, aesthetics, or idealism.",
+        "growth": "The situation reflects growth comes through learning how to follow feeling without being carried away."
+      },
+      "past": {
+        "general": "In the past, Knight of Cups points to the Knight of Cups follows feeling, beauty, and the call of the heart.",
+        "love": "In the past, Knight of Cups points to in love, this card can bring attraction, invitation, or poetic emotional expression.",
+        "career": "In the past, Knight of Cups points to career may involve creative pursuit, diplomacy, or work that needs emotional intelligence.",
+        "money": "In the past, Knight of Cups points to money choices may be colored by desire, aesthetics, or idealism.",
+        "growth": "In the past, Knight of Cups points to growth comes through learning how to follow feeling without being carried away."
+      },
+      "present": {
+        "general": "In the present, Knight of Cups highlights the Knight of Cups follows feeling, beauty, and the call of the heart.",
+        "love": "In the present, Knight of Cups highlights in love, this card can bring attraction, invitation, or poetic emotional expression.",
+        "career": "In the present, Knight of Cups highlights career may involve creative pursuit, diplomacy, or work that needs emotional intelligence.",
+        "money": "In the present, Knight of Cups highlights money choices may be colored by desire, aesthetics, or idealism.",
+        "growth": "In the present, Knight of Cups highlights growth comes through learning how to follow feeling without being carried away."
+      },
+      "future": {
+        "general": "Looking ahead, Knight of Cups suggests the Knight of Cups follows feeling, beauty, and the call of the heart.",
+        "love": "Looking ahead, Knight of Cups suggests in love, this card can bring attraction, invitation, or poetic emotional expression.",
+        "career": "Looking ahead, Knight of Cups suggests career may involve creative pursuit, diplomacy, or work that needs emotional intelligence.",
+        "money": "Looking ahead, Knight of Cups suggests money choices may be colored by desire, aesthetics, or idealism.",
+        "growth": "Looking ahead, Knight of Cups suggests growth comes through learning how to follow feeling without being carried away."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is romance showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does romance affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can romance guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does romance reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can romance teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "queen_of_cups",
+    "name": "Queen of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "queen",
+    "number": 13,
+    "assetId": "cups_13_queen.png",
+    "keywords": [
+      "empathy",
+      "intuition",
+      "care",
+      "emotional maturity",
+      "compassion"
+    ],
+    "tags": [
+      "empathy",
+      "intuition",
+      "care",
+      "emotional_maturity",
+      "compassion"
+    ],
+    "toneTags": [
+      "nurturing",
+      "intuitive",
+      "deep"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Queen of Cups is compassionate, intuitive, and emotionally wise.",
+        "advice": "Care deeply without absorbing what is not yours to carry."
+      },
+      "love": {
+        "summary": "In love, tenderness, empathy, and emotional understanding are highlighted.",
+        "advice": "Let compassion include yourself as much as the other person."
+      },
+      "career": {
+        "summary": "Career may benefit from listening, counseling, creativity, or relational wisdom.",
+        "advice": "Bring empathy into the work while protecting your energy."
+      },
+      "money": {
+        "summary": "Money decisions may need emotional honesty and gentle boundaries.",
+        "advice": "Do not use generosity to avoid discomfort."
+      },
+      "growth": {
+        "summary": "Growth comes through trusting feeling while staying centered.",
+        "advice": "Let your sensitivity become a source of wisdom."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Care deeply without absorbing what is not yours to carry.",
+        "love": "Let compassion include yourself as much as the other person.",
+        "career": "Bring empathy into the work while protecting your energy.",
+        "money": "Do not use generosity to avoid discomfort.",
+        "growth": "Let your sensitivity become a source of wisdom."
+      },
+      "situation": {
+        "general": "The situation reflects the Queen of Cups is compassionate, intuitive, and emotionally wise.",
+        "love": "The situation reflects in love, tenderness, empathy, and emotional understanding are highlighted.",
+        "career": "The situation reflects career may benefit from listening, counseling, creativity, or relational wisdom.",
+        "money": "The situation reflects money decisions may need emotional honesty and gentle boundaries.",
+        "growth": "The situation reflects growth comes through trusting feeling while staying centered."
+      },
+      "past": {
+        "general": "In the past, Queen of Cups points to the Queen of Cups is compassionate, intuitive, and emotionally wise.",
+        "love": "In the past, Queen of Cups points to in love, tenderness, empathy, and emotional understanding are highlighted.",
+        "career": "In the past, Queen of Cups points to career may benefit from listening, counseling, creativity, or relational wisdom.",
+        "money": "In the past, Queen of Cups points to money decisions may need emotional honesty and gentle boundaries.",
+        "growth": "In the past, Queen of Cups points to growth comes through trusting feeling while staying centered."
+      },
+      "present": {
+        "general": "In the present, Queen of Cups highlights the Queen of Cups is compassionate, intuitive, and emotionally wise.",
+        "love": "In the present, Queen of Cups highlights in love, tenderness, empathy, and emotional understanding are highlighted.",
+        "career": "In the present, Queen of Cups highlights career may benefit from listening, counseling, creativity, or relational wisdom.",
+        "money": "In the present, Queen of Cups highlights money decisions may need emotional honesty and gentle boundaries.",
+        "growth": "In the present, Queen of Cups highlights growth comes through trusting feeling while staying centered."
+      },
+      "future": {
+        "general": "Looking ahead, Queen of Cups suggests the Queen of Cups is compassionate, intuitive, and emotionally wise.",
+        "love": "Looking ahead, Queen of Cups suggests in love, tenderness, empathy, and emotional understanding are highlighted.",
+        "career": "Looking ahead, Queen of Cups suggests career may benefit from listening, counseling, creativity, or relational wisdom.",
+        "money": "Looking ahead, Queen of Cups suggests money decisions may need emotional honesty and gentle boundaries.",
+        "growth": "Looking ahead, Queen of Cups suggests growth comes through trusting feeling while staying centered."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is empathy showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does empathy affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can empathy guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does empathy reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can empathy teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "king_of_cups",
+    "name": "King of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "king",
+    "number": 14,
+    "assetId": "cups_14_king.png",
+    "keywords": [
+      "emotional balance",
+      "wisdom",
+      "diplomacy",
+      "calm",
+      "mastery"
+    ],
+    "tags": [
+      "emotional_balance",
+      "wisdom",
+      "diplomacy",
+      "calm",
+      "self_mastery"
+    ],
+    "toneTags": [
+      "calm",
+      "wise",
+      "steady"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The King of Cups brings emotional steadiness, compassion, and mature self-command.",
+        "advice": "Feel fully, but respond from the calm center."
+      },
+      "love": {
+        "summary": "In love, mature communication and emotional responsibility are needed.",
+        "advice": "Let kindness and clarity guide the relationship together."
+      },
+      "career": {
+        "summary": "Career matters may require diplomacy, leadership, or calm under pressure.",
+        "advice": "Hold the emotional tone without becoming controlled by it."
+      },
+      "money": {
+        "summary": "Money choices benefit from calm judgment rather than mood-driven reaction.",
+        "advice": "Make decisions after the emotional wave has passed."
+      },
+      "growth": {
+        "summary": "Growth comes through emotional mastery, not emotional suppression.",
+        "advice": "Practice being both soft-hearted and steady."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Feel fully, but respond from the calm center.",
+        "love": "Let kindness and clarity guide the relationship together.",
+        "career": "Hold the emotional tone without becoming controlled by it.",
+        "money": "Make decisions after the emotional wave has passed.",
+        "growth": "Practice being both soft-hearted and steady."
+      },
+      "situation": {
+        "general": "The situation reflects the King of Cups brings emotional steadiness, compassion, and mature self-command.",
+        "love": "The situation reflects in love, mature communication and emotional responsibility are needed.",
+        "career": "The situation reflects career matters may require diplomacy, leadership, or calm under pressure.",
+        "money": "The situation reflects money choices benefit from calm judgment rather than mood-driven reaction.",
+        "growth": "The situation reflects growth comes through emotional mastery, not emotional suppression."
+      },
+      "past": {
+        "general": "In the past, King of Cups points to the King of Cups brings emotional steadiness, compassion, and mature self-command.",
+        "love": "In the past, King of Cups points to in love, mature communication and emotional responsibility are needed.",
+        "career": "In the past, King of Cups points to career matters may require diplomacy, leadership, or calm under pressure.",
+        "money": "In the past, King of Cups points to money choices benefit from calm judgment rather than mood-driven reaction.",
+        "growth": "In the past, King of Cups points to growth comes through emotional mastery, not emotional suppression."
+      },
+      "present": {
+        "general": "In the present, King of Cups highlights the King of Cups brings emotional steadiness, compassion, and mature self-command.",
+        "love": "In the present, King of Cups highlights in love, mature communication and emotional responsibility are needed.",
+        "career": "In the present, King of Cups highlights career matters may require diplomacy, leadership, or calm under pressure.",
+        "money": "In the present, King of Cups highlights money choices benefit from calm judgment rather than mood-driven reaction.",
+        "growth": "In the present, King of Cups highlights growth comes through emotional mastery, not emotional suppression."
+      },
+      "future": {
+        "general": "Looking ahead, King of Cups suggests the King of Cups brings emotional steadiness, compassion, and mature self-command.",
+        "love": "Looking ahead, King of Cups suggests in love, mature communication and emotional responsibility are needed.",
+        "career": "Looking ahead, King of Cups suggests career matters may require diplomacy, leadership, or calm under pressure.",
+        "money": "Looking ahead, King of Cups suggests money choices benefit from calm judgment rather than mood-driven reaction.",
+        "growth": "Looking ahead, King of Cups suggests growth comes through emotional mastery, not emotional suppression."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is emotional balance showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does emotional balance affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can emotional balance guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does emotional balance reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can emotional balance teach me about myself?",
+        "What would it mean to grow without forcing myself?"
       ]
     }
   }

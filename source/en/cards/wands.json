@@ -1,1 +1,1528 @@
-[]
+[
+  {
+    "id": "ace_of_wands",
+    "name": "Ace of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "ace",
+    "number": 1,
+    "assetId": "wands_01_ace.png",
+    "keywords": [
+      "spark",
+      "inspiration",
+      "creative beginning",
+      "desire",
+      "initiative"
+    ],
+    "tags": [
+      "spark",
+      "inspiration",
+      "creative_beginning",
+      "initiative",
+      "passion"
+    ],
+    "toneTags": [
+      "bright",
+      "energetic",
+      "bold"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Ace of Wands ignites inspiration, desire, and the first spark of action.",
+        "advice": "Say yes to the spark, then give it a place to grow."
+      },
+      "love": {
+        "summary": "Love may feel newly alive, playful, or charged with possibility.",
+        "advice": "Let attraction inspire you without rushing the whole story."
+      },
+      "career": {
+        "summary": "A new project, idea, or career impulse wants movement.",
+        "advice": "Capture the energy quickly and turn it into a first step."
+      },
+      "money": {
+        "summary": "Money may be affected by entrepreneurial ideas or inspired action.",
+        "advice": "Test the idea before investing too much energy or resources."
+      },
+      "growth": {
+        "summary": "Growth begins with permission to want, create, and move.",
+        "advice": "Let your inner fire show you what still matters."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Say yes to the spark, then give it a place to grow.",
+        "love": "Let attraction inspire you without rushing the whole story.",
+        "career": "Capture the energy quickly and turn it into a first step.",
+        "money": "Test the idea before investing too much energy or resources.",
+        "growth": "Let your inner fire show you what still matters."
+      },
+      "situation": {
+        "general": "The situation reflects the Ace of Wands ignites inspiration, desire, and the first spark of action.",
+        "love": "The situation reflects love may feel newly alive, playful, or charged with possibility.",
+        "career": "The situation reflects a new project, idea, or career impulse wants movement.",
+        "money": "The situation reflects money may be affected by entrepreneurial ideas or inspired action.",
+        "growth": "The situation reflects growth begins with permission to want, create, and move."
+      },
+      "past": {
+        "general": "In the past, Ace of Wands points to the Ace of Wands ignites inspiration, desire, and the first spark of action.",
+        "love": "In the past, Ace of Wands points to love may feel newly alive, playful, or charged with possibility.",
+        "career": "In the past, Ace of Wands points to a new project, idea, or career impulse wants movement.",
+        "money": "In the past, Ace of Wands points to money may be affected by entrepreneurial ideas or inspired action.",
+        "growth": "In the past, Ace of Wands points to growth begins with permission to want, create, and move."
+      },
+      "present": {
+        "general": "In the present, Ace of Wands highlights the Ace of Wands ignites inspiration, desire, and the first spark of action.",
+        "love": "In the present, Ace of Wands highlights love may feel newly alive, playful, or charged with possibility.",
+        "career": "In the present, Ace of Wands highlights a new project, idea, or career impulse wants movement.",
+        "money": "In the present, Ace of Wands highlights money may be affected by entrepreneurial ideas or inspired action.",
+        "growth": "In the present, Ace of Wands highlights growth begins with permission to want, create, and move."
+      },
+      "future": {
+        "general": "Looking ahead, Ace of Wands suggests the Ace of Wands ignites inspiration, desire, and the first spark of action.",
+        "love": "Looking ahead, Ace of Wands suggests love may feel newly alive, playful, or charged with possibility.",
+        "career": "Looking ahead, Ace of Wands suggests a new project, idea, or career impulse wants movement.",
+        "money": "Looking ahead, Ace of Wands suggests money may be affected by entrepreneurial ideas or inspired action.",
+        "growth": "Looking ahead, Ace of Wands suggests growth begins with permission to want, create, and move."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is spark showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does spark affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can spark guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does spark reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can spark teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "two_of_wands",
+    "name": "Two of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "two",
+    "number": 2,
+    "assetId": "wands_02_two.png",
+    "keywords": [
+      "planning",
+      "vision",
+      "choice",
+      "future",
+      "personal power"
+    ],
+    "tags": [
+      "planning",
+      "vision",
+      "choice",
+      "future_focus",
+      "personal_power"
+    ],
+    "toneTags": [
+      "focused",
+      "expansive",
+      "strategic"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Two of Wands looks outward, planning the next stage from a place of growing power.",
+        "advice": "Choose the direction that expands you without abandoning your center."
+      },
+      "love": {
+        "summary": "In love, you may be considering what future a connection can realistically hold.",
+        "advice": "Speak about direction before assumptions become expectations."
+      },
+      "career": {
+        "summary": "Career asks for strategy, long-term vision, and a conscious next move.",
+        "advice": "Look beyond the immediate task and choose the wider path."
+      },
+      "money": {
+        "summary": "Money choices may involve planning, expansion, or investment in the future.",
+        "advice": "Set a direction before committing resources."
+      },
+      "growth": {
+        "summary": "Growth comes through realizing you have more agency than you used to.",
+        "advice": "Stand at the threshold and choose intentionally."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Choose the direction that expands you without abandoning your center.",
+        "love": "Speak about direction before assumptions become expectations.",
+        "career": "Look beyond the immediate task and choose the wider path.",
+        "money": "Set a direction before committing resources.",
+        "growth": "Stand at the threshold and choose intentionally."
+      },
+      "situation": {
+        "general": "The situation reflects the Two of Wands looks outward, planning the next stage from a place of growing power.",
+        "love": "The situation reflects in love, you may be considering what future a connection can realistically hold.",
+        "career": "The situation reflects career asks for strategy, long-term vision, and a conscious next move.",
+        "money": "The situation reflects money choices may involve planning, expansion, or investment in the future.",
+        "growth": "The situation reflects growth comes through realizing you have more agency than you used to."
+      },
+      "past": {
+        "general": "In the past, Two of Wands points to the Two of Wands looks outward, planning the next stage from a place of growing power.",
+        "love": "In the past, Two of Wands points to in love, you may be considering what future a connection can realistically hold.",
+        "career": "In the past, Two of Wands points to career asks for strategy, long-term vision, and a conscious next move.",
+        "money": "In the past, Two of Wands points to money choices may involve planning, expansion, or investment in the future.",
+        "growth": "In the past, Two of Wands points to growth comes through realizing you have more agency than you used to."
+      },
+      "present": {
+        "general": "In the present, Two of Wands highlights the Two of Wands looks outward, planning the next stage from a place of growing power.",
+        "love": "In the present, Two of Wands highlights in love, you may be considering what future a connection can realistically hold.",
+        "career": "In the present, Two of Wands highlights career asks for strategy, long-term vision, and a conscious next move.",
+        "money": "In the present, Two of Wands highlights money choices may involve planning, expansion, or investment in the future.",
+        "growth": "In the present, Two of Wands highlights growth comes through realizing you have more agency than you used to."
+      },
+      "future": {
+        "general": "Looking ahead, Two of Wands suggests the Two of Wands looks outward, planning the next stage from a place of growing power.",
+        "love": "Looking ahead, Two of Wands suggests in love, you may be considering what future a connection can realistically hold.",
+        "career": "Looking ahead, Two of Wands suggests career asks for strategy, long-term vision, and a conscious next move.",
+        "money": "Looking ahead, Two of Wands suggests money choices may involve planning, expansion, or investment in the future.",
+        "growth": "Looking ahead, Two of Wands suggests growth comes through realizing you have more agency than you used to."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is planning showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does planning affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can planning guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does planning reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can planning teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "three_of_wands",
+    "name": "Three of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "three",
+    "number": 3,
+    "assetId": "wands_03_three.png",
+    "keywords": [
+      "expansion",
+      "waiting",
+      "progress",
+      "foresight",
+      "ships coming in"
+    ],
+    "tags": [
+      "expansion",
+      "progress",
+      "foresight",
+      "waiting",
+      "opportunity"
+    ],
+    "toneTags": [
+      "patient",
+      "hopeful",
+      "expansive"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Three of Wands shows progress already set in motion and the patience to watch it unfold.",
+        "advice": "Keep looking ahead while the results begin to travel back to you."
+      },
+      "love": {
+        "summary": "Love may be expanding through distance, future plans, or emotional openness.",
+        "advice": "Let the connection grow beyond old limits with honest communication."
+      },
+      "career": {
+        "summary": "Career efforts may start showing signs of return or wider reach.",
+        "advice": "Stay prepared for the opportunities your work has invited."
+      },
+      "money": {
+        "summary": "Money may improve through planning, delayed results, or broader possibilities.",
+        "advice": "Track what is returning before making the next move."
+      },
+      "growth": {
+        "summary": "Growth comes through trusting a process you have already begun.",
+        "advice": "Let patience become part of your courage."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Keep looking ahead while the results begin to travel back to you.",
+        "love": "Let the connection grow beyond old limits with honest communication.",
+        "career": "Stay prepared for the opportunities your work has invited.",
+        "money": "Track what is returning before making the next move.",
+        "growth": "Let patience become part of your courage."
+      },
+      "situation": {
+        "general": "The situation reflects the Three of Wands shows progress already set in motion and the patience to watch it unfold.",
+        "love": "The situation reflects love may be expanding through distance, future plans, or emotional openness.",
+        "career": "The situation reflects career efforts may start showing signs of return or wider reach.",
+        "money": "The situation reflects money may improve through planning, delayed results, or broader possibilities.",
+        "growth": "The situation reflects growth comes through trusting a process you have already begun."
+      },
+      "past": {
+        "general": "In the past, Three of Wands points to the Three of Wands shows progress already set in motion and the patience to watch it unfold.",
+        "love": "In the past, Three of Wands points to love may be expanding through distance, future plans, or emotional openness.",
+        "career": "In the past, Three of Wands points to career efforts may start showing signs of return or wider reach.",
+        "money": "In the past, Three of Wands points to money may improve through planning, delayed results, or broader possibilities.",
+        "growth": "In the past, Three of Wands points to growth comes through trusting a process you have already begun."
+      },
+      "present": {
+        "general": "In the present, Three of Wands highlights the Three of Wands shows progress already set in motion and the patience to watch it unfold.",
+        "love": "In the present, Three of Wands highlights love may be expanding through distance, future plans, or emotional openness.",
+        "career": "In the present, Three of Wands highlights career efforts may start showing signs of return or wider reach.",
+        "money": "In the present, Three of Wands highlights money may improve through planning, delayed results, or broader possibilities.",
+        "growth": "In the present, Three of Wands highlights growth comes through trusting a process you have already begun."
+      },
+      "future": {
+        "general": "Looking ahead, Three of Wands suggests the Three of Wands shows progress already set in motion and the patience to watch it unfold.",
+        "love": "Looking ahead, Three of Wands suggests love may be expanding through distance, future plans, or emotional openness.",
+        "career": "Looking ahead, Three of Wands suggests career efforts may start showing signs of return or wider reach.",
+        "money": "Looking ahead, Three of Wands suggests money may improve through planning, delayed results, or broader possibilities.",
+        "growth": "Looking ahead, Three of Wands suggests growth comes through trusting a process you have already begun."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is expansion showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does expansion affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can expansion guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does expansion reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can expansion teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "four_of_wands",
+    "name": "Four of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "four",
+    "number": 4,
+    "assetId": "wands_04_four.png",
+    "keywords": [
+      "celebration",
+      "home",
+      "stability",
+      "milestone",
+      "welcome"
+    ],
+    "tags": [
+      "celebration",
+      "home",
+      "stability",
+      "milestone",
+      "belonging"
+    ],
+    "toneTags": [
+      "joyful",
+      "grounded",
+      "welcoming"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Four of Wands celebrates stability, welcome, and a meaningful milestone.",
+        "advice": "Pause to honor what has become safe enough to enjoy."
+      },
+      "love": {
+        "summary": "Love may bring warmth, commitment, family, or shared celebration.",
+        "advice": "Let joy deepen the bond instead of rushing past it."
+      },
+      "career": {
+        "summary": "Career may reach a milestone or supportive team moment.",
+        "advice": "Celebrate progress and strengthen the foundation beneath it."
+      },
+      "money": {
+        "summary": "Money may connect to home, events, or shared stability.",
+        "advice": "Spend in ways that support belonging and not only appearances."
+      },
+      "growth": {
+        "summary": "Growth comes through allowing yourself to enjoy what you have built.",
+        "advice": "Let celebration be part of healing."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Pause to honor what has become safe enough to enjoy.",
+        "love": "Let joy deepen the bond instead of rushing past it.",
+        "career": "Celebrate progress and strengthen the foundation beneath it.",
+        "money": "Spend in ways that support belonging and not only appearances.",
+        "growth": "Let celebration be part of healing."
+      },
+      "situation": {
+        "general": "The situation reflects the Four of Wands celebrates stability, welcome, and a meaningful milestone.",
+        "love": "The situation reflects love may bring warmth, commitment, family, or shared celebration.",
+        "career": "The situation reflects career may reach a milestone or supportive team moment.",
+        "money": "The situation reflects money may connect to home, events, or shared stability.",
+        "growth": "The situation reflects growth comes through allowing yourself to enjoy what you have built."
+      },
+      "past": {
+        "general": "In the past, Four of Wands points to the Four of Wands celebrates stability, welcome, and a meaningful milestone.",
+        "love": "In the past, Four of Wands points to love may bring warmth, commitment, family, or shared celebration.",
+        "career": "In the past, Four of Wands points to career may reach a milestone or supportive team moment.",
+        "money": "In the past, Four of Wands points to money may connect to home, events, or shared stability.",
+        "growth": "In the past, Four of Wands points to growth comes through allowing yourself to enjoy what you have built."
+      },
+      "present": {
+        "general": "In the present, Four of Wands highlights the Four of Wands celebrates stability, welcome, and a meaningful milestone.",
+        "love": "In the present, Four of Wands highlights love may bring warmth, commitment, family, or shared celebration.",
+        "career": "In the present, Four of Wands highlights career may reach a milestone or supportive team moment.",
+        "money": "In the present, Four of Wands highlights money may connect to home, events, or shared stability.",
+        "growth": "In the present, Four of Wands highlights growth comes through allowing yourself to enjoy what you have built."
+      },
+      "future": {
+        "general": "Looking ahead, Four of Wands suggests the Four of Wands celebrates stability, welcome, and a meaningful milestone.",
+        "love": "Looking ahead, Four of Wands suggests love may bring warmth, commitment, family, or shared celebration.",
+        "career": "Looking ahead, Four of Wands suggests career may reach a milestone or supportive team moment.",
+        "money": "Looking ahead, Four of Wands suggests money may connect to home, events, or shared stability.",
+        "growth": "Looking ahead, Four of Wands suggests growth comes through allowing yourself to enjoy what you have built."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is celebration showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does celebration affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can celebration guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does celebration reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can celebration teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "five_of_wands",
+    "name": "Five of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "five",
+    "number": 5,
+    "assetId": "wands_05_five.png",
+    "keywords": [
+      "conflict",
+      "competition",
+      "friction",
+      "challenge",
+      "different voices"
+    ],
+    "tags": [
+      "conflict",
+      "competition",
+      "friction",
+      "challenge",
+      "growth_edge"
+    ],
+    "toneTags": [
+      "active",
+      "challenging",
+      "dynamic"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Five of Wands brings friction, competition, and the productive tension of different forces meeting.",
+        "advice": "Do not fear the conflict; learn what it is trying to clarify."
+      },
+      "love": {
+        "summary": "In love, small clashes or competing needs may ask for honest negotiation.",
+        "advice": "Argue for understanding, not victory."
+      },
+      "career": {
+        "summary": "Career may involve competition, team friction, or creative tension.",
+        "advice": "Channel the energy into better standards instead of personal drama."
+      },
+      "money": {
+        "summary": "Money may be affected by competing priorities or scattered effort.",
+        "advice": "Rank what matters before everything fights for attention."
+      },
+      "growth": {
+        "summary": "Growth comes through learning how to stay yourself in tension.",
+        "advice": "Let challenge sharpen you without hardening you."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Do not fear the conflict; learn what it is trying to clarify.",
+        "love": "Argue for understanding, not victory.",
+        "career": "Channel the energy into better standards instead of personal drama.",
+        "money": "Rank what matters before everything fights for attention.",
+        "growth": "Let challenge sharpen you without hardening you."
+      },
+      "situation": {
+        "general": "The situation reflects the Five of Wands brings friction, competition, and the productive tension of different forces meeting.",
+        "love": "The situation reflects in love, small clashes or competing needs may ask for honest negotiation.",
+        "career": "The situation reflects career may involve competition, team friction, or creative tension.",
+        "money": "The situation reflects money may be affected by competing priorities or scattered effort.",
+        "growth": "The situation reflects growth comes through learning how to stay yourself in tension."
+      },
+      "past": {
+        "general": "In the past, Five of Wands points to the Five of Wands brings friction, competition, and the productive tension of different forces meeting.",
+        "love": "In the past, Five of Wands points to in love, small clashes or competing needs may ask for honest negotiation.",
+        "career": "In the past, Five of Wands points to career may involve competition, team friction, or creative tension.",
+        "money": "In the past, Five of Wands points to money may be affected by competing priorities or scattered effort.",
+        "growth": "In the past, Five of Wands points to growth comes through learning how to stay yourself in tension."
+      },
+      "present": {
+        "general": "In the present, Five of Wands highlights the Five of Wands brings friction, competition, and the productive tension of different forces meeting.",
+        "love": "In the present, Five of Wands highlights in love, small clashes or competing needs may ask for honest negotiation.",
+        "career": "In the present, Five of Wands highlights career may involve competition, team friction, or creative tension.",
+        "money": "In the present, Five of Wands highlights money may be affected by competing priorities or scattered effort.",
+        "growth": "In the present, Five of Wands highlights growth comes through learning how to stay yourself in tension."
+      },
+      "future": {
+        "general": "Looking ahead, Five of Wands suggests the Five of Wands brings friction, competition, and the productive tension of different forces meeting.",
+        "love": "Looking ahead, Five of Wands suggests in love, small clashes or competing needs may ask for honest negotiation.",
+        "career": "Looking ahead, Five of Wands suggests career may involve competition, team friction, or creative tension.",
+        "money": "Looking ahead, Five of Wands suggests money may be affected by competing priorities or scattered effort.",
+        "growth": "Looking ahead, Five of Wands suggests growth comes through learning how to stay yourself in tension."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is conflict showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does conflict affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can conflict guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does conflict reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can conflict teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "six_of_wands",
+    "name": "Six of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "six",
+    "number": 6,
+    "assetId": "wands_06_six.png",
+    "keywords": [
+      "victory",
+      "recognition",
+      "confidence",
+      "progress",
+      "public success"
+    ],
+    "tags": [
+      "victory",
+      "recognition",
+      "confidence",
+      "success",
+      "visibility"
+    ],
+    "toneTags": [
+      "proud",
+      "bright",
+      "encouraging"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Six of Wands brings recognition, progress, and the courage to be seen succeeding.",
+        "advice": "Receive the acknowledgment without losing humility."
+      },
+      "love": {
+        "summary": "Love may feel supported, validated, or ready to be celebrated openly.",
+        "advice": "Let pride in the connection be healthy and kind."
+      },
+      "career": {
+        "summary": "Career may bring praise, promotion, or visible progress.",
+        "advice": "Stand behind your work and let others see it."
+      },
+      "money": {
+        "summary": "Money may improve through recognized effort or successful choices.",
+        "advice": "Use the win to build stability, not just status."
+      },
+      "growth": {
+        "summary": "Growth comes through allowing yourself to own progress.",
+        "advice": "Let confidence be gratitude in motion."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Receive the acknowledgment without losing humility.",
+        "love": "Let pride in the connection be healthy and kind.",
+        "career": "Stand behind your work and let others see it.",
+        "money": "Use the win to build stability, not just status.",
+        "growth": "Let confidence be gratitude in motion."
+      },
+      "situation": {
+        "general": "The situation reflects the Six of Wands brings recognition, progress, and the courage to be seen succeeding.",
+        "love": "The situation reflects love may feel supported, validated, or ready to be celebrated openly.",
+        "career": "The situation reflects career may bring praise, promotion, or visible progress.",
+        "money": "The situation reflects money may improve through recognized effort or successful choices.",
+        "growth": "The situation reflects growth comes through allowing yourself to own progress."
+      },
+      "past": {
+        "general": "In the past, Six of Wands points to the Six of Wands brings recognition, progress, and the courage to be seen succeeding.",
+        "love": "In the past, Six of Wands points to love may feel supported, validated, or ready to be celebrated openly.",
+        "career": "In the past, Six of Wands points to career may bring praise, promotion, or visible progress.",
+        "money": "In the past, Six of Wands points to money may improve through recognized effort or successful choices.",
+        "growth": "In the past, Six of Wands points to growth comes through allowing yourself to own progress."
+      },
+      "present": {
+        "general": "In the present, Six of Wands highlights the Six of Wands brings recognition, progress, and the courage to be seen succeeding.",
+        "love": "In the present, Six of Wands highlights love may feel supported, validated, or ready to be celebrated openly.",
+        "career": "In the present, Six of Wands highlights career may bring praise, promotion, or visible progress.",
+        "money": "In the present, Six of Wands highlights money may improve through recognized effort or successful choices.",
+        "growth": "In the present, Six of Wands highlights growth comes through allowing yourself to own progress."
+      },
+      "future": {
+        "general": "Looking ahead, Six of Wands suggests the Six of Wands brings recognition, progress, and the courage to be seen succeeding.",
+        "love": "Looking ahead, Six of Wands suggests love may feel supported, validated, or ready to be celebrated openly.",
+        "career": "Looking ahead, Six of Wands suggests career may bring praise, promotion, or visible progress.",
+        "money": "Looking ahead, Six of Wands suggests money may improve through recognized effort or successful choices.",
+        "growth": "Looking ahead, Six of Wands suggests growth comes through allowing yourself to own progress."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is victory showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does victory affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can victory guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does victory reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can victory teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "seven_of_wands",
+    "name": "Seven of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "seven",
+    "number": 7,
+    "assetId": "wands_07_seven.png",
+    "keywords": [
+      "defense",
+      "courage",
+      "boundaries",
+      "standing ground",
+      "pressure"
+    ],
+    "tags": [
+      "defense",
+      "courage",
+      "boundaries",
+      "standing_ground",
+      "pressure"
+    ],
+    "toneTags": [
+      "firm",
+      "brave",
+      "alert"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Seven of Wands asks you to stand your ground when pressure tests your position.",
+        "advice": "Protect what matters without turning every difference into a battle."
+      },
+      "love": {
+        "summary": "In love, boundaries or self-respect may need to be defended.",
+        "advice": "Say what you need without making love a war zone."
+      },
+      "career": {
+        "summary": "Career may require advocacy, courage, or holding a hard-won position.",
+        "advice": "Stay clear on why this matters and defend it professionally."
+      },
+      "money": {
+        "summary": "Money choices may need boundaries against pressure or comparison.",
+        "advice": "Protect your priorities from outside urgency."
+      },
+      "growth": {
+        "summary": "Growth comes through learning that self-defense can be calm.",
+        "advice": "Stand firm without closing your heart."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Protect what matters without turning every difference into a battle.",
+        "love": "Say what you need without making love a war zone.",
+        "career": "Stay clear on why this matters and defend it professionally.",
+        "money": "Protect your priorities from outside urgency.",
+        "growth": "Stand firm without closing your heart."
+      },
+      "situation": {
+        "general": "The situation reflects the Seven of Wands asks you to stand your ground when pressure tests your position.",
+        "love": "The situation reflects in love, boundaries or self-respect may need to be defended.",
+        "career": "The situation reflects career may require advocacy, courage, or holding a hard-won position.",
+        "money": "The situation reflects money choices may need boundaries against pressure or comparison.",
+        "growth": "The situation reflects growth comes through learning that self-defense can be calm."
+      },
+      "past": {
+        "general": "In the past, Seven of Wands points to the Seven of Wands asks you to stand your ground when pressure tests your position.",
+        "love": "In the past, Seven of Wands points to in love, boundaries or self-respect may need to be defended.",
+        "career": "In the past, Seven of Wands points to career may require advocacy, courage, or holding a hard-won position.",
+        "money": "In the past, Seven of Wands points to money choices may need boundaries against pressure or comparison.",
+        "growth": "In the past, Seven of Wands points to growth comes through learning that self-defense can be calm."
+      },
+      "present": {
+        "general": "In the present, Seven of Wands highlights the Seven of Wands asks you to stand your ground when pressure tests your position.",
+        "love": "In the present, Seven of Wands highlights in love, boundaries or self-respect may need to be defended.",
+        "career": "In the present, Seven of Wands highlights career may require advocacy, courage, or holding a hard-won position.",
+        "money": "In the present, Seven of Wands highlights money choices may need boundaries against pressure or comparison.",
+        "growth": "In the present, Seven of Wands highlights growth comes through learning that self-defense can be calm."
+      },
+      "future": {
+        "general": "Looking ahead, Seven of Wands suggests the Seven of Wands asks you to stand your ground when pressure tests your position.",
+        "love": "Looking ahead, Seven of Wands suggests in love, boundaries or self-respect may need to be defended.",
+        "career": "Looking ahead, Seven of Wands suggests career may require advocacy, courage, or holding a hard-won position.",
+        "money": "Looking ahead, Seven of Wands suggests money choices may need boundaries against pressure or comparison.",
+        "growth": "Looking ahead, Seven of Wands suggests growth comes through learning that self-defense can be calm."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is defense showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does defense affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can defense guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does defense reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can defense teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "eight_of_wands",
+    "name": "Eight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "eight",
+    "number": 8,
+    "assetId": "wands_08_eight.png",
+    "keywords": [
+      "speed",
+      "messages",
+      "movement",
+      "momentum",
+      "swift change"
+    ],
+    "tags": [
+      "speed",
+      "messages",
+      "movement",
+      "momentum",
+      "swift_change"
+    ],
+    "toneTags": [
+      "fast",
+      "clear",
+      "energized"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Eight of Wands brings swift movement, messages, and momentum after delay.",
+        "advice": "Respond quickly, but keep your direction clear."
+      },
+      "love": {
+        "summary": "Love may move fast through conversation, travel, or sudden clarity.",
+        "advice": "Let speed reveal interest, but do not skip discernment."
+      },
+      "career": {
+        "summary": "Career may accelerate through news, deadlines, or rapid progress.",
+        "advice": "Use the momentum while organizing the details."
+      },
+      "money": {
+        "summary": "Money matters may shift quickly or require timely action.",
+        "advice": "Act promptly, but verify before committing."
+      },
+      "growth": {
+        "summary": "Growth comes through trusting movement after a season of waiting.",
+        "advice": "Let energy flow without becoming chaos."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Respond quickly, but keep your direction clear.",
+        "love": "Let speed reveal interest, but do not skip discernment.",
+        "career": "Use the momentum while organizing the details.",
+        "money": "Act promptly, but verify before committing.",
+        "growth": "Let energy flow without becoming chaos."
+      },
+      "situation": {
+        "general": "The situation reflects the Eight of Wands brings swift movement, messages, and momentum after delay.",
+        "love": "The situation reflects love may move fast through conversation, travel, or sudden clarity.",
+        "career": "The situation reflects career may accelerate through news, deadlines, or rapid progress.",
+        "money": "The situation reflects money matters may shift quickly or require timely action.",
+        "growth": "The situation reflects growth comes through trusting movement after a season of waiting."
+      },
+      "past": {
+        "general": "In the past, Eight of Wands points to the Eight of Wands brings swift movement, messages, and momentum after delay.",
+        "love": "In the past, Eight of Wands points to love may move fast through conversation, travel, or sudden clarity.",
+        "career": "In the past, Eight of Wands points to career may accelerate through news, deadlines, or rapid progress.",
+        "money": "In the past, Eight of Wands points to money matters may shift quickly or require timely action.",
+        "growth": "In the past, Eight of Wands points to growth comes through trusting movement after a season of waiting."
+      },
+      "present": {
+        "general": "In the present, Eight of Wands highlights the Eight of Wands brings swift movement, messages, and momentum after delay.",
+        "love": "In the present, Eight of Wands highlights love may move fast through conversation, travel, or sudden clarity.",
+        "career": "In the present, Eight of Wands highlights career may accelerate through news, deadlines, or rapid progress.",
+        "money": "In the present, Eight of Wands highlights money matters may shift quickly or require timely action.",
+        "growth": "In the present, Eight of Wands highlights growth comes through trusting movement after a season of waiting."
+      },
+      "future": {
+        "general": "Looking ahead, Eight of Wands suggests the Eight of Wands brings swift movement, messages, and momentum after delay.",
+        "love": "Looking ahead, Eight of Wands suggests love may move fast through conversation, travel, or sudden clarity.",
+        "career": "Looking ahead, Eight of Wands suggests career may accelerate through news, deadlines, or rapid progress.",
+        "money": "Looking ahead, Eight of Wands suggests money matters may shift quickly or require timely action.",
+        "growth": "Looking ahead, Eight of Wands suggests growth comes through trusting movement after a season of waiting."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is speed showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does speed affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can speed guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does speed reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can speed teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "nine_of_wands",
+    "name": "Nine of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "nine",
+    "number": 9,
+    "assetId": "wands_09_nine.png",
+    "keywords": [
+      "resilience",
+      "guardedness",
+      "persistence",
+      "fatigue",
+      "last stand"
+    ],
+    "tags": [
+      "resilience",
+      "guardedness",
+      "persistence",
+      "fatigue",
+      "protection"
+    ],
+    "toneTags": [
+      "tough",
+      "wary",
+      "steadfast"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Nine of Wands shows resilience after struggle and the guarded courage to continue.",
+        "advice": "Rest where you can, but do not give up on what still matters."
+      },
+      "love": {
+        "summary": "In love, past wounds may make protection understandable but heavy.",
+        "advice": "Let boundaries protect the heart without sealing it away."
+      },
+      "career": {
+        "summary": "Career may require perseverance through fatigue or repeated obstacles.",
+        "advice": "Pace yourself and keep the finish line in sight."
+      },
+      "money": {
+        "summary": "Money concerns may need endurance and careful protection of resources.",
+        "advice": "Avoid fear-based decisions, but keep sensible safeguards."
+      },
+      "growth": {
+        "summary": "Growth comes through honoring your scars without becoming only defensive.",
+        "advice": "Let resilience include rest."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Rest where you can, but do not give up on what still matters.",
+        "love": "Let boundaries protect the heart without sealing it away.",
+        "career": "Pace yourself and keep the finish line in sight.",
+        "money": "Avoid fear-based decisions, but keep sensible safeguards.",
+        "growth": "Let resilience include rest."
+      },
+      "situation": {
+        "general": "The situation reflects the Nine of Wands shows resilience after struggle and the guarded courage to continue.",
+        "love": "The situation reflects in love, past wounds may make protection understandable but heavy.",
+        "career": "The situation reflects career may require perseverance through fatigue or repeated obstacles.",
+        "money": "The situation reflects money concerns may need endurance and careful protection of resources.",
+        "growth": "The situation reflects growth comes through honoring your scars without becoming only defensive."
+      },
+      "past": {
+        "general": "In the past, Nine of Wands points to the Nine of Wands shows resilience after struggle and the guarded courage to continue.",
+        "love": "In the past, Nine of Wands points to in love, past wounds may make protection understandable but heavy.",
+        "career": "In the past, Nine of Wands points to career may require perseverance through fatigue or repeated obstacles.",
+        "money": "In the past, Nine of Wands points to money concerns may need endurance and careful protection of resources.",
+        "growth": "In the past, Nine of Wands points to growth comes through honoring your scars without becoming only defensive."
+      },
+      "present": {
+        "general": "In the present, Nine of Wands highlights the Nine of Wands shows resilience after struggle and the guarded courage to continue.",
+        "love": "In the present, Nine of Wands highlights in love, past wounds may make protection understandable but heavy.",
+        "career": "In the present, Nine of Wands highlights career may require perseverance through fatigue or repeated obstacles.",
+        "money": "In the present, Nine of Wands highlights money concerns may need endurance and careful protection of resources.",
+        "growth": "In the present, Nine of Wands highlights growth comes through honoring your scars without becoming only defensive."
+      },
+      "future": {
+        "general": "Looking ahead, Nine of Wands suggests the Nine of Wands shows resilience after struggle and the guarded courage to continue.",
+        "love": "Looking ahead, Nine of Wands suggests in love, past wounds may make protection understandable but heavy.",
+        "career": "Looking ahead, Nine of Wands suggests career may require perseverance through fatigue or repeated obstacles.",
+        "money": "Looking ahead, Nine of Wands suggests money concerns may need endurance and careful protection of resources.",
+        "growth": "Looking ahead, Nine of Wands suggests growth comes through honoring your scars without becoming only defensive."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is resilience showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does resilience affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can resilience guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does resilience reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can resilience teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "ten_of_wands",
+    "name": "Ten of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "ten",
+    "number": 10,
+    "assetId": "wands_10_ten.png",
+    "keywords": [
+      "burden",
+      "responsibility",
+      "overload",
+      "completion",
+      "pressure"
+    ],
+    "tags": [
+      "burden",
+      "responsibility",
+      "overload",
+      "completion",
+      "pressure"
+    ],
+    "toneTags": [
+      "heavy",
+      "honest",
+      "practical"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Ten of Wands carries responsibility, overload, and the final stretch of a demanding path.",
+        "advice": "Put down what is not truly yours, and finish only what must be finished."
+      },
+      "love": {
+        "summary": "Love may feel weighed down by duties, expectations, or emotional labor.",
+        "advice": "Share the load before resentment becomes the relationship."
+      },
+      "career": {
+        "summary": "Career may bring heavy responsibility or too much work carried alone.",
+        "advice": "Delegate, simplify, or complete the cycle with better boundaries."
+      },
+      "money": {
+        "summary": "Money may feel burdened by obligations or pressure to provide.",
+        "advice": "Make the load visible so it can be managed realistically."
+      },
+      "growth": {
+        "summary": "Growth comes through learning that strength is not the same as over-carrying.",
+        "advice": "Ask what can be released, shared, or simplified."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Put down what is not truly yours, and finish only what must be finished.",
+        "love": "Share the load before resentment becomes the relationship.",
+        "career": "Delegate, simplify, or complete the cycle with better boundaries.",
+        "money": "Make the load visible so it can be managed realistically.",
+        "growth": "Ask what can be released, shared, or simplified."
+      },
+      "situation": {
+        "general": "The situation reflects the Ten of Wands carries responsibility, overload, and the final stretch of a demanding path.",
+        "love": "The situation reflects love may feel weighed down by duties, expectations, or emotional labor.",
+        "career": "The situation reflects career may bring heavy responsibility or too much work carried alone.",
+        "money": "The situation reflects money may feel burdened by obligations or pressure to provide.",
+        "growth": "The situation reflects growth comes through learning that strength is not the same as over-carrying."
+      },
+      "past": {
+        "general": "In the past, Ten of Wands points to the Ten of Wands carries responsibility, overload, and the final stretch of a demanding path.",
+        "love": "In the past, Ten of Wands points to love may feel weighed down by duties, expectations, or emotional labor.",
+        "career": "In the past, Ten of Wands points to career may bring heavy responsibility or too much work carried alone.",
+        "money": "In the past, Ten of Wands points to money may feel burdened by obligations or pressure to provide.",
+        "growth": "In the past, Ten of Wands points to growth comes through learning that strength is not the same as over-carrying."
+      },
+      "present": {
+        "general": "In the present, Ten of Wands highlights the Ten of Wands carries responsibility, overload, and the final stretch of a demanding path.",
+        "love": "In the present, Ten of Wands highlights love may feel weighed down by duties, expectations, or emotional labor.",
+        "career": "In the present, Ten of Wands highlights career may bring heavy responsibility or too much work carried alone.",
+        "money": "In the present, Ten of Wands highlights money may feel burdened by obligations or pressure to provide.",
+        "growth": "In the present, Ten of Wands highlights growth comes through learning that strength is not the same as over-carrying."
+      },
+      "future": {
+        "general": "Looking ahead, Ten of Wands suggests the Ten of Wands carries responsibility, overload, and the final stretch of a demanding path.",
+        "love": "Looking ahead, Ten of Wands suggests love may feel weighed down by duties, expectations, or emotional labor.",
+        "career": "Looking ahead, Ten of Wands suggests career may bring heavy responsibility or too much work carried alone.",
+        "money": "Looking ahead, Ten of Wands suggests money may feel burdened by obligations or pressure to provide.",
+        "growth": "Looking ahead, Ten of Wands suggests growth comes through learning that strength is not the same as over-carrying."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is burden showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does burden affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can burden guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does burden reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can burden teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "page_of_wands",
+    "name": "Page of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "page",
+    "number": 11,
+    "assetId": "wands_11_page.png",
+    "keywords": [
+      "curiosity",
+      "adventure",
+      "creative message",
+      "enthusiasm",
+      "discovery"
+    ],
+    "tags": [
+      "curiosity",
+      "adventure",
+      "creative_message",
+      "enthusiasm",
+      "discovery"
+    ],
+    "toneTags": [
+      "playful",
+      "bright",
+      "young"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Page of Wands brings curiosity, creative messages, and the excitement of discovery.",
+        "advice": "Follow the spark as a student, not as someone who must master it immediately."
+      },
+      "love": {
+        "summary": "Love may feel flirtatious, exploratory, or newly exciting.",
+        "advice": "Enjoy the spark while staying honest about maturity and follow-through."
+      },
+      "career": {
+        "summary": "Career may bring a new idea, invitation, or learning opportunity.",
+        "advice": "Experiment before demanding certainty."
+      },
+      "money": {
+        "summary": "Money may connect to a new side project or inspired possibility.",
+        "advice": "Start small and learn before expanding."
+      },
+      "growth": {
+        "summary": "Growth comes through giving yourself permission to explore.",
+        "advice": "Let enthusiasm open the door."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Follow the spark as a student, not as someone who must master it immediately.",
+        "love": "Enjoy the spark while staying honest about maturity and follow-through.",
+        "career": "Experiment before demanding certainty.",
+        "money": "Start small and learn before expanding.",
+        "growth": "Let enthusiasm open the door."
+      },
+      "situation": {
+        "general": "The situation reflects the Page of Wands brings curiosity, creative messages, and the excitement of discovery.",
+        "love": "The situation reflects love may feel flirtatious, exploratory, or newly exciting.",
+        "career": "The situation reflects career may bring a new idea, invitation, or learning opportunity.",
+        "money": "The situation reflects money may connect to a new side project or inspired possibility.",
+        "growth": "The situation reflects growth comes through giving yourself permission to explore."
+      },
+      "past": {
+        "general": "In the past, Page of Wands points to the Page of Wands brings curiosity, creative messages, and the excitement of discovery.",
+        "love": "In the past, Page of Wands points to love may feel flirtatious, exploratory, or newly exciting.",
+        "career": "In the past, Page of Wands points to career may bring a new idea, invitation, or learning opportunity.",
+        "money": "In the past, Page of Wands points to money may connect to a new side project or inspired possibility.",
+        "growth": "In the past, Page of Wands points to growth comes through giving yourself permission to explore."
+      },
+      "present": {
+        "general": "In the present, Page of Wands highlights the Page of Wands brings curiosity, creative messages, and the excitement of discovery.",
+        "love": "In the present, Page of Wands highlights love may feel flirtatious, exploratory, or newly exciting.",
+        "career": "In the present, Page of Wands highlights career may bring a new idea, invitation, or learning opportunity.",
+        "money": "In the present, Page of Wands highlights money may connect to a new side project or inspired possibility.",
+        "growth": "In the present, Page of Wands highlights growth comes through giving yourself permission to explore."
+      },
+      "future": {
+        "general": "Looking ahead, Page of Wands suggests the Page of Wands brings curiosity, creative messages, and the excitement of discovery.",
+        "love": "Looking ahead, Page of Wands suggests love may feel flirtatious, exploratory, or newly exciting.",
+        "career": "Looking ahead, Page of Wands suggests career may bring a new idea, invitation, or learning opportunity.",
+        "money": "Looking ahead, Page of Wands suggests money may connect to a new side project or inspired possibility.",
+        "growth": "Looking ahead, Page of Wands suggests growth comes through giving yourself permission to explore."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is curiosity showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does curiosity affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can curiosity guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does curiosity reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can curiosity teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "knight_of_wands",
+    "name": "Knight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "knight",
+    "number": 12,
+    "assetId": "wands_12_knight.png",
+    "keywords": [
+      "adventure",
+      "bold action",
+      "impulse",
+      "movement",
+      "passion"
+    ],
+    "tags": [
+      "adventure",
+      "bold_action",
+      "impulse",
+      "movement",
+      "passion"
+    ],
+    "toneTags": [
+      "fiery",
+      "bold",
+      "restless"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Knight of Wands charges forward with passion, courage, and restless movement.",
+        "advice": "Move boldly, but do not let urgency outrun wisdom."
+      },
+      "love": {
+        "summary": "Love may feel passionate, fast-moving, or inconsistent if not grounded.",
+        "advice": "Enjoy the fire while asking what can last beyond it."
+      },
+      "career": {
+        "summary": "Career favors action, travel, risk, or energetic pursuit.",
+        "advice": "Aim your energy before releasing it."
+      },
+      "money": {
+        "summary": "Money choices may be bold or impulsive.",
+        "advice": "Give excitement a reality check before acting."
+      },
+      "growth": {
+        "summary": "Growth comes through learning how to use fire without burning yourself out.",
+        "advice": "Let courage mature into direction."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Move boldly, but do not let urgency outrun wisdom.",
+        "love": "Enjoy the fire while asking what can last beyond it.",
+        "career": "Aim your energy before releasing it.",
+        "money": "Give excitement a reality check before acting.",
+        "growth": "Let courage mature into direction."
+      },
+      "situation": {
+        "general": "The situation reflects the Knight of Wands charges forward with passion, courage, and restless movement.",
+        "love": "The situation reflects love may feel passionate, fast-moving, or inconsistent if not grounded.",
+        "career": "The situation reflects career favors action, travel, risk, or energetic pursuit.",
+        "money": "The situation reflects money choices may be bold or impulsive.",
+        "growth": "The situation reflects growth comes through learning how to use fire without burning yourself out."
+      },
+      "past": {
+        "general": "In the past, Knight of Wands points to the Knight of Wands charges forward with passion, courage, and restless movement.",
+        "love": "In the past, Knight of Wands points to love may feel passionate, fast-moving, or inconsistent if not grounded.",
+        "career": "In the past, Knight of Wands points to career favors action, travel, risk, or energetic pursuit.",
+        "money": "In the past, Knight of Wands points to money choices may be bold or impulsive.",
+        "growth": "In the past, Knight of Wands points to growth comes through learning how to use fire without burning yourself out."
+      },
+      "present": {
+        "general": "In the present, Knight of Wands highlights the Knight of Wands charges forward with passion, courage, and restless movement.",
+        "love": "In the present, Knight of Wands highlights love may feel passionate, fast-moving, or inconsistent if not grounded.",
+        "career": "In the present, Knight of Wands highlights career favors action, travel, risk, or energetic pursuit.",
+        "money": "In the present, Knight of Wands highlights money choices may be bold or impulsive.",
+        "growth": "In the present, Knight of Wands highlights growth comes through learning how to use fire without burning yourself out."
+      },
+      "future": {
+        "general": "Looking ahead, Knight of Wands suggests the Knight of Wands charges forward with passion, courage, and restless movement.",
+        "love": "Looking ahead, Knight of Wands suggests love may feel passionate, fast-moving, or inconsistent if not grounded.",
+        "career": "Looking ahead, Knight of Wands suggests career favors action, travel, risk, or energetic pursuit.",
+        "money": "Looking ahead, Knight of Wands suggests money choices may be bold or impulsive.",
+        "growth": "Looking ahead, Knight of Wands suggests growth comes through learning how to use fire without burning yourself out."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is adventure showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does adventure affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can adventure guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does adventure reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can adventure teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "queen_of_wands",
+    "name": "Queen of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "queen",
+    "number": 13,
+    "assetId": "wands_13_queen.png",
+    "keywords": [
+      "confidence",
+      "magnetism",
+      "creativity",
+      "warmth",
+      "independence"
+    ],
+    "tags": [
+      "confidence",
+      "magnetism",
+      "creativity",
+      "warmth",
+      "independence"
+    ],
+    "toneTags": [
+      "radiant",
+      "warm",
+      "confident"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Queen of Wands shines with confidence, warmth, creativity, and self-trust.",
+        "advice": "Let your presence be generous without shrinking your power."
+      },
+      "love": {
+        "summary": "Love may be energized by attraction, independence, and sincere warmth.",
+        "advice": "Be fully yourself rather than becoming who you think will be wanted."
+      },
+      "career": {
+        "summary": "Career benefits from charisma, creativity, and visible leadership.",
+        "advice": "Show up with confidence and invite others through your example."
+      },
+      "money": {
+        "summary": "Money may grow through creative confidence or self-valuing choices.",
+        "advice": "Let your value be reflected in practical decisions."
+      },
+      "growth": {
+        "summary": "Growth comes through reclaiming visibility and joy.",
+        "advice": "Let yourself be seen without apology."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let your presence be generous without shrinking your power.",
+        "love": "Be fully yourself rather than becoming who you think will be wanted.",
+        "career": "Show up with confidence and invite others through your example.",
+        "money": "Let your value be reflected in practical decisions.",
+        "growth": "Let yourself be seen without apology."
+      },
+      "situation": {
+        "general": "The situation reflects the Queen of Wands shines with confidence, warmth, creativity, and self-trust.",
+        "love": "The situation reflects love may be energized by attraction, independence, and sincere warmth.",
+        "career": "The situation reflects career benefits from charisma, creativity, and visible leadership.",
+        "money": "The situation reflects money may grow through creative confidence or self-valuing choices.",
+        "growth": "The situation reflects growth comes through reclaiming visibility and joy."
+      },
+      "past": {
+        "general": "In the past, Queen of Wands points to the Queen of Wands shines with confidence, warmth, creativity, and self-trust.",
+        "love": "In the past, Queen of Wands points to love may be energized by attraction, independence, and sincere warmth.",
+        "career": "In the past, Queen of Wands points to career benefits from charisma, creativity, and visible leadership.",
+        "money": "In the past, Queen of Wands points to money may grow through creative confidence or self-valuing choices.",
+        "growth": "In the past, Queen of Wands points to growth comes through reclaiming visibility and joy."
+      },
+      "present": {
+        "general": "In the present, Queen of Wands highlights the Queen of Wands shines with confidence, warmth, creativity, and self-trust.",
+        "love": "In the present, Queen of Wands highlights love may be energized by attraction, independence, and sincere warmth.",
+        "career": "In the present, Queen of Wands highlights career benefits from charisma, creativity, and visible leadership.",
+        "money": "In the present, Queen of Wands highlights money may grow through creative confidence or self-valuing choices.",
+        "growth": "In the present, Queen of Wands highlights growth comes through reclaiming visibility and joy."
+      },
+      "future": {
+        "general": "Looking ahead, Queen of Wands suggests the Queen of Wands shines with confidence, warmth, creativity, and self-trust.",
+        "love": "Looking ahead, Queen of Wands suggests love may be energized by attraction, independence, and sincere warmth.",
+        "career": "Looking ahead, Queen of Wands suggests career benefits from charisma, creativity, and visible leadership.",
+        "money": "Looking ahead, Queen of Wands suggests money may grow through creative confidence or self-valuing choices.",
+        "growth": "Looking ahead, Queen of Wands suggests growth comes through reclaiming visibility and joy."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is confidence showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does confidence affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can confidence guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does confidence reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can confidence teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "king_of_wands",
+    "name": "King of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "king",
+    "number": 14,
+    "assetId": "wands_14_king.png",
+    "keywords": [
+      "leadership",
+      "vision",
+      "enterprise",
+      "boldness",
+      "influence"
+    ],
+    "tags": [
+      "leadership",
+      "vision",
+      "enterprise",
+      "boldness",
+      "influence"
+    ],
+    "toneTags": [
+      "commanding",
+      "inspiring",
+      "visionary"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The King of Wands leads with vision, courage, and the ability to inspire action.",
+        "advice": "Lead from purpose, not ego."
+      },
+      "love": {
+        "summary": "Love may ask for mature passion, honesty, and shared direction.",
+        "advice": "Let leadership in love mean courage and responsibility, not control."
+      },
+      "career": {
+        "summary": "Career favors entrepreneurship, leadership, and bold strategic action.",
+        "advice": "Hold the big picture while empowering others to move with you."
+      },
+      "money": {
+        "summary": "Money may benefit from vision, initiative, or responsible risk.",
+        "advice": "Act boldly only where the plan can support the fire."
+      },
+      "growth": {
+        "summary": "Growth comes through becoming the leader of your own energy.",
+        "advice": "Let vision become service, not domination."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Lead from purpose, not ego.",
+        "love": "Let leadership in love mean courage and responsibility, not control.",
+        "career": "Hold the big picture while empowering others to move with you.",
+        "money": "Act boldly only where the plan can support the fire.",
+        "growth": "Let vision become service, not domination."
+      },
+      "situation": {
+        "general": "The situation reflects the King of Wands leads with vision, courage, and the ability to inspire action.",
+        "love": "The situation reflects love may ask for mature passion, honesty, and shared direction.",
+        "career": "The situation reflects career favors entrepreneurship, leadership, and bold strategic action.",
+        "money": "The situation reflects money may benefit from vision, initiative, or responsible risk.",
+        "growth": "The situation reflects growth comes through becoming the leader of your own energy."
+      },
+      "past": {
+        "general": "In the past, King of Wands points to the King of Wands leads with vision, courage, and the ability to inspire action.",
+        "love": "In the past, King of Wands points to love may ask for mature passion, honesty, and shared direction.",
+        "career": "In the past, King of Wands points to career favors entrepreneurship, leadership, and bold strategic action.",
+        "money": "In the past, King of Wands points to money may benefit from vision, initiative, or responsible risk.",
+        "growth": "In the past, King of Wands points to growth comes through becoming the leader of your own energy."
+      },
+      "present": {
+        "general": "In the present, King of Wands highlights the King of Wands leads with vision, courage, and the ability to inspire action.",
+        "love": "In the present, King of Wands highlights love may ask for mature passion, honesty, and shared direction.",
+        "career": "In the present, King of Wands highlights career favors entrepreneurship, leadership, and bold strategic action.",
+        "money": "In the present, King of Wands highlights money may benefit from vision, initiative, or responsible risk.",
+        "growth": "In the present, King of Wands highlights growth comes through becoming the leader of your own energy."
+      },
+      "future": {
+        "general": "Looking ahead, King of Wands suggests the King of Wands leads with vision, courage, and the ability to inspire action.",
+        "love": "Looking ahead, King of Wands suggests love may ask for mature passion, honesty, and shared direction.",
+        "career": "Looking ahead, King of Wands suggests career favors entrepreneurship, leadership, and bold strategic action.",
+        "money": "Looking ahead, King of Wands suggests money may benefit from vision, initiative, or responsible risk.",
+        "growth": "Looking ahead, King of Wands suggests growth comes through becoming the leader of your own energy."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is leadership showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does leadership affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can leadership guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does leadership reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can leadership teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  }
+]

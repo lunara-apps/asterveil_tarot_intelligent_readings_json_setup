@@ -1,5 +1,1841 @@
 [
   {
+    "id": "the_fool",
+    "name": "The Fool",
+    "arcana": "major",
+    "number": 0,
+    "romanNumeral": "0",
+    "assetId": "major_00_fool.png",
+    "keywords": [
+      "new beginning",
+      "trust",
+      "freedom",
+      "leap of faith",
+      "openness"
+    ],
+    "tags": [
+      "new_beginning",
+      "trust",
+      "freedom",
+      "openness",
+      "fresh_start"
+    ],
+    "toneTags": [
+      "light",
+      "curious",
+      "encouraging"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Fool begins a path with openness, trust, and the courage to step into the unknown.",
+        "advice": "Take the next step with curiosity, but keep enough awareness to land safely."
+      },
+      "love": {
+        "summary": "In love, The Fool can point to openness, playfulness, and a willingness to experience connection without overcontrolling it.",
+        "advice": "Let the heart stay open, while still honoring your boundaries and pace."
+      },
+      "career": {
+        "summary": "A new direction, project, or learning path may be calling for experimentation.",
+        "advice": "Start before you feel perfectly prepared, then learn from what the path teaches."
+      },
+      "money": {
+        "summary": "Money matters may benefit from fresh thinking, but not reckless risk.",
+        "advice": "Explore new possibilities with a simple plan and clear limits."
+      },
+      "growth": {
+        "summary": "Growth comes through trying, trusting, and allowing yourself to be a beginner.",
+        "advice": "Let yourself begin without demanding certainty from the first step."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Take the next step with curiosity, but keep enough awareness to land safely.",
+        "love": "Let the heart stay open, while still honoring your boundaries and pace.",
+        "career": "Start before you feel perfectly prepared, then learn from what the path teaches.",
+        "money": "Explore new possibilities with a simple plan and clear limits.",
+        "growth": "Let yourself begin without demanding certainty from the first step."
+      },
+      "situation": {
+        "general": "The situation reflects the Fool begins a path with openness, trust, and the courage to step into the unknown.",
+        "love": "The situation reflects in love, The Fool can point to openness, playfulness, and a willingness to experience connection without overcontrolling it.",
+        "career": "The situation reflects a new direction, project, or learning path may be calling for experimentation.",
+        "money": "The situation reflects money matters may benefit from fresh thinking, but not reckless risk.",
+        "growth": "The situation reflects growth comes through trying, trusting, and allowing yourself to be a beginner."
+      },
+      "past": {
+        "general": "In the past, The Fool points to the Fool begins a path with openness, trust, and the courage to step into the unknown.",
+        "love": "In the past, The Fool points to in love, The Fool can point to openness, playfulness, and a willingness to experience connection without overcontrolling it.",
+        "career": "In the past, The Fool points to a new direction, project, or learning path may be calling for experimentation.",
+        "money": "In the past, The Fool points to money matters may benefit from fresh thinking, but not reckless risk.",
+        "growth": "In the past, The Fool points to growth comes through trying, trusting, and allowing yourself to be a beginner."
+      },
+      "present": {
+        "general": "In the present, The Fool highlights the Fool begins a path with openness, trust, and the courage to step into the unknown.",
+        "love": "In the present, The Fool highlights in love, The Fool can point to openness, playfulness, and a willingness to experience connection without overcontrolling it.",
+        "career": "In the present, The Fool highlights a new direction, project, or learning path may be calling for experimentation.",
+        "money": "In the present, The Fool highlights money matters may benefit from fresh thinking, but not reckless risk.",
+        "growth": "In the present, The Fool highlights growth comes through trying, trusting, and allowing yourself to be a beginner."
+      },
+      "future": {
+        "general": "Looking ahead, The Fool suggests the Fool begins a path with openness, trust, and the courage to step into the unknown.",
+        "love": "Looking ahead, The Fool suggests in love, The Fool can point to openness, playfulness, and a willingness to experience connection without overcontrolling it.",
+        "career": "Looking ahead, The Fool suggests a new direction, project, or learning path may be calling for experimentation.",
+        "money": "Looking ahead, The Fool suggests money matters may benefit from fresh thinking, but not reckless risk.",
+        "growth": "Looking ahead, The Fool suggests growth comes through trying, trusting, and allowing yourself to be a beginner."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is new beginning showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does new beginning affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can new beginning guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does new beginning reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can new beginning teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_magician",
+    "name": "The Magician",
+    "arcana": "major",
+    "number": 1,
+    "romanNumeral": "I",
+    "assetId": "major_01_magician.png",
+    "keywords": [
+      "willpower",
+      "skill",
+      "manifestation",
+      "focus",
+      "resourcefulness"
+    ],
+    "tags": [
+      "willpower",
+      "manifestation",
+      "skill",
+      "agency",
+      "focused_action"
+    ],
+    "toneTags": [
+      "empowered",
+      "clear",
+      "active"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Magician shows that tools, skill, and intention can be brought together to create change.",
+        "advice": "Use what you already have with focus instead of waiting for perfect conditions."
+      },
+      "love": {
+        "summary": "In love, this card highlights communication, confidence, and intentional connection.",
+        "advice": "Be clear about what you want, and let your actions match your words."
+      },
+      "career": {
+        "summary": "Your abilities are ready to be shaped into visible results.",
+        "advice": "Choose one clear goal and apply your skills with consistency."
+      },
+      "money": {
+        "summary": "This card favors practical resourcefulness and using available assets wisely.",
+        "advice": "Look at what is already in your hands before seeking more."
+      },
+      "growth": {
+        "summary": "Growth is supported by self-trust, practice, and conscious choice.",
+        "advice": "Act as a participant in your life, not only an observer."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Use what you already have with focus instead of waiting for perfect conditions.",
+        "love": "Be clear about what you want, and let your actions match your words.",
+        "career": "Choose one clear goal and apply your skills with consistency.",
+        "money": "Look at what is already in your hands before seeking more.",
+        "growth": "Act as a participant in your life, not only an observer."
+      },
+      "situation": {
+        "general": "The situation reflects the Magician shows that tools, skill, and intention can be brought together to create change.",
+        "love": "The situation reflects in love, this card highlights communication, confidence, and intentional connection.",
+        "career": "The situation reflects your abilities are ready to be shaped into visible results.",
+        "money": "The situation reflects this card favors practical resourcefulness and using available assets wisely.",
+        "growth": "The situation reflects growth is supported by self-trust, practice, and conscious choice."
+      },
+      "past": {
+        "general": "In the past, The Magician points to the Magician shows that tools, skill, and intention can be brought together to create change.",
+        "love": "In the past, The Magician points to in love, this card highlights communication, confidence, and intentional connection.",
+        "career": "In the past, The Magician points to your abilities are ready to be shaped into visible results.",
+        "money": "In the past, The Magician points to this card favors practical resourcefulness and using available assets wisely.",
+        "growth": "In the past, The Magician points to growth is supported by self-trust, practice, and conscious choice."
+      },
+      "present": {
+        "general": "In the present, The Magician highlights the Magician shows that tools, skill, and intention can be brought together to create change.",
+        "love": "In the present, The Magician highlights in love, this card highlights communication, confidence, and intentional connection.",
+        "career": "In the present, The Magician highlights your abilities are ready to be shaped into visible results.",
+        "money": "In the present, The Magician highlights this card favors practical resourcefulness and using available assets wisely.",
+        "growth": "In the present, The Magician highlights growth is supported by self-trust, practice, and conscious choice."
+      },
+      "future": {
+        "general": "Looking ahead, The Magician suggests the Magician shows that tools, skill, and intention can be brought together to create change.",
+        "love": "Looking ahead, The Magician suggests in love, this card highlights communication, confidence, and intentional connection.",
+        "career": "Looking ahead, The Magician suggests your abilities are ready to be shaped into visible results.",
+        "money": "Looking ahead, The Magician suggests this card favors practical resourcefulness and using available assets wisely.",
+        "growth": "Looking ahead, The Magician suggests growth is supported by self-trust, practice, and conscious choice."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is willpower showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does willpower affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can willpower guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does willpower reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can willpower teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_high_priestess",
+    "name": "The High Priestess",
+    "arcana": "major",
+    "number": 2,
+    "romanNumeral": "II",
+    "assetId": "major_02_high_priestess.png",
+    "keywords": [
+      "intuition",
+      "mystery",
+      "inner voice",
+      "stillness",
+      "hidden knowledge"
+    ],
+    "tags": [
+      "intuition",
+      "inner_wisdom",
+      "mystery",
+      "stillness",
+      "subtle_truth"
+    ],
+    "toneTags": [
+      "quiet",
+      "mystical",
+      "reflective"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The High Priestess invites stillness, intuition, and attention to what is not yet fully revealed.",
+        "advice": "Pause before acting; the deeper answer may arrive through listening."
+      },
+      "love": {
+        "summary": "In love, something may need emotional honesty, patience, or quiet observation.",
+        "advice": "Do not force a confession or conclusion; notice what your body and heart already know."
+      },
+      "career": {
+        "summary": "At work, unseen dynamics or incomplete information may matter.",
+        "advice": "Gather insight quietly before making your next visible move."
+      },
+      "money": {
+        "summary": "Financial choices may need research, privacy, and a slower decision.",
+        "advice": "Avoid acting on pressure; wait until the missing information becomes clearer."
+      },
+      "growth": {
+        "summary": "Growth comes through trusting inner wisdom rather than constant outside approval.",
+        "advice": "Create silence around the question and notice what keeps returning."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Pause before acting; the deeper answer may arrive through listening.",
+        "love": "Do not force a confession or conclusion; notice what your body and heart already know.",
+        "career": "Gather insight quietly before making your next visible move.",
+        "money": "Avoid acting on pressure; wait until the missing information becomes clearer.",
+        "growth": "Create silence around the question and notice what keeps returning."
+      },
+      "situation": {
+        "general": "The situation reflects the High Priestess invites stillness, intuition, and attention to what is not yet fully revealed.",
+        "love": "The situation reflects in love, something may need emotional honesty, patience, or quiet observation.",
+        "career": "The situation reflects at work, unseen dynamics or incomplete information may matter.",
+        "money": "The situation reflects financial choices may need research, privacy, and a slower decision.",
+        "growth": "The situation reflects growth comes through trusting inner wisdom rather than constant outside approval."
+      },
+      "past": {
+        "general": "In the past, The High Priestess points to the High Priestess invites stillness, intuition, and attention to what is not yet fully revealed.",
+        "love": "In the past, The High Priestess points to in love, something may need emotional honesty, patience, or quiet observation.",
+        "career": "In the past, The High Priestess points to at work, unseen dynamics or incomplete information may matter.",
+        "money": "In the past, The High Priestess points to financial choices may need research, privacy, and a slower decision.",
+        "growth": "In the past, The High Priestess points to growth comes through trusting inner wisdom rather than constant outside approval."
+      },
+      "present": {
+        "general": "In the present, The High Priestess highlights the High Priestess invites stillness, intuition, and attention to what is not yet fully revealed.",
+        "love": "In the present, The High Priestess highlights in love, something may need emotional honesty, patience, or quiet observation.",
+        "career": "In the present, The High Priestess highlights at work, unseen dynamics or incomplete information may matter.",
+        "money": "In the present, The High Priestess highlights financial choices may need research, privacy, and a slower decision.",
+        "growth": "In the present, The High Priestess highlights growth comes through trusting inner wisdom rather than constant outside approval."
+      },
+      "future": {
+        "general": "Looking ahead, The High Priestess suggests the High Priestess invites stillness, intuition, and attention to what is not yet fully revealed.",
+        "love": "Looking ahead, The High Priestess suggests in love, something may need emotional honesty, patience, or quiet observation.",
+        "career": "Looking ahead, The High Priestess suggests at work, unseen dynamics or incomplete information may matter.",
+        "money": "Looking ahead, The High Priestess suggests financial choices may need research, privacy, and a slower decision.",
+        "growth": "Looking ahead, The High Priestess suggests growth comes through trusting inner wisdom rather than constant outside approval."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is intuition showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does intuition affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can intuition guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does intuition reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can intuition teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_empress",
+    "name": "The Empress",
+    "arcana": "major",
+    "number": 3,
+    "romanNumeral": "III",
+    "assetId": "major_03_empress.png",
+    "keywords": [
+      "nurturing",
+      "abundance",
+      "creativity",
+      "comfort",
+      "growth"
+    ],
+    "tags": [
+      "nurturing",
+      "abundance",
+      "creativity",
+      "growth",
+      "receiving"
+    ],
+    "toneTags": [
+      "warm",
+      "sensual",
+      "generous"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Empress brings fertile energy, care, creativity, and the reminder that growth needs nourishment.",
+        "advice": "Nurture what matters instead of rushing it into form."
+      },
+      "love": {
+        "summary": "In love, this card suggests affection, warmth, sensuality, and emotional generosity.",
+        "advice": "Let care be expressed through steady presence, not only words."
+      },
+      "career": {
+        "summary": "Creative or people-centered work may flourish when given space and support.",
+        "advice": "Invest energy where something living is already trying to grow."
+      },
+      "money": {
+        "summary": "Money may be connected to comfort, value, home, or creative resources.",
+        "advice": "Choose abundance that is sustainable rather than impulsive indulgence."
+      },
+      "growth": {
+        "summary": "Growth asks you to receive care as well as give it.",
+        "advice": "Treat yourself as something worthy of tending."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Nurture what matters instead of rushing it into form.",
+        "love": "Let care be expressed through steady presence, not only words.",
+        "career": "Invest energy where something living is already trying to grow.",
+        "money": "Choose abundance that is sustainable rather than impulsive indulgence.",
+        "growth": "Treat yourself as something worthy of tending."
+      },
+      "situation": {
+        "general": "The situation reflects the Empress brings fertile energy, care, creativity, and the reminder that growth needs nourishment.",
+        "love": "The situation reflects in love, this card suggests affection, warmth, sensuality, and emotional generosity.",
+        "career": "The situation reflects creative or people-centered work may flourish when given space and support.",
+        "money": "The situation reflects money may be connected to comfort, value, home, or creative resources.",
+        "growth": "The situation reflects growth asks you to receive care as well as give it."
+      },
+      "past": {
+        "general": "In the past, The Empress points to the Empress brings fertile energy, care, creativity, and the reminder that growth needs nourishment.",
+        "love": "In the past, The Empress points to in love, this card suggests affection, warmth, sensuality, and emotional generosity.",
+        "career": "In the past, The Empress points to creative or people-centered work may flourish when given space and support.",
+        "money": "In the past, The Empress points to money may be connected to comfort, value, home, or creative resources.",
+        "growth": "In the past, The Empress points to growth asks you to receive care as well as give it."
+      },
+      "present": {
+        "general": "In the present, The Empress highlights the Empress brings fertile energy, care, creativity, and the reminder that growth needs nourishment.",
+        "love": "In the present, The Empress highlights in love, this card suggests affection, warmth, sensuality, and emotional generosity.",
+        "career": "In the present, The Empress highlights creative or people-centered work may flourish when given space and support.",
+        "money": "In the present, The Empress highlights money may be connected to comfort, value, home, or creative resources.",
+        "growth": "In the present, The Empress highlights growth asks you to receive care as well as give it."
+      },
+      "future": {
+        "general": "Looking ahead, The Empress suggests the Empress brings fertile energy, care, creativity, and the reminder that growth needs nourishment.",
+        "love": "Looking ahead, The Empress suggests in love, this card suggests affection, warmth, sensuality, and emotional generosity.",
+        "career": "Looking ahead, The Empress suggests creative or people-centered work may flourish when given space and support.",
+        "money": "Looking ahead, The Empress suggests money may be connected to comfort, value, home, or creative resources.",
+        "growth": "Looking ahead, The Empress suggests growth asks you to receive care as well as give it."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is nurturing showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does nurturing affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can nurturing guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does nurturing reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can nurturing teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_emperor",
+    "name": "The Emperor",
+    "arcana": "major",
+    "number": 4,
+    "romanNumeral": "IV",
+    "assetId": "major_04_emperor.png",
+    "keywords": [
+      "structure",
+      "leadership",
+      "boundaries",
+      "authority",
+      "stability"
+    ],
+    "tags": [
+      "structure",
+      "leadership",
+      "boundaries",
+      "stability",
+      "discipline"
+    ],
+    "toneTags": [
+      "grounded",
+      "protective",
+      "firm"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Emperor represents structure, responsibility, and the strength of healthy boundaries.",
+        "advice": "Build a framework that can hold what you want to create."
+      },
+      "love": {
+        "summary": "In love, stability and clear expectations may be more important than dramatic intensity.",
+        "advice": "Name what feels safe, respectful, and sustainable."
+      },
+      "career": {
+        "summary": "Career matters may call for leadership, organization, or decisive planning.",
+        "advice": "Define the goal, assign responsibility, and follow through."
+      },
+      "money": {
+        "summary": "Money benefits from budgets, systems, and long-term thinking.",
+        "advice": "Let structure protect your peace rather than restrict your life."
+      },
+      "growth": {
+        "summary": "Growth comes through discipline, maturity, and self-respect.",
+        "advice": "Practice being firm without becoming rigid."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Build a framework that can hold what you want to create.",
+        "love": "Name what feels safe, respectful, and sustainable.",
+        "career": "Define the goal, assign responsibility, and follow through.",
+        "money": "Let structure protect your peace rather than restrict your life.",
+        "growth": "Practice being firm without becoming rigid."
+      },
+      "situation": {
+        "general": "The situation reflects the Emperor represents structure, responsibility, and the strength of healthy boundaries.",
+        "love": "The situation reflects in love, stability and clear expectations may be more important than dramatic intensity.",
+        "career": "The situation reflects career matters may call for leadership, organization, or decisive planning.",
+        "money": "The situation reflects money benefits from budgets, systems, and long-term thinking.",
+        "growth": "The situation reflects growth comes through discipline, maturity, and self-respect."
+      },
+      "past": {
+        "general": "In the past, The Emperor points to the Emperor represents structure, responsibility, and the strength of healthy boundaries.",
+        "love": "In the past, The Emperor points to in love, stability and clear expectations may be more important than dramatic intensity.",
+        "career": "In the past, The Emperor points to career matters may call for leadership, organization, or decisive planning.",
+        "money": "In the past, The Emperor points to money benefits from budgets, systems, and long-term thinking.",
+        "growth": "In the past, The Emperor points to growth comes through discipline, maturity, and self-respect."
+      },
+      "present": {
+        "general": "In the present, The Emperor highlights the Emperor represents structure, responsibility, and the strength of healthy boundaries.",
+        "love": "In the present, The Emperor highlights in love, stability and clear expectations may be more important than dramatic intensity.",
+        "career": "In the present, The Emperor highlights career matters may call for leadership, organization, or decisive planning.",
+        "money": "In the present, The Emperor highlights money benefits from budgets, systems, and long-term thinking.",
+        "growth": "In the present, The Emperor highlights growth comes through discipline, maturity, and self-respect."
+      },
+      "future": {
+        "general": "Looking ahead, The Emperor suggests the Emperor represents structure, responsibility, and the strength of healthy boundaries.",
+        "love": "Looking ahead, The Emperor suggests in love, stability and clear expectations may be more important than dramatic intensity.",
+        "career": "Looking ahead, The Emperor suggests career matters may call for leadership, organization, or decisive planning.",
+        "money": "Looking ahead, The Emperor suggests money benefits from budgets, systems, and long-term thinking.",
+        "growth": "Looking ahead, The Emperor suggests growth comes through discipline, maturity, and self-respect."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is structure showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does structure affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can structure guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does structure reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can structure teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_hierophant",
+    "name": "The Hierophant",
+    "arcana": "major",
+    "number": 5,
+    "romanNumeral": "V",
+    "assetId": "major_05_hierophant.png",
+    "keywords": [
+      "tradition",
+      "teaching",
+      "beliefs",
+      "guidance",
+      "shared values"
+    ],
+    "tags": [
+      "tradition",
+      "guidance",
+      "beliefs",
+      "community",
+      "learning"
+    ],
+    "toneTags": [
+      "wise",
+      "formal",
+      "reflective"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Hierophant points to teaching, tradition, shared values, and the wisdom of established paths.",
+        "advice": "Seek guidance, but make sure the guidance still aligns with your spirit."
+      },
+      "love": {
+        "summary": "In love, shared values, commitment, or family patterns may be important.",
+        "advice": "Ask whether the connection supports the life and values you truly want."
+      },
+      "career": {
+        "summary": "Career matters may involve mentorship, training, institutions, or professional standards.",
+        "advice": "Learn the rules before deciding which ones to keep or question."
+      },
+      "money": {
+        "summary": "Money choices may benefit from trusted advice and proven methods.",
+        "advice": "Use stable principles rather than chasing every new trend."
+      },
+      "growth": {
+        "summary": "Growth is supported by study, mentorship, and clarifying what you believe.",
+        "advice": "Let tradition guide you without letting it erase your own voice."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Seek guidance, but make sure the guidance still aligns with your spirit.",
+        "love": "Ask whether the connection supports the life and values you truly want.",
+        "career": "Learn the rules before deciding which ones to keep or question.",
+        "money": "Use stable principles rather than chasing every new trend.",
+        "growth": "Let tradition guide you without letting it erase your own voice."
+      },
+      "situation": {
+        "general": "The situation reflects the Hierophant points to teaching, tradition, shared values, and the wisdom of established paths.",
+        "love": "The situation reflects in love, shared values, commitment, or family patterns may be important.",
+        "career": "The situation reflects career matters may involve mentorship, training, institutions, or professional standards.",
+        "money": "The situation reflects money choices may benefit from trusted advice and proven methods.",
+        "growth": "The situation reflects growth is supported by study, mentorship, and clarifying what you believe."
+      },
+      "past": {
+        "general": "In the past, The Hierophant points to the Hierophant points to teaching, tradition, shared values, and the wisdom of established paths.",
+        "love": "In the past, The Hierophant points to in love, shared values, commitment, or family patterns may be important.",
+        "career": "In the past, The Hierophant points to career matters may involve mentorship, training, institutions, or professional standards.",
+        "money": "In the past, The Hierophant points to money choices may benefit from trusted advice and proven methods.",
+        "growth": "In the past, The Hierophant points to growth is supported by study, mentorship, and clarifying what you believe."
+      },
+      "present": {
+        "general": "In the present, The Hierophant highlights the Hierophant points to teaching, tradition, shared values, and the wisdom of established paths.",
+        "love": "In the present, The Hierophant highlights in love, shared values, commitment, or family patterns may be important.",
+        "career": "In the present, The Hierophant highlights career matters may involve mentorship, training, institutions, or professional standards.",
+        "money": "In the present, The Hierophant highlights money choices may benefit from trusted advice and proven methods.",
+        "growth": "In the present, The Hierophant highlights growth is supported by study, mentorship, and clarifying what you believe."
+      },
+      "future": {
+        "general": "Looking ahead, The Hierophant suggests the Hierophant points to teaching, tradition, shared values, and the wisdom of established paths.",
+        "love": "Looking ahead, The Hierophant suggests in love, shared values, commitment, or family patterns may be important.",
+        "career": "Looking ahead, The Hierophant suggests career matters may involve mentorship, training, institutions, or professional standards.",
+        "money": "Looking ahead, The Hierophant suggests money choices may benefit from trusted advice and proven methods.",
+        "growth": "Looking ahead, The Hierophant suggests growth is supported by study, mentorship, and clarifying what you believe."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is tradition showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does tradition affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can tradition guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does tradition reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can tradition teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_lovers",
+    "name": "The Lovers",
+    "arcana": "major",
+    "number": 6,
+    "romanNumeral": "VI",
+    "assetId": "major_06_lovers.png",
+    "keywords": [
+      "choice",
+      "union",
+      "values",
+      "partnership",
+      "alignment"
+    ],
+    "tags": [
+      "choice",
+      "union",
+      "values",
+      "partnership",
+      "alignment"
+    ],
+    "toneTags": [
+      "tender",
+      "honest",
+      "relational"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Lovers speaks of meaningful choice, union, and alignment between desire and values.",
+        "advice": "Choose from your whole self, not only from attraction or fear."
+      },
+      "love": {
+        "summary": "In love, this card highlights connection, honesty, attraction, and the need for mutual choice.",
+        "advice": "Let love be guided by truth, not only by longing."
+      },
+      "career": {
+        "summary": "Career decisions may require choosing the path that fits your values.",
+        "advice": "Ask what you are willing to commit to, not only what looks appealing."
+      },
+      "money": {
+        "summary": "Money matters may involve shared resources or choices that reveal priorities.",
+        "advice": "Make decisions that reflect what you truly value."
+      },
+      "growth": {
+        "summary": "Growth comes through integration: heart, mind, body, and values moving together.",
+        "advice": "Notice where you are being asked to choose honestly."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Choose from your whole self, not only from attraction or fear.",
+        "love": "Let love be guided by truth, not only by longing.",
+        "career": "Ask what you are willing to commit to, not only what looks appealing.",
+        "money": "Make decisions that reflect what you truly value.",
+        "growth": "Notice where you are being asked to choose honestly."
+      },
+      "situation": {
+        "general": "The situation reflects the Lovers speaks of meaningful choice, union, and alignment between desire and values.",
+        "love": "The situation reflects in love, this card highlights connection, honesty, attraction, and the need for mutual choice.",
+        "career": "The situation reflects career decisions may require choosing the path that fits your values.",
+        "money": "The situation reflects money matters may involve shared resources or choices that reveal priorities.",
+        "growth": "The situation reflects growth comes through integration: heart, mind, body, and values moving together."
+      },
+      "past": {
+        "general": "In the past, The Lovers points to the Lovers speaks of meaningful choice, union, and alignment between desire and values.",
+        "love": "In the past, The Lovers points to in love, this card highlights connection, honesty, attraction, and the need for mutual choice.",
+        "career": "In the past, The Lovers points to career decisions may require choosing the path that fits your values.",
+        "money": "In the past, The Lovers points to money matters may involve shared resources or choices that reveal priorities.",
+        "growth": "In the past, The Lovers points to growth comes through integration: heart, mind, body, and values moving together."
+      },
+      "present": {
+        "general": "In the present, The Lovers highlights the Lovers speaks of meaningful choice, union, and alignment between desire and values.",
+        "love": "In the present, The Lovers highlights in love, this card highlights connection, honesty, attraction, and the need for mutual choice.",
+        "career": "In the present, The Lovers highlights career decisions may require choosing the path that fits your values.",
+        "money": "In the present, The Lovers highlights money matters may involve shared resources or choices that reveal priorities.",
+        "growth": "In the present, The Lovers highlights growth comes through integration: heart, mind, body, and values moving together."
+      },
+      "future": {
+        "general": "Looking ahead, The Lovers suggests the Lovers speaks of meaningful choice, union, and alignment between desire and values.",
+        "love": "Looking ahead, The Lovers suggests in love, this card highlights connection, honesty, attraction, and the need for mutual choice.",
+        "career": "Looking ahead, The Lovers suggests career decisions may require choosing the path that fits your values.",
+        "money": "Looking ahead, The Lovers suggests money matters may involve shared resources or choices that reveal priorities.",
+        "growth": "Looking ahead, The Lovers suggests growth comes through integration: heart, mind, body, and values moving together."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is choice showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does choice affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can choice guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does choice reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can choice teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_chariot",
+    "name": "The Chariot",
+    "arcana": "major",
+    "number": 7,
+    "romanNumeral": "VII",
+    "assetId": "major_07_chariot.png",
+    "keywords": [
+      "willpower",
+      "direction",
+      "victory",
+      "discipline",
+      "momentum"
+    ],
+    "tags": [
+      "willpower",
+      "direction",
+      "momentum",
+      "determination",
+      "self_control"
+    ],
+    "toneTags": [
+      "focused",
+      "bold",
+      "driven"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Chariot brings momentum, determination, and the need to guide opposing forces in one direction.",
+        "advice": "Move with purpose, but do not let speed replace self-command."
+      },
+      "love": {
+        "summary": "In love, this card can show movement, pursuit, or a need to align different needs.",
+        "advice": "Do not try to win the relationship; steer it with respect."
+      },
+      "career": {
+        "summary": "Career matters favor discipline, ambition, and decisive progress.",
+        "advice": "Set a direction and keep distractions from taking the reins."
+      },
+      "money": {
+        "summary": "Money goals may need discipline and a clear route forward.",
+        "advice": "Let a practical plan drive the movement, not impulse."
+      },
+      "growth": {
+        "summary": "Growth comes through mastering your energy instead of scattering it.",
+        "advice": "Take the reins gently, firmly, and consciously."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Move with purpose, but do not let speed replace self-command.",
+        "love": "Do not try to win the relationship; steer it with respect.",
+        "career": "Set a direction and keep distractions from taking the reins.",
+        "money": "Let a practical plan drive the movement, not impulse.",
+        "growth": "Take the reins gently, firmly, and consciously."
+      },
+      "situation": {
+        "general": "The situation reflects the Chariot brings momentum, determination, and the need to guide opposing forces in one direction.",
+        "love": "The situation reflects in love, this card can show movement, pursuit, or a need to align different needs.",
+        "career": "The situation reflects career matters favor discipline, ambition, and decisive progress.",
+        "money": "The situation reflects money goals may need discipline and a clear route forward.",
+        "growth": "The situation reflects growth comes through mastering your energy instead of scattering it."
+      },
+      "past": {
+        "general": "In the past, The Chariot points to the Chariot brings momentum, determination, and the need to guide opposing forces in one direction.",
+        "love": "In the past, The Chariot points to in love, this card can show movement, pursuit, or a need to align different needs.",
+        "career": "In the past, The Chariot points to career matters favor discipline, ambition, and decisive progress.",
+        "money": "In the past, The Chariot points to money goals may need discipline and a clear route forward.",
+        "growth": "In the past, The Chariot points to growth comes through mastering your energy instead of scattering it."
+      },
+      "present": {
+        "general": "In the present, The Chariot highlights the Chariot brings momentum, determination, and the need to guide opposing forces in one direction.",
+        "love": "In the present, The Chariot highlights in love, this card can show movement, pursuit, or a need to align different needs.",
+        "career": "In the present, The Chariot highlights career matters favor discipline, ambition, and decisive progress.",
+        "money": "In the present, The Chariot highlights money goals may need discipline and a clear route forward.",
+        "growth": "In the present, The Chariot highlights growth comes through mastering your energy instead of scattering it."
+      },
+      "future": {
+        "general": "Looking ahead, The Chariot suggests the Chariot brings momentum, determination, and the need to guide opposing forces in one direction.",
+        "love": "Looking ahead, The Chariot suggests in love, this card can show movement, pursuit, or a need to align different needs.",
+        "career": "Looking ahead, The Chariot suggests career matters favor discipline, ambition, and decisive progress.",
+        "money": "Looking ahead, The Chariot suggests money goals may need discipline and a clear route forward.",
+        "growth": "Looking ahead, The Chariot suggests growth comes through mastering your energy instead of scattering it."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is willpower showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does willpower affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can willpower guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does willpower reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can willpower teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "strength",
+    "name": "Strength",
+    "arcana": "major",
+    "number": 8,
+    "romanNumeral": "VIII",
+    "assetId": "major_08_strength.png",
+    "keywords": [
+      "inner strength",
+      "courage",
+      "patience",
+      "compassion",
+      "self-control"
+    ],
+    "tags": [
+      "courage",
+      "compassion",
+      "patience",
+      "inner_strength",
+      "soft_power"
+    ],
+    "toneTags": [
+      "gentle",
+      "brave",
+      "steady"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "Strength is quiet courage: patience, compassion, and power guided by the heart.",
+        "advice": "Meet the situation with gentleness that does not abandon firmness."
+      },
+      "love": {
+        "summary": "In love, tenderness, patience, and emotional maturity are needed.",
+        "advice": "Respond from the steady part of you, not the wounded reflex."
+      },
+      "career": {
+        "summary": "Career challenges may require resilience more than force.",
+        "advice": "Stay composed and keep showing up with skill."
+      },
+      "money": {
+        "summary": "Money concerns may need patience and calm restraint.",
+        "advice": "Do not panic-spend or panic-decide; choose steadiness."
+      },
+      "growth": {
+        "summary": "Growth comes through befriending the parts of yourself you used to fight.",
+        "advice": "Practice strength as compassion in action."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Meet the situation with gentleness that does not abandon firmness.",
+        "love": "Respond from the steady part of you, not the wounded reflex.",
+        "career": "Stay composed and keep showing up with skill.",
+        "money": "Do not panic-spend or panic-decide; choose steadiness.",
+        "growth": "Practice strength as compassion in action."
+      },
+      "situation": {
+        "general": "The situation reflects strength is quiet courage: patience, compassion, and power guided by the heart.",
+        "love": "The situation reflects in love, tenderness, patience, and emotional maturity are needed.",
+        "career": "The situation reflects career challenges may require resilience more than force.",
+        "money": "The situation reflects money concerns may need patience and calm restraint.",
+        "growth": "The situation reflects growth comes through befriending the parts of yourself you used to fight."
+      },
+      "past": {
+        "general": "In the past, Strength points to strength is quiet courage: patience, compassion, and power guided by the heart.",
+        "love": "In the past, Strength points to in love, tenderness, patience, and emotional maturity are needed.",
+        "career": "In the past, Strength points to career challenges may require resilience more than force.",
+        "money": "In the past, Strength points to money concerns may need patience and calm restraint.",
+        "growth": "In the past, Strength points to growth comes through befriending the parts of yourself you used to fight."
+      },
+      "present": {
+        "general": "In the present, Strength highlights strength is quiet courage: patience, compassion, and power guided by the heart.",
+        "love": "In the present, Strength highlights in love, tenderness, patience, and emotional maturity are needed.",
+        "career": "In the present, Strength highlights career challenges may require resilience more than force.",
+        "money": "In the present, Strength highlights money concerns may need patience and calm restraint.",
+        "growth": "In the present, Strength highlights growth comes through befriending the parts of yourself you used to fight."
+      },
+      "future": {
+        "general": "Looking ahead, Strength suggests strength is quiet courage: patience, compassion, and power guided by the heart.",
+        "love": "Looking ahead, Strength suggests in love, tenderness, patience, and emotional maturity are needed.",
+        "career": "Looking ahead, Strength suggests career challenges may require resilience more than force.",
+        "money": "Looking ahead, Strength suggests money concerns may need patience and calm restraint.",
+        "growth": "Looking ahead, Strength suggests growth comes through befriending the parts of yourself you used to fight."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is inner strength showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does inner strength affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can inner strength guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does inner strength reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can inner strength teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_hermit",
+    "name": "The Hermit",
+    "arcana": "major",
+    "number": 9,
+    "romanNumeral": "IX",
+    "assetId": "major_09_hermit.png",
+    "keywords": [
+      "solitude",
+      "inner guidance",
+      "reflection",
+      "wisdom",
+      "withdrawal"
+    ],
+    "tags": [
+      "solitude",
+      "inner_guidance",
+      "reflection",
+      "wisdom",
+      "introspection"
+    ],
+    "toneTags": [
+      "quiet",
+      "wise",
+      "contemplative"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Hermit turns inward to seek clarity, wisdom, and a truth that cannot be rushed.",
+        "advice": "Step back from the noise long enough to hear your own guidance."
+      },
+      "love": {
+        "summary": "In love, space, reflection, or emotional distance may be part of the lesson.",
+        "advice": "Do not confuse solitude with rejection; ask what the space is teaching."
+      },
+      "career": {
+        "summary": "Career matters may need research, focus, or a quieter strategy.",
+        "advice": "Withdraw from distraction and study the path carefully."
+      },
+      "money": {
+        "summary": "Money choices may benefit from sober review and private planning.",
+        "advice": "Look closely before sharing decisions or taking action."
+      },
+      "growth": {
+        "summary": "Growth comes through solitude, self-honesty, and inner listening.",
+        "advice": "Give yourself permission to be unavailable to what drains your clarity."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Step back from the noise long enough to hear your own guidance.",
+        "love": "Do not confuse solitude with rejection; ask what the space is teaching.",
+        "career": "Withdraw from distraction and study the path carefully.",
+        "money": "Look closely before sharing decisions or taking action.",
+        "growth": "Give yourself permission to be unavailable to what drains your clarity."
+      },
+      "situation": {
+        "general": "The situation reflects the Hermit turns inward to seek clarity, wisdom, and a truth that cannot be rushed.",
+        "love": "The situation reflects in love, space, reflection, or emotional distance may be part of the lesson.",
+        "career": "The situation reflects career matters may need research, focus, or a quieter strategy.",
+        "money": "The situation reflects money choices may benefit from sober review and private planning.",
+        "growth": "The situation reflects growth comes through solitude, self-honesty, and inner listening."
+      },
+      "past": {
+        "general": "In the past, The Hermit points to the Hermit turns inward to seek clarity, wisdom, and a truth that cannot be rushed.",
+        "love": "In the past, The Hermit points to in love, space, reflection, or emotional distance may be part of the lesson.",
+        "career": "In the past, The Hermit points to career matters may need research, focus, or a quieter strategy.",
+        "money": "In the past, The Hermit points to money choices may benefit from sober review and private planning.",
+        "growth": "In the past, The Hermit points to growth comes through solitude, self-honesty, and inner listening."
+      },
+      "present": {
+        "general": "In the present, The Hermit highlights the Hermit turns inward to seek clarity, wisdom, and a truth that cannot be rushed.",
+        "love": "In the present, The Hermit highlights in love, space, reflection, or emotional distance may be part of the lesson.",
+        "career": "In the present, The Hermit highlights career matters may need research, focus, or a quieter strategy.",
+        "money": "In the present, The Hermit highlights money choices may benefit from sober review and private planning.",
+        "growth": "In the present, The Hermit highlights growth comes through solitude, self-honesty, and inner listening."
+      },
+      "future": {
+        "general": "Looking ahead, The Hermit suggests the Hermit turns inward to seek clarity, wisdom, and a truth that cannot be rushed.",
+        "love": "Looking ahead, The Hermit suggests in love, space, reflection, or emotional distance may be part of the lesson.",
+        "career": "Looking ahead, The Hermit suggests career matters may need research, focus, or a quieter strategy.",
+        "money": "Looking ahead, The Hermit suggests money choices may benefit from sober review and private planning.",
+        "growth": "Looking ahead, The Hermit suggests growth comes through solitude, self-honesty, and inner listening."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is solitude showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does solitude affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can solitude guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does solitude reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can solitude teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "wheel_of_fortune",
+    "name": "Wheel of Fortune",
+    "arcana": "major",
+    "number": 10,
+    "romanNumeral": "X",
+    "assetId": "major_10_wheel_of_fortune.png",
+    "keywords": [
+      "change",
+      "cycles",
+      "turning point",
+      "timing",
+      "movement"
+    ],
+    "tags": [
+      "change",
+      "cycles",
+      "turning_point",
+      "timing",
+      "adaptability"
+    ],
+    "toneTags": [
+      "fluid",
+      "fateful",
+      "adaptive"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "Wheel of Fortune signals change, cycles, and a turning point that asks for adaptability.",
+        "advice": "Notice what is changing and move with the cycle instead of clinging to the old shape."
+      },
+      "love": {
+        "summary": "In love, patterns may shift, repeat, or reveal their timing.",
+        "advice": "Ask whether this cycle is asking to be renewed or released."
+      },
+      "career": {
+        "summary": "Career may enter a period of movement, opportunity, or changing conditions.",
+        "advice": "Stay flexible so you can respond when the wheel turns."
+      },
+      "money": {
+        "summary": "Money may fluctuate, so planning and adaptability matter.",
+        "advice": "Do not assume a temporary high or low is the whole story."
+      },
+      "growth": {
+        "summary": "Growth comes through understanding patterns and accepting change.",
+        "advice": "Let change teach you where your real center is."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Notice what is changing and move with the cycle instead of clinging to the old shape.",
+        "love": "Ask whether this cycle is asking to be renewed or released.",
+        "career": "Stay flexible so you can respond when the wheel turns.",
+        "money": "Do not assume a temporary high or low is the whole story.",
+        "growth": "Let change teach you where your real center is."
+      },
+      "situation": {
+        "general": "The situation reflects wheel of Fortune signals change, cycles, and a turning point that asks for adaptability.",
+        "love": "The situation reflects in love, patterns may shift, repeat, or reveal their timing.",
+        "career": "The situation reflects career may enter a period of movement, opportunity, or changing conditions.",
+        "money": "The situation reflects money may fluctuate, so planning and adaptability matter.",
+        "growth": "The situation reflects growth comes through understanding patterns and accepting change."
+      },
+      "past": {
+        "general": "In the past, Wheel of Fortune points to wheel of Fortune signals change, cycles, and a turning point that asks for adaptability.",
+        "love": "In the past, Wheel of Fortune points to in love, patterns may shift, repeat, or reveal their timing.",
+        "career": "In the past, Wheel of Fortune points to career may enter a period of movement, opportunity, or changing conditions.",
+        "money": "In the past, Wheel of Fortune points to money may fluctuate, so planning and adaptability matter.",
+        "growth": "In the past, Wheel of Fortune points to growth comes through understanding patterns and accepting change."
+      },
+      "present": {
+        "general": "In the present, Wheel of Fortune highlights wheel of Fortune signals change, cycles, and a turning point that asks for adaptability.",
+        "love": "In the present, Wheel of Fortune highlights in love, patterns may shift, repeat, or reveal their timing.",
+        "career": "In the present, Wheel of Fortune highlights career may enter a period of movement, opportunity, or changing conditions.",
+        "money": "In the present, Wheel of Fortune highlights money may fluctuate, so planning and adaptability matter.",
+        "growth": "In the present, Wheel of Fortune highlights growth comes through understanding patterns and accepting change."
+      },
+      "future": {
+        "general": "Looking ahead, Wheel of Fortune suggests wheel of Fortune signals change, cycles, and a turning point that asks for adaptability.",
+        "love": "Looking ahead, Wheel of Fortune suggests in love, patterns may shift, repeat, or reveal their timing.",
+        "career": "Looking ahead, Wheel of Fortune suggests career may enter a period of movement, opportunity, or changing conditions.",
+        "money": "Looking ahead, Wheel of Fortune suggests money may fluctuate, so planning and adaptability matter.",
+        "growth": "Looking ahead, Wheel of Fortune suggests growth comes through understanding patterns and accepting change."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is change showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does change affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can change guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does change reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can change teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "justice",
+    "name": "Justice",
+    "arcana": "major",
+    "number": 11,
+    "romanNumeral": "XI",
+    "assetId": "major_11_justice.png",
+    "keywords": [
+      "truth",
+      "fairness",
+      "accountability",
+      "clarity",
+      "consequence"
+    ],
+    "tags": [
+      "truth",
+      "fairness",
+      "accountability",
+      "clarity",
+      "balance"
+    ],
+    "toneTags": [
+      "clear",
+      "measured",
+      "honest"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "Justice brings truth, accountability, and the need to see cause and effect clearly.",
+        "advice": "Choose what is fair, factual, and aligned with your integrity."
+      },
+      "love": {
+        "summary": "In love, honesty, balance, and mutual responsibility are central.",
+        "advice": "Let clarity replace guessing, and fairness replace blame."
+      },
+      "career": {
+        "summary": "Career matters may involve decisions, contracts, evaluations, or ethical choices.",
+        "advice": "Document clearly and act with professional integrity."
+      },
+      "money": {
+        "summary": "Money choices call for honest numbers and balanced obligations.",
+        "advice": "Look at the facts before making assumptions."
+      },
+      "growth": {
+        "summary": "Growth comes through owning your choices without self-punishment.",
+        "advice": "Accountability can be a doorway to freedom."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Choose what is fair, factual, and aligned with your integrity.",
+        "love": "Let clarity replace guessing, and fairness replace blame.",
+        "career": "Document clearly and act with professional integrity.",
+        "money": "Look at the facts before making assumptions.",
+        "growth": "Accountability can be a doorway to freedom."
+      },
+      "situation": {
+        "general": "The situation reflects justice brings truth, accountability, and the need to see cause and effect clearly.",
+        "love": "The situation reflects in love, honesty, balance, and mutual responsibility are central.",
+        "career": "The situation reflects career matters may involve decisions, contracts, evaluations, or ethical choices.",
+        "money": "The situation reflects money choices call for honest numbers and balanced obligations.",
+        "growth": "The situation reflects growth comes through owning your choices without self-punishment."
+      },
+      "past": {
+        "general": "In the past, Justice points to justice brings truth, accountability, and the need to see cause and effect clearly.",
+        "love": "In the past, Justice points to in love, honesty, balance, and mutual responsibility are central.",
+        "career": "In the past, Justice points to career matters may involve decisions, contracts, evaluations, or ethical choices.",
+        "money": "In the past, Justice points to money choices call for honest numbers and balanced obligations.",
+        "growth": "In the past, Justice points to growth comes through owning your choices without self-punishment."
+      },
+      "present": {
+        "general": "In the present, Justice highlights justice brings truth, accountability, and the need to see cause and effect clearly.",
+        "love": "In the present, Justice highlights in love, honesty, balance, and mutual responsibility are central.",
+        "career": "In the present, Justice highlights career matters may involve decisions, contracts, evaluations, or ethical choices.",
+        "money": "In the present, Justice highlights money choices call for honest numbers and balanced obligations.",
+        "growth": "In the present, Justice highlights growth comes through owning your choices without self-punishment."
+      },
+      "future": {
+        "general": "Looking ahead, Justice suggests justice brings truth, accountability, and the need to see cause and effect clearly.",
+        "love": "Looking ahead, Justice suggests in love, honesty, balance, and mutual responsibility are central.",
+        "career": "Looking ahead, Justice suggests career matters may involve decisions, contracts, evaluations, or ethical choices.",
+        "money": "Looking ahead, Justice suggests money choices call for honest numbers and balanced obligations.",
+        "growth": "Looking ahead, Justice suggests growth comes through owning your choices without self-punishment."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is truth showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does truth affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can truth guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does truth reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can truth teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_hanged_man",
+    "name": "The Hanged Man",
+    "arcana": "major",
+    "number": 12,
+    "romanNumeral": "XII",
+    "assetId": "major_12_hanged_man.png",
+    "keywords": [
+      "pause",
+      "surrender",
+      "new perspective",
+      "release",
+      "waiting"
+    ],
+    "tags": [
+      "pause",
+      "surrender",
+      "new_perspective",
+      "release",
+      "patience"
+    ],
+    "toneTags": [
+      "soft",
+      "suspended",
+      "reflective"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Hanged Man asks for pause, surrender, and a new perspective before action.",
+        "advice": "Stop pushing for a moment and let the situation look different."
+      },
+      "love": {
+        "summary": "In love, waiting or seeing things from another angle may be necessary.",
+        "advice": "Release the need to control the timing of every answer."
+      },
+      "career": {
+        "summary": "Career progress may feel delayed, but the pause can reveal a better approach.",
+        "advice": "Use the slowdown to rethink the strategy."
+      },
+      "money": {
+        "summary": "Money matters may require patience and a different view of value.",
+        "advice": "Avoid forcing a decision only to end the discomfort of waiting."
+      },
+      "growth": {
+        "summary": "Growth comes through surrendering old assumptions.",
+        "advice": "Ask what becomes visible when you stop struggling."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Stop pushing for a moment and let the situation look different.",
+        "love": "Release the need to control the timing of every answer.",
+        "career": "Use the slowdown to rethink the strategy.",
+        "money": "Avoid forcing a decision only to end the discomfort of waiting.",
+        "growth": "Ask what becomes visible when you stop struggling."
+      },
+      "situation": {
+        "general": "The situation reflects the Hanged Man asks for pause, surrender, and a new perspective before action.",
+        "love": "The situation reflects in love, waiting or seeing things from another angle may be necessary.",
+        "career": "The situation reflects career progress may feel delayed, but the pause can reveal a better approach.",
+        "money": "The situation reflects money matters may require patience and a different view of value.",
+        "growth": "The situation reflects growth comes through surrendering old assumptions."
+      },
+      "past": {
+        "general": "In the past, The Hanged Man points to the Hanged Man asks for pause, surrender, and a new perspective before action.",
+        "love": "In the past, The Hanged Man points to in love, waiting or seeing things from another angle may be necessary.",
+        "career": "In the past, The Hanged Man points to career progress may feel delayed, but the pause can reveal a better approach.",
+        "money": "In the past, The Hanged Man points to money matters may require patience and a different view of value.",
+        "growth": "In the past, The Hanged Man points to growth comes through surrendering old assumptions."
+      },
+      "present": {
+        "general": "In the present, The Hanged Man highlights the Hanged Man asks for pause, surrender, and a new perspective before action.",
+        "love": "In the present, The Hanged Man highlights in love, waiting or seeing things from another angle may be necessary.",
+        "career": "In the present, The Hanged Man highlights career progress may feel delayed, but the pause can reveal a better approach.",
+        "money": "In the present, The Hanged Man highlights money matters may require patience and a different view of value.",
+        "growth": "In the present, The Hanged Man highlights growth comes through surrendering old assumptions."
+      },
+      "future": {
+        "general": "Looking ahead, The Hanged Man suggests the Hanged Man asks for pause, surrender, and a new perspective before action.",
+        "love": "Looking ahead, The Hanged Man suggests in love, waiting or seeing things from another angle may be necessary.",
+        "career": "Looking ahead, The Hanged Man suggests career progress may feel delayed, but the pause can reveal a better approach.",
+        "money": "Looking ahead, The Hanged Man suggests money matters may require patience and a different view of value.",
+        "growth": "Looking ahead, The Hanged Man suggests growth comes through surrendering old assumptions."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is pause showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does pause affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can pause guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does pause reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can pause teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "death",
+    "name": "Death",
+    "arcana": "major",
+    "number": 13,
+    "romanNumeral": "XIII",
+    "assetId": "major_13_death.png",
+    "keywords": [
+      "ending",
+      "transformation",
+      "release",
+      "transition",
+      "renewal"
+    ],
+    "tags": [
+      "ending",
+      "transformation",
+      "release",
+      "transition",
+      "renewal"
+    ],
+    "toneTags": [
+      "deep",
+      "honest",
+      "transformative"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "Death marks an ending that clears space for transformation and renewal.",
+        "advice": "Let what is finished be finished, so life can reorganize around truth."
+      },
+      "love": {
+        "summary": "In love, an old pattern, phase, or attachment may need to end.",
+        "advice": "Do not cling to the version of connection that no longer lives."
+      },
+      "career": {
+        "summary": "Career may be moving through a necessary closure or reinvention.",
+        "advice": "Release the role, habit, or path that has completed its purpose."
+      },
+      "money": {
+        "summary": "Money patterns may need a decisive reset or simplification.",
+        "advice": "End what drains stability so new choices can take root."
+      },
+      "growth": {
+        "summary": "Growth comes through allowing identity to change.",
+        "advice": "Trust that release can be sacred, not only painful."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let what is finished be finished, so life can reorganize around truth.",
+        "love": "Do not cling to the version of connection that no longer lives.",
+        "career": "Release the role, habit, or path that has completed its purpose.",
+        "money": "End what drains stability so new choices can take root.",
+        "growth": "Trust that release can be sacred, not only painful."
+      },
+      "situation": {
+        "general": "The situation reflects death marks an ending that clears space for transformation and renewal.",
+        "love": "The situation reflects in love, an old pattern, phase, or attachment may need to end.",
+        "career": "The situation reflects career may be moving through a necessary closure or reinvention.",
+        "money": "The situation reflects money patterns may need a decisive reset or simplification.",
+        "growth": "The situation reflects growth comes through allowing identity to change."
+      },
+      "past": {
+        "general": "In the past, Death points to death marks an ending that clears space for transformation and renewal.",
+        "love": "In the past, Death points to in love, an old pattern, phase, or attachment may need to end.",
+        "career": "In the past, Death points to career may be moving through a necessary closure or reinvention.",
+        "money": "In the past, Death points to money patterns may need a decisive reset or simplification.",
+        "growth": "In the past, Death points to growth comes through allowing identity to change."
+      },
+      "present": {
+        "general": "In the present, Death highlights death marks an ending that clears space for transformation and renewal.",
+        "love": "In the present, Death highlights in love, an old pattern, phase, or attachment may need to end.",
+        "career": "In the present, Death highlights career may be moving through a necessary closure or reinvention.",
+        "money": "In the present, Death highlights money patterns may need a decisive reset or simplification.",
+        "growth": "In the present, Death highlights growth comes through allowing identity to change."
+      },
+      "future": {
+        "general": "Looking ahead, Death suggests death marks an ending that clears space for transformation and renewal.",
+        "love": "Looking ahead, Death suggests in love, an old pattern, phase, or attachment may need to end.",
+        "career": "Looking ahead, Death suggests career may be moving through a necessary closure or reinvention.",
+        "money": "Looking ahead, Death suggests money patterns may need a decisive reset or simplification.",
+        "growth": "Looking ahead, Death suggests growth comes through allowing identity to change."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is ending showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does ending affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can ending guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does ending reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can ending teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "temperance",
+    "name": "Temperance",
+    "arcana": "major",
+    "number": 14,
+    "romanNumeral": "XIV",
+    "assetId": "major_14_temperance.png",
+    "keywords": [
+      "balance",
+      "patience",
+      "healing",
+      "moderation",
+      "integration"
+    ],
+    "tags": [
+      "balance",
+      "patience",
+      "healing",
+      "moderation",
+      "integration"
+    ],
+    "toneTags": [
+      "calm",
+      "harmonizing",
+      "gentle"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "Temperance blends opposites into balance, patience, and gentle healing.",
+        "advice": "Choose the middle path and let integration happen gradually."
+      },
+      "love": {
+        "summary": "In love, healing may come through patience, compromise, and emotional balance.",
+        "advice": "Blend differences without abandoning yourself."
+      },
+      "career": {
+        "summary": "Career matters benefit from pacing, collaboration, and measured progress.",
+        "advice": "Do not rush what needs careful mixing."
+      },
+      "money": {
+        "summary": "Money choices may need moderation and steady adjustment.",
+        "advice": "Balance spending, saving, and real needs without extremes."
+      },
+      "growth": {
+        "summary": "Growth comes through integration: making peace between divided parts.",
+        "advice": "Let consistency do what intensity cannot."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Choose the middle path and let integration happen gradually.",
+        "love": "Blend differences without abandoning yourself.",
+        "career": "Do not rush what needs careful mixing.",
+        "money": "Balance spending, saving, and real needs without extremes.",
+        "growth": "Let consistency do what intensity cannot."
+      },
+      "situation": {
+        "general": "The situation reflects temperance blends opposites into balance, patience, and gentle healing.",
+        "love": "The situation reflects in love, healing may come through patience, compromise, and emotional balance.",
+        "career": "The situation reflects career matters benefit from pacing, collaboration, and measured progress.",
+        "money": "The situation reflects money choices may need moderation and steady adjustment.",
+        "growth": "The situation reflects growth comes through integration: making peace between divided parts."
+      },
+      "past": {
+        "general": "In the past, Temperance points to temperance blends opposites into balance, patience, and gentle healing.",
+        "love": "In the past, Temperance points to in love, healing may come through patience, compromise, and emotional balance.",
+        "career": "In the past, Temperance points to career matters benefit from pacing, collaboration, and measured progress.",
+        "money": "In the past, Temperance points to money choices may need moderation and steady adjustment.",
+        "growth": "In the past, Temperance points to growth comes through integration: making peace between divided parts."
+      },
+      "present": {
+        "general": "In the present, Temperance highlights temperance blends opposites into balance, patience, and gentle healing.",
+        "love": "In the present, Temperance highlights in love, healing may come through patience, compromise, and emotional balance.",
+        "career": "In the present, Temperance highlights career matters benefit from pacing, collaboration, and measured progress.",
+        "money": "In the present, Temperance highlights money choices may need moderation and steady adjustment.",
+        "growth": "In the present, Temperance highlights growth comes through integration: making peace between divided parts."
+      },
+      "future": {
+        "general": "Looking ahead, Temperance suggests temperance blends opposites into balance, patience, and gentle healing.",
+        "love": "Looking ahead, Temperance suggests in love, healing may come through patience, compromise, and emotional balance.",
+        "career": "Looking ahead, Temperance suggests career matters benefit from pacing, collaboration, and measured progress.",
+        "money": "Looking ahead, Temperance suggests money choices may need moderation and steady adjustment.",
+        "growth": "Looking ahead, Temperance suggests growth comes through integration: making peace between divided parts."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is balance showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does balance affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can balance guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does balance reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can balance teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_devil",
+    "name": "The Devil",
+    "arcana": "major",
+    "number": 15,
+    "romanNumeral": "XV",
+    "assetId": "major_15_devil.png",
+    "keywords": [
+      "attachment",
+      "temptation",
+      "shadow",
+      "restriction",
+      "pattern"
+    ],
+    "tags": [
+      "attachment",
+      "shadow",
+      "restriction",
+      "temptation",
+      "awareness"
+    ],
+    "toneTags": [
+      "direct",
+      "shadowy",
+      "liberating"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Devil reveals attachments, compulsions, or patterns that feel powerful because they remain unexamined.",
+        "advice": "Name the chain clearly; awareness is the first loosening."
+      },
+      "love": {
+        "summary": "In love, desire, dependency, control, or repeating patterns may need honest attention.",
+        "advice": "Separate true intimacy from fear, possession, or habit."
+      },
+      "career": {
+        "summary": "Career matters may involve unhealthy pressure, ambition, or a toxic pattern.",
+        "advice": "Notice what costs more of your spirit than it gives back."
+      },
+      "money": {
+        "summary": "Money choices may be tangled with craving, avoidance, or short-term relief.",
+        "advice": "Do not shame yourself; create one practical boundary."
+      },
+      "growth": {
+        "summary": "Growth begins by facing the shadow without letting it define you.",
+        "advice": "Freedom starts with telling yourself the truth."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Name the chain clearly; awareness is the first loosening.",
+        "love": "Separate true intimacy from fear, possession, or habit.",
+        "career": "Notice what costs more of your spirit than it gives back.",
+        "money": "Do not shame yourself; create one practical boundary.",
+        "growth": "Freedom starts with telling yourself the truth."
+      },
+      "situation": {
+        "general": "The situation reflects the Devil reveals attachments, compulsions, or patterns that feel powerful because they remain unexamined.",
+        "love": "The situation reflects in love, desire, dependency, control, or repeating patterns may need honest attention.",
+        "career": "The situation reflects career matters may involve unhealthy pressure, ambition, or a toxic pattern.",
+        "money": "The situation reflects money choices may be tangled with craving, avoidance, or short-term relief.",
+        "growth": "The situation reflects growth begins by facing the shadow without letting it define you."
+      },
+      "past": {
+        "general": "In the past, The Devil points to the Devil reveals attachments, compulsions, or patterns that feel powerful because they remain unexamined.",
+        "love": "In the past, The Devil points to in love, desire, dependency, control, or repeating patterns may need honest attention.",
+        "career": "In the past, The Devil points to career matters may involve unhealthy pressure, ambition, or a toxic pattern.",
+        "money": "In the past, The Devil points to money choices may be tangled with craving, avoidance, or short-term relief.",
+        "growth": "In the past, The Devil points to growth begins by facing the shadow without letting it define you."
+      },
+      "present": {
+        "general": "In the present, The Devil highlights the Devil reveals attachments, compulsions, or patterns that feel powerful because they remain unexamined.",
+        "love": "In the present, The Devil highlights in love, desire, dependency, control, or repeating patterns may need honest attention.",
+        "career": "In the present, The Devil highlights career matters may involve unhealthy pressure, ambition, or a toxic pattern.",
+        "money": "In the present, The Devil highlights money choices may be tangled with craving, avoidance, or short-term relief.",
+        "growth": "In the present, The Devil highlights growth begins by facing the shadow without letting it define you."
+      },
+      "future": {
+        "general": "Looking ahead, The Devil suggests the Devil reveals attachments, compulsions, or patterns that feel powerful because they remain unexamined.",
+        "love": "Looking ahead, The Devil suggests in love, desire, dependency, control, or repeating patterns may need honest attention.",
+        "career": "Looking ahead, The Devil suggests career matters may involve unhealthy pressure, ambition, or a toxic pattern.",
+        "money": "Looking ahead, The Devil suggests money choices may be tangled with craving, avoidance, or short-term relief.",
+        "growth": "Looking ahead, The Devil suggests growth begins by facing the shadow without letting it define you."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is attachment showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does attachment affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can attachment guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does attachment reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can attachment teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_tower",
+    "name": "The Tower",
+    "arcana": "major",
+    "number": 16,
+    "romanNumeral": "XVI",
+    "assetId": "major_16_tower.png",
+    "keywords": [
+      "upheaval",
+      "revelation",
+      "collapse",
+      "awakening",
+      "truth"
+    ],
+    "tags": [
+      "upheaval",
+      "revelation",
+      "collapse",
+      "truth",
+      "liberation"
+    ],
+    "toneTags": [
+      "intense",
+      "clearing",
+      "honest"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Tower brings sudden truth, disruption, and the collapse of what could not hold.",
+        "advice": "Let the false structure fall before trying to rebuild."
+      },
+      "love": {
+        "summary": "In love, a revelation or breaking point may expose what needs honesty.",
+        "advice": "Do not rebuild the same wall around the same wound."
+      },
+      "career": {
+        "summary": "Career may face disruption, conflict, or a necessary reality check.",
+        "advice": "Stabilize first, then decide what deserves rebuilding."
+      },
+      "money": {
+        "summary": "Money matters may require urgent clarity or correction.",
+        "advice": "Respond to facts quickly without spiraling into fear."
+      },
+      "growth": {
+        "summary": "Growth comes when illusion breaks and truth becomes unavoidable.",
+        "advice": "Ask what this disruption is freeing you from."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let the false structure fall before trying to rebuild.",
+        "love": "Do not rebuild the same wall around the same wound.",
+        "career": "Stabilize first, then decide what deserves rebuilding.",
+        "money": "Respond to facts quickly without spiraling into fear.",
+        "growth": "Ask what this disruption is freeing you from."
+      },
+      "situation": {
+        "general": "The situation reflects the Tower brings sudden truth, disruption, and the collapse of what could not hold.",
+        "love": "The situation reflects in love, a revelation or breaking point may expose what needs honesty.",
+        "career": "The situation reflects career may face disruption, conflict, or a necessary reality check.",
+        "money": "The situation reflects money matters may require urgent clarity or correction.",
+        "growth": "The situation reflects growth comes when illusion breaks and truth becomes unavoidable."
+      },
+      "past": {
+        "general": "In the past, The Tower points to the Tower brings sudden truth, disruption, and the collapse of what could not hold.",
+        "love": "In the past, The Tower points to in love, a revelation or breaking point may expose what needs honesty.",
+        "career": "In the past, The Tower points to career may face disruption, conflict, or a necessary reality check.",
+        "money": "In the past, The Tower points to money matters may require urgent clarity or correction.",
+        "growth": "In the past, The Tower points to growth comes when illusion breaks and truth becomes unavoidable."
+      },
+      "present": {
+        "general": "In the present, The Tower highlights the Tower brings sudden truth, disruption, and the collapse of what could not hold.",
+        "love": "In the present, The Tower highlights in love, a revelation or breaking point may expose what needs honesty.",
+        "career": "In the present, The Tower highlights career may face disruption, conflict, or a necessary reality check.",
+        "money": "In the present, The Tower highlights money matters may require urgent clarity or correction.",
+        "growth": "In the present, The Tower highlights growth comes when illusion breaks and truth becomes unavoidable."
+      },
+      "future": {
+        "general": "Looking ahead, The Tower suggests the Tower brings sudden truth, disruption, and the collapse of what could not hold.",
+        "love": "Looking ahead, The Tower suggests in love, a revelation or breaking point may expose what needs honesty.",
+        "career": "Looking ahead, The Tower suggests career may face disruption, conflict, or a necessary reality check.",
+        "money": "Looking ahead, The Tower suggests money matters may require urgent clarity or correction.",
+        "growth": "Looking ahead, The Tower suggests growth comes when illusion breaks and truth becomes unavoidable."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is upheaval showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does upheaval affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can upheaval guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does upheaval reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can upheaval teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
     "id": "the_star",
     "name": "The Star",
     "arcana": "major",
@@ -50,61 +1886,493 @@
     },
     "positions": {
       "message": {
-        "general": "A gentle light is returning. This card asks you to notice where hope is already present.",
-        "love": "Your heart may need softness, honesty, and time rather than pressure.",
-        "career": "Your motivation can return through meaningful, restorative choices.",
-        "money": "Calm planning will help more than anxious control.",
-        "growth": "Healing can be quiet and still be real."
+        "general": "Let yourself believe that renewal is possible, even if it arrives slowly.",
+        "love": "Allow connection to grow gently, without forcing certainty too soon.",
+        "career": "Follow the direction that restores your energy, not only the one that looks impressive.",
+        "money": "Choose steady hope over anxious urgency.",
+        "growth": "Let your next step be guided by hope, not fear."
       },
       "situation": {
-        "general": "You may be entering a softer phase of recovery and renewed trust.",
-        "love": "There is room for tenderness and emotional honesty now.",
-        "career": "A clearer sense of purpose may be slowly returning.",
-        "money": "You may be learning to relate to resources with less fear.",
-        "growth": "Your inner compass is becoming easier to hear."
+        "general": "The situation reflects the Star brings hope, healing, and a quiet return of trust.",
+        "love": "The situation reflects a tender emotional space is opening, especially where trust has been fragile.",
+        "career": "The situation reflects inspiration may be returning after a draining period.",
+        "money": "The situation reflects a calmer relationship with stability and planning can begin now.",
+        "growth": "The situation reflects this card reflects healing, inner guidance, and the return of self-belief."
       },
       "past": {
-        "general": "A period of healing or restored hope may still influence the situation.",
-        "love": "A healing connection or moment of emotional clarity may still shape your heart.",
-        "career": "A past source of inspiration helped you continue.",
-        "money": "You may have started rebuilding trust in your own stability.",
-        "growth": "You have already begun learning how to believe in yourself again."
+        "general": "In the past, The Star points to the Star brings hope, healing, and a quiet return of trust.",
+        "love": "In the past, The Star points to a tender emotional space is opening, especially where trust has been fragile.",
+        "career": "In the past, The Star points to inspiration may be returning after a draining period.",
+        "money": "In the past, The Star points to a calmer relationship with stability and planning can begin now.",
+        "growth": "In the past, The Star points to this card reflects healing, inner guidance, and the return of self-belief."
       },
       "present": {
-        "general": "The present holds a quiet invitation to heal and trust again.",
-        "love": "There is space now for tenderness, honesty, and emotional renewal.",
-        "career": "Your inspiration may be returning, even if the full path is not clear yet.",
-        "money": "A calmer and more hopeful approach can help you make better choices.",
-        "growth": "This moment supports healing, self-trust, and gentle renewal."
+        "general": "In the present, The Star highlights the Star brings hope, healing, and a quiet return of trust.",
+        "love": "In the present, The Star highlights a tender emotional space is opening, especially where trust has been fragile.",
+        "career": "In the present, The Star highlights inspiration may be returning after a draining period.",
+        "money": "In the present, The Star highlights a calmer relationship with stability and planning can begin now.",
+        "growth": "In the present, The Star highlights this card reflects healing, inner guidance, and the return of self-belief."
       },
       "future": {
-        "general": "The future points toward hope, restoration, and a softer kind of clarity.",
-        "love": "A more peaceful emotional chapter can open if healing is allowed to continue.",
-        "career": "You may move toward work that feels more aligned and meaningful.",
-        "money": "A steadier sense of trust and planning can grow over time.",
-        "growth": "The path ahead may restore your faith in yourself."
+        "general": "Looking ahead, The Star suggests the Star brings hope, healing, and a quiet return of trust.",
+        "love": "Looking ahead, The Star suggests a tender emotional space is opening, especially where trust has been fragile.",
+        "career": "Looking ahead, The Star suggests inspiration may be returning after a draining period.",
+        "money": "Looking ahead, The Star suggests a calmer relationship with stability and planning can begin now.",
+        "growth": "Looking ahead, The Star suggests this card reflects healing, inner guidance, and the return of self-belief."
       }
     },
     "journalPrompts": {
       "general": [
-        "Where is hope quietly returning?",
-        "What would healing look like if I allowed it to be gentle?"
+        "Where is hope showing up in my life?",
+        "What is the gentlest truthful next step?"
       ],
       "love": [
-        "What would help my heart feel safe without closing it?",
-        "Where can I allow tenderness instead of pressure?"
+        "How does hope affect the way I give or receive love?",
+        "What would help my heart feel respected?"
       ],
       "career": [
-        "What kind of work restores my energy?",
-        "Which next step feels both realistic and meaningful?"
+        "How can hope guide my work or direction?",
+        "What action would make this more grounded?"
       ],
       "money": [
-        "What financial choice would feel calm and grounded?",
-        "What fear can I replace with a practical plan?"
+        "What does hope reveal about my resources or values?",
+        "What practical choice can I repeat?"
       ],
       "growth": [
-        "What part of me is ready to trust again?",
-        "How can I support my healing today?"
+        "What can hope teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_moon",
+    "name": "The Moon",
+    "arcana": "major",
+    "number": 18,
+    "romanNumeral": "XVIII",
+    "assetId": "major_18_moon.png",
+    "keywords": [
+      "uncertainty",
+      "dreams",
+      "intuition",
+      "illusion",
+      "subconscious"
+    ],
+    "tags": [
+      "uncertainty",
+      "intuition",
+      "illusion",
+      "dreams",
+      "subconscious"
+    ],
+    "toneTags": [
+      "mysterious",
+      "soft",
+      "dreamlike"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Moon reveals uncertainty, intuition, and the strange light of the subconscious.",
+        "advice": "Move slowly when the path is unclear, and do not treat fear as fact."
+      },
+      "love": {
+        "summary": "In love, confusion, projection, or hidden feelings may be active.",
+        "advice": "Ask for clarity gently, and notice where imagination fills the gaps."
+      },
+      "career": {
+        "summary": "Career matters may involve unclear information or shifting perceptions.",
+        "advice": "Delay big decisions until the fog thins."
+      },
+      "money": {
+        "summary": "Money concerns may be distorted by anxiety or incomplete facts.",
+        "advice": "Check the numbers before trusting the story in your head."
+      },
+      "growth": {
+        "summary": "Growth comes through exploring fears, dreams, and intuitive signals.",
+        "advice": "Let mystery guide reflection, not panic."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Move slowly when the path is unclear, and do not treat fear as fact.",
+        "love": "Ask for clarity gently, and notice where imagination fills the gaps.",
+        "career": "Delay big decisions until the fog thins.",
+        "money": "Check the numbers before trusting the story in your head.",
+        "growth": "Let mystery guide reflection, not panic."
+      },
+      "situation": {
+        "general": "The situation reflects the Moon reveals uncertainty, intuition, and the strange light of the subconscious.",
+        "love": "The situation reflects in love, confusion, projection, or hidden feelings may be active.",
+        "career": "The situation reflects career matters may involve unclear information or shifting perceptions.",
+        "money": "The situation reflects money concerns may be distorted by anxiety or incomplete facts.",
+        "growth": "The situation reflects growth comes through exploring fears, dreams, and intuitive signals."
+      },
+      "past": {
+        "general": "In the past, The Moon points to the Moon reveals uncertainty, intuition, and the strange light of the subconscious.",
+        "love": "In the past, The Moon points to in love, confusion, projection, or hidden feelings may be active.",
+        "career": "In the past, The Moon points to career matters may involve unclear information or shifting perceptions.",
+        "money": "In the past, The Moon points to money concerns may be distorted by anxiety or incomplete facts.",
+        "growth": "In the past, The Moon points to growth comes through exploring fears, dreams, and intuitive signals."
+      },
+      "present": {
+        "general": "In the present, The Moon highlights the Moon reveals uncertainty, intuition, and the strange light of the subconscious.",
+        "love": "In the present, The Moon highlights in love, confusion, projection, or hidden feelings may be active.",
+        "career": "In the present, The Moon highlights career matters may involve unclear information or shifting perceptions.",
+        "money": "In the present, The Moon highlights money concerns may be distorted by anxiety or incomplete facts.",
+        "growth": "In the present, The Moon highlights growth comes through exploring fears, dreams, and intuitive signals."
+      },
+      "future": {
+        "general": "Looking ahead, The Moon suggests the Moon reveals uncertainty, intuition, and the strange light of the subconscious.",
+        "love": "Looking ahead, The Moon suggests in love, confusion, projection, or hidden feelings may be active.",
+        "career": "Looking ahead, The Moon suggests career matters may involve unclear information or shifting perceptions.",
+        "money": "Looking ahead, The Moon suggests money concerns may be distorted by anxiety or incomplete facts.",
+        "growth": "Looking ahead, The Moon suggests growth comes through exploring fears, dreams, and intuitive signals."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is uncertainty showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does uncertainty affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can uncertainty guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does uncertainty reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can uncertainty teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_sun",
+    "name": "The Sun",
+    "arcana": "major",
+    "number": 19,
+    "romanNumeral": "XIX",
+    "assetId": "major_19_sun.png",
+    "keywords": [
+      "joy",
+      "clarity",
+      "vitality",
+      "success",
+      "warmth"
+    ],
+    "tags": [
+      "joy",
+      "clarity",
+      "vitality",
+      "success",
+      "warmth"
+    ],
+    "toneTags": [
+      "bright",
+      "joyful",
+      "open"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Sun brings clarity, warmth, vitality, and the freedom of being seen.",
+        "advice": "Let the good become visible without apologizing for it."
+      },
+      "love": {
+        "summary": "In love, joy, openness, and simple affection can return.",
+        "advice": "Choose transparency and warmth over guarded guessing."
+      },
+      "career": {
+        "summary": "Career matters may receive recognition, confidence, or a clearer path.",
+        "advice": "Share your work and let your strengths be seen."
+      },
+      "money": {
+        "summary": "Money may feel easier to understand when everything is brought into the light.",
+        "advice": "Make confident choices based on clear information."
+      },
+      "growth": {
+        "summary": "Growth is supported by joy, self-expression, and honest confidence.",
+        "advice": "Let yourself take up space in the light."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Let the good become visible without apologizing for it.",
+        "love": "Choose transparency and warmth over guarded guessing.",
+        "career": "Share your work and let your strengths be seen.",
+        "money": "Make confident choices based on clear information.",
+        "growth": "Let yourself take up space in the light."
+      },
+      "situation": {
+        "general": "The situation reflects the Sun brings clarity, warmth, vitality, and the freedom of being seen.",
+        "love": "The situation reflects in love, joy, openness, and simple affection can return.",
+        "career": "The situation reflects career matters may receive recognition, confidence, or a clearer path.",
+        "money": "The situation reflects money may feel easier to understand when everything is brought into the light.",
+        "growth": "The situation reflects growth is supported by joy, self-expression, and honest confidence."
+      },
+      "past": {
+        "general": "In the past, The Sun points to the Sun brings clarity, warmth, vitality, and the freedom of being seen.",
+        "love": "In the past, The Sun points to in love, joy, openness, and simple affection can return.",
+        "career": "In the past, The Sun points to career matters may receive recognition, confidence, or a clearer path.",
+        "money": "In the past, The Sun points to money may feel easier to understand when everything is brought into the light.",
+        "growth": "In the past, The Sun points to growth is supported by joy, self-expression, and honest confidence."
+      },
+      "present": {
+        "general": "In the present, The Sun highlights the Sun brings clarity, warmth, vitality, and the freedom of being seen.",
+        "love": "In the present, The Sun highlights in love, joy, openness, and simple affection can return.",
+        "career": "In the present, The Sun highlights career matters may receive recognition, confidence, or a clearer path.",
+        "money": "In the present, The Sun highlights money may feel easier to understand when everything is brought into the light.",
+        "growth": "In the present, The Sun highlights growth is supported by joy, self-expression, and honest confidence."
+      },
+      "future": {
+        "general": "Looking ahead, The Sun suggests the Sun brings clarity, warmth, vitality, and the freedom of being seen.",
+        "love": "Looking ahead, The Sun suggests in love, joy, openness, and simple affection can return.",
+        "career": "Looking ahead, The Sun suggests career matters may receive recognition, confidence, or a clearer path.",
+        "money": "Looking ahead, The Sun suggests money may feel easier to understand when everything is brought into the light.",
+        "growth": "Looking ahead, The Sun suggests growth is supported by joy, self-expression, and honest confidence."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is joy showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does joy affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can joy guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does joy reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can joy teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "judgement",
+    "name": "Judgement",
+    "arcana": "major",
+    "number": 20,
+    "romanNumeral": "XX",
+    "assetId": "major_20_judgement.png",
+    "keywords": [
+      "awakening",
+      "calling",
+      "reckoning",
+      "renewal",
+      "self-review"
+    ],
+    "tags": [
+      "awakening",
+      "calling",
+      "reckoning",
+      "renewal",
+      "self_review"
+    ],
+    "toneTags": [
+      "clear",
+      "soulful",
+      "transformative"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "Judgement calls for awakening, honest reflection, and a new response to an old story.",
+        "advice": "Listen to what is calling you forward, then answer with integrity."
+      },
+      "love": {
+        "summary": "In love, a truth, decision, or second chance may ask for maturity.",
+        "advice": "Choose from who you are becoming, not only from who you have been."
+      },
+      "career": {
+        "summary": "Career matters may involve a calling, review, or decisive turning point.",
+        "advice": "Let your next move reflect a clearer understanding of your purpose."
+      },
+      "money": {
+        "summary": "Money choices may need review, correction, and a wiser future plan.",
+        "advice": "Use what you now know to choose differently."
+      },
+      "growth": {
+        "summary": "Growth comes through forgiving the past without ignoring its lessons.",
+        "advice": "Rise with what you have learned."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Listen to what is calling you forward, then answer with integrity.",
+        "love": "Choose from who you are becoming, not only from who you have been.",
+        "career": "Let your next move reflect a clearer understanding of your purpose.",
+        "money": "Use what you now know to choose differently.",
+        "growth": "Rise with what you have learned."
+      },
+      "situation": {
+        "general": "The situation reflects judgement calls for awakening, honest reflection, and a new response to an old story.",
+        "love": "The situation reflects in love, a truth, decision, or second chance may ask for maturity.",
+        "career": "The situation reflects career matters may involve a calling, review, or decisive turning point.",
+        "money": "The situation reflects money choices may need review, correction, and a wiser future plan.",
+        "growth": "The situation reflects growth comes through forgiving the past without ignoring its lessons."
+      },
+      "past": {
+        "general": "In the past, Judgement points to judgement calls for awakening, honest reflection, and a new response to an old story.",
+        "love": "In the past, Judgement points to in love, a truth, decision, or second chance may ask for maturity.",
+        "career": "In the past, Judgement points to career matters may involve a calling, review, or decisive turning point.",
+        "money": "In the past, Judgement points to money choices may need review, correction, and a wiser future plan.",
+        "growth": "In the past, Judgement points to growth comes through forgiving the past without ignoring its lessons."
+      },
+      "present": {
+        "general": "In the present, Judgement highlights judgement calls for awakening, honest reflection, and a new response to an old story.",
+        "love": "In the present, Judgement highlights in love, a truth, decision, or second chance may ask for maturity.",
+        "career": "In the present, Judgement highlights career matters may involve a calling, review, or decisive turning point.",
+        "money": "In the present, Judgement highlights money choices may need review, correction, and a wiser future plan.",
+        "growth": "In the present, Judgement highlights growth comes through forgiving the past without ignoring its lessons."
+      },
+      "future": {
+        "general": "Looking ahead, Judgement suggests judgement calls for awakening, honest reflection, and a new response to an old story.",
+        "love": "Looking ahead, Judgement suggests in love, a truth, decision, or second chance may ask for maturity.",
+        "career": "Looking ahead, Judgement suggests career matters may involve a calling, review, or decisive turning point.",
+        "money": "Looking ahead, Judgement suggests money choices may need review, correction, and a wiser future plan.",
+        "growth": "Looking ahead, Judgement suggests growth comes through forgiving the past without ignoring its lessons."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is awakening showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does awakening affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can awakening guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does awakening reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can awakening teach me about myself?",
+        "What would it mean to grow without forcing myself?"
+      ]
+    }
+  },
+  {
+    "id": "the_world",
+    "name": "The World",
+    "arcana": "major",
+    "number": 21,
+    "romanNumeral": "XXI",
+    "assetId": "major_21_world.png",
+    "keywords": [
+      "completion",
+      "integration",
+      "fulfillment",
+      "wholeness",
+      "arrival"
+    ],
+    "tags": [
+      "completion",
+      "integration",
+      "fulfillment",
+      "wholeness",
+      "achievement"
+    ],
+    "toneTags": [
+      "complete",
+      "expansive",
+      "grateful"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The World marks completion, integration, and the sense that a cycle has become whole.",
+        "advice": "Honor what has been completed before rushing into the next beginning."
+      },
+      "love": {
+        "summary": "In love, this card can show maturity, closure, or a relationship reaching a meaningful stage.",
+        "advice": "Celebrate what has grown, and be honest about what is complete."
+      },
+      "career": {
+        "summary": "Career matters may reach achievement, recognition, or the end of a major phase.",
+        "advice": "Integrate the lesson before choosing the next mountain."
+      },
+      "money": {
+        "summary": "Money matters may benefit from long-range completion and responsible consolidation.",
+        "advice": "Review what has worked and carry the wisdom forward."
+      },
+      "growth": {
+        "summary": "Growth comes through wholeness: bringing all parts of the journey together.",
+        "advice": "Let completion become gratitude, not only a finish line."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Honor what has been completed before rushing into the next beginning.",
+        "love": "Celebrate what has grown, and be honest about what is complete.",
+        "career": "Integrate the lesson before choosing the next mountain.",
+        "money": "Review what has worked and carry the wisdom forward.",
+        "growth": "Let completion become gratitude, not only a finish line."
+      },
+      "situation": {
+        "general": "The situation reflects the World marks completion, integration, and the sense that a cycle has become whole.",
+        "love": "The situation reflects in love, this card can show maturity, closure, or a relationship reaching a meaningful stage.",
+        "career": "The situation reflects career matters may reach achievement, recognition, or the end of a major phase.",
+        "money": "The situation reflects money matters may benefit from long-range completion and responsible consolidation.",
+        "growth": "The situation reflects growth comes through wholeness: bringing all parts of the journey together."
+      },
+      "past": {
+        "general": "In the past, The World points to the World marks completion, integration, and the sense that a cycle has become whole.",
+        "love": "In the past, The World points to in love, this card can show maturity, closure, or a relationship reaching a meaningful stage.",
+        "career": "In the past, The World points to career matters may reach achievement, recognition, or the end of a major phase.",
+        "money": "In the past, The World points to money matters may benefit from long-range completion and responsible consolidation.",
+        "growth": "In the past, The World points to growth comes through wholeness: bringing all parts of the journey together."
+      },
+      "present": {
+        "general": "In the present, The World highlights the World marks completion, integration, and the sense that a cycle has become whole.",
+        "love": "In the present, The World highlights in love, this card can show maturity, closure, or a relationship reaching a meaningful stage.",
+        "career": "In the present, The World highlights career matters may reach achievement, recognition, or the end of a major phase.",
+        "money": "In the present, The World highlights money matters may benefit from long-range completion and responsible consolidation.",
+        "growth": "In the present, The World highlights growth comes through wholeness: bringing all parts of the journey together."
+      },
+      "future": {
+        "general": "Looking ahead, The World suggests the World marks completion, integration, and the sense that a cycle has become whole.",
+        "love": "Looking ahead, The World suggests in love, this card can show maturity, closure, or a relationship reaching a meaningful stage.",
+        "career": "Looking ahead, The World suggests career matters may reach achievement, recognition, or the end of a major phase.",
+        "money": "Looking ahead, The World suggests money matters may benefit from long-range completion and responsible consolidation.",
+        "growth": "Looking ahead, The World suggests growth comes through wholeness: bringing all parts of the journey together."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "Where is completion showing up in my life?",
+        "What is the gentlest truthful next step?"
+      ],
+      "love": [
+        "How does completion affect the way I give or receive love?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "How can completion guide my work or direction?",
+        "What action would make this more grounded?"
+      ],
+      "money": [
+        "What does completion reveal about my resources or values?",
+        "What practical choice can I repeat?"
+      ],
+      "growth": [
+        "What can completion teach me about myself?",
+        "What would it mean to grow without forcing myself?"
       ]
     }
   }
