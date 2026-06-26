@@ -106,6 +106,112 @@
         "What can clarity teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "clouded judgment",
+        "miscommunication",
+        "blocked truth",
+        "harsh words",
+        "confusion"
+      ],
+      "tags": [
+        "clouded_judgment",
+        "miscommunication",
+        "blocked_truth",
+        "harsh_words",
+        "confusion"
+      ],
+      "toneTags": [
+        "sharp",
+        "clouded",
+        "clarifying"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Ace of Swords points to truth or clarity that is blocked, misused, or not yet fully understood.",
+          "advice": "Pause before cutting with words; clarity should liberate, not wound unnecessarily."
+        },
+        "love": {
+          "summary": "In love, reversed Ace of Swords can show truth or clarity that is blocked, misused, or not yet fully understood affecting trust, closeness, or emotional timing.",
+          "advice": "Pause before cutting with words; clarity should liberate, not wound unnecessarily."
+        },
+        "career": {
+          "summary": "In career, reversed Ace of Swords can suggest truth or clarity that is blocked, misused, or not yet fully understood shaping work, direction, or collaboration.",
+          "advice": "Pause before cutting with words; clarity should liberate, not wound unnecessarily."
+        },
+        "money": {
+          "summary": "In money matters, reversed Ace of Swords can reveal truth or clarity that is blocked, misused, or not yet fully understood around resources, security, or practical choices.",
+          "advice": "Pause before cutting with words; clarity should liberate, not wound unnecessarily."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Ace of Swords turns the lesson inward: truth or clarity that is blocked, misused, or not yet fully understood.",
+          "advice": "Pause before cutting with words; clarity should liberate, not wound unnecessarily."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Pause before cutting with words; clarity should liberate, not wound unnecessarily.",
+          "love": "Pause before cutting with words; clarity should liberate, not wound unnecessarily.",
+          "career": "Pause before cutting with words; clarity should liberate, not wound unnecessarily.",
+          "money": "Pause before cutting with words; clarity should liberate, not wound unnecessarily.",
+          "growth": "Pause before cutting with words; clarity should liberate, not wound unnecessarily."
+        },
+        "situation": {
+          "general": "The situation may be shaped by truth or clarity that is blocked, misused, or not yet fully understood.",
+          "love": "The situation may be shaped by truth or clarity that is blocked, misused, or not yet fully understood.",
+          "career": "The situation may be shaped by truth or clarity that is blocked, misused, or not yet fully understood.",
+          "money": "The situation may be shaped by truth or clarity that is blocked, misused, or not yet fully understood.",
+          "growth": "The situation may be shaped by truth or clarity that is blocked, misused, or not yet fully understood."
+        },
+        "past": {
+          "general": "In the past, reversed Ace of Swords suggests that truth or clarity that is blocked, misused, or not yet fully understood may have influenced the path behind you.",
+          "love": "In the past, reversed Ace of Swords suggests that truth or clarity that is blocked, misused, or not yet fully understood may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Ace of Swords suggests that truth or clarity that is blocked, misused, or not yet fully understood may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Ace of Swords suggests that truth or clarity that is blocked, misused, or not yet fully understood may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Ace of Swords suggests that truth or clarity that is blocked, misused, or not yet fully understood may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Ace of Swords highlights truth or clarity that is blocked, misused, or not yet fully understood.",
+          "love": "In the present, reversed Ace of Swords highlights truth or clarity that is blocked, misused, or not yet fully understood within the emotional field.",
+          "career": "In the present, reversed Ace of Swords highlights truth or clarity that is blocked, misused, or not yet fully understood in your work or ambitions.",
+          "money": "In the present, reversed Ace of Swords highlights truth or clarity that is blocked, misused, or not yet fully understood in practical or financial choices.",
+          "growth": "In the present, reversed Ace of Swords highlights truth or clarity that is blocked, misused, or not yet fully understood as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Ace of Swords suggests that truth or clarity that is blocked, misused, or not yet fully understood may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Ace of Swords suggests that truth or clarity that is blocked, misused, or not yet fully understood may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Ace of Swords suggests that truth or clarity that is blocked, misused, or not yet fully understood may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Ace of Swords suggests that truth or clarity that is blocked, misused, or not yet fully understood may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Ace of Swords suggests that truth or clarity that is blocked, misused, or not yet fully understood may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might clouded judgment be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might clouded judgment be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might clouded judgment be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does clouded judgment reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can clouded judgment teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -215,6 +321,112 @@
         "What can indecision teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "decision emerging",
+        "emotional overload",
+        "avoidance ending",
+        "confusion",
+        "stalemate breaking"
+      ],
+      "tags": [
+        "decision_emerging",
+        "emotional_overload",
+        "avoidance_ending",
+        "confusion",
+        "stalemate_breaking"
+      ],
+      "toneTags": [
+        "tense",
+        "awakening",
+        "uncertain"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Two of Swords points to an avoided decision beginning to surface, often with more emotion than expected.",
+          "advice": "Let the truth enter slowly; you do not need perfect calm to make a choice."
+        },
+        "love": {
+          "summary": "In love, reversed Two of Swords can show an avoided decision beginning to surface, often with more emotion than expected affecting trust, closeness, or emotional timing.",
+          "advice": "Let the truth enter slowly; you do not need perfect calm to make a choice."
+        },
+        "career": {
+          "summary": "In career, reversed Two of Swords can suggest an avoided decision beginning to surface, often with more emotion than expected shaping work, direction, or collaboration.",
+          "advice": "Let the truth enter slowly; you do not need perfect calm to make a choice."
+        },
+        "money": {
+          "summary": "In money matters, reversed Two of Swords can reveal an avoided decision beginning to surface, often with more emotion than expected around resources, security, or practical choices.",
+          "advice": "Let the truth enter slowly; you do not need perfect calm to make a choice."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Two of Swords turns the lesson inward: an avoided decision beginning to surface, often with more emotion than expected.",
+          "advice": "Let the truth enter slowly; you do not need perfect calm to make a choice."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let the truth enter slowly; you do not need perfect calm to make a choice.",
+          "love": "Let the truth enter slowly; you do not need perfect calm to make a choice.",
+          "career": "Let the truth enter slowly; you do not need perfect calm to make a choice.",
+          "money": "Let the truth enter slowly; you do not need perfect calm to make a choice.",
+          "growth": "Let the truth enter slowly; you do not need perfect calm to make a choice."
+        },
+        "situation": {
+          "general": "The situation may be shaped by an avoided decision beginning to surface, often with more emotion than expected.",
+          "love": "The situation may be shaped by an avoided decision beginning to surface, often with more emotion than expected.",
+          "career": "The situation may be shaped by an avoided decision beginning to surface, often with more emotion than expected.",
+          "money": "The situation may be shaped by an avoided decision beginning to surface, often with more emotion than expected.",
+          "growth": "The situation may be shaped by an avoided decision beginning to surface, often with more emotion than expected."
+        },
+        "past": {
+          "general": "In the past, reversed Two of Swords suggests that an avoided decision beginning to surface, often with more emotion than expected may have influenced the path behind you.",
+          "love": "In the past, reversed Two of Swords suggests that an avoided decision beginning to surface, often with more emotion than expected may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Two of Swords suggests that an avoided decision beginning to surface, often with more emotion than expected may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Two of Swords suggests that an avoided decision beginning to surface, often with more emotion than expected may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Two of Swords suggests that an avoided decision beginning to surface, often with more emotion than expected may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Two of Swords highlights an avoided decision beginning to surface, often with more emotion than expected.",
+          "love": "In the present, reversed Two of Swords highlights an avoided decision beginning to surface, often with more emotion than expected within the emotional field.",
+          "career": "In the present, reversed Two of Swords highlights an avoided decision beginning to surface, often with more emotion than expected in your work or ambitions.",
+          "money": "In the present, reversed Two of Swords highlights an avoided decision beginning to surface, often with more emotion than expected in practical or financial choices.",
+          "growth": "In the present, reversed Two of Swords highlights an avoided decision beginning to surface, often with more emotion than expected as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Two of Swords suggests that an avoided decision beginning to surface, often with more emotion than expected may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Two of Swords suggests that an avoided decision beginning to surface, often with more emotion than expected may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Two of Swords suggests that an avoided decision beginning to surface, often with more emotion than expected may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Two of Swords suggests that an avoided decision beginning to surface, often with more emotion than expected may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Two of Swords suggests that an avoided decision beginning to surface, often with more emotion than expected may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might decision emerging be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might decision emerging be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might decision emerging be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does decision emerging reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can decision emerging teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -324,6 +536,112 @@
         "What can heartbreak teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "healing heartbreak",
+        "releasing pain",
+        "forgiveness",
+        "old wound",
+        "recovery"
+      ],
+      "tags": [
+        "healing_heartbreak",
+        "releasing_pain",
+        "forgiveness",
+        "old_wound",
+        "recovery"
+      ],
+      "toneTags": [
+        "tender",
+        "healing",
+        "honest"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Three of Swords points to heartbreak or painful truth beginning to heal, though tenderness is still needed.",
+          "advice": "Let recovery happen without pretending the wound never mattered."
+        },
+        "love": {
+          "summary": "In love, reversed Three of Swords can show heartbreak or painful truth beginning to heal, though tenderness is still needed affecting trust, closeness, or emotional timing.",
+          "advice": "Let recovery happen without pretending the wound never mattered."
+        },
+        "career": {
+          "summary": "In career, reversed Three of Swords can suggest heartbreak or painful truth beginning to heal, though tenderness is still needed shaping work, direction, or collaboration.",
+          "advice": "Let recovery happen without pretending the wound never mattered."
+        },
+        "money": {
+          "summary": "In money matters, reversed Three of Swords can reveal heartbreak or painful truth beginning to heal, though tenderness is still needed around resources, security, or practical choices.",
+          "advice": "Let recovery happen without pretending the wound never mattered."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Three of Swords turns the lesson inward: heartbreak or painful truth beginning to heal, though tenderness is still needed.",
+          "advice": "Let healing be gradual, embodied, and supported rather than rushed."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let recovery happen without pretending the wound never mattered.",
+          "love": "Let recovery happen without pretending the wound never mattered.",
+          "career": "Let recovery happen without pretending the wound never mattered.",
+          "money": "Let recovery happen without pretending the wound never mattered.",
+          "growth": "Let healing be gradual, embodied, and supported rather than rushed."
+        },
+        "situation": {
+          "general": "The situation may be shaped by heartbreak or painful truth beginning to heal, though tenderness is still needed.",
+          "love": "The situation may be shaped by heartbreak or painful truth beginning to heal, though tenderness is still needed.",
+          "career": "The situation may be shaped by heartbreak or painful truth beginning to heal, though tenderness is still needed.",
+          "money": "The situation may be shaped by heartbreak or painful truth beginning to heal, though tenderness is still needed.",
+          "growth": "The situation may be shaped by heartbreak or painful truth beginning to heal, though tenderness is still needed."
+        },
+        "past": {
+          "general": "In the past, reversed Three of Swords suggests that heartbreak or painful truth beginning to heal, though tenderness is still needed may have influenced the path behind you.",
+          "love": "In the past, reversed Three of Swords suggests that heartbreak or painful truth beginning to heal, though tenderness is still needed may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Three of Swords suggests that heartbreak or painful truth beginning to heal, though tenderness is still needed may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Three of Swords suggests that heartbreak or painful truth beginning to heal, though tenderness is still needed may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Three of Swords suggests that heartbreak or painful truth beginning to heal, though tenderness is still needed may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Three of Swords highlights heartbreak or painful truth beginning to heal, though tenderness is still needed.",
+          "love": "In the present, reversed Three of Swords highlights heartbreak or painful truth beginning to heal, though tenderness is still needed within the emotional field.",
+          "career": "In the present, reversed Three of Swords highlights heartbreak or painful truth beginning to heal, though tenderness is still needed in your work or ambitions.",
+          "money": "In the present, reversed Three of Swords highlights heartbreak or painful truth beginning to heal, though tenderness is still needed in practical or financial choices.",
+          "growth": "In the present, reversed Three of Swords highlights heartbreak or painful truth beginning to heal, though tenderness is still needed as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Three of Swords suggests that heartbreak or painful truth beginning to heal, though tenderness is still needed may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Three of Swords suggests that heartbreak or painful truth beginning to heal, though tenderness is still needed may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Three of Swords suggests that heartbreak or painful truth beginning to heal, though tenderness is still needed may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Three of Swords suggests that heartbreak or painful truth beginning to heal, though tenderness is still needed may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Three of Swords suggests that heartbreak or painful truth beginning to heal, though tenderness is still needed may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might healing heartbreak be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might healing heartbreak be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might healing heartbreak be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does healing heartbreak reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can healing heartbreak teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -433,6 +751,112 @@
         "What can rest teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "restlessness",
+        "burnout",
+        "forced rest",
+        "re-entering life",
+        "unfinished recovery"
+      ],
+      "tags": [
+        "restlessness",
+        "burnout",
+        "forced_rest",
+        "reentering_life",
+        "unfinished_recovery"
+      ],
+      "toneTags": [
+        "tired",
+        "restorative",
+        "cautionary"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Four of Swords points to rest that has been resisted, interrupted, or is slowly turning back toward movement.",
+          "advice": "Do not rush recovery; return when your clarity has enough strength to stand."
+        },
+        "love": {
+          "summary": "In love, reversed Four of Swords can show rest that has been resisted, interrupted, or is slowly turning back toward movement affecting trust, closeness, or emotional timing.",
+          "advice": "Do not rush recovery; return when your clarity has enough strength to stand."
+        },
+        "career": {
+          "summary": "In career, reversed Four of Swords can suggest rest that has been resisted, interrupted, or is slowly turning back toward movement shaping work, direction, or collaboration.",
+          "advice": "Reduce the load before effort turns into depletion."
+        },
+        "money": {
+          "summary": "In money matters, reversed Four of Swords can reveal rest that has been resisted, interrupted, or is slowly turning back toward movement around resources, security, or practical choices.",
+          "advice": "Do not rush recovery; return when your clarity has enough strength to stand."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Four of Swords turns the lesson inward: rest that has been resisted, interrupted, or is slowly turning back toward movement.",
+          "advice": "Do not rush recovery; return when your clarity has enough strength to stand."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Do not rush recovery; return when your clarity has enough strength to stand.",
+          "love": "Do not rush recovery; return when your clarity has enough strength to stand.",
+          "career": "Reduce the load before effort turns into depletion.",
+          "money": "Do not rush recovery; return when your clarity has enough strength to stand.",
+          "growth": "Do not rush recovery; return when your clarity has enough strength to stand."
+        },
+        "situation": {
+          "general": "The situation may be shaped by rest that has been resisted, interrupted, or is slowly turning back toward movement.",
+          "love": "The situation may be shaped by rest that has been resisted, interrupted, or is slowly turning back toward movement.",
+          "career": "The situation may be shaped by rest that has been resisted, interrupted, or is slowly turning back toward movement.",
+          "money": "The situation may be shaped by rest that has been resisted, interrupted, or is slowly turning back toward movement.",
+          "growth": "The situation may be shaped by rest that has been resisted, interrupted, or is slowly turning back toward movement."
+        },
+        "past": {
+          "general": "In the past, reversed Four of Swords suggests that rest that has been resisted, interrupted, or is slowly turning back toward movement may have influenced the path behind you.",
+          "love": "In the past, reversed Four of Swords suggests that rest that has been resisted, interrupted, or is slowly turning back toward movement may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Four of Swords suggests that rest that has been resisted, interrupted, or is slowly turning back toward movement may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Four of Swords suggests that rest that has been resisted, interrupted, or is slowly turning back toward movement may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Four of Swords suggests that rest that has been resisted, interrupted, or is slowly turning back toward movement may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Four of Swords highlights rest that has been resisted, interrupted, or is slowly turning back toward movement.",
+          "love": "In the present, reversed Four of Swords highlights rest that has been resisted, interrupted, or is slowly turning back toward movement within the emotional field.",
+          "career": "In the present, reversed Four of Swords highlights rest that has been resisted, interrupted, or is slowly turning back toward movement in your work or ambitions.",
+          "money": "In the present, reversed Four of Swords highlights rest that has been resisted, interrupted, or is slowly turning back toward movement in practical or financial choices.",
+          "growth": "In the present, reversed Four of Swords highlights rest that has been resisted, interrupted, or is slowly turning back toward movement as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Four of Swords suggests that rest that has been resisted, interrupted, or is slowly turning back toward movement may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Four of Swords suggests that rest that has been resisted, interrupted, or is slowly turning back toward movement may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Four of Swords suggests that rest that has been resisted, interrupted, or is slowly turning back toward movement may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Four of Swords suggests that rest that has been resisted, interrupted, or is slowly turning back toward movement may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Four of Swords suggests that rest that has been resisted, interrupted, or is slowly turning back toward movement may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might restlessness be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might restlessness be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might restlessness be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does restlessness reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can restlessness teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -542,6 +966,112 @@
         "What can conflict teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "reconciliation",
+        "making amends",
+        "resentment",
+        "ending conflict",
+        "choosing peace"
+      ],
+      "tags": [
+        "reconciliation",
+        "making_amends",
+        "resentment",
+        "ending_conflict",
+        "choosing_peace"
+      ],
+      "toneTags": [
+        "honest",
+        "repairing",
+        "cautionary"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Five of Swords points to conflict that may be ready for repair, though resentment or pride may still linger.",
+          "advice": "Choose peace without denying the lesson of what happened."
+        },
+        "love": {
+          "summary": "In love, reversed Five of Swords can show conflict that may be ready for repair, though resentment or pride may still linger affecting trust, closeness, or emotional timing.",
+          "advice": "Choose repair where it is possible, and choose peace where repair is not mutual."
+        },
+        "career": {
+          "summary": "In career, reversed Five of Swords can suggest conflict that may be ready for repair, though resentment or pride may still linger shaping work, direction, or collaboration.",
+          "advice": "Choose peace without denying the lesson of what happened."
+        },
+        "money": {
+          "summary": "In money matters, reversed Five of Swords can reveal conflict that may be ready for repair, though resentment or pride may still linger around resources, security, or practical choices.",
+          "advice": "Choose peace without denying the lesson of what happened."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Five of Swords turns the lesson inward: conflict that may be ready for repair, though resentment or pride may still linger.",
+          "advice": "Choose peace without denying the lesson of what happened."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Choose peace without denying the lesson of what happened.",
+          "love": "Choose repair where it is possible, and choose peace where repair is not mutual.",
+          "career": "Choose peace without denying the lesson of what happened.",
+          "money": "Choose peace without denying the lesson of what happened.",
+          "growth": "Choose peace without denying the lesson of what happened."
+        },
+        "situation": {
+          "general": "The situation may be shaped by conflict that may be ready for repair, though resentment or pride may still linger.",
+          "love": "The situation may be shaped by conflict that may be ready for repair, though resentment or pride may still linger.",
+          "career": "The situation may be shaped by conflict that may be ready for repair, though resentment or pride may still linger.",
+          "money": "The situation may be shaped by conflict that may be ready for repair, though resentment or pride may still linger.",
+          "growth": "The situation may be shaped by conflict that may be ready for repair, though resentment or pride may still linger."
+        },
+        "past": {
+          "general": "In the past, reversed Five of Swords suggests that conflict that may be ready for repair, though resentment or pride may still linger may have influenced the path behind you.",
+          "love": "In the past, reversed Five of Swords suggests that conflict that may be ready for repair, though resentment or pride may still linger may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Five of Swords suggests that conflict that may be ready for repair, though resentment or pride may still linger may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Five of Swords suggests that conflict that may be ready for repair, though resentment or pride may still linger may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Five of Swords suggests that conflict that may be ready for repair, though resentment or pride may still linger may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Five of Swords highlights conflict that may be ready for repair, though resentment or pride may still linger.",
+          "love": "In the present, reversed Five of Swords highlights conflict that may be ready for repair, though resentment or pride may still linger within the emotional field.",
+          "career": "In the present, reversed Five of Swords highlights conflict that may be ready for repair, though resentment or pride may still linger in your work or ambitions.",
+          "money": "In the present, reversed Five of Swords highlights conflict that may be ready for repair, though resentment or pride may still linger in practical or financial choices.",
+          "growth": "In the present, reversed Five of Swords highlights conflict that may be ready for repair, though resentment or pride may still linger as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Five of Swords suggests that conflict that may be ready for repair, though resentment or pride may still linger may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Five of Swords suggests that conflict that may be ready for repair, though resentment or pride may still linger may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Five of Swords suggests that conflict that may be ready for repair, though resentment or pride may still linger may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Five of Swords suggests that conflict that may be ready for repair, though resentment or pride may still linger may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Five of Swords suggests that conflict that may be ready for repair, though resentment or pride may still linger may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might reconciliation be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might reconciliation be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might reconciliation be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does reconciliation reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can reconciliation teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -651,6 +1181,112 @@
         "What can transition teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "resistance to transition",
+        "unfinished business",
+        "returning to chaos",
+        "slow healing",
+        "personal transition"
+      ],
+      "tags": [
+        "resistance_to_transition",
+        "unfinished_business",
+        "returning_to_chaos",
+        "slow_healing",
+        "personal_transition"
+      ],
+      "toneTags": [
+        "transitional",
+        "melancholic",
+        "hopeful"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Six of Swords points to a transition that may be resisted, delayed, or happening inwardly before life changes outwardly.",
+          "advice": "Keep moving gently; even small distance from old chaos matters."
+        },
+        "love": {
+          "summary": "In love, reversed Six of Swords can show a transition that may be resisted, delayed, or happening inwardly before life changes outwardly affecting trust, closeness, or emotional timing.",
+          "advice": "Keep moving gently; even small distance from old chaos matters."
+        },
+        "career": {
+          "summary": "In career, reversed Six of Swords can suggest a transition that may be resisted, delayed, or happening inwardly before life changes outwardly shaping work, direction, or collaboration.",
+          "advice": "Keep moving gently; even small distance from old chaos matters."
+        },
+        "money": {
+          "summary": "In money matters, reversed Six of Swords can reveal a transition that may be resisted, delayed, or happening inwardly before life changes outwardly around resources, security, or practical choices.",
+          "advice": "Keep moving gently; even small distance from old chaos matters."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Six of Swords turns the lesson inward: a transition that may be resisted, delayed, or happening inwardly before life changes outwardly.",
+          "advice": "Notice where resistance is protecting you, then ask what it is also preventing."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Keep moving gently; even small distance from old chaos matters.",
+          "love": "Keep moving gently; even small distance from old chaos matters.",
+          "career": "Keep moving gently; even small distance from old chaos matters.",
+          "money": "Keep moving gently; even small distance from old chaos matters.",
+          "growth": "Notice where resistance is protecting you, then ask what it is also preventing."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a transition that may be resisted, delayed, or happening inwardly before life changes outwardly.",
+          "love": "The situation may be shaped by a transition that may be resisted, delayed, or happening inwardly before life changes outwardly.",
+          "career": "The situation may be shaped by a transition that may be resisted, delayed, or happening inwardly before life changes outwardly.",
+          "money": "The situation may be shaped by a transition that may be resisted, delayed, or happening inwardly before life changes outwardly.",
+          "growth": "The situation may be shaped by a transition that may be resisted, delayed, or happening inwardly before life changes outwardly."
+        },
+        "past": {
+          "general": "In the past, reversed Six of Swords suggests that a transition that may be resisted, delayed, or happening inwardly before life changes outwardly may have influenced the path behind you.",
+          "love": "In the past, reversed Six of Swords suggests that a transition that may be resisted, delayed, or happening inwardly before life changes outwardly may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Six of Swords suggests that a transition that may be resisted, delayed, or happening inwardly before life changes outwardly may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Six of Swords suggests that a transition that may be resisted, delayed, or happening inwardly before life changes outwardly may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Six of Swords suggests that a transition that may be resisted, delayed, or happening inwardly before life changes outwardly may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Six of Swords highlights a transition that may be resisted, delayed, or happening inwardly before life changes outwardly.",
+          "love": "In the present, reversed Six of Swords highlights a transition that may be resisted, delayed, or happening inwardly before life changes outwardly within the emotional field.",
+          "career": "In the present, reversed Six of Swords highlights a transition that may be resisted, delayed, or happening inwardly before life changes outwardly in your work or ambitions.",
+          "money": "In the present, reversed Six of Swords highlights a transition that may be resisted, delayed, or happening inwardly before life changes outwardly in practical or financial choices.",
+          "growth": "In the present, reversed Six of Swords highlights a transition that may be resisted, delayed, or happening inwardly before life changes outwardly as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Six of Swords suggests that a transition that may be resisted, delayed, or happening inwardly before life changes outwardly may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Six of Swords suggests that a transition that may be resisted, delayed, or happening inwardly before life changes outwardly may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Six of Swords suggests that a transition that may be resisted, delayed, or happening inwardly before life changes outwardly may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Six of Swords suggests that a transition that may be resisted, delayed, or happening inwardly before life changes outwardly may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Six of Swords suggests that a transition that may be resisted, delayed, or happening inwardly before life changes outwardly may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might resistance to transition be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might resistance to transition be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might resistance to transition be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does resistance to transition reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can resistance to transition teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -760,6 +1396,112 @@
         "What can strategy teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "truth revealed",
+        "confession",
+        "self-deception",
+        "strategy exposed",
+        "returning what was taken"
+      ],
+      "tags": [
+        "truth_revealed",
+        "confession",
+        "self_deception",
+        "strategy_exposed",
+        "repair"
+      ],
+      "toneTags": [
+        "revealing",
+        "cautionary",
+        "honest"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Seven of Swords points to hidden motives, avoidance, or strategy becoming visible enough to address.",
+          "advice": "Choose clean truth before secrecy becomes more expensive."
+        },
+        "love": {
+          "summary": "In love, reversed Seven of Swords can show hidden motives, avoidance, or strategy becoming visible enough to address affecting trust, closeness, or emotional timing.",
+          "advice": "Choose clean truth before secrecy becomes more expensive."
+        },
+        "career": {
+          "summary": "In career, reversed Seven of Swords can suggest hidden motives, avoidance, or strategy becoming visible enough to address shaping work, direction, or collaboration.",
+          "advice": "Choose clean truth before secrecy becomes more expensive."
+        },
+        "money": {
+          "summary": "In money matters, reversed Seven of Swords can reveal hidden motives, avoidance, or strategy becoming visible enough to address around resources, security, or practical choices.",
+          "advice": "Choose clean truth before secrecy becomes more expensive."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Seven of Swords turns the lesson inward: hidden motives, avoidance, or strategy becoming visible enough to address.",
+          "advice": "Choose clean truth before secrecy becomes more expensive."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Choose clean truth before secrecy becomes more expensive.",
+          "love": "Choose clean truth before secrecy becomes more expensive.",
+          "career": "Choose clean truth before secrecy becomes more expensive.",
+          "money": "Choose clean truth before secrecy becomes more expensive.",
+          "growth": "Choose clean truth before secrecy becomes more expensive."
+        },
+        "situation": {
+          "general": "The situation may be shaped by hidden motives, avoidance, or strategy becoming visible enough to address.",
+          "love": "The situation may be shaped by hidden motives, avoidance, or strategy becoming visible enough to address.",
+          "career": "The situation may be shaped by hidden motives, avoidance, or strategy becoming visible enough to address.",
+          "money": "The situation may be shaped by hidden motives, avoidance, or strategy becoming visible enough to address.",
+          "growth": "The situation may be shaped by hidden motives, avoidance, or strategy becoming visible enough to address."
+        },
+        "past": {
+          "general": "In the past, reversed Seven of Swords suggests that hidden motives, avoidance, or strategy becoming visible enough to address may have influenced the path behind you.",
+          "love": "In the past, reversed Seven of Swords suggests that hidden motives, avoidance, or strategy becoming visible enough to address may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Seven of Swords suggests that hidden motives, avoidance, or strategy becoming visible enough to address may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Seven of Swords suggests that hidden motives, avoidance, or strategy becoming visible enough to address may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Seven of Swords suggests that hidden motives, avoidance, or strategy becoming visible enough to address may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Seven of Swords highlights hidden motives, avoidance, or strategy becoming visible enough to address.",
+          "love": "In the present, reversed Seven of Swords highlights hidden motives, avoidance, or strategy becoming visible enough to address within the emotional field.",
+          "career": "In the present, reversed Seven of Swords highlights hidden motives, avoidance, or strategy becoming visible enough to address in your work or ambitions.",
+          "money": "In the present, reversed Seven of Swords highlights hidden motives, avoidance, or strategy becoming visible enough to address in practical or financial choices.",
+          "growth": "In the present, reversed Seven of Swords highlights hidden motives, avoidance, or strategy becoming visible enough to address as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Seven of Swords suggests that hidden motives, avoidance, or strategy becoming visible enough to address may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Seven of Swords suggests that hidden motives, avoidance, or strategy becoming visible enough to address may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Seven of Swords suggests that hidden motives, avoidance, or strategy becoming visible enough to address may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Seven of Swords suggests that hidden motives, avoidance, or strategy becoming visible enough to address may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Seven of Swords suggests that hidden motives, avoidance, or strategy becoming visible enough to address may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might truth revealed be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might truth revealed be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might truth revealed be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does truth revealed reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can truth revealed teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -869,6 +1611,112 @@
         "What can restriction teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "release",
+        "new perspective",
+        "self-liberation",
+        "fear loosening",
+        "seeing options"
+      ],
+      "tags": [
+        "release",
+        "new_perspective",
+        "self_liberation",
+        "fear_loosening",
+        "seeing_options"
+      ],
+      "toneTags": [
+        "liberating",
+        "gentle",
+        "clarifying"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Eight of Swords points to a mental trap beginning to loosen as new options become visible.",
+          "advice": "Take the small step that proves the cage is not as complete as fear says."
+        },
+        "love": {
+          "summary": "In love, reversed Eight of Swords can show a mental trap beginning to loosen as new options become visible affecting trust, closeness, or emotional timing.",
+          "advice": "Take the small step that proves the cage is not as complete as fear says."
+        },
+        "career": {
+          "summary": "In career, reversed Eight of Swords can suggest a mental trap beginning to loosen as new options become visible shaping work, direction, or collaboration.",
+          "advice": "Take the small step that proves the cage is not as complete as fear says."
+        },
+        "money": {
+          "summary": "In money matters, reversed Eight of Swords can reveal a mental trap beginning to loosen as new options become visible around resources, security, or practical choices.",
+          "advice": "Take the small step that proves the cage is not as complete as fear says."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Eight of Swords turns the lesson inward: a mental trap beginning to loosen as new options become visible.",
+          "advice": "Let healing be gradual, embodied, and supported rather than rushed."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Take the small step that proves the cage is not as complete as fear says.",
+          "love": "Take the small step that proves the cage is not as complete as fear says.",
+          "career": "Take the small step that proves the cage is not as complete as fear says.",
+          "money": "Take the small step that proves the cage is not as complete as fear says.",
+          "growth": "Let healing be gradual, embodied, and supported rather than rushed."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a mental trap beginning to loosen as new options become visible.",
+          "love": "The situation may be shaped by a mental trap beginning to loosen as new options become visible.",
+          "career": "The situation may be shaped by a mental trap beginning to loosen as new options become visible.",
+          "money": "The situation may be shaped by a mental trap beginning to loosen as new options become visible.",
+          "growth": "The situation may be shaped by a mental trap beginning to loosen as new options become visible."
+        },
+        "past": {
+          "general": "In the past, reversed Eight of Swords suggests that a mental trap beginning to loosen as new options become visible may have influenced the path behind you.",
+          "love": "In the past, reversed Eight of Swords suggests that a mental trap beginning to loosen as new options become visible may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Eight of Swords suggests that a mental trap beginning to loosen as new options become visible may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Eight of Swords suggests that a mental trap beginning to loosen as new options become visible may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Eight of Swords suggests that a mental trap beginning to loosen as new options become visible may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Eight of Swords highlights a mental trap beginning to loosen as new options become visible.",
+          "love": "In the present, reversed Eight of Swords highlights a mental trap beginning to loosen as new options become visible within the emotional field.",
+          "career": "In the present, reversed Eight of Swords highlights a mental trap beginning to loosen as new options become visible in your work or ambitions.",
+          "money": "In the present, reversed Eight of Swords highlights a mental trap beginning to loosen as new options become visible in practical or financial choices.",
+          "growth": "In the present, reversed Eight of Swords highlights a mental trap beginning to loosen as new options become visible as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Eight of Swords suggests that a mental trap beginning to loosen as new options become visible may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Eight of Swords suggests that a mental trap beginning to loosen as new options become visible may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Eight of Swords suggests that a mental trap beginning to loosen as new options become visible may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Eight of Swords suggests that a mental trap beginning to loosen as new options become visible may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Eight of Swords suggests that a mental trap beginning to loosen as new options become visible may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might release be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might release be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might release be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does release reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can release teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -978,6 +1826,112 @@
         "What can anxiety teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "recovery from anxiety",
+        "seeking help",
+        "shame releasing",
+        "night fears easing",
+        "mental overwhelm"
+      ],
+      "tags": [
+        "recovery_from_anxiety",
+        "seeking_help",
+        "shame_releasing",
+        "fears_easing",
+        "mental_overwhelm"
+      ],
+      "toneTags": [
+        "anxious",
+        "healing",
+        "tender"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Nine of Swords points to worry, guilt, or night fears beginning to ask for compassion and support.",
+          "advice": "Bring the fear into daylight where it can become smaller and more workable."
+        },
+        "love": {
+          "summary": "In love, reversed Nine of Swords can show worry, guilt, or night fears beginning to ask for compassion and support affecting trust, closeness, or emotional timing.",
+          "advice": "Bring the fear into daylight where it can become smaller and more workable."
+        },
+        "career": {
+          "summary": "In career, reversed Nine of Swords can suggest worry, guilt, or night fears beginning to ask for compassion and support shaping work, direction, or collaboration.",
+          "advice": "Bring the fear into daylight where it can become smaller and more workable."
+        },
+        "money": {
+          "summary": "In money matters, reversed Nine of Swords can reveal worry, guilt, or night fears beginning to ask for compassion and support around resources, security, or practical choices.",
+          "advice": "Bring the fear into daylight where it can become smaller and more workable."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Nine of Swords turns the lesson inward: worry, guilt, or night fears beginning to ask for compassion and support.",
+          "advice": "Practice compassion first; honest growth does not need cruelty to become real."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Bring the fear into daylight where it can become smaller and more workable.",
+          "love": "Bring the fear into daylight where it can become smaller and more workable.",
+          "career": "Bring the fear into daylight where it can become smaller and more workable.",
+          "money": "Bring the fear into daylight where it can become smaller and more workable.",
+          "growth": "Practice compassion first; honest growth does not need cruelty to become real."
+        },
+        "situation": {
+          "general": "The situation may be shaped by worry, guilt, or night fears beginning to ask for compassion and support.",
+          "love": "The situation may be shaped by worry, guilt, or night fears beginning to ask for compassion and support.",
+          "career": "The situation may be shaped by worry, guilt, or night fears beginning to ask for compassion and support.",
+          "money": "The situation may be shaped by worry, guilt, or night fears beginning to ask for compassion and support.",
+          "growth": "The situation may be shaped by worry, guilt, or night fears beginning to ask for compassion and support."
+        },
+        "past": {
+          "general": "In the past, reversed Nine of Swords suggests that worry, guilt, or night fears beginning to ask for compassion and support may have influenced the path behind you.",
+          "love": "In the past, reversed Nine of Swords suggests that worry, guilt, or night fears beginning to ask for compassion and support may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Nine of Swords suggests that worry, guilt, or night fears beginning to ask for compassion and support may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Nine of Swords suggests that worry, guilt, or night fears beginning to ask for compassion and support may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Nine of Swords suggests that worry, guilt, or night fears beginning to ask for compassion and support may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Nine of Swords highlights worry, guilt, or night fears beginning to ask for compassion and support.",
+          "love": "In the present, reversed Nine of Swords highlights worry, guilt, or night fears beginning to ask for compassion and support within the emotional field.",
+          "career": "In the present, reversed Nine of Swords highlights worry, guilt, or night fears beginning to ask for compassion and support in your work or ambitions.",
+          "money": "In the present, reversed Nine of Swords highlights worry, guilt, or night fears beginning to ask for compassion and support in practical or financial choices.",
+          "growth": "In the present, reversed Nine of Swords highlights worry, guilt, or night fears beginning to ask for compassion and support as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Nine of Swords suggests that worry, guilt, or night fears beginning to ask for compassion and support may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Nine of Swords suggests that worry, guilt, or night fears beginning to ask for compassion and support may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Nine of Swords suggests that worry, guilt, or night fears beginning to ask for compassion and support may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Nine of Swords suggests that worry, guilt, or night fears beginning to ask for compassion and support may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Nine of Swords suggests that worry, guilt, or night fears beginning to ask for compassion and support may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might recovery from anxiety be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might recovery from anxiety be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might recovery from anxiety be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does recovery from anxiety reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can recovery from anxiety teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1087,6 +2041,112 @@
         "What can ending teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "survival",
+        "recovery",
+        "resisting closure",
+        "old pain lingering",
+        "dawn after ending"
+      ],
+      "tags": [
+        "survival",
+        "recovery",
+        "resisting_closure",
+        "old_pain_lingering",
+        "dawn_after_ending"
+      ],
+      "toneTags": [
+        "heavy",
+        "recovering",
+        "honest"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Ten of Swords points to an ending that is painful but already moving toward survival, recovery, or release.",
+          "advice": "Do not keep lying under the ending after the dawn has begun."
+        },
+        "love": {
+          "summary": "In love, reversed Ten of Swords can show an ending that is painful but already moving toward survival, recovery, or release affecting trust, closeness, or emotional timing.",
+          "advice": "Do not keep lying under the ending after the dawn has begun."
+        },
+        "career": {
+          "summary": "In career, reversed Ten of Swords can suggest an ending that is painful but already moving toward survival, recovery, or release shaping work, direction, or collaboration.",
+          "advice": "Do not keep lying under the ending after the dawn has begun."
+        },
+        "money": {
+          "summary": "In money matters, reversed Ten of Swords can reveal an ending that is painful but already moving toward survival, recovery, or release around resources, security, or practical choices.",
+          "advice": "Do not keep lying under the ending after the dawn has begun."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Ten of Swords turns the lesson inward: an ending that is painful but already moving toward survival, recovery, or release.",
+          "advice": "Let healing be gradual, embodied, and supported rather than rushed."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Do not keep lying under the ending after the dawn has begun.",
+          "love": "Do not keep lying under the ending after the dawn has begun.",
+          "career": "Do not keep lying under the ending after the dawn has begun.",
+          "money": "Do not keep lying under the ending after the dawn has begun.",
+          "growth": "Let healing be gradual, embodied, and supported rather than rushed."
+        },
+        "situation": {
+          "general": "The situation may be shaped by an ending that is painful but already moving toward survival, recovery, or release.",
+          "love": "The situation may be shaped by an ending that is painful but already moving toward survival, recovery, or release.",
+          "career": "The situation may be shaped by an ending that is painful but already moving toward survival, recovery, or release.",
+          "money": "The situation may be shaped by an ending that is painful but already moving toward survival, recovery, or release.",
+          "growth": "The situation may be shaped by an ending that is painful but already moving toward survival, recovery, or release."
+        },
+        "past": {
+          "general": "In the past, reversed Ten of Swords suggests that an ending that is painful but already moving toward survival, recovery, or release may have influenced the path behind you.",
+          "love": "In the past, reversed Ten of Swords suggests that an ending that is painful but already moving toward survival, recovery, or release may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Ten of Swords suggests that an ending that is painful but already moving toward survival, recovery, or release may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Ten of Swords suggests that an ending that is painful but already moving toward survival, recovery, or release may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Ten of Swords suggests that an ending that is painful but already moving toward survival, recovery, or release may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Ten of Swords highlights an ending that is painful but already moving toward survival, recovery, or release.",
+          "love": "In the present, reversed Ten of Swords highlights an ending that is painful but already moving toward survival, recovery, or release within the emotional field.",
+          "career": "In the present, reversed Ten of Swords highlights an ending that is painful but already moving toward survival, recovery, or release in your work or ambitions.",
+          "money": "In the present, reversed Ten of Swords highlights an ending that is painful but already moving toward survival, recovery, or release in practical or financial choices.",
+          "growth": "In the present, reversed Ten of Swords highlights an ending that is painful but already moving toward survival, recovery, or release as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Ten of Swords suggests that an ending that is painful but already moving toward survival, recovery, or release may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Ten of Swords suggests that an ending that is painful but already moving toward survival, recovery, or release may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Ten of Swords suggests that an ending that is painful but already moving toward survival, recovery, or release may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Ten of Swords suggests that an ending that is painful but already moving toward survival, recovery, or release may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Ten of Swords suggests that an ending that is painful but already moving toward survival, recovery, or release may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might survival be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might survival be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might survival be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does survival reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can survival teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1196,6 +2256,112 @@
         "What can curiosity teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "gossip",
+        "defensiveness",
+        "scattered thoughts",
+        "immature communication",
+        "watchfulness"
+      ],
+      "tags": [
+        "gossip",
+        "defensiveness",
+        "scattered_thoughts",
+        "immature_communication",
+        "watchfulness"
+      ],
+      "toneTags": [
+        "alert",
+        "nervous",
+        "curious"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Page of Swords points to curiosity or communication that may be sharp, scattered, defensive, or immature.",
+          "advice": "Ask better questions before turning suspicion into speech."
+        },
+        "love": {
+          "summary": "In love, reversed Page of Swords can show curiosity or communication that may be sharp, scattered, defensive, or immature affecting trust, closeness, or emotional timing.",
+          "advice": "Ask better questions before turning suspicion into speech."
+        },
+        "career": {
+          "summary": "In career, reversed Page of Swords can suggest curiosity or communication that may be sharp, scattered, defensive, or immature shaping work, direction, or collaboration.",
+          "advice": "Ask better questions before turning suspicion into speech."
+        },
+        "money": {
+          "summary": "In money matters, reversed Page of Swords can reveal curiosity or communication that may be sharp, scattered, defensive, or immature around resources, security, or practical choices.",
+          "advice": "Ask better questions before turning suspicion into speech."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Page of Swords turns the lesson inward: curiosity or communication that may be sharp, scattered, defensive, or immature.",
+          "advice": "Ask better questions before turning suspicion into speech."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Ask better questions before turning suspicion into speech.",
+          "love": "Ask better questions before turning suspicion into speech.",
+          "career": "Ask better questions before turning suspicion into speech.",
+          "money": "Ask better questions before turning suspicion into speech.",
+          "growth": "Ask better questions before turning suspicion into speech."
+        },
+        "situation": {
+          "general": "The situation may be shaped by curiosity or communication that may be sharp, scattered, defensive, or immature.",
+          "love": "The situation may be shaped by curiosity or communication that may be sharp, scattered, defensive, or immature.",
+          "career": "The situation may be shaped by curiosity or communication that may be sharp, scattered, defensive, or immature.",
+          "money": "The situation may be shaped by curiosity or communication that may be sharp, scattered, defensive, or immature.",
+          "growth": "The situation may be shaped by curiosity or communication that may be sharp, scattered, defensive, or immature."
+        },
+        "past": {
+          "general": "In the past, reversed Page of Swords suggests that curiosity or communication that may be sharp, scattered, defensive, or immature may have influenced the path behind you.",
+          "love": "In the past, reversed Page of Swords suggests that curiosity or communication that may be sharp, scattered, defensive, or immature may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Page of Swords suggests that curiosity or communication that may be sharp, scattered, defensive, or immature may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Page of Swords suggests that curiosity or communication that may be sharp, scattered, defensive, or immature may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Page of Swords suggests that curiosity or communication that may be sharp, scattered, defensive, or immature may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Page of Swords highlights curiosity or communication that may be sharp, scattered, defensive, or immature.",
+          "love": "In the present, reversed Page of Swords highlights curiosity or communication that may be sharp, scattered, defensive, or immature within the emotional field.",
+          "career": "In the present, reversed Page of Swords highlights curiosity or communication that may be sharp, scattered, defensive, or immature in your work or ambitions.",
+          "money": "In the present, reversed Page of Swords highlights curiosity or communication that may be sharp, scattered, defensive, or immature in practical or financial choices.",
+          "growth": "In the present, reversed Page of Swords highlights curiosity or communication that may be sharp, scattered, defensive, or immature as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Page of Swords suggests that curiosity or communication that may be sharp, scattered, defensive, or immature may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Page of Swords suggests that curiosity or communication that may be sharp, scattered, defensive, or immature may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Page of Swords suggests that curiosity or communication that may be sharp, scattered, defensive, or immature may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Page of Swords suggests that curiosity or communication that may be sharp, scattered, defensive, or immature may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Page of Swords suggests that curiosity or communication that may be sharp, scattered, defensive, or immature may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might gossip be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might gossip be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might gossip be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does gossip reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can gossip teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1305,6 +2471,112 @@
         "What can speed teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "reckless words",
+        "aggression",
+        "rushing",
+        "mental chaos",
+        "burning bridges"
+      ],
+      "tags": [
+        "reckless_words",
+        "aggression",
+        "rushing",
+        "mental_chaos",
+        "burning_bridges"
+      ],
+      "toneTags": [
+        "fast",
+        "sharp",
+        "cautionary"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Knight of Swords points to mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up.",
+          "advice": "Slow the charge; truth does not need to trample everything to be heard."
+        },
+        "love": {
+          "summary": "In love, reversed Knight of Swords can show mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up affecting trust, closeness, or emotional timing.",
+          "advice": "Slow the charge; truth does not need to trample everything to be heard."
+        },
+        "career": {
+          "summary": "In career, reversed Knight of Swords can suggest mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up shaping work, direction, or collaboration.",
+          "advice": "Slow the charge; truth does not need to trample everything to be heard."
+        },
+        "money": {
+          "summary": "In money matters, reversed Knight of Swords can reveal mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up around resources, security, or practical choices.",
+          "advice": "Slow the charge; truth does not need to trample everything to be heard."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Knight of Swords turns the lesson inward: mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up.",
+          "advice": "Slow the charge; truth does not need to trample everything to be heard."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Slow the charge; truth does not need to trample everything to be heard.",
+          "love": "Slow the charge; truth does not need to trample everything to be heard.",
+          "career": "Slow the charge; truth does not need to trample everything to be heard.",
+          "money": "Slow the charge; truth does not need to trample everything to be heard.",
+          "growth": "Slow the charge; truth does not need to trample everything to be heard."
+        },
+        "situation": {
+          "general": "The situation may be shaped by mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up.",
+          "love": "The situation may be shaped by mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up.",
+          "career": "The situation may be shaped by mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up.",
+          "money": "The situation may be shaped by mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up.",
+          "growth": "The situation may be shaped by mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up."
+        },
+        "past": {
+          "general": "In the past, reversed Knight of Swords suggests that mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up may have influenced the path behind you.",
+          "love": "In the past, reversed Knight of Swords suggests that mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Knight of Swords suggests that mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Knight of Swords suggests that mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Knight of Swords suggests that mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Knight of Swords highlights mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up.",
+          "love": "In the present, reversed Knight of Swords highlights mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up within the emotional field.",
+          "career": "In the present, reversed Knight of Swords highlights mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up in your work or ambitions.",
+          "money": "In the present, reversed Knight of Swords highlights mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up in practical or financial choices.",
+          "growth": "In the present, reversed Knight of Swords highlights mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Knight of Swords suggests that mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Knight of Swords suggests that mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Knight of Swords suggests that mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Knight of Swords suggests that mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Knight of Swords suggests that mental force that may be rushing too hard, speaking too sharply, or acting before wisdom catches up may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might reckless words be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might reckless words be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might reckless words be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does reckless words reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can reckless words teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1414,6 +2686,112 @@
         "What can discernment teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "coldness",
+        "bitterness",
+        "guarded heart",
+        "harsh judgment",
+        "unclear boundaries"
+      ],
+      "tags": [
+        "coldness",
+        "bitterness",
+        "guarded_heart",
+        "harsh_judgment",
+        "unclear_boundaries"
+      ],
+      "toneTags": [
+        "clear",
+        "cool",
+        "healing"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Queen of Swords points to discernment that may have hardened into coldness, bitterness, or overprotection.",
+          "advice": "Keep the boundary, but let compassion keep you human."
+        },
+        "love": {
+          "summary": "In love, reversed Queen of Swords can show discernment that may have hardened into coldness, bitterness, or overprotection affecting trust, closeness, or emotional timing.",
+          "advice": "Let boundaries and tenderness work together, so love does not become self-abandonment."
+        },
+        "career": {
+          "summary": "In career, reversed Queen of Swords can suggest discernment that may have hardened into coldness, bitterness, or overprotection shaping work, direction, or collaboration.",
+          "advice": "Keep the boundary, but let compassion keep you human."
+        },
+        "money": {
+          "summary": "In money matters, reversed Queen of Swords can reveal discernment that may have hardened into coldness, bitterness, or overprotection around resources, security, or practical choices.",
+          "advice": "Keep the boundary, but let compassion keep you human."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Queen of Swords turns the lesson inward: discernment that may have hardened into coldness, bitterness, or overprotection.",
+          "advice": "Keep the boundary, but let compassion keep you human."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Keep the boundary, but let compassion keep you human.",
+          "love": "Let boundaries and tenderness work together, so love does not become self-abandonment.",
+          "career": "Keep the boundary, but let compassion keep you human.",
+          "money": "Keep the boundary, but let compassion keep you human.",
+          "growth": "Keep the boundary, but let compassion keep you human."
+        },
+        "situation": {
+          "general": "The situation may be shaped by discernment that may have hardened into coldness, bitterness, or overprotection.",
+          "love": "The situation may be shaped by discernment that may have hardened into coldness, bitterness, or overprotection.",
+          "career": "The situation may be shaped by discernment that may have hardened into coldness, bitterness, or overprotection.",
+          "money": "The situation may be shaped by discernment that may have hardened into coldness, bitterness, or overprotection.",
+          "growth": "The situation may be shaped by discernment that may have hardened into coldness, bitterness, or overprotection."
+        },
+        "past": {
+          "general": "In the past, reversed Queen of Swords suggests that discernment that may have hardened into coldness, bitterness, or overprotection may have influenced the path behind you.",
+          "love": "In the past, reversed Queen of Swords suggests that discernment that may have hardened into coldness, bitterness, or overprotection may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Queen of Swords suggests that discernment that may have hardened into coldness, bitterness, or overprotection may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Queen of Swords suggests that discernment that may have hardened into coldness, bitterness, or overprotection may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Queen of Swords suggests that discernment that may have hardened into coldness, bitterness, or overprotection may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Queen of Swords highlights discernment that may have hardened into coldness, bitterness, or overprotection.",
+          "love": "In the present, reversed Queen of Swords highlights discernment that may have hardened into coldness, bitterness, or overprotection within the emotional field.",
+          "career": "In the present, reversed Queen of Swords highlights discernment that may have hardened into coldness, bitterness, or overprotection in your work or ambitions.",
+          "money": "In the present, reversed Queen of Swords highlights discernment that may have hardened into coldness, bitterness, or overprotection in practical or financial choices.",
+          "growth": "In the present, reversed Queen of Swords highlights discernment that may have hardened into coldness, bitterness, or overprotection as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Queen of Swords suggests that discernment that may have hardened into coldness, bitterness, or overprotection may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Queen of Swords suggests that discernment that may have hardened into coldness, bitterness, or overprotection may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Queen of Swords suggests that discernment that may have hardened into coldness, bitterness, or overprotection may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Queen of Swords suggests that discernment that may have hardened into coldness, bitterness, or overprotection may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Queen of Swords suggests that discernment that may have hardened into coldness, bitterness, or overprotection may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might coldness be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might coldness be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might coldness be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does coldness reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can coldness teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1523,6 +2901,112 @@
         "What can logic teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "misuse of authority",
+        "rigid thinking",
+        "manipulation",
+        "cold logic",
+        "unclear judgment"
+      ],
+      "tags": [
+        "misuse_authority",
+        "rigid_thinking",
+        "manipulation",
+        "cold_logic",
+        "unclear_judgment"
+      ],
+      "toneTags": [
+        "serious",
+        "mental",
+        "corrective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, King of Swords points to authority or logic that may be rigid, manipulative, or disconnected from empathy.",
+          "advice": "Let truth and fairness lead together; intelligence without compassion can become control."
+        },
+        "love": {
+          "summary": "In love, reversed King of Swords can show authority or logic that may be rigid, manipulative, or disconnected from empathy affecting trust, closeness, or emotional timing.",
+          "advice": "Let truth and fairness lead together; intelligence without compassion can become control."
+        },
+        "career": {
+          "summary": "In career, reversed King of Swords can suggest authority or logic that may be rigid, manipulative, or disconnected from empathy shaping work, direction, or collaboration.",
+          "advice": "Protect your integrity and choose influence that is clear, fair, and accountable."
+        },
+        "money": {
+          "summary": "In money matters, reversed King of Swords can reveal authority or logic that may be rigid, manipulative, or disconnected from empathy around resources, security, or practical choices.",
+          "advice": "Let truth and fairness lead together; intelligence without compassion can become control."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed King of Swords turns the lesson inward: authority or logic that may be rigid, manipulative, or disconnected from empathy.",
+          "advice": "Let truth and fairness lead together; intelligence without compassion can become control."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let truth and fairness lead together; intelligence without compassion can become control.",
+          "love": "Let truth and fairness lead together; intelligence without compassion can become control.",
+          "career": "Protect your integrity and choose influence that is clear, fair, and accountable.",
+          "money": "Let truth and fairness lead together; intelligence without compassion can become control.",
+          "growth": "Let truth and fairness lead together; intelligence without compassion can become control."
+        },
+        "situation": {
+          "general": "The situation may be shaped by authority or logic that may be rigid, manipulative, or disconnected from empathy.",
+          "love": "The situation may be shaped by authority or logic that may be rigid, manipulative, or disconnected from empathy.",
+          "career": "The situation may be shaped by authority or logic that may be rigid, manipulative, or disconnected from empathy.",
+          "money": "The situation may be shaped by authority or logic that may be rigid, manipulative, or disconnected from empathy.",
+          "growth": "The situation may be shaped by authority or logic that may be rigid, manipulative, or disconnected from empathy."
+        },
+        "past": {
+          "general": "In the past, reversed King of Swords suggests that authority or logic that may be rigid, manipulative, or disconnected from empathy may have influenced the path behind you.",
+          "love": "In the past, reversed King of Swords suggests that authority or logic that may be rigid, manipulative, or disconnected from empathy may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed King of Swords suggests that authority or logic that may be rigid, manipulative, or disconnected from empathy may have affected your work rhythm or choices.",
+          "money": "In the past, reversed King of Swords suggests that authority or logic that may be rigid, manipulative, or disconnected from empathy may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed King of Swords suggests that authority or logic that may be rigid, manipulative, or disconnected from empathy may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed King of Swords highlights authority or logic that may be rigid, manipulative, or disconnected from empathy.",
+          "love": "In the present, reversed King of Swords highlights authority or logic that may be rigid, manipulative, or disconnected from empathy within the emotional field.",
+          "career": "In the present, reversed King of Swords highlights authority or logic that may be rigid, manipulative, or disconnected from empathy in your work or ambitions.",
+          "money": "In the present, reversed King of Swords highlights authority or logic that may be rigid, manipulative, or disconnected from empathy in practical or financial choices.",
+          "growth": "In the present, reversed King of Swords highlights authority or logic that may be rigid, manipulative, or disconnected from empathy as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed King of Swords suggests that authority or logic that may be rigid, manipulative, or disconnected from empathy may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed King of Swords suggests that authority or logic that may be rigid, manipulative, or disconnected from empathy may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed King of Swords suggests that authority or logic that may be rigid, manipulative, or disconnected from empathy may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed King of Swords suggests that authority or logic that may be rigid, manipulative, or disconnected from empathy may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed King of Swords suggests that authority or logic that may be rigid, manipulative, or disconnected from empathy may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might misuse of authority be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might misuse of authority be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might misuse of authority be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does misuse of authority reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can misuse of authority teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   }
 ]

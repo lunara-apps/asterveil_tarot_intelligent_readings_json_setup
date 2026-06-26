@@ -105,6 +105,112 @@
         "What can new beginning teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "recklessness",
+        "hesitation",
+        "naivety",
+        "poor timing",
+        "fear of beginning"
+      ],
+      "tags": [
+        "recklessness",
+        "hesitation",
+        "naivety",
+        "blocked_beginning",
+        "poor_timing"
+      ],
+      "toneTags": [
+        "cautious",
+        "uncertain",
+        "awakening"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Fool points to a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust.",
+          "advice": "Keep the spirit of openness, but pause long enough to understand the edge before you step."
+        },
+        "love": {
+          "summary": "In love, reversed The Fool can show a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust affecting trust, closeness, or emotional timing.",
+          "advice": "Keep the spirit of openness, but pause long enough to understand the edge before you step."
+        },
+        "career": {
+          "summary": "In career, reversed The Fool can suggest a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust shaping work, direction, or collaboration.",
+          "advice": "Use the delay to refine the plan rather than treating it as proof that the path is closed."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Fool can reveal a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust around resources, security, or practical choices.",
+          "advice": "Keep the spirit of openness, but pause long enough to understand the edge before you step."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Fool turns the lesson inward: a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust.",
+          "advice": "Keep the spirit of openness, but pause long enough to understand the edge before you step."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Keep the spirit of openness, but pause long enough to understand the edge before you step.",
+          "love": "Keep the spirit of openness, but pause long enough to understand the edge before you step.",
+          "career": "Use the delay to refine the plan rather than treating it as proof that the path is closed.",
+          "money": "Keep the spirit of openness, but pause long enough to understand the edge before you step.",
+          "growth": "Keep the spirit of openness, but pause long enough to understand the edge before you step."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust.",
+          "love": "The situation may be shaped by a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust.",
+          "career": "The situation may be shaped by a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust.",
+          "money": "The situation may be shaped by a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust.",
+          "growth": "The situation may be shaped by a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust."
+        },
+        "past": {
+          "general": "In the past, reversed The Fool suggests that a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust may have influenced the path behind you.",
+          "love": "In the past, reversed The Fool suggests that a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Fool suggests that a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Fool suggests that a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Fool suggests that a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Fool highlights a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust.",
+          "love": "In the present, reversed The Fool highlights a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust within the emotional field.",
+          "career": "In the present, reversed The Fool highlights a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust in your work or ambitions.",
+          "money": "In the present, reversed The Fool highlights a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust in practical or financial choices.",
+          "growth": "In the present, reversed The Fool highlights a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Fool suggests that a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Fool suggests that a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Fool suggests that a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Fool suggests that a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Fool suggests that a beginning that needs more awareness, or a leap that may be driven by impulse rather than trust may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might recklessness be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might recklessness be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might recklessness be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does recklessness reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can recklessness teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -213,6 +319,112 @@
         "What can willpower teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "scattered will",
+        "misuse of skill",
+        "illusion",
+        "untapped potential",
+        "manipulation"
+      ],
+      "tags": [
+        "scattered_energy",
+        "illusion",
+        "misuse_of_power",
+        "untapped_potential",
+        "misalignment"
+      ],
+      "toneTags": [
+        "cautionary",
+        "focused",
+        "honest"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Magician points to power that is scattered, hidden, or being used without clear intention.",
+          "advice": "Bring your words, tools, and motives back into alignment before trying to create the result."
+        },
+        "love": {
+          "summary": "In love, reversed The Magician can show power that is scattered, hidden, or being used without clear intention affecting trust, closeness, or emotional timing.",
+          "advice": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony."
+        },
+        "career": {
+          "summary": "In career, reversed The Magician can suggest power that is scattered, hidden, or being used without clear intention shaping work, direction, or collaboration.",
+          "advice": "Clarify the next practical step, then give your energy to one priority at a time."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Magician can reveal power that is scattered, hidden, or being used without clear intention around resources, security, or practical choices.",
+          "advice": "Bring your words, tools, and motives back into alignment before trying to create the result."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Magician turns the lesson inward: power that is scattered, hidden, or being used without clear intention.",
+          "advice": "Bring your words, tools, and motives back into alignment before trying to create the result."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Bring your words, tools, and motives back into alignment before trying to create the result.",
+          "love": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony.",
+          "career": "Clarify the next practical step, then give your energy to one priority at a time.",
+          "money": "Bring your words, tools, and motives back into alignment before trying to create the result.",
+          "growth": "Bring your words, tools, and motives back into alignment before trying to create the result."
+        },
+        "situation": {
+          "general": "The situation may be shaped by power that is scattered, hidden, or being used without clear intention.",
+          "love": "The situation may be shaped by power that is scattered, hidden, or being used without clear intention.",
+          "career": "The situation may be shaped by power that is scattered, hidden, or being used without clear intention.",
+          "money": "The situation may be shaped by power that is scattered, hidden, or being used without clear intention.",
+          "growth": "The situation may be shaped by power that is scattered, hidden, or being used without clear intention."
+        },
+        "past": {
+          "general": "In the past, reversed The Magician suggests that power that is scattered, hidden, or being used without clear intention may have influenced the path behind you.",
+          "love": "In the past, reversed The Magician suggests that power that is scattered, hidden, or being used without clear intention may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Magician suggests that power that is scattered, hidden, or being used without clear intention may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Magician suggests that power that is scattered, hidden, or being used without clear intention may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Magician suggests that power that is scattered, hidden, or being used without clear intention may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Magician highlights power that is scattered, hidden, or being used without clear intention.",
+          "love": "In the present, reversed The Magician highlights power that is scattered, hidden, or being used without clear intention within the emotional field.",
+          "career": "In the present, reversed The Magician highlights power that is scattered, hidden, or being used without clear intention in your work or ambitions.",
+          "money": "In the present, reversed The Magician highlights power that is scattered, hidden, or being used without clear intention in practical or financial choices.",
+          "growth": "In the present, reversed The Magician highlights power that is scattered, hidden, or being used without clear intention as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Magician suggests that power that is scattered, hidden, or being used without clear intention may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Magician suggests that power that is scattered, hidden, or being used without clear intention may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Magician suggests that power that is scattered, hidden, or being used without clear intention may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Magician suggests that power that is scattered, hidden, or being used without clear intention may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Magician suggests that power that is scattered, hidden, or being used without clear intention may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might scattered will be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might scattered will be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might scattered will be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does scattered will reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can scattered will teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -321,6 +533,112 @@
         "What can intuition teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "blocked intuition",
+        "secrets",
+        "inner disconnection",
+        "repressed feelings",
+        "overthinking"
+      ],
+      "tags": [
+        "blocked_intuition",
+        "secrets",
+        "repressed_feelings",
+        "inner_disconnection",
+        "overthinking"
+      ],
+      "toneTags": [
+        "quiet",
+        "guarded",
+        "introspective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The High Priestess points to intuition that is hard to hear because something is hidden, repressed, or overthought.",
+          "advice": "Create space for honest listening, and do not force certainty before the deeper truth has surfaced."
+        },
+        "love": {
+          "summary": "In love, reversed The High Priestess can show intuition that is hard to hear because something is hidden, repressed, or overthought affecting trust, closeness, or emotional timing.",
+          "advice": "Create space for honest listening, and do not force certainty before the deeper truth has surfaced."
+        },
+        "career": {
+          "summary": "In career, reversed The High Priestess can suggest intuition that is hard to hear because something is hidden, repressed, or overthought shaping work, direction, or collaboration.",
+          "advice": "Create space for honest listening, and do not force certainty before the deeper truth has surfaced."
+        },
+        "money": {
+          "summary": "In money matters, reversed The High Priestess can reveal intuition that is hard to hear because something is hidden, repressed, or overthought around resources, security, or practical choices.",
+          "advice": "Create space for honest listening, and do not force certainty before the deeper truth has surfaced."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The High Priestess turns the lesson inward: intuition that is hard to hear because something is hidden, repressed, or overthought.",
+          "advice": "Listen beneath the surface and let the hidden feeling become safe enough to speak."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Create space for honest listening, and do not force certainty before the deeper truth has surfaced.",
+          "love": "Create space for honest listening, and do not force certainty before the deeper truth has surfaced.",
+          "career": "Create space for honest listening, and do not force certainty before the deeper truth has surfaced.",
+          "money": "Create space for honest listening, and do not force certainty before the deeper truth has surfaced.",
+          "growth": "Listen beneath the surface and let the hidden feeling become safe enough to speak."
+        },
+        "situation": {
+          "general": "The situation may be shaped by intuition that is hard to hear because something is hidden, repressed, or overthought.",
+          "love": "The situation may be shaped by intuition that is hard to hear because something is hidden, repressed, or overthought.",
+          "career": "The situation may be shaped by intuition that is hard to hear because something is hidden, repressed, or overthought.",
+          "money": "The situation may be shaped by intuition that is hard to hear because something is hidden, repressed, or overthought.",
+          "growth": "The situation may be shaped by intuition that is hard to hear because something is hidden, repressed, or overthought."
+        },
+        "past": {
+          "general": "In the past, reversed The High Priestess suggests that intuition that is hard to hear because something is hidden, repressed, or overthought may have influenced the path behind you.",
+          "love": "In the past, reversed The High Priestess suggests that intuition that is hard to hear because something is hidden, repressed, or overthought may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The High Priestess suggests that intuition that is hard to hear because something is hidden, repressed, or overthought may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The High Priestess suggests that intuition that is hard to hear because something is hidden, repressed, or overthought may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The High Priestess suggests that intuition that is hard to hear because something is hidden, repressed, or overthought may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The High Priestess highlights intuition that is hard to hear because something is hidden, repressed, or overthought.",
+          "love": "In the present, reversed The High Priestess highlights intuition that is hard to hear because something is hidden, repressed, or overthought within the emotional field.",
+          "career": "In the present, reversed The High Priestess highlights intuition that is hard to hear because something is hidden, repressed, or overthought in your work or ambitions.",
+          "money": "In the present, reversed The High Priestess highlights intuition that is hard to hear because something is hidden, repressed, or overthought in practical or financial choices.",
+          "growth": "In the present, reversed The High Priestess highlights intuition that is hard to hear because something is hidden, repressed, or overthought as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The High Priestess suggests that intuition that is hard to hear because something is hidden, repressed, or overthought may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The High Priestess suggests that intuition that is hard to hear because something is hidden, repressed, or overthought may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The High Priestess suggests that intuition that is hard to hear because something is hidden, repressed, or overthought may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The High Priestess suggests that intuition that is hard to hear because something is hidden, repressed, or overthought may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The High Priestess suggests that intuition that is hard to hear because something is hidden, repressed, or overthought may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might blocked intuition be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might blocked intuition be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might blocked intuition be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does blocked intuition reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can blocked intuition teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -429,6 +747,112 @@
         "What can nurturing teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "creative block",
+        "overgiving",
+        "dependence",
+        "neglect",
+        "smothering care"
+      ],
+      "tags": [
+        "creative_block",
+        "overgiving",
+        "dependence",
+        "neglect",
+        "smothering"
+      ],
+      "toneTags": [
+        "tender",
+        "restorative",
+        "grounded"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Empress points to nurturing energy that may be blocked, overextended, or turned into dependence.",
+          "advice": "Return care to balance: nourish what matters without losing yourself in the tending."
+        },
+        "love": {
+          "summary": "In love, reversed The Empress can show nurturing energy that may be blocked, overextended, or turned into dependence affecting trust, closeness, or emotional timing.",
+          "advice": "Return care to balance: nourish what matters without losing yourself in the tending."
+        },
+        "career": {
+          "summary": "In career, reversed The Empress can suggest nurturing energy that may be blocked, overextended, or turned into dependence shaping work, direction, or collaboration.",
+          "advice": "Return care to balance: nourish what matters without losing yourself in the tending."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Empress can reveal nurturing energy that may be blocked, overextended, or turned into dependence around resources, security, or practical choices.",
+          "advice": "Return care to balance: nourish what matters without losing yourself in the tending."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Empress turns the lesson inward: nurturing energy that may be blocked, overextended, or turned into dependence.",
+          "advice": "Return care to balance: nourish what matters without losing yourself in the tending."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Return care to balance: nourish what matters without losing yourself in the tending.",
+          "love": "Return care to balance: nourish what matters without losing yourself in the tending.",
+          "career": "Return care to balance: nourish what matters without losing yourself in the tending.",
+          "money": "Return care to balance: nourish what matters without losing yourself in the tending.",
+          "growth": "Return care to balance: nourish what matters without losing yourself in the tending."
+        },
+        "situation": {
+          "general": "The situation may be shaped by nurturing energy that may be blocked, overextended, or turned into dependence.",
+          "love": "The situation may be shaped by nurturing energy that may be blocked, overextended, or turned into dependence.",
+          "career": "The situation may be shaped by nurturing energy that may be blocked, overextended, or turned into dependence.",
+          "money": "The situation may be shaped by nurturing energy that may be blocked, overextended, or turned into dependence.",
+          "growth": "The situation may be shaped by nurturing energy that may be blocked, overextended, or turned into dependence."
+        },
+        "past": {
+          "general": "In the past, reversed The Empress suggests that nurturing energy that may be blocked, overextended, or turned into dependence may have influenced the path behind you.",
+          "love": "In the past, reversed The Empress suggests that nurturing energy that may be blocked, overextended, or turned into dependence may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Empress suggests that nurturing energy that may be blocked, overextended, or turned into dependence may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Empress suggests that nurturing energy that may be blocked, overextended, or turned into dependence may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Empress suggests that nurturing energy that may be blocked, overextended, or turned into dependence may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Empress highlights nurturing energy that may be blocked, overextended, or turned into dependence.",
+          "love": "In the present, reversed The Empress highlights nurturing energy that may be blocked, overextended, or turned into dependence within the emotional field.",
+          "career": "In the present, reversed The Empress highlights nurturing energy that may be blocked, overextended, or turned into dependence in your work or ambitions.",
+          "money": "In the present, reversed The Empress highlights nurturing energy that may be blocked, overextended, or turned into dependence in practical or financial choices.",
+          "growth": "In the present, reversed The Empress highlights nurturing energy that may be blocked, overextended, or turned into dependence as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Empress suggests that nurturing energy that may be blocked, overextended, or turned into dependence may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Empress suggests that nurturing energy that may be blocked, overextended, or turned into dependence may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Empress suggests that nurturing energy that may be blocked, overextended, or turned into dependence may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Empress suggests that nurturing energy that may be blocked, overextended, or turned into dependence may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Empress suggests that nurturing energy that may be blocked, overextended, or turned into dependence may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might creative block be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might creative block be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might creative block be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does creative block reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can creative block teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -537,6 +961,112 @@
         "What can structure teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "rigidity",
+        "control issues",
+        "instability",
+        "domination",
+        "weak boundaries"
+      ],
+      "tags": [
+        "rigidity",
+        "control",
+        "instability",
+        "domination",
+        "weak_boundaries"
+      ],
+      "toneTags": [
+        "firm",
+        "cautionary",
+        "grounded"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Emperor points to structure that has become too rigid, too controlling, or not strong enough to protect what matters.",
+          "advice": "Rebuild authority through calm boundaries rather than force or avoidance."
+        },
+        "love": {
+          "summary": "In love, reversed The Emperor can show structure that has become too rigid, too controlling, or not strong enough to protect what matters affecting trust, closeness, or emotional timing.",
+          "advice": "Rebuild authority through calm boundaries rather than force or avoidance."
+        },
+        "career": {
+          "summary": "In career, reversed The Emperor can suggest structure that has become too rigid, too controlling, or not strong enough to protect what matters shaping work, direction, or collaboration.",
+          "advice": "Protect your integrity and choose influence that is clear, fair, and accountable."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Emperor can reveal structure that has become too rigid, too controlling, or not strong enough to protect what matters around resources, security, or practical choices.",
+          "advice": "Rebuild authority through calm boundaries rather than force or avoidance."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Emperor turns the lesson inward: structure that has become too rigid, too controlling, or not strong enough to protect what matters.",
+          "advice": "Rebuild authority through calm boundaries rather than force or avoidance."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Rebuild authority through calm boundaries rather than force or avoidance.",
+          "love": "Rebuild authority through calm boundaries rather than force or avoidance.",
+          "career": "Protect your integrity and choose influence that is clear, fair, and accountable.",
+          "money": "Rebuild authority through calm boundaries rather than force or avoidance.",
+          "growth": "Rebuild authority through calm boundaries rather than force or avoidance."
+        },
+        "situation": {
+          "general": "The situation may be shaped by structure that has become too rigid, too controlling, or not strong enough to protect what matters.",
+          "love": "The situation may be shaped by structure that has become too rigid, too controlling, or not strong enough to protect what matters.",
+          "career": "The situation may be shaped by structure that has become too rigid, too controlling, or not strong enough to protect what matters.",
+          "money": "The situation may be shaped by structure that has become too rigid, too controlling, or not strong enough to protect what matters.",
+          "growth": "The situation may be shaped by structure that has become too rigid, too controlling, or not strong enough to protect what matters."
+        },
+        "past": {
+          "general": "In the past, reversed The Emperor suggests that structure that has become too rigid, too controlling, or not strong enough to protect what matters may have influenced the path behind you.",
+          "love": "In the past, reversed The Emperor suggests that structure that has become too rigid, too controlling, or not strong enough to protect what matters may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Emperor suggests that structure that has become too rigid, too controlling, or not strong enough to protect what matters may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Emperor suggests that structure that has become too rigid, too controlling, or not strong enough to protect what matters may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Emperor suggests that structure that has become too rigid, too controlling, or not strong enough to protect what matters may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Emperor highlights structure that has become too rigid, too controlling, or not strong enough to protect what matters.",
+          "love": "In the present, reversed The Emperor highlights structure that has become too rigid, too controlling, or not strong enough to protect what matters within the emotional field.",
+          "career": "In the present, reversed The Emperor highlights structure that has become too rigid, too controlling, or not strong enough to protect what matters in your work or ambitions.",
+          "money": "In the present, reversed The Emperor highlights structure that has become too rigid, too controlling, or not strong enough to protect what matters in practical or financial choices.",
+          "growth": "In the present, reversed The Emperor highlights structure that has become too rigid, too controlling, or not strong enough to protect what matters as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Emperor suggests that structure that has become too rigid, too controlling, or not strong enough to protect what matters may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Emperor suggests that structure that has become too rigid, too controlling, or not strong enough to protect what matters may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Emperor suggests that structure that has become too rigid, too controlling, or not strong enough to protect what matters may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Emperor suggests that structure that has become too rigid, too controlling, or not strong enough to protect what matters may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Emperor suggests that structure that has become too rigid, too controlling, or not strong enough to protect what matters may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might rigidity be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might rigidity be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might rigidity be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does rigidity reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can rigidity teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -645,6 +1175,112 @@
         "What can tradition teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "rebellion",
+        "stale tradition",
+        "questioning beliefs",
+        "conformity pressure",
+        "unhelpful advice"
+      ],
+      "tags": [
+        "rebellion",
+        "stale_tradition",
+        "questioning_beliefs",
+        "conformity_pressure",
+        "unhelpful_advice"
+      ],
+      "toneTags": [
+        "reflective",
+        "questioning",
+        "wise"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Hierophant points to beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically.",
+          "advice": "Respect wisdom, but do not hand your inner authority to a system that no longer fits."
+        },
+        "love": {
+          "summary": "In love, reversed The Hierophant can show beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically affecting trust, closeness, or emotional timing.",
+          "advice": "Respect wisdom, but do not hand your inner authority to a system that no longer fits."
+        },
+        "career": {
+          "summary": "In career, reversed The Hierophant can suggest beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically shaping work, direction, or collaboration.",
+          "advice": "Respect wisdom, but do not hand your inner authority to a system that no longer fits."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Hierophant can reveal beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically around resources, security, or practical choices.",
+          "advice": "Respect wisdom, but do not hand your inner authority to a system that no longer fits."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Hierophant turns the lesson inward: beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically.",
+          "advice": "Respect wisdom, but do not hand your inner authority to a system that no longer fits."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Respect wisdom, but do not hand your inner authority to a system that no longer fits.",
+          "love": "Respect wisdom, but do not hand your inner authority to a system that no longer fits.",
+          "career": "Respect wisdom, but do not hand your inner authority to a system that no longer fits.",
+          "money": "Respect wisdom, but do not hand your inner authority to a system that no longer fits.",
+          "growth": "Respect wisdom, but do not hand your inner authority to a system that no longer fits."
+        },
+        "situation": {
+          "general": "The situation may be shaped by beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically.",
+          "love": "The situation may be shaped by beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically.",
+          "career": "The situation may be shaped by beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically.",
+          "money": "The situation may be shaped by beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically.",
+          "growth": "The situation may be shaped by beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically."
+        },
+        "past": {
+          "general": "In the past, reversed The Hierophant suggests that beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically may have influenced the path behind you.",
+          "love": "In the past, reversed The Hierophant suggests that beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Hierophant suggests that beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Hierophant suggests that beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Hierophant suggests that beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Hierophant highlights beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically.",
+          "love": "In the present, reversed The Hierophant highlights beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically within the emotional field.",
+          "career": "In the present, reversed The Hierophant highlights beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically in your work or ambitions.",
+          "money": "In the present, reversed The Hierophant highlights beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically in practical or financial choices.",
+          "growth": "In the present, reversed The Hierophant highlights beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Hierophant suggests that beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Hierophant suggests that beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Hierophant suggests that beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Hierophant suggests that beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Hierophant suggests that beliefs, traditions, or outside guidance that may need to be questioned rather than followed automatically may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might rebellion be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might rebellion be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might rebellion be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does rebellion reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can rebellion teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -753,6 +1389,112 @@
         "What can choice teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "misalignment",
+        "difficult choice",
+        "disharmony",
+        "temptation",
+        "values conflict"
+      ],
+      "tags": [
+        "misalignment",
+        "difficult_choice",
+        "disharmony",
+        "temptation",
+        "values_conflict"
+      ],
+      "toneTags": [
+        "honest",
+        "tender",
+        "clarifying"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Lovers points to a choice or connection that may be out of alignment with deeper values.",
+          "advice": "Choose from truth rather than longing, avoidance, or the fear of disappointing someone."
+        },
+        "love": {
+          "summary": "In love, reversed The Lovers can show a choice or connection that may be out of alignment with deeper values affecting trust, closeness, or emotional timing.",
+          "advice": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony."
+        },
+        "career": {
+          "summary": "In career, reversed The Lovers can suggest a choice or connection that may be out of alignment with deeper values shaping work, direction, or collaboration.",
+          "advice": "Choose from truth rather than longing, avoidance, or the fear of disappointing someone."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Lovers can reveal a choice or connection that may be out of alignment with deeper values around resources, security, or practical choices.",
+          "advice": "Choose from truth rather than longing, avoidance, or the fear of disappointing someone."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Lovers turns the lesson inward: a choice or connection that may be out of alignment with deeper values.",
+          "advice": "Choose from truth rather than longing, avoidance, or the fear of disappointing someone."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Choose from truth rather than longing, avoidance, or the fear of disappointing someone.",
+          "love": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony.",
+          "career": "Choose from truth rather than longing, avoidance, or the fear of disappointing someone.",
+          "money": "Choose from truth rather than longing, avoidance, or the fear of disappointing someone.",
+          "growth": "Choose from truth rather than longing, avoidance, or the fear of disappointing someone."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a choice or connection that may be out of alignment with deeper values.",
+          "love": "The situation may be shaped by a choice or connection that may be out of alignment with deeper values.",
+          "career": "The situation may be shaped by a choice or connection that may be out of alignment with deeper values.",
+          "money": "The situation may be shaped by a choice or connection that may be out of alignment with deeper values.",
+          "growth": "The situation may be shaped by a choice or connection that may be out of alignment with deeper values."
+        },
+        "past": {
+          "general": "In the past, reversed The Lovers suggests that a choice or connection that may be out of alignment with deeper values may have influenced the path behind you.",
+          "love": "In the past, reversed The Lovers suggests that a choice or connection that may be out of alignment with deeper values may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Lovers suggests that a choice or connection that may be out of alignment with deeper values may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Lovers suggests that a choice or connection that may be out of alignment with deeper values may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Lovers suggests that a choice or connection that may be out of alignment with deeper values may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Lovers highlights a choice or connection that may be out of alignment with deeper values.",
+          "love": "In the present, reversed The Lovers highlights a choice or connection that may be out of alignment with deeper values within the emotional field.",
+          "career": "In the present, reversed The Lovers highlights a choice or connection that may be out of alignment with deeper values in your work or ambitions.",
+          "money": "In the present, reversed The Lovers highlights a choice or connection that may be out of alignment with deeper values in practical or financial choices.",
+          "growth": "In the present, reversed The Lovers highlights a choice or connection that may be out of alignment with deeper values as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Lovers suggests that a choice or connection that may be out of alignment with deeper values may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Lovers suggests that a choice or connection that may be out of alignment with deeper values may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Lovers suggests that a choice or connection that may be out of alignment with deeper values may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Lovers suggests that a choice or connection that may be out of alignment with deeper values may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Lovers suggests that a choice or connection that may be out of alignment with deeper values may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might misalignment be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might misalignment be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might misalignment be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does misalignment reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can misalignment teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -861,6 +1603,112 @@
         "What can willpower teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "lack of direction",
+        "forcefulness",
+        "loss of control",
+        "scattered drive",
+        "blocked progress"
+      ],
+      "tags": [
+        "lack_of_direction",
+        "forcefulness",
+        "loss_of_control",
+        "scattered_drive",
+        "blocked_progress"
+      ],
+      "toneTags": [
+        "active",
+        "corrective",
+        "focused"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Chariot points to movement that may be blocked, scattered, or pushed too hard without inner command.",
+          "advice": "Slow down enough to choose the direction before trying to accelerate."
+        },
+        "love": {
+          "summary": "In love, reversed The Chariot can show movement that may be blocked, scattered, or pushed too hard without inner command affecting trust, closeness, or emotional timing.",
+          "advice": "Slow down enough to choose the direction before trying to accelerate."
+        },
+        "career": {
+          "summary": "In career, reversed The Chariot can suggest movement that may be blocked, scattered, or pushed too hard without inner command shaping work, direction, or collaboration.",
+          "advice": "Use the delay to refine the plan rather than treating it as proof that the path is closed."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Chariot can reveal movement that may be blocked, scattered, or pushed too hard without inner command around resources, security, or practical choices.",
+          "advice": "Slow down enough to choose the direction before trying to accelerate."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Chariot turns the lesson inward: movement that may be blocked, scattered, or pushed too hard without inner command.",
+          "advice": "Slow down enough to choose the direction before trying to accelerate."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Slow down enough to choose the direction before trying to accelerate.",
+          "love": "Slow down enough to choose the direction before trying to accelerate.",
+          "career": "Use the delay to refine the plan rather than treating it as proof that the path is closed.",
+          "money": "Slow down enough to choose the direction before trying to accelerate.",
+          "growth": "Slow down enough to choose the direction before trying to accelerate."
+        },
+        "situation": {
+          "general": "The situation may be shaped by movement that may be blocked, scattered, or pushed too hard without inner command.",
+          "love": "The situation may be shaped by movement that may be blocked, scattered, or pushed too hard without inner command.",
+          "career": "The situation may be shaped by movement that may be blocked, scattered, or pushed too hard without inner command.",
+          "money": "The situation may be shaped by movement that may be blocked, scattered, or pushed too hard without inner command.",
+          "growth": "The situation may be shaped by movement that may be blocked, scattered, or pushed too hard without inner command."
+        },
+        "past": {
+          "general": "In the past, reversed The Chariot suggests that movement that may be blocked, scattered, or pushed too hard without inner command may have influenced the path behind you.",
+          "love": "In the past, reversed The Chariot suggests that movement that may be blocked, scattered, or pushed too hard without inner command may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Chariot suggests that movement that may be blocked, scattered, or pushed too hard without inner command may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Chariot suggests that movement that may be blocked, scattered, or pushed too hard without inner command may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Chariot suggests that movement that may be blocked, scattered, or pushed too hard without inner command may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Chariot highlights movement that may be blocked, scattered, or pushed too hard without inner command.",
+          "love": "In the present, reversed The Chariot highlights movement that may be blocked, scattered, or pushed too hard without inner command within the emotional field.",
+          "career": "In the present, reversed The Chariot highlights movement that may be blocked, scattered, or pushed too hard without inner command in your work or ambitions.",
+          "money": "In the present, reversed The Chariot highlights movement that may be blocked, scattered, or pushed too hard without inner command in practical or financial choices.",
+          "growth": "In the present, reversed The Chariot highlights movement that may be blocked, scattered, or pushed too hard without inner command as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Chariot suggests that movement that may be blocked, scattered, or pushed too hard without inner command may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Chariot suggests that movement that may be blocked, scattered, or pushed too hard without inner command may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Chariot suggests that movement that may be blocked, scattered, or pushed too hard without inner command may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Chariot suggests that movement that may be blocked, scattered, or pushed too hard without inner command may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Chariot suggests that movement that may be blocked, scattered, or pushed too hard without inner command may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might lack of direction be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might lack of direction be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might lack of direction be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does lack of direction reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can lack of direction teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -969,6 +1817,112 @@
         "What can inner strength teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "self-doubt",
+        "impatience",
+        "inner tension",
+        "harshness",
+        "weakened courage"
+      ],
+      "tags": [
+        "self_doubt",
+        "impatience",
+        "inner_tension",
+        "harshness",
+        "weakened_courage"
+      ],
+      "toneTags": [
+        "gentle",
+        "reassuring",
+        "steady"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Strength points to courage that is present but strained by self-doubt, impatience, or harsh inner pressure.",
+          "advice": "Practice gentleness as strength; the part of you that feels wild does not need to be punished."
+        },
+        "love": {
+          "summary": "In love, reversed Strength can show courage that is present but strained by self-doubt, impatience, or harsh inner pressure affecting trust, closeness, or emotional timing.",
+          "advice": "Practice gentleness as strength; the part of you that feels wild does not need to be punished."
+        },
+        "career": {
+          "summary": "In career, reversed Strength can suggest courage that is present but strained by self-doubt, impatience, or harsh inner pressure shaping work, direction, or collaboration.",
+          "advice": "Practice gentleness as strength; the part of you that feels wild does not need to be punished."
+        },
+        "money": {
+          "summary": "In money matters, reversed Strength can reveal courage that is present but strained by self-doubt, impatience, or harsh inner pressure around resources, security, or practical choices.",
+          "advice": "Practice gentleness as strength; the part of you that feels wild does not need to be punished."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Strength turns the lesson inward: courage that is present but strained by self-doubt, impatience, or harsh inner pressure.",
+          "advice": "Practice compassion first; honest growth does not need cruelty to become real."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Practice gentleness as strength; the part of you that feels wild does not need to be punished.",
+          "love": "Practice gentleness as strength; the part of you that feels wild does not need to be punished.",
+          "career": "Practice gentleness as strength; the part of you that feels wild does not need to be punished.",
+          "money": "Practice gentleness as strength; the part of you that feels wild does not need to be punished.",
+          "growth": "Practice compassion first; honest growth does not need cruelty to become real."
+        },
+        "situation": {
+          "general": "The situation may be shaped by courage that is present but strained by self-doubt, impatience, or harsh inner pressure.",
+          "love": "The situation may be shaped by courage that is present but strained by self-doubt, impatience, or harsh inner pressure.",
+          "career": "The situation may be shaped by courage that is present but strained by self-doubt, impatience, or harsh inner pressure.",
+          "money": "The situation may be shaped by courage that is present but strained by self-doubt, impatience, or harsh inner pressure.",
+          "growth": "The situation may be shaped by courage that is present but strained by self-doubt, impatience, or harsh inner pressure."
+        },
+        "past": {
+          "general": "In the past, reversed Strength suggests that courage that is present but strained by self-doubt, impatience, or harsh inner pressure may have influenced the path behind you.",
+          "love": "In the past, reversed Strength suggests that courage that is present but strained by self-doubt, impatience, or harsh inner pressure may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Strength suggests that courage that is present but strained by self-doubt, impatience, or harsh inner pressure may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Strength suggests that courage that is present but strained by self-doubt, impatience, or harsh inner pressure may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Strength suggests that courage that is present but strained by self-doubt, impatience, or harsh inner pressure may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Strength highlights courage that is present but strained by self-doubt, impatience, or harsh inner pressure.",
+          "love": "In the present, reversed Strength highlights courage that is present but strained by self-doubt, impatience, or harsh inner pressure within the emotional field.",
+          "career": "In the present, reversed Strength highlights courage that is present but strained by self-doubt, impatience, or harsh inner pressure in your work or ambitions.",
+          "money": "In the present, reversed Strength highlights courage that is present but strained by self-doubt, impatience, or harsh inner pressure in practical or financial choices.",
+          "growth": "In the present, reversed Strength highlights courage that is present but strained by self-doubt, impatience, or harsh inner pressure as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Strength suggests that courage that is present but strained by self-doubt, impatience, or harsh inner pressure may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Strength suggests that courage that is present but strained by self-doubt, impatience, or harsh inner pressure may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Strength suggests that courage that is present but strained by self-doubt, impatience, or harsh inner pressure may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Strength suggests that courage that is present but strained by self-doubt, impatience, or harsh inner pressure may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Strength suggests that courage that is present but strained by self-doubt, impatience, or harsh inner pressure may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might self-doubt be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might self-doubt be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might self-doubt be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does self-doubt reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can self-doubt teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1077,6 +2031,112 @@
         "What can solitude teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "isolation",
+        "loneliness",
+        "avoidance",
+        "withdrawal",
+        "lost guidance"
+      ],
+      "tags": [
+        "isolation",
+        "loneliness",
+        "avoidance",
+        "withdrawal",
+        "lost_guidance"
+      ],
+      "toneTags": [
+        "quiet",
+        "lonely",
+        "reflective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Hermit points to solitude that may have become isolation, avoidance, or distance from helpful guidance.",
+          "advice": "Come back slowly toward connection while keeping the clarity that solitude has taught you."
+        },
+        "love": {
+          "summary": "In love, reversed The Hermit can show solitude that may have become isolation, avoidance, or distance from helpful guidance affecting trust, closeness, or emotional timing.",
+          "advice": "Come back slowly toward connection while keeping the clarity that solitude has taught you."
+        },
+        "career": {
+          "summary": "In career, reversed The Hermit can suggest solitude that may have become isolation, avoidance, or distance from helpful guidance shaping work, direction, or collaboration.",
+          "advice": "Come back slowly toward connection while keeping the clarity that solitude has taught you."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Hermit can reveal solitude that may have become isolation, avoidance, or distance from helpful guidance around resources, security, or practical choices.",
+          "advice": "Come back slowly toward connection while keeping the clarity that solitude has taught you."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Hermit turns the lesson inward: solitude that may have become isolation, avoidance, or distance from helpful guidance.",
+          "advice": "Come back slowly toward connection while keeping the clarity that solitude has taught you."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Come back slowly toward connection while keeping the clarity that solitude has taught you.",
+          "love": "Come back slowly toward connection while keeping the clarity that solitude has taught you.",
+          "career": "Come back slowly toward connection while keeping the clarity that solitude has taught you.",
+          "money": "Come back slowly toward connection while keeping the clarity that solitude has taught you.",
+          "growth": "Come back slowly toward connection while keeping the clarity that solitude has taught you."
+        },
+        "situation": {
+          "general": "The situation may be shaped by solitude that may have become isolation, avoidance, or distance from helpful guidance.",
+          "love": "The situation may be shaped by solitude that may have become isolation, avoidance, or distance from helpful guidance.",
+          "career": "The situation may be shaped by solitude that may have become isolation, avoidance, or distance from helpful guidance.",
+          "money": "The situation may be shaped by solitude that may have become isolation, avoidance, or distance from helpful guidance.",
+          "growth": "The situation may be shaped by solitude that may have become isolation, avoidance, or distance from helpful guidance."
+        },
+        "past": {
+          "general": "In the past, reversed The Hermit suggests that solitude that may have become isolation, avoidance, or distance from helpful guidance may have influenced the path behind you.",
+          "love": "In the past, reversed The Hermit suggests that solitude that may have become isolation, avoidance, or distance from helpful guidance may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Hermit suggests that solitude that may have become isolation, avoidance, or distance from helpful guidance may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Hermit suggests that solitude that may have become isolation, avoidance, or distance from helpful guidance may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Hermit suggests that solitude that may have become isolation, avoidance, or distance from helpful guidance may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Hermit highlights solitude that may have become isolation, avoidance, or distance from helpful guidance.",
+          "love": "In the present, reversed The Hermit highlights solitude that may have become isolation, avoidance, or distance from helpful guidance within the emotional field.",
+          "career": "In the present, reversed The Hermit highlights solitude that may have become isolation, avoidance, or distance from helpful guidance in your work or ambitions.",
+          "money": "In the present, reversed The Hermit highlights solitude that may have become isolation, avoidance, or distance from helpful guidance in practical or financial choices.",
+          "growth": "In the present, reversed The Hermit highlights solitude that may have become isolation, avoidance, or distance from helpful guidance as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Hermit suggests that solitude that may have become isolation, avoidance, or distance from helpful guidance may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Hermit suggests that solitude that may have become isolation, avoidance, or distance from helpful guidance may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Hermit suggests that solitude that may have become isolation, avoidance, or distance from helpful guidance may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Hermit suggests that solitude that may have become isolation, avoidance, or distance from helpful guidance may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Hermit suggests that solitude that may have become isolation, avoidance, or distance from helpful guidance may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might isolation be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might isolation be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might isolation be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does isolation reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can isolation teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1185,6 +2245,112 @@
         "What can change teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "resistance to change",
+        "bad timing",
+        "repeating cycle",
+        "delay",
+        "unpredictability"
+      ],
+      "tags": [
+        "resistance_to_change",
+        "bad_timing",
+        "repeating_cycle",
+        "delay",
+        "unpredictability"
+      ],
+      "toneTags": [
+        "shifting",
+        "uncertain",
+        "adaptive"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Wheel of Fortune points to a cycle that feels stuck, delayed, or harder to accept because change is being resisted.",
+          "advice": "Look for the pattern instead of trying to control the wheel."
+        },
+        "love": {
+          "summary": "In love, reversed Wheel of Fortune can show a cycle that feels stuck, delayed, or harder to accept because change is being resisted affecting trust, closeness, or emotional timing.",
+          "advice": "Look for the pattern instead of trying to control the wheel."
+        },
+        "career": {
+          "summary": "In career, reversed Wheel of Fortune can suggest a cycle that feels stuck, delayed, or harder to accept because change is being resisted shaping work, direction, or collaboration.",
+          "advice": "Use the delay to refine the plan rather than treating it as proof that the path is closed."
+        },
+        "money": {
+          "summary": "In money matters, reversed Wheel of Fortune can reveal a cycle that feels stuck, delayed, or harder to accept because change is being resisted around resources, security, or practical choices.",
+          "advice": "Look for the pattern instead of trying to control the wheel."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Wheel of Fortune turns the lesson inward: a cycle that feels stuck, delayed, or harder to accept because change is being resisted.",
+          "advice": "Notice where resistance is protecting you, then ask what it is also preventing."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Look for the pattern instead of trying to control the wheel.",
+          "love": "Look for the pattern instead of trying to control the wheel.",
+          "career": "Use the delay to refine the plan rather than treating it as proof that the path is closed.",
+          "money": "Look for the pattern instead of trying to control the wheel.",
+          "growth": "Notice where resistance is protecting you, then ask what it is also preventing."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a cycle that feels stuck, delayed, or harder to accept because change is being resisted.",
+          "love": "The situation may be shaped by a cycle that feels stuck, delayed, or harder to accept because change is being resisted.",
+          "career": "The situation may be shaped by a cycle that feels stuck, delayed, or harder to accept because change is being resisted.",
+          "money": "The situation may be shaped by a cycle that feels stuck, delayed, or harder to accept because change is being resisted.",
+          "growth": "The situation may be shaped by a cycle that feels stuck, delayed, or harder to accept because change is being resisted."
+        },
+        "past": {
+          "general": "In the past, reversed Wheel of Fortune suggests that a cycle that feels stuck, delayed, or harder to accept because change is being resisted may have influenced the path behind you.",
+          "love": "In the past, reversed Wheel of Fortune suggests that a cycle that feels stuck, delayed, or harder to accept because change is being resisted may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Wheel of Fortune suggests that a cycle that feels stuck, delayed, or harder to accept because change is being resisted may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Wheel of Fortune suggests that a cycle that feels stuck, delayed, or harder to accept because change is being resisted may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Wheel of Fortune suggests that a cycle that feels stuck, delayed, or harder to accept because change is being resisted may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Wheel of Fortune highlights a cycle that feels stuck, delayed, or harder to accept because change is being resisted.",
+          "love": "In the present, reversed Wheel of Fortune highlights a cycle that feels stuck, delayed, or harder to accept because change is being resisted within the emotional field.",
+          "career": "In the present, reversed Wheel of Fortune highlights a cycle that feels stuck, delayed, or harder to accept because change is being resisted in your work or ambitions.",
+          "money": "In the present, reversed Wheel of Fortune highlights a cycle that feels stuck, delayed, or harder to accept because change is being resisted in practical or financial choices.",
+          "growth": "In the present, reversed Wheel of Fortune highlights a cycle that feels stuck, delayed, or harder to accept because change is being resisted as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Wheel of Fortune suggests that a cycle that feels stuck, delayed, or harder to accept because change is being resisted may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Wheel of Fortune suggests that a cycle that feels stuck, delayed, or harder to accept because change is being resisted may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Wheel of Fortune suggests that a cycle that feels stuck, delayed, or harder to accept because change is being resisted may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Wheel of Fortune suggests that a cycle that feels stuck, delayed, or harder to accept because change is being resisted may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Wheel of Fortune suggests that a cycle that feels stuck, delayed, or harder to accept because change is being resisted may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might resistance to change be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might resistance to change be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might resistance to change be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does resistance to change reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can resistance to change teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1293,6 +2459,112 @@
         "What can truth teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "unfairness",
+        "avoidance of truth",
+        "imbalance",
+        "accountability delayed",
+        "biased judgment"
+      ],
+      "tags": [
+        "unfairness",
+        "avoidance_of_truth",
+        "imbalance",
+        "delayed_accountability",
+        "bias"
+      ],
+      "toneTags": [
+        "serious",
+        "clarifying",
+        "balanced"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Justice points to truth, fairness, or accountability that may be delayed, avoided, or distorted.",
+          "advice": "Return to facts, responsibility, and clean choices even if the answer is uncomfortable."
+        },
+        "love": {
+          "summary": "In love, reversed Justice can show truth, fairness, or accountability that may be delayed, avoided, or distorted affecting trust, closeness, or emotional timing.",
+          "advice": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony."
+        },
+        "career": {
+          "summary": "In career, reversed Justice can suggest truth, fairness, or accountability that may be delayed, avoided, or distorted shaping work, direction, or collaboration.",
+          "advice": "Return to facts, responsibility, and clean choices even if the answer is uncomfortable."
+        },
+        "money": {
+          "summary": "In money matters, reversed Justice can reveal truth, fairness, or accountability that may be delayed, avoided, or distorted around resources, security, or practical choices.",
+          "advice": "Return to facts, responsibility, and clean choices even if the answer is uncomfortable."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Justice turns the lesson inward: truth, fairness, or accountability that may be delayed, avoided, or distorted.",
+          "advice": "Return to facts, responsibility, and clean choices even if the answer is uncomfortable."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Return to facts, responsibility, and clean choices even if the answer is uncomfortable.",
+          "love": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony.",
+          "career": "Return to facts, responsibility, and clean choices even if the answer is uncomfortable.",
+          "money": "Return to facts, responsibility, and clean choices even if the answer is uncomfortable.",
+          "growth": "Return to facts, responsibility, and clean choices even if the answer is uncomfortable."
+        },
+        "situation": {
+          "general": "The situation may be shaped by truth, fairness, or accountability that may be delayed, avoided, or distorted.",
+          "love": "The situation may be shaped by truth, fairness, or accountability that may be delayed, avoided, or distorted.",
+          "career": "The situation may be shaped by truth, fairness, or accountability that may be delayed, avoided, or distorted.",
+          "money": "The situation may be shaped by truth, fairness, or accountability that may be delayed, avoided, or distorted.",
+          "growth": "The situation may be shaped by truth, fairness, or accountability that may be delayed, avoided, or distorted."
+        },
+        "past": {
+          "general": "In the past, reversed Justice suggests that truth, fairness, or accountability that may be delayed, avoided, or distorted may have influenced the path behind you.",
+          "love": "In the past, reversed Justice suggests that truth, fairness, or accountability that may be delayed, avoided, or distorted may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Justice suggests that truth, fairness, or accountability that may be delayed, avoided, or distorted may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Justice suggests that truth, fairness, or accountability that may be delayed, avoided, or distorted may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Justice suggests that truth, fairness, or accountability that may be delayed, avoided, or distorted may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Justice highlights truth, fairness, or accountability that may be delayed, avoided, or distorted.",
+          "love": "In the present, reversed Justice highlights truth, fairness, or accountability that may be delayed, avoided, or distorted within the emotional field.",
+          "career": "In the present, reversed Justice highlights truth, fairness, or accountability that may be delayed, avoided, or distorted in your work or ambitions.",
+          "money": "In the present, reversed Justice highlights truth, fairness, or accountability that may be delayed, avoided, or distorted in practical or financial choices.",
+          "growth": "In the present, reversed Justice highlights truth, fairness, or accountability that may be delayed, avoided, or distorted as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Justice suggests that truth, fairness, or accountability that may be delayed, avoided, or distorted may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Justice suggests that truth, fairness, or accountability that may be delayed, avoided, or distorted may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Justice suggests that truth, fairness, or accountability that may be delayed, avoided, or distorted may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Justice suggests that truth, fairness, or accountability that may be delayed, avoided, or distorted may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Justice suggests that truth, fairness, or accountability that may be delayed, avoided, or distorted may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might unfairness be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might unfairness be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might unfairness be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does unfairness reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can unfairness teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1401,6 +2673,112 @@
         "What can pause teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "resistance",
+        "stalling",
+        "martyrdom",
+        "stuckness",
+        "refusal to surrender"
+      ],
+      "tags": [
+        "resistance",
+        "stalling",
+        "martyrdom",
+        "stuckness",
+        "refusal_to_surrender"
+      ],
+      "toneTags": [
+        "paused",
+        "frustrated",
+        "reflective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Hanged Man points to a pause that has become resistance, or a sacrifice that may no longer be conscious.",
+          "advice": "Ask whether you are truly surrendering, or simply staying stuck."
+        },
+        "love": {
+          "summary": "In love, reversed The Hanged Man can show a pause that has become resistance, or a sacrifice that may no longer be conscious affecting trust, closeness, or emotional timing.",
+          "advice": "Ask whether you are truly surrendering, or simply staying stuck."
+        },
+        "career": {
+          "summary": "In career, reversed The Hanged Man can suggest a pause that has become resistance, or a sacrifice that may no longer be conscious shaping work, direction, or collaboration.",
+          "advice": "Ask whether you are truly surrendering, or simply staying stuck."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Hanged Man can reveal a pause that has become resistance, or a sacrifice that may no longer be conscious around resources, security, or practical choices.",
+          "advice": "Ask whether you are truly surrendering, or simply staying stuck."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Hanged Man turns the lesson inward: a pause that has become resistance, or a sacrifice that may no longer be conscious.",
+          "advice": "Notice where resistance is protecting you, then ask what it is also preventing."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Ask whether you are truly surrendering, or simply staying stuck.",
+          "love": "Ask whether you are truly surrendering, or simply staying stuck.",
+          "career": "Ask whether you are truly surrendering, or simply staying stuck.",
+          "money": "Ask whether you are truly surrendering, or simply staying stuck.",
+          "growth": "Notice where resistance is protecting you, then ask what it is also preventing."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a pause that has become resistance, or a sacrifice that may no longer be conscious.",
+          "love": "The situation may be shaped by a pause that has become resistance, or a sacrifice that may no longer be conscious.",
+          "career": "The situation may be shaped by a pause that has become resistance, or a sacrifice that may no longer be conscious.",
+          "money": "The situation may be shaped by a pause that has become resistance, or a sacrifice that may no longer be conscious.",
+          "growth": "The situation may be shaped by a pause that has become resistance, or a sacrifice that may no longer be conscious."
+        },
+        "past": {
+          "general": "In the past, reversed The Hanged Man suggests that a pause that has become resistance, or a sacrifice that may no longer be conscious may have influenced the path behind you.",
+          "love": "In the past, reversed The Hanged Man suggests that a pause that has become resistance, or a sacrifice that may no longer be conscious may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Hanged Man suggests that a pause that has become resistance, or a sacrifice that may no longer be conscious may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Hanged Man suggests that a pause that has become resistance, or a sacrifice that may no longer be conscious may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Hanged Man suggests that a pause that has become resistance, or a sacrifice that may no longer be conscious may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Hanged Man highlights a pause that has become resistance, or a sacrifice that may no longer be conscious.",
+          "love": "In the present, reversed The Hanged Man highlights a pause that has become resistance, or a sacrifice that may no longer be conscious within the emotional field.",
+          "career": "In the present, reversed The Hanged Man highlights a pause that has become resistance, or a sacrifice that may no longer be conscious in your work or ambitions.",
+          "money": "In the present, reversed The Hanged Man highlights a pause that has become resistance, or a sacrifice that may no longer be conscious in practical or financial choices.",
+          "growth": "In the present, reversed The Hanged Man highlights a pause that has become resistance, or a sacrifice that may no longer be conscious as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Hanged Man suggests that a pause that has become resistance, or a sacrifice that may no longer be conscious may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Hanged Man suggests that a pause that has become resistance, or a sacrifice that may no longer be conscious may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Hanged Man suggests that a pause that has become resistance, or a sacrifice that may no longer be conscious may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Hanged Man suggests that a pause that has become resistance, or a sacrifice that may no longer be conscious may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Hanged Man suggests that a pause that has become resistance, or a sacrifice that may no longer be conscious may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might resistance be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might resistance be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might resistance be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does resistance reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can resistance teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1509,6 +2887,112 @@
         "What can ending teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "resisting endings",
+        "stagnation",
+        "fear of change",
+        "unfinished release",
+        "delayed transformation"
+      ],
+      "tags": [
+        "resisting_endings",
+        "stagnation",
+        "fear_of_change",
+        "unfinished_release",
+        "delayed_transformation"
+      ],
+      "toneTags": [
+        "deep",
+        "transformative",
+        "honest"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Death points to an ending or transformation that is being delayed because release feels difficult.",
+          "advice": "Let the old form loosen; what is ending may be making room for what can finally breathe."
+        },
+        "love": {
+          "summary": "In love, reversed Death can show an ending or transformation that is being delayed because release feels difficult affecting trust, closeness, or emotional timing.",
+          "advice": "Let the old form loosen; what is ending may be making room for what can finally breathe."
+        },
+        "career": {
+          "summary": "In career, reversed Death can suggest an ending or transformation that is being delayed because release feels difficult shaping work, direction, or collaboration.",
+          "advice": "Let the old form loosen; what is ending may be making room for what can finally breathe."
+        },
+        "money": {
+          "summary": "In money matters, reversed Death can reveal an ending or transformation that is being delayed because release feels difficult around resources, security, or practical choices.",
+          "advice": "Let the old form loosen; what is ending may be making room for what can finally breathe."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Death turns the lesson inward: an ending or transformation that is being delayed because release feels difficult.",
+          "advice": "Notice where resistance is protecting you, then ask what it is also preventing."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let the old form loosen; what is ending may be making room for what can finally breathe.",
+          "love": "Let the old form loosen; what is ending may be making room for what can finally breathe.",
+          "career": "Let the old form loosen; what is ending may be making room for what can finally breathe.",
+          "money": "Let the old form loosen; what is ending may be making room for what can finally breathe.",
+          "growth": "Notice where resistance is protecting you, then ask what it is also preventing."
+        },
+        "situation": {
+          "general": "The situation may be shaped by an ending or transformation that is being delayed because release feels difficult.",
+          "love": "The situation may be shaped by an ending or transformation that is being delayed because release feels difficult.",
+          "career": "The situation may be shaped by an ending or transformation that is being delayed because release feels difficult.",
+          "money": "The situation may be shaped by an ending or transformation that is being delayed because release feels difficult.",
+          "growth": "The situation may be shaped by an ending or transformation that is being delayed because release feels difficult."
+        },
+        "past": {
+          "general": "In the past, reversed Death suggests that an ending or transformation that is being delayed because release feels difficult may have influenced the path behind you.",
+          "love": "In the past, reversed Death suggests that an ending or transformation that is being delayed because release feels difficult may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Death suggests that an ending or transformation that is being delayed because release feels difficult may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Death suggests that an ending or transformation that is being delayed because release feels difficult may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Death suggests that an ending or transformation that is being delayed because release feels difficult may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Death highlights an ending or transformation that is being delayed because release feels difficult.",
+          "love": "In the present, reversed Death highlights an ending or transformation that is being delayed because release feels difficult within the emotional field.",
+          "career": "In the present, reversed Death highlights an ending or transformation that is being delayed because release feels difficult in your work or ambitions.",
+          "money": "In the present, reversed Death highlights an ending or transformation that is being delayed because release feels difficult in practical or financial choices.",
+          "growth": "In the present, reversed Death highlights an ending or transformation that is being delayed because release feels difficult as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Death suggests that an ending or transformation that is being delayed because release feels difficult may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Death suggests that an ending or transformation that is being delayed because release feels difficult may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Death suggests that an ending or transformation that is being delayed because release feels difficult may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Death suggests that an ending or transformation that is being delayed because release feels difficult may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Death suggests that an ending or transformation that is being delayed because release feels difficult may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might resisting endings be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might resisting endings be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might resisting endings be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does resisting endings reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can resisting endings teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1617,6 +3101,112 @@
         "What can balance teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "imbalance",
+        "excess",
+        "impatience",
+        "disharmony",
+        "poor integration"
+      ],
+      "tags": [
+        "imbalance",
+        "excess",
+        "impatience",
+        "disharmony",
+        "poor_integration"
+      ],
+      "toneTags": [
+        "balancing",
+        "gentle",
+        "corrective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Temperance points to balance that has been disrupted by extremes, impatience, or unintegrated feelings.",
+          "advice": "Return to moderation and let healing happen through small adjustments."
+        },
+        "love": {
+          "summary": "In love, reversed Temperance can show balance that has been disrupted by extremes, impatience, or unintegrated feelings affecting trust, closeness, or emotional timing.",
+          "advice": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony."
+        },
+        "career": {
+          "summary": "In career, reversed Temperance can suggest balance that has been disrupted by extremes, impatience, or unintegrated feelings shaping work, direction, or collaboration.",
+          "advice": "Return to moderation and let healing happen through small adjustments."
+        },
+        "money": {
+          "summary": "In money matters, reversed Temperance can reveal balance that has been disrupted by extremes, impatience, or unintegrated feelings around resources, security, or practical choices.",
+          "advice": "Return to moderation and let healing happen through small adjustments."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Temperance turns the lesson inward: balance that has been disrupted by extremes, impatience, or unintegrated feelings.",
+          "advice": "Return to moderation and let healing happen through small adjustments."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Return to moderation and let healing happen through small adjustments.",
+          "love": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony.",
+          "career": "Return to moderation and let healing happen through small adjustments.",
+          "money": "Return to moderation and let healing happen through small adjustments.",
+          "growth": "Return to moderation and let healing happen through small adjustments."
+        },
+        "situation": {
+          "general": "The situation may be shaped by balance that has been disrupted by extremes, impatience, or unintegrated feelings.",
+          "love": "The situation may be shaped by balance that has been disrupted by extremes, impatience, or unintegrated feelings.",
+          "career": "The situation may be shaped by balance that has been disrupted by extremes, impatience, or unintegrated feelings.",
+          "money": "The situation may be shaped by balance that has been disrupted by extremes, impatience, or unintegrated feelings.",
+          "growth": "The situation may be shaped by balance that has been disrupted by extremes, impatience, or unintegrated feelings."
+        },
+        "past": {
+          "general": "In the past, reversed Temperance suggests that balance that has been disrupted by extremes, impatience, or unintegrated feelings may have influenced the path behind you.",
+          "love": "In the past, reversed Temperance suggests that balance that has been disrupted by extremes, impatience, or unintegrated feelings may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Temperance suggests that balance that has been disrupted by extremes, impatience, or unintegrated feelings may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Temperance suggests that balance that has been disrupted by extremes, impatience, or unintegrated feelings may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Temperance suggests that balance that has been disrupted by extremes, impatience, or unintegrated feelings may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Temperance highlights balance that has been disrupted by extremes, impatience, or unintegrated feelings.",
+          "love": "In the present, reversed Temperance highlights balance that has been disrupted by extremes, impatience, or unintegrated feelings within the emotional field.",
+          "career": "In the present, reversed Temperance highlights balance that has been disrupted by extremes, impatience, or unintegrated feelings in your work or ambitions.",
+          "money": "In the present, reversed Temperance highlights balance that has been disrupted by extremes, impatience, or unintegrated feelings in practical or financial choices.",
+          "growth": "In the present, reversed Temperance highlights balance that has been disrupted by extremes, impatience, or unintegrated feelings as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Temperance suggests that balance that has been disrupted by extremes, impatience, or unintegrated feelings may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Temperance suggests that balance that has been disrupted by extremes, impatience, or unintegrated feelings may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Temperance suggests that balance that has been disrupted by extremes, impatience, or unintegrated feelings may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Temperance suggests that balance that has been disrupted by extremes, impatience, or unintegrated feelings may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Temperance suggests that balance that has been disrupted by extremes, impatience, or unintegrated feelings may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might imbalance be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might imbalance be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might imbalance be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does imbalance reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can imbalance teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1725,6 +3315,112 @@
         "What can attachment teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "release from bondage",
+        "temptation exposed",
+        "unhealthy attachment",
+        "shadow work",
+        "breaking patterns"
+      ],
+      "tags": [
+        "release",
+        "temptation",
+        "unhealthy_attachment",
+        "shadow_work",
+        "breaking_patterns"
+      ],
+      "toneTags": [
+        "intense",
+        "liberating",
+        "honest"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Devil points to an attachment, temptation, or fear pattern becoming visible enough to loosen.",
+          "advice": "Name the chain without shame, then choose one action that gives your power back."
+        },
+        "love": {
+          "summary": "In love, reversed The Devil can show an attachment, temptation, or fear pattern becoming visible enough to loosen affecting trust, closeness, or emotional timing.",
+          "advice": "Name the chain without shame, then choose one action that gives your power back."
+        },
+        "career": {
+          "summary": "In career, reversed The Devil can suggest an attachment, temptation, or fear pattern becoming visible enough to loosen shaping work, direction, or collaboration.",
+          "advice": "Name the chain without shame, then choose one action that gives your power back."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Devil can reveal an attachment, temptation, or fear pattern becoming visible enough to loosen around resources, security, or practical choices.",
+          "advice": "Name the chain without shame, then choose one action that gives your power back."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Devil turns the lesson inward: an attachment, temptation, or fear pattern becoming visible enough to loosen.",
+          "advice": "Let healing be gradual, embodied, and supported rather than rushed."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Name the chain without shame, then choose one action that gives your power back.",
+          "love": "Name the chain without shame, then choose one action that gives your power back.",
+          "career": "Name the chain without shame, then choose one action that gives your power back.",
+          "money": "Name the chain without shame, then choose one action that gives your power back.",
+          "growth": "Let healing be gradual, embodied, and supported rather than rushed."
+        },
+        "situation": {
+          "general": "The situation may be shaped by an attachment, temptation, or fear pattern becoming visible enough to loosen.",
+          "love": "The situation may be shaped by an attachment, temptation, or fear pattern becoming visible enough to loosen.",
+          "career": "The situation may be shaped by an attachment, temptation, or fear pattern becoming visible enough to loosen.",
+          "money": "The situation may be shaped by an attachment, temptation, or fear pattern becoming visible enough to loosen.",
+          "growth": "The situation may be shaped by an attachment, temptation, or fear pattern becoming visible enough to loosen."
+        },
+        "past": {
+          "general": "In the past, reversed The Devil suggests that an attachment, temptation, or fear pattern becoming visible enough to loosen may have influenced the path behind you.",
+          "love": "In the past, reversed The Devil suggests that an attachment, temptation, or fear pattern becoming visible enough to loosen may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Devil suggests that an attachment, temptation, or fear pattern becoming visible enough to loosen may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Devil suggests that an attachment, temptation, or fear pattern becoming visible enough to loosen may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Devil suggests that an attachment, temptation, or fear pattern becoming visible enough to loosen may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Devil highlights an attachment, temptation, or fear pattern becoming visible enough to loosen.",
+          "love": "In the present, reversed The Devil highlights an attachment, temptation, or fear pattern becoming visible enough to loosen within the emotional field.",
+          "career": "In the present, reversed The Devil highlights an attachment, temptation, or fear pattern becoming visible enough to loosen in your work or ambitions.",
+          "money": "In the present, reversed The Devil highlights an attachment, temptation, or fear pattern becoming visible enough to loosen in practical or financial choices.",
+          "growth": "In the present, reversed The Devil highlights an attachment, temptation, or fear pattern becoming visible enough to loosen as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Devil suggests that an attachment, temptation, or fear pattern becoming visible enough to loosen may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Devil suggests that an attachment, temptation, or fear pattern becoming visible enough to loosen may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Devil suggests that an attachment, temptation, or fear pattern becoming visible enough to loosen may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Devil suggests that an attachment, temptation, or fear pattern becoming visible enough to loosen may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Devil suggests that an attachment, temptation, or fear pattern becoming visible enough to loosen may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might release from bondage be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might release from bondage be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might release from bondage be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does release from bondage reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can release from bondage teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1833,6 +3529,112 @@
         "What can upheaval teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "avoiding upheaval",
+        "delayed change",
+        "fear of collapse",
+        "slow awakening",
+        "unstable foundation"
+      ],
+      "tags": [
+        "avoiding_upheaval",
+        "delayed_change",
+        "fear_of_collapse",
+        "slow_awakening",
+        "unstable_foundation"
+      ],
+      "toneTags": [
+        "urgent",
+        "revealing",
+        "cautionary"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Tower points to change that may be resisted even though the old structure is already unstable.",
+          "advice": "Make honest adjustments now instead of waiting for pressure to do it for you."
+        },
+        "love": {
+          "summary": "In love, reversed The Tower can show change that may be resisted even though the old structure is already unstable affecting trust, closeness, or emotional timing.",
+          "advice": "Make honest adjustments now instead of waiting for pressure to do it for you."
+        },
+        "career": {
+          "summary": "In career, reversed The Tower can suggest change that may be resisted even though the old structure is already unstable shaping work, direction, or collaboration.",
+          "advice": "Make honest adjustments now instead of waiting for pressure to do it for you."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Tower can reveal change that may be resisted even though the old structure is already unstable around resources, security, or practical choices.",
+          "advice": "Make honest adjustments now instead of waiting for pressure to do it for you."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Tower turns the lesson inward: change that may be resisted even though the old structure is already unstable.",
+          "advice": "Make honest adjustments now instead of waiting for pressure to do it for you."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Make honest adjustments now instead of waiting for pressure to do it for you.",
+          "love": "Make honest adjustments now instead of waiting for pressure to do it for you.",
+          "career": "Make honest adjustments now instead of waiting for pressure to do it for you.",
+          "money": "Make honest adjustments now instead of waiting for pressure to do it for you.",
+          "growth": "Make honest adjustments now instead of waiting for pressure to do it for you."
+        },
+        "situation": {
+          "general": "The situation may be shaped by change that may be resisted even though the old structure is already unstable.",
+          "love": "The situation may be shaped by change that may be resisted even though the old structure is already unstable.",
+          "career": "The situation may be shaped by change that may be resisted even though the old structure is already unstable.",
+          "money": "The situation may be shaped by change that may be resisted even though the old structure is already unstable.",
+          "growth": "The situation may be shaped by change that may be resisted even though the old structure is already unstable."
+        },
+        "past": {
+          "general": "In the past, reversed The Tower suggests that change that may be resisted even though the old structure is already unstable may have influenced the path behind you.",
+          "love": "In the past, reversed The Tower suggests that change that may be resisted even though the old structure is already unstable may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Tower suggests that change that may be resisted even though the old structure is already unstable may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Tower suggests that change that may be resisted even though the old structure is already unstable may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Tower suggests that change that may be resisted even though the old structure is already unstable may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Tower highlights change that may be resisted even though the old structure is already unstable.",
+          "love": "In the present, reversed The Tower highlights change that may be resisted even though the old structure is already unstable within the emotional field.",
+          "career": "In the present, reversed The Tower highlights change that may be resisted even though the old structure is already unstable in your work or ambitions.",
+          "money": "In the present, reversed The Tower highlights change that may be resisted even though the old structure is already unstable in practical or financial choices.",
+          "growth": "In the present, reversed The Tower highlights change that may be resisted even though the old structure is already unstable as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Tower suggests that change that may be resisted even though the old structure is already unstable may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Tower suggests that change that may be resisted even though the old structure is already unstable may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Tower suggests that change that may be resisted even though the old structure is already unstable may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Tower suggests that change that may be resisted even though the old structure is already unstable may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Tower suggests that change that may be resisted even though the old structure is already unstable may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might avoiding upheaval be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might avoiding upheaval be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might avoiding upheaval be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does avoiding upheaval reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can avoiding upheaval teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1942,6 +3744,112 @@
         "What can hope teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "blocked hope",
+        "discouragement",
+        "delayed healing",
+        "doubt",
+        "spiritual dryness"
+      ],
+      "tags": [
+        "blocked_hope",
+        "discouragement",
+        "delayed_healing",
+        "doubt",
+        "spiritual_dryness"
+      ],
+      "toneTags": [
+        "tender",
+        "reassuring",
+        "soft"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Star points to hope and healing that are still present, but hard to trust or receive.",
+          "advice": "Do not force optimism; begin with one small act that helps your spirit breathe again."
+        },
+        "love": {
+          "summary": "In love, reversed The Star can show hope and healing that are still present, but hard to trust or receive affecting trust, closeness, or emotional timing.",
+          "advice": "Do not force optimism; begin with one small act that helps your spirit breathe again."
+        },
+        "career": {
+          "summary": "In career, reversed The Star can suggest hope and healing that are still present, but hard to trust or receive shaping work, direction, or collaboration.",
+          "advice": "Do not force optimism; begin with one small act that helps your spirit breathe again."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Star can reveal hope and healing that are still present, but hard to trust or receive around resources, security, or practical choices.",
+          "advice": "Do not force optimism; begin with one small act that helps your spirit breathe again."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Star turns the lesson inward: hope and healing that are still present, but hard to trust or receive.",
+          "advice": "Do not force optimism; begin with one small act that helps your spirit breathe again."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Do not force optimism; begin with one small act that helps your spirit breathe again.",
+          "love": "Do not force optimism; begin with one small act that helps your spirit breathe again.",
+          "career": "Do not force optimism; begin with one small act that helps your spirit breathe again.",
+          "money": "Do not force optimism; begin with one small act that helps your spirit breathe again.",
+          "growth": "Do not force optimism; begin with one small act that helps your spirit breathe again."
+        },
+        "situation": {
+          "general": "The situation may be shaped by hope and healing that are still present, but hard to trust or receive.",
+          "love": "The situation may be shaped by hope and healing that are still present, but hard to trust or receive.",
+          "career": "The situation may be shaped by hope and healing that are still present, but hard to trust or receive.",
+          "money": "The situation may be shaped by hope and healing that are still present, but hard to trust or receive.",
+          "growth": "The situation may be shaped by hope and healing that are still present, but hard to trust or receive."
+        },
+        "past": {
+          "general": "In the past, reversed The Star suggests that hope and healing that are still present, but hard to trust or receive may have influenced the path behind you.",
+          "love": "In the past, reversed The Star suggests that hope and healing that are still present, but hard to trust or receive may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Star suggests that hope and healing that are still present, but hard to trust or receive may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Star suggests that hope and healing that are still present, but hard to trust or receive may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Star suggests that hope and healing that are still present, but hard to trust or receive may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Star highlights hope and healing that are still present, but hard to trust or receive.",
+          "love": "In the present, reversed The Star highlights hope and healing that are still present, but hard to trust or receive within the emotional field.",
+          "career": "In the present, reversed The Star highlights hope and healing that are still present, but hard to trust or receive in your work or ambitions.",
+          "money": "In the present, reversed The Star highlights hope and healing that are still present, but hard to trust or receive in practical or financial choices.",
+          "growth": "In the present, reversed The Star highlights hope and healing that are still present, but hard to trust or receive as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Star suggests that hope and healing that are still present, but hard to trust or receive may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Star suggests that hope and healing that are still present, but hard to trust or receive may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Star suggests that hope and healing that are still present, but hard to trust or receive may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Star suggests that hope and healing that are still present, but hard to trust or receive may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Star suggests that hope and healing that are still present, but hard to trust or receive may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might blocked hope be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might blocked hope be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might blocked hope be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does blocked hope reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can blocked hope teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -2050,6 +3958,112 @@
         "What can uncertainty teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "confusion lifting",
+        "hidden fear",
+        "illusion",
+        "anxiety",
+        "unclear signals"
+      ],
+      "tags": [
+        "confusion",
+        "hidden_fear",
+        "illusion",
+        "anxiety",
+        "unclear_signals"
+      ],
+      "toneTags": [
+        "dreamlike",
+        "uncertain",
+        "revealing"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Moon points to fear, projection, or illusion that needs patient illumination before you can act clearly.",
+          "advice": "Wait for the fog to thin; not every feeling is a fact, but every feeling carries information."
+        },
+        "love": {
+          "summary": "In love, reversed The Moon can show fear, projection, or illusion that needs patient illumination before you can act clearly affecting trust, closeness, or emotional timing.",
+          "advice": "Let actions confirm the feeling before building the whole story around possibility."
+        },
+        "career": {
+          "summary": "In career, reversed The Moon can suggest fear, projection, or illusion that needs patient illumination before you can act clearly shaping work, direction, or collaboration.",
+          "advice": "Wait for the fog to thin; not every feeling is a fact, but every feeling carries information."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Moon can reveal fear, projection, or illusion that needs patient illumination before you can act clearly around resources, security, or practical choices.",
+          "advice": "Wait for the fog to thin; not every feeling is a fact, but every feeling carries information."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Moon turns the lesson inward: fear, projection, or illusion that needs patient illumination before you can act clearly.",
+          "advice": "Listen beneath the surface and let the hidden feeling become safe enough to speak."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Wait for the fog to thin; not every feeling is a fact, but every feeling carries information.",
+          "love": "Let actions confirm the feeling before building the whole story around possibility.",
+          "career": "Wait for the fog to thin; not every feeling is a fact, but every feeling carries information.",
+          "money": "Wait for the fog to thin; not every feeling is a fact, but every feeling carries information.",
+          "growth": "Listen beneath the surface and let the hidden feeling become safe enough to speak."
+        },
+        "situation": {
+          "general": "The situation may be shaped by fear, projection, or illusion that needs patient illumination before you can act clearly.",
+          "love": "The situation may be shaped by fear, projection, or illusion that needs patient illumination before you can act clearly.",
+          "career": "The situation may be shaped by fear, projection, or illusion that needs patient illumination before you can act clearly.",
+          "money": "The situation may be shaped by fear, projection, or illusion that needs patient illumination before you can act clearly.",
+          "growth": "The situation may be shaped by fear, projection, or illusion that needs patient illumination before you can act clearly."
+        },
+        "past": {
+          "general": "In the past, reversed The Moon suggests that fear, projection, or illusion that needs patient illumination before you can act clearly may have influenced the path behind you.",
+          "love": "In the past, reversed The Moon suggests that fear, projection, or illusion that needs patient illumination before you can act clearly may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Moon suggests that fear, projection, or illusion that needs patient illumination before you can act clearly may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Moon suggests that fear, projection, or illusion that needs patient illumination before you can act clearly may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Moon suggests that fear, projection, or illusion that needs patient illumination before you can act clearly may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Moon highlights fear, projection, or illusion that needs patient illumination before you can act clearly.",
+          "love": "In the present, reversed The Moon highlights fear, projection, or illusion that needs patient illumination before you can act clearly within the emotional field.",
+          "career": "In the present, reversed The Moon highlights fear, projection, or illusion that needs patient illumination before you can act clearly in your work or ambitions.",
+          "money": "In the present, reversed The Moon highlights fear, projection, or illusion that needs patient illumination before you can act clearly in practical or financial choices.",
+          "growth": "In the present, reversed The Moon highlights fear, projection, or illusion that needs patient illumination before you can act clearly as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Moon suggests that fear, projection, or illusion that needs patient illumination before you can act clearly may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Moon suggests that fear, projection, or illusion that needs patient illumination before you can act clearly may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Moon suggests that fear, projection, or illusion that needs patient illumination before you can act clearly may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Moon suggests that fear, projection, or illusion that needs patient illumination before you can act clearly may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Moon suggests that fear, projection, or illusion that needs patient illumination before you can act clearly may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might confusion lifting be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might confusion lifting be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might confusion lifting be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does confusion lifting reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can confusion lifting teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -2158,6 +4172,112 @@
         "What can joy teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "dimmed joy",
+        "temporary cloud",
+        "ego",
+        "overexposure",
+        "delayed clarity"
+      ],
+      "tags": [
+        "dimmed_joy",
+        "temporary_cloud",
+        "ego",
+        "overexposure",
+        "delayed_clarity"
+      ],
+      "toneTags": [
+        "warm",
+        "soft",
+        "clarifying"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The Sun points to joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure.",
+          "advice": "Let light return gradually and choose honest warmth over forced positivity."
+        },
+        "love": {
+          "summary": "In love, reversed The Sun can show joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure affecting trust, closeness, or emotional timing.",
+          "advice": "Let light return gradually and choose honest warmth over forced positivity."
+        },
+        "career": {
+          "summary": "In career, reversed The Sun can suggest joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure shaping work, direction, or collaboration.",
+          "advice": "Let light return gradually and choose honest warmth over forced positivity."
+        },
+        "money": {
+          "summary": "In money matters, reversed The Sun can reveal joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure around resources, security, or practical choices.",
+          "advice": "Let light return gradually and choose honest warmth over forced positivity."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The Sun turns the lesson inward: joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure.",
+          "advice": "Let light return gradually and choose honest warmth over forced positivity."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let light return gradually and choose honest warmth over forced positivity.",
+          "love": "Let light return gradually and choose honest warmth over forced positivity.",
+          "career": "Let light return gradually and choose honest warmth over forced positivity.",
+          "money": "Let light return gradually and choose honest warmth over forced positivity.",
+          "growth": "Let light return gradually and choose honest warmth over forced positivity."
+        },
+        "situation": {
+          "general": "The situation may be shaped by joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure.",
+          "love": "The situation may be shaped by joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure.",
+          "career": "The situation may be shaped by joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure.",
+          "money": "The situation may be shaped by joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure.",
+          "growth": "The situation may be shaped by joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure."
+        },
+        "past": {
+          "general": "In the past, reversed The Sun suggests that joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure may have influenced the path behind you.",
+          "love": "In the past, reversed The Sun suggests that joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The Sun suggests that joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The Sun suggests that joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The Sun suggests that joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The Sun highlights joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure.",
+          "love": "In the present, reversed The Sun highlights joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure within the emotional field.",
+          "career": "In the present, reversed The Sun highlights joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure in your work or ambitions.",
+          "money": "In the present, reversed The Sun highlights joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure in practical or financial choices.",
+          "growth": "In the present, reversed The Sun highlights joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The Sun suggests that joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The Sun suggests that joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The Sun suggests that joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The Sun suggests that joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The Sun suggests that joy, confidence, or clarity that may be delayed, muted, or clouded by ego or pressure may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might dimmed joy be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might dimmed joy be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might dimmed joy be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does dimmed joy reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can dimmed joy teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -2266,6 +4386,112 @@
         "What can awakening teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "self-doubt",
+        "avoiding the call",
+        "harsh self-judgment",
+        "unfinished awakening",
+        "denial"
+      ],
+      "tags": [
+        "self_doubt",
+        "avoiding_the_call",
+        "harsh_self_judgment",
+        "unfinished_awakening",
+        "denial"
+      ],
+      "toneTags": [
+        "awakening",
+        "serious",
+        "compassionate"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Judgement points to a call to change or forgive that may be blocked by denial, shame, or fear of rising.",
+          "advice": "Answer the truth with compassion; awakening does not require self-punishment."
+        },
+        "love": {
+          "summary": "In love, reversed Judgement can show a call to change or forgive that may be blocked by denial, shame, or fear of rising affecting trust, closeness, or emotional timing.",
+          "advice": "Answer the truth with compassion; awakening does not require self-punishment."
+        },
+        "career": {
+          "summary": "In career, reversed Judgement can suggest a call to change or forgive that may be blocked by denial, shame, or fear of rising shaping work, direction, or collaboration.",
+          "advice": "Answer the truth with compassion; awakening does not require self-punishment."
+        },
+        "money": {
+          "summary": "In money matters, reversed Judgement can reveal a call to change or forgive that may be blocked by denial, shame, or fear of rising around resources, security, or practical choices.",
+          "advice": "Answer the truth with compassion; awakening does not require self-punishment."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Judgement turns the lesson inward: a call to change or forgive that may be blocked by denial, shame, or fear of rising.",
+          "advice": "Practice compassion first; honest growth does not need cruelty to become real."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Answer the truth with compassion; awakening does not require self-punishment.",
+          "love": "Answer the truth with compassion; awakening does not require self-punishment.",
+          "career": "Answer the truth with compassion; awakening does not require self-punishment.",
+          "money": "Answer the truth with compassion; awakening does not require self-punishment.",
+          "growth": "Practice compassion first; honest growth does not need cruelty to become real."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a call to change or forgive that may be blocked by denial, shame, or fear of rising.",
+          "love": "The situation may be shaped by a call to change or forgive that may be blocked by denial, shame, or fear of rising.",
+          "career": "The situation may be shaped by a call to change or forgive that may be blocked by denial, shame, or fear of rising.",
+          "money": "The situation may be shaped by a call to change or forgive that may be blocked by denial, shame, or fear of rising.",
+          "growth": "The situation may be shaped by a call to change or forgive that may be blocked by denial, shame, or fear of rising."
+        },
+        "past": {
+          "general": "In the past, reversed Judgement suggests that a call to change or forgive that may be blocked by denial, shame, or fear of rising may have influenced the path behind you.",
+          "love": "In the past, reversed Judgement suggests that a call to change or forgive that may be blocked by denial, shame, or fear of rising may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Judgement suggests that a call to change or forgive that may be blocked by denial, shame, or fear of rising may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Judgement suggests that a call to change or forgive that may be blocked by denial, shame, or fear of rising may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Judgement suggests that a call to change or forgive that may be blocked by denial, shame, or fear of rising may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Judgement highlights a call to change or forgive that may be blocked by denial, shame, or fear of rising.",
+          "love": "In the present, reversed Judgement highlights a call to change or forgive that may be blocked by denial, shame, or fear of rising within the emotional field.",
+          "career": "In the present, reversed Judgement highlights a call to change or forgive that may be blocked by denial, shame, or fear of rising in your work or ambitions.",
+          "money": "In the present, reversed Judgement highlights a call to change or forgive that may be blocked by denial, shame, or fear of rising in practical or financial choices.",
+          "growth": "In the present, reversed Judgement highlights a call to change or forgive that may be blocked by denial, shame, or fear of rising as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Judgement suggests that a call to change or forgive that may be blocked by denial, shame, or fear of rising may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Judgement suggests that a call to change or forgive that may be blocked by denial, shame, or fear of rising may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Judgement suggests that a call to change or forgive that may be blocked by denial, shame, or fear of rising may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Judgement suggests that a call to change or forgive that may be blocked by denial, shame, or fear of rising may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Judgement suggests that a call to change or forgive that may be blocked by denial, shame, or fear of rising may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might self-doubt be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might self-doubt be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might self-doubt be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does self-doubt reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can self-doubt teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -2374,6 +4600,112 @@
         "What can completion teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "incompletion",
+        "lack of closure",
+        "delayed fulfillment",
+        "unfinished lesson",
+        "almost there"
+      ],
+      "tags": [
+        "incompletion",
+        "lack_of_closure",
+        "delayed_fulfillment",
+        "unfinished_lesson",
+        "almost_there"
+      ],
+      "toneTags": [
+        "reflective",
+        "integrating",
+        "patient"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, The World points to completion that is near but not fully integrated, or a cycle that still needs closure.",
+          "advice": "Finish consciously; honor the last lesson before stepping into the next world."
+        },
+        "love": {
+          "summary": "In love, reversed The World can show completion that is near but not fully integrated, or a cycle that still needs closure affecting trust, closeness, or emotional timing.",
+          "advice": "Finish consciously; honor the last lesson before stepping into the next world."
+        },
+        "career": {
+          "summary": "In career, reversed The World can suggest completion that is near but not fully integrated, or a cycle that still needs closure shaping work, direction, or collaboration.",
+          "advice": "Finish consciously; honor the last lesson before stepping into the next world."
+        },
+        "money": {
+          "summary": "In money matters, reversed The World can reveal completion that is near but not fully integrated, or a cycle that still needs closure around resources, security, or practical choices.",
+          "advice": "Finish consciously; honor the last lesson before stepping into the next world."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed The World turns the lesson inward: completion that is near but not fully integrated, or a cycle that still needs closure.",
+          "advice": "Finish consciously; honor the last lesson before stepping into the next world."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Finish consciously; honor the last lesson before stepping into the next world.",
+          "love": "Finish consciously; honor the last lesson before stepping into the next world.",
+          "career": "Finish consciously; honor the last lesson before stepping into the next world.",
+          "money": "Finish consciously; honor the last lesson before stepping into the next world.",
+          "growth": "Finish consciously; honor the last lesson before stepping into the next world."
+        },
+        "situation": {
+          "general": "The situation may be shaped by completion that is near but not fully integrated, or a cycle that still needs closure.",
+          "love": "The situation may be shaped by completion that is near but not fully integrated, or a cycle that still needs closure.",
+          "career": "The situation may be shaped by completion that is near but not fully integrated, or a cycle that still needs closure.",
+          "money": "The situation may be shaped by completion that is near but not fully integrated, or a cycle that still needs closure.",
+          "growth": "The situation may be shaped by completion that is near but not fully integrated, or a cycle that still needs closure."
+        },
+        "past": {
+          "general": "In the past, reversed The World suggests that completion that is near but not fully integrated, or a cycle that still needs closure may have influenced the path behind you.",
+          "love": "In the past, reversed The World suggests that completion that is near but not fully integrated, or a cycle that still needs closure may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed The World suggests that completion that is near but not fully integrated, or a cycle that still needs closure may have affected your work rhythm or choices.",
+          "money": "In the past, reversed The World suggests that completion that is near but not fully integrated, or a cycle that still needs closure may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed The World suggests that completion that is near but not fully integrated, or a cycle that still needs closure may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed The World highlights completion that is near but not fully integrated, or a cycle that still needs closure.",
+          "love": "In the present, reversed The World highlights completion that is near but not fully integrated, or a cycle that still needs closure within the emotional field.",
+          "career": "In the present, reversed The World highlights completion that is near but not fully integrated, or a cycle that still needs closure in your work or ambitions.",
+          "money": "In the present, reversed The World highlights completion that is near but not fully integrated, or a cycle that still needs closure in practical or financial choices.",
+          "growth": "In the present, reversed The World highlights completion that is near but not fully integrated, or a cycle that still needs closure as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed The World suggests that completion that is near but not fully integrated, or a cycle that still needs closure may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed The World suggests that completion that is near but not fully integrated, or a cycle that still needs closure may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed The World suggests that completion that is near but not fully integrated, or a cycle that still needs closure may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed The World suggests that completion that is near but not fully integrated, or a cycle that still needs closure may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed The World suggests that completion that is near but not fully integrated, or a cycle that still needs closure may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might incompletion be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might incompletion be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might incompletion be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does incompletion reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can incompletion teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   }
 ]

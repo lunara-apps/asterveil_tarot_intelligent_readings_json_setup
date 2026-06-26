@@ -107,6 +107,112 @@
         "What can new beginning teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "missed opportunity",
+        "delay",
+        "unstable start",
+        "poor planning",
+        "scarcity mindset"
+      ],
+      "tags": [
+        "missed_opportunity",
+        "delay",
+        "unstable_start",
+        "poor_planning",
+        "scarcity_mindset"
+      ],
+      "toneTags": [
+        "grounded",
+        "cautionary",
+        "practical"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Ace of Pentacles points to a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow.",
+          "advice": "Strengthen the foundation before expecting the seed to flourish."
+        },
+        "love": {
+          "summary": "In love, reversed Ace of Pentacles can show a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow affecting trust, closeness, or emotional timing.",
+          "advice": "Strengthen the foundation before expecting the seed to flourish."
+        },
+        "career": {
+          "summary": "In career, reversed Ace of Pentacles can suggest a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow shaping work, direction, or collaboration.",
+          "advice": "Clarify the next practical step, then give your energy to one priority at a time."
+        },
+        "money": {
+          "summary": "In money matters, reversed Ace of Pentacles can reveal a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow around resources, security, or practical choices.",
+          "advice": "Return to clear numbers, small steady choices, and support that reduces fear."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Ace of Pentacles turns the lesson inward: a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow.",
+          "advice": "Strengthen the foundation before expecting the seed to flourish."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Strengthen the foundation before expecting the seed to flourish.",
+          "love": "Strengthen the foundation before expecting the seed to flourish.",
+          "career": "Clarify the next practical step, then give your energy to one priority at a time.",
+          "money": "Return to clear numbers, small steady choices, and support that reduces fear.",
+          "growth": "Strengthen the foundation before expecting the seed to flourish."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow.",
+          "love": "The situation may be shaped by a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow.",
+          "career": "The situation may be shaped by a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow.",
+          "money": "The situation may be shaped by a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow.",
+          "growth": "The situation may be shaped by a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow."
+        },
+        "past": {
+          "general": "In the past, reversed Ace of Pentacles suggests that a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow may have influenced the path behind you.",
+          "love": "In the past, reversed Ace of Pentacles suggests that a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Ace of Pentacles suggests that a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Ace of Pentacles suggests that a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Ace of Pentacles suggests that a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Ace of Pentacles highlights a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow.",
+          "love": "In the present, reversed Ace of Pentacles highlights a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow within the emotional field.",
+          "career": "In the present, reversed Ace of Pentacles highlights a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow in your work or ambitions.",
+          "money": "In the present, reversed Ace of Pentacles highlights a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow in practical or financial choices.",
+          "growth": "In the present, reversed Ace of Pentacles highlights a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Ace of Pentacles suggests that a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Ace of Pentacles suggests that a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Ace of Pentacles suggests that a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Ace of Pentacles suggests that a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Ace of Pentacles suggests that a practical opportunity that may be delayed, overlooked, or not yet stable enough to grow may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might missed opportunity be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might missed opportunity be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might missed opportunity be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does missed opportunity reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can missed opportunity teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -216,6 +322,112 @@
         "What can balance teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "overwhelm",
+        "dropped priorities",
+        "imbalance",
+        "poor time management",
+        "financial juggling"
+      ],
+      "tags": [
+        "overwhelm",
+        "dropped_priorities",
+        "imbalance",
+        "poor_time_management",
+        "financial_juggling"
+      ],
+      "toneTags": [
+        "busy",
+        "strained",
+        "practical"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Two of Pentacles points to too many moving pieces, with balance becoming harder to maintain.",
+          "advice": "Choose what truly needs your hands now and let something unnecessary drop."
+        },
+        "love": {
+          "summary": "In love, reversed Two of Pentacles can show too many moving pieces, with balance becoming harder to maintain affecting trust, closeness, or emotional timing.",
+          "advice": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony."
+        },
+        "career": {
+          "summary": "In career, reversed Two of Pentacles can suggest too many moving pieces, with balance becoming harder to maintain shaping work, direction, or collaboration.",
+          "advice": "Clarify the next practical step, then give your energy to one priority at a time."
+        },
+        "money": {
+          "summary": "In money matters, reversed Two of Pentacles can reveal too many moving pieces, with balance becoming harder to maintain around resources, security, or practical choices.",
+          "advice": "Choose what truly needs your hands now and let something unnecessary drop."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Two of Pentacles turns the lesson inward: too many moving pieces, with balance becoming harder to maintain.",
+          "advice": "Choose what truly needs your hands now and let something unnecessary drop."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Choose what truly needs your hands now and let something unnecessary drop.",
+          "love": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony.",
+          "career": "Clarify the next practical step, then give your energy to one priority at a time.",
+          "money": "Choose what truly needs your hands now and let something unnecessary drop.",
+          "growth": "Choose what truly needs your hands now and let something unnecessary drop."
+        },
+        "situation": {
+          "general": "The situation may be shaped by too many moving pieces, with balance becoming harder to maintain.",
+          "love": "The situation may be shaped by too many moving pieces, with balance becoming harder to maintain.",
+          "career": "The situation may be shaped by too many moving pieces, with balance becoming harder to maintain.",
+          "money": "The situation may be shaped by too many moving pieces, with balance becoming harder to maintain.",
+          "growth": "The situation may be shaped by too many moving pieces, with balance becoming harder to maintain."
+        },
+        "past": {
+          "general": "In the past, reversed Two of Pentacles suggests that too many moving pieces, with balance becoming harder to maintain may have influenced the path behind you.",
+          "love": "In the past, reversed Two of Pentacles suggests that too many moving pieces, with balance becoming harder to maintain may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Two of Pentacles suggests that too many moving pieces, with balance becoming harder to maintain may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Two of Pentacles suggests that too many moving pieces, with balance becoming harder to maintain may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Two of Pentacles suggests that too many moving pieces, with balance becoming harder to maintain may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Two of Pentacles highlights too many moving pieces, with balance becoming harder to maintain.",
+          "love": "In the present, reversed Two of Pentacles highlights too many moving pieces, with balance becoming harder to maintain within the emotional field.",
+          "career": "In the present, reversed Two of Pentacles highlights too many moving pieces, with balance becoming harder to maintain in your work or ambitions.",
+          "money": "In the present, reversed Two of Pentacles highlights too many moving pieces, with balance becoming harder to maintain in practical or financial choices.",
+          "growth": "In the present, reversed Two of Pentacles highlights too many moving pieces, with balance becoming harder to maintain as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Two of Pentacles suggests that too many moving pieces, with balance becoming harder to maintain may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Two of Pentacles suggests that too many moving pieces, with balance becoming harder to maintain may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Two of Pentacles suggests that too many moving pieces, with balance becoming harder to maintain may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Two of Pentacles suggests that too many moving pieces, with balance becoming harder to maintain may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Two of Pentacles suggests that too many moving pieces, with balance becoming harder to maintain may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might overwhelm be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might overwhelm be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might overwhelm be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does overwhelm reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can overwhelm teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -325,6 +537,112 @@
         "What can teamwork teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "poor teamwork",
+        "misalignment",
+        "lack of skill",
+        "ignored feedback",
+        "weak planning"
+      ],
+      "tags": [
+        "poor_teamwork",
+        "misalignment",
+        "lack_of_skill",
+        "ignored_feedback",
+        "weak_planning"
+      ],
+      "toneTags": [
+        "practical",
+        "corrective",
+        "collaborative"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Three of Pentacles points to collaboration or craft that may be weakened by poor communication, planning, or shared standards.",
+          "advice": "Clarify roles, invite feedback, and return to the quality of the work."
+        },
+        "love": {
+          "summary": "In love, reversed Three of Pentacles can show collaboration or craft that may be weakened by poor communication, planning, or shared standards affecting trust, closeness, or emotional timing.",
+          "advice": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony."
+        },
+        "career": {
+          "summary": "In career, reversed Three of Pentacles can suggest collaboration or craft that may be weakened by poor communication, planning, or shared standards shaping work, direction, or collaboration.",
+          "advice": "Clarify the next practical step, then give your energy to one priority at a time."
+        },
+        "money": {
+          "summary": "In money matters, reversed Three of Pentacles can reveal collaboration or craft that may be weakened by poor communication, planning, or shared standards around resources, security, or practical choices.",
+          "advice": "Clarify roles, invite feedback, and return to the quality of the work."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Three of Pentacles turns the lesson inward: collaboration or craft that may be weakened by poor communication, planning, or shared standards.",
+          "advice": "Clarify roles, invite feedback, and return to the quality of the work."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Clarify roles, invite feedback, and return to the quality of the work.",
+          "love": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony.",
+          "career": "Clarify the next practical step, then give your energy to one priority at a time.",
+          "money": "Clarify roles, invite feedback, and return to the quality of the work.",
+          "growth": "Clarify roles, invite feedback, and return to the quality of the work."
+        },
+        "situation": {
+          "general": "The situation may be shaped by collaboration or craft that may be weakened by poor communication, planning, or shared standards.",
+          "love": "The situation may be shaped by collaboration or craft that may be weakened by poor communication, planning, or shared standards.",
+          "career": "The situation may be shaped by collaboration or craft that may be weakened by poor communication, planning, or shared standards.",
+          "money": "The situation may be shaped by collaboration or craft that may be weakened by poor communication, planning, or shared standards.",
+          "growth": "The situation may be shaped by collaboration or craft that may be weakened by poor communication, planning, or shared standards."
+        },
+        "past": {
+          "general": "In the past, reversed Three of Pentacles suggests that collaboration or craft that may be weakened by poor communication, planning, or shared standards may have influenced the path behind you.",
+          "love": "In the past, reversed Three of Pentacles suggests that collaboration or craft that may be weakened by poor communication, planning, or shared standards may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Three of Pentacles suggests that collaboration or craft that may be weakened by poor communication, planning, or shared standards may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Three of Pentacles suggests that collaboration or craft that may be weakened by poor communication, planning, or shared standards may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Three of Pentacles suggests that collaboration or craft that may be weakened by poor communication, planning, or shared standards may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Three of Pentacles highlights collaboration or craft that may be weakened by poor communication, planning, or shared standards.",
+          "love": "In the present, reversed Three of Pentacles highlights collaboration or craft that may be weakened by poor communication, planning, or shared standards within the emotional field.",
+          "career": "In the present, reversed Three of Pentacles highlights collaboration or craft that may be weakened by poor communication, planning, or shared standards in your work or ambitions.",
+          "money": "In the present, reversed Three of Pentacles highlights collaboration or craft that may be weakened by poor communication, planning, or shared standards in practical or financial choices.",
+          "growth": "In the present, reversed Three of Pentacles highlights collaboration or craft that may be weakened by poor communication, planning, or shared standards as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Three of Pentacles suggests that collaboration or craft that may be weakened by poor communication, planning, or shared standards may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Three of Pentacles suggests that collaboration or craft that may be weakened by poor communication, planning, or shared standards may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Three of Pentacles suggests that collaboration or craft that may be weakened by poor communication, planning, or shared standards may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Three of Pentacles suggests that collaboration or craft that may be weakened by poor communication, planning, or shared standards may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Three of Pentacles suggests that collaboration or craft that may be weakened by poor communication, planning, or shared standards may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might poor teamwork be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might poor teamwork be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might poor teamwork be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does poor teamwork reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can poor teamwork teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -434,6 +752,112 @@
         "What can security teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "release control",
+        "scarcity fear",
+        "overspending",
+        "unguarded resources",
+        "loosening grip"
+      ],
+      "tags": [
+        "release_control",
+        "scarcity_fear",
+        "overspending",
+        "unguarded_resources",
+        "loosening_grip"
+      ],
+      "toneTags": [
+        "guarded",
+        "relieving",
+        "practical"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Four of Pentacles points to control around security that may be loosening, or scarcity fear asking to be examined.",
+          "advice": "Find the middle place between hoarding and leaking your resources."
+        },
+        "love": {
+          "summary": "In love, reversed Four of Pentacles can show control around security that may be loosening, or scarcity fear asking to be examined affecting trust, closeness, or emotional timing.",
+          "advice": "Find the middle place between hoarding and leaking your resources."
+        },
+        "career": {
+          "summary": "In career, reversed Four of Pentacles can suggest control around security that may be loosening, or scarcity fear asking to be examined shaping work, direction, or collaboration.",
+          "advice": "Find the middle place between hoarding and leaking your resources."
+        },
+        "money": {
+          "summary": "In money matters, reversed Four of Pentacles can reveal control around security that may be loosening, or scarcity fear asking to be examined around resources, security, or practical choices.",
+          "advice": "Return to clear numbers, small steady choices, and support that reduces fear."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Four of Pentacles turns the lesson inward: control around security that may be loosening, or scarcity fear asking to be examined.",
+          "advice": "Find the middle place between hoarding and leaking your resources."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Find the middle place between hoarding and leaking your resources.",
+          "love": "Find the middle place between hoarding and leaking your resources.",
+          "career": "Find the middle place between hoarding and leaking your resources.",
+          "money": "Return to clear numbers, small steady choices, and support that reduces fear.",
+          "growth": "Find the middle place between hoarding and leaking your resources."
+        },
+        "situation": {
+          "general": "The situation may be shaped by control around security that may be loosening, or scarcity fear asking to be examined.",
+          "love": "The situation may be shaped by control around security that may be loosening, or scarcity fear asking to be examined.",
+          "career": "The situation may be shaped by control around security that may be loosening, or scarcity fear asking to be examined.",
+          "money": "The situation may be shaped by control around security that may be loosening, or scarcity fear asking to be examined.",
+          "growth": "The situation may be shaped by control around security that may be loosening, or scarcity fear asking to be examined."
+        },
+        "past": {
+          "general": "In the past, reversed Four of Pentacles suggests that control around security that may be loosening, or scarcity fear asking to be examined may have influenced the path behind you.",
+          "love": "In the past, reversed Four of Pentacles suggests that control around security that may be loosening, or scarcity fear asking to be examined may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Four of Pentacles suggests that control around security that may be loosening, or scarcity fear asking to be examined may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Four of Pentacles suggests that control around security that may be loosening, or scarcity fear asking to be examined may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Four of Pentacles suggests that control around security that may be loosening, or scarcity fear asking to be examined may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Four of Pentacles highlights control around security that may be loosening, or scarcity fear asking to be examined.",
+          "love": "In the present, reversed Four of Pentacles highlights control around security that may be loosening, or scarcity fear asking to be examined within the emotional field.",
+          "career": "In the present, reversed Four of Pentacles highlights control around security that may be loosening, or scarcity fear asking to be examined in your work or ambitions.",
+          "money": "In the present, reversed Four of Pentacles highlights control around security that may be loosening, or scarcity fear asking to be examined in practical or financial choices.",
+          "growth": "In the present, reversed Four of Pentacles highlights control around security that may be loosening, or scarcity fear asking to be examined as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Four of Pentacles suggests that control around security that may be loosening, or scarcity fear asking to be examined may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Four of Pentacles suggests that control around security that may be loosening, or scarcity fear asking to be examined may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Four of Pentacles suggests that control around security that may be loosening, or scarcity fear asking to be examined may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Four of Pentacles suggests that control around security that may be loosening, or scarcity fear asking to be examined may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Four of Pentacles suggests that control around security that may be loosening, or scarcity fear asking to be examined may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might release control be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might release control be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might release control be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does release control reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can release control teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -543,6 +967,112 @@
         "What can hardship teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "recovery",
+        "finding support",
+        "hardship easing",
+        "returning hope",
+        "asking for help"
+      ],
+      "tags": [
+        "recovery",
+        "finding_support",
+        "hardship_easing",
+        "returning_hope",
+        "asking_for_help"
+      ],
+      "toneTags": [
+        "hopeful",
+        "humble",
+        "healing"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Five of Pentacles points to hardship beginning to ease as support, dignity, or practical help becomes available.",
+          "advice": "Let yourself turn toward the door that is already offering warmth."
+        },
+        "love": {
+          "summary": "In love, reversed Five of Pentacles can show hardship beginning to ease as support, dignity, or practical help becomes available affecting trust, closeness, or emotional timing.",
+          "advice": "Let yourself turn toward the door that is already offering warmth."
+        },
+        "career": {
+          "summary": "In career, reversed Five of Pentacles can suggest hardship beginning to ease as support, dignity, or practical help becomes available shaping work, direction, or collaboration.",
+          "advice": "Let yourself turn toward the door that is already offering warmth."
+        },
+        "money": {
+          "summary": "In money matters, reversed Five of Pentacles can reveal hardship beginning to ease as support, dignity, or practical help becomes available around resources, security, or practical choices.",
+          "advice": "Let yourself turn toward the door that is already offering warmth."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Five of Pentacles turns the lesson inward: hardship beginning to ease as support, dignity, or practical help becomes available.",
+          "advice": "Let healing be gradual, embodied, and supported rather than rushed."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let yourself turn toward the door that is already offering warmth.",
+          "love": "Let yourself turn toward the door that is already offering warmth.",
+          "career": "Let yourself turn toward the door that is already offering warmth.",
+          "money": "Let yourself turn toward the door that is already offering warmth.",
+          "growth": "Let healing be gradual, embodied, and supported rather than rushed."
+        },
+        "situation": {
+          "general": "The situation may be shaped by hardship beginning to ease as support, dignity, or practical help becomes available.",
+          "love": "The situation may be shaped by hardship beginning to ease as support, dignity, or practical help becomes available.",
+          "career": "The situation may be shaped by hardship beginning to ease as support, dignity, or practical help becomes available.",
+          "money": "The situation may be shaped by hardship beginning to ease as support, dignity, or practical help becomes available.",
+          "growth": "The situation may be shaped by hardship beginning to ease as support, dignity, or practical help becomes available."
+        },
+        "past": {
+          "general": "In the past, reversed Five of Pentacles suggests that hardship beginning to ease as support, dignity, or practical help becomes available may have influenced the path behind you.",
+          "love": "In the past, reversed Five of Pentacles suggests that hardship beginning to ease as support, dignity, or practical help becomes available may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Five of Pentacles suggests that hardship beginning to ease as support, dignity, or practical help becomes available may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Five of Pentacles suggests that hardship beginning to ease as support, dignity, or practical help becomes available may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Five of Pentacles suggests that hardship beginning to ease as support, dignity, or practical help becomes available may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Five of Pentacles highlights hardship beginning to ease as support, dignity, or practical help becomes available.",
+          "love": "In the present, reversed Five of Pentacles highlights hardship beginning to ease as support, dignity, or practical help becomes available within the emotional field.",
+          "career": "In the present, reversed Five of Pentacles highlights hardship beginning to ease as support, dignity, or practical help becomes available in your work or ambitions.",
+          "money": "In the present, reversed Five of Pentacles highlights hardship beginning to ease as support, dignity, or practical help becomes available in practical or financial choices.",
+          "growth": "In the present, reversed Five of Pentacles highlights hardship beginning to ease as support, dignity, or practical help becomes available as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Five of Pentacles suggests that hardship beginning to ease as support, dignity, or practical help becomes available may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Five of Pentacles suggests that hardship beginning to ease as support, dignity, or practical help becomes available may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Five of Pentacles suggests that hardship beginning to ease as support, dignity, or practical help becomes available may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Five of Pentacles suggests that hardship beginning to ease as support, dignity, or practical help becomes available may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Five of Pentacles suggests that hardship beginning to ease as support, dignity, or practical help becomes available may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might recovery be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might recovery be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might recovery be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does recovery reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can recovery teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -652,6 +1182,112 @@
         "What can generosity teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "strings attached",
+        "unequal exchange",
+        "debt pressure",
+        "power imbalance",
+        "learning to receive"
+      ],
+      "tags": [
+        "strings_attached",
+        "unequal_exchange",
+        "debt_pressure",
+        "power_imbalance",
+        "learning_to_receive"
+      ],
+      "toneTags": [
+        "balanced",
+        "cautionary",
+        "practical"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Six of Pentacles points to giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics.",
+          "advice": "Let support be clear, fair, and free of quiet control."
+        },
+        "love": {
+          "summary": "In love, reversed Six of Pentacles can show giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics affecting trust, closeness, or emotional timing.",
+          "advice": "Let support be clear, fair, and free of quiet control."
+        },
+        "career": {
+          "summary": "In career, reversed Six of Pentacles can suggest giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics shaping work, direction, or collaboration.",
+          "advice": "Let support be clear, fair, and free of quiet control."
+        },
+        "money": {
+          "summary": "In money matters, reversed Six of Pentacles can reveal giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics around resources, security, or practical choices.",
+          "advice": "Make every exchange explicit so support does not become hidden pressure."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Six of Pentacles turns the lesson inward: giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics.",
+          "advice": "Let support be clear, fair, and free of quiet control."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let support be clear, fair, and free of quiet control.",
+          "love": "Let support be clear, fair, and free of quiet control.",
+          "career": "Let support be clear, fair, and free of quiet control.",
+          "money": "Make every exchange explicit so support does not become hidden pressure.",
+          "growth": "Let support be clear, fair, and free of quiet control."
+        },
+        "situation": {
+          "general": "The situation may be shaped by giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics.",
+          "love": "The situation may be shaped by giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics.",
+          "career": "The situation may be shaped by giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics.",
+          "money": "The situation may be shaped by giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics.",
+          "growth": "The situation may be shaped by giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics."
+        },
+        "past": {
+          "general": "In the past, reversed Six of Pentacles suggests that giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics may have influenced the path behind you.",
+          "love": "In the past, reversed Six of Pentacles suggests that giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Six of Pentacles suggests that giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Six of Pentacles suggests that giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Six of Pentacles suggests that giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Six of Pentacles highlights giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics.",
+          "love": "In the present, reversed Six of Pentacles highlights giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics within the emotional field.",
+          "career": "In the present, reversed Six of Pentacles highlights giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics in your work or ambitions.",
+          "money": "In the present, reversed Six of Pentacles highlights giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics in practical or financial choices.",
+          "growth": "In the present, reversed Six of Pentacles highlights giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Six of Pentacles suggests that giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Six of Pentacles suggests that giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Six of Pentacles suggests that giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Six of Pentacles suggests that giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Six of Pentacles suggests that giving and receiving that may be unequal, conditional, or shaped by hidden power dynamics may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might strings attached be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might strings attached be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might strings attached be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does strings attached reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can strings attached teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -761,6 +1397,112 @@
         "What can patience teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "impatience",
+        "poor investment",
+        "lack of reward",
+        "reassessment",
+        "changing strategy"
+      ],
+      "tags": [
+        "impatience",
+        "poor_investment",
+        "lack_of_reward",
+        "reassessment",
+        "changing_strategy"
+      ],
+      "toneTags": [
+        "patient",
+        "frustrated",
+        "evaluating"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Seven of Pentacles points to effort that may not be yielding as expected, asking for patience or a smarter strategy.",
+          "advice": "Review the harvest honestly before deciding whether to wait, adjust, or move on."
+        },
+        "love": {
+          "summary": "In love, reversed Seven of Pentacles can show effort that may not be yielding as expected, asking for patience or a smarter strategy affecting trust, closeness, or emotional timing.",
+          "advice": "Review the harvest honestly before deciding whether to wait, adjust, or move on."
+        },
+        "career": {
+          "summary": "In career, reversed Seven of Pentacles can suggest effort that may not be yielding as expected, asking for patience or a smarter strategy shaping work, direction, or collaboration.",
+          "advice": "Review the harvest honestly before deciding whether to wait, adjust, or move on."
+        },
+        "money": {
+          "summary": "In money matters, reversed Seven of Pentacles can reveal effort that may not be yielding as expected, asking for patience or a smarter strategy around resources, security, or practical choices.",
+          "advice": "Return to clear numbers, small steady choices, and support that reduces fear."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Seven of Pentacles turns the lesson inward: effort that may not be yielding as expected, asking for patience or a smarter strategy.",
+          "advice": "Review the harvest honestly before deciding whether to wait, adjust, or move on."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Review the harvest honestly before deciding whether to wait, adjust, or move on.",
+          "love": "Review the harvest honestly before deciding whether to wait, adjust, or move on.",
+          "career": "Review the harvest honestly before deciding whether to wait, adjust, or move on.",
+          "money": "Return to clear numbers, small steady choices, and support that reduces fear.",
+          "growth": "Review the harvest honestly before deciding whether to wait, adjust, or move on."
+        },
+        "situation": {
+          "general": "The situation may be shaped by effort that may not be yielding as expected, asking for patience or a smarter strategy.",
+          "love": "The situation may be shaped by effort that may not be yielding as expected, asking for patience or a smarter strategy.",
+          "career": "The situation may be shaped by effort that may not be yielding as expected, asking for patience or a smarter strategy.",
+          "money": "The situation may be shaped by effort that may not be yielding as expected, asking for patience or a smarter strategy.",
+          "growth": "The situation may be shaped by effort that may not be yielding as expected, asking for patience or a smarter strategy."
+        },
+        "past": {
+          "general": "In the past, reversed Seven of Pentacles suggests that effort that may not be yielding as expected, asking for patience or a smarter strategy may have influenced the path behind you.",
+          "love": "In the past, reversed Seven of Pentacles suggests that effort that may not be yielding as expected, asking for patience or a smarter strategy may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Seven of Pentacles suggests that effort that may not be yielding as expected, asking for patience or a smarter strategy may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Seven of Pentacles suggests that effort that may not be yielding as expected, asking for patience or a smarter strategy may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Seven of Pentacles suggests that effort that may not be yielding as expected, asking for patience or a smarter strategy may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Seven of Pentacles highlights effort that may not be yielding as expected, asking for patience or a smarter strategy.",
+          "love": "In the present, reversed Seven of Pentacles highlights effort that may not be yielding as expected, asking for patience or a smarter strategy within the emotional field.",
+          "career": "In the present, reversed Seven of Pentacles highlights effort that may not be yielding as expected, asking for patience or a smarter strategy in your work or ambitions.",
+          "money": "In the present, reversed Seven of Pentacles highlights effort that may not be yielding as expected, asking for patience or a smarter strategy in practical or financial choices.",
+          "growth": "In the present, reversed Seven of Pentacles highlights effort that may not be yielding as expected, asking for patience or a smarter strategy as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Seven of Pentacles suggests that effort that may not be yielding as expected, asking for patience or a smarter strategy may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Seven of Pentacles suggests that effort that may not be yielding as expected, asking for patience or a smarter strategy may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Seven of Pentacles suggests that effort that may not be yielding as expected, asking for patience or a smarter strategy may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Seven of Pentacles suggests that effort that may not be yielding as expected, asking for patience or a smarter strategy may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Seven of Pentacles suggests that effort that may not be yielding as expected, asking for patience or a smarter strategy may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might impatience be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might impatience be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might impatience be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does impatience reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can impatience teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -870,6 +1612,112 @@
         "What can practice teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "perfectionism",
+        "lack of focus",
+        "burnout",
+        "cutting corners",
+        "skill gap"
+      ],
+      "tags": [
+        "perfectionism",
+        "lack_of_focus",
+        "burnout",
+        "cutting_corners",
+        "skill_gap"
+      ],
+      "toneTags": [
+        "diligent",
+        "strained",
+        "corrective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Eight of Pentacles points to work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus.",
+          "advice": "Return to honest practice; mastery grows through sustainable repetition."
+        },
+        "love": {
+          "summary": "In love, reversed Eight of Pentacles can show work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus affecting trust, closeness, or emotional timing.",
+          "advice": "Return to honest practice; mastery grows through sustainable repetition."
+        },
+        "career": {
+          "summary": "In career, reversed Eight of Pentacles can suggest work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus shaping work, direction, or collaboration.",
+          "advice": "Clarify the next practical step, then give your energy to one priority at a time."
+        },
+        "money": {
+          "summary": "In money matters, reversed Eight of Pentacles can reveal work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus around resources, security, or practical choices.",
+          "advice": "Return to honest practice; mastery grows through sustainable repetition."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Eight of Pentacles turns the lesson inward: work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus.",
+          "advice": "Return to honest practice; mastery grows through sustainable repetition."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Return to honest practice; mastery grows through sustainable repetition.",
+          "love": "Return to honest practice; mastery grows through sustainable repetition.",
+          "career": "Clarify the next practical step, then give your energy to one priority at a time.",
+          "money": "Return to honest practice; mastery grows through sustainable repetition.",
+          "growth": "Return to honest practice; mastery grows through sustainable repetition."
+        },
+        "situation": {
+          "general": "The situation may be shaped by work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus.",
+          "love": "The situation may be shaped by work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus.",
+          "career": "The situation may be shaped by work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus.",
+          "money": "The situation may be shaped by work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus.",
+          "growth": "The situation may be shaped by work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus."
+        },
+        "past": {
+          "general": "In the past, reversed Eight of Pentacles suggests that work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus may have influenced the path behind you.",
+          "love": "In the past, reversed Eight of Pentacles suggests that work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Eight of Pentacles suggests that work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Eight of Pentacles suggests that work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Eight of Pentacles suggests that work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Eight of Pentacles highlights work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus.",
+          "love": "In the present, reversed Eight of Pentacles highlights work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus within the emotional field.",
+          "career": "In the present, reversed Eight of Pentacles highlights work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus in your work or ambitions.",
+          "money": "In the present, reversed Eight of Pentacles highlights work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus in practical or financial choices.",
+          "growth": "In the present, reversed Eight of Pentacles highlights work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Eight of Pentacles suggests that work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Eight of Pentacles suggests that work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Eight of Pentacles suggests that work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Eight of Pentacles suggests that work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Eight of Pentacles suggests that work, study, or practice that may be blocked by perfectionism, fatigue, or weak focus may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might perfectionism be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might perfectionism be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might perfectionism be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does perfectionism reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can perfectionism teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -979,6 +1827,112 @@
         "What can independence teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "dependence",
+        "self-worth issues",
+        "overspending",
+        "loneliness",
+        "unstable independence"
+      ],
+      "tags": [
+        "dependence",
+        "self_worth_issues",
+        "overspending",
+        "loneliness",
+        "unstable_independence"
+      ],
+      "toneTags": [
+        "independent",
+        "reflective",
+        "grounded"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Nine of Pentacles points to independence or comfort that may feel unstable, lonely, or tied too tightly to external worth.",
+          "advice": "Build security that supports self-respect, not performance."
+        },
+        "love": {
+          "summary": "In love, reversed Nine of Pentacles can show independence or comfort that may feel unstable, lonely, or tied too tightly to external worth affecting trust, closeness, or emotional timing.",
+          "advice": "Build security that supports self-respect, not performance."
+        },
+        "career": {
+          "summary": "In career, reversed Nine of Pentacles can suggest independence or comfort that may feel unstable, lonely, or tied too tightly to external worth shaping work, direction, or collaboration.",
+          "advice": "Build security that supports self-respect, not performance."
+        },
+        "money": {
+          "summary": "In money matters, reversed Nine of Pentacles can reveal independence or comfort that may feel unstable, lonely, or tied too tightly to external worth around resources, security, or practical choices.",
+          "advice": "Slow the impulse and choose what protects long-term stability."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Nine of Pentacles turns the lesson inward: independence or comfort that may feel unstable, lonely, or tied too tightly to external worth.",
+          "advice": "Build security that supports self-respect, not performance."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Build security that supports self-respect, not performance.",
+          "love": "Build security that supports self-respect, not performance.",
+          "career": "Build security that supports self-respect, not performance.",
+          "money": "Slow the impulse and choose what protects long-term stability.",
+          "growth": "Build security that supports self-respect, not performance."
+        },
+        "situation": {
+          "general": "The situation may be shaped by independence or comfort that may feel unstable, lonely, or tied too tightly to external worth.",
+          "love": "The situation may be shaped by independence or comfort that may feel unstable, lonely, or tied too tightly to external worth.",
+          "career": "The situation may be shaped by independence or comfort that may feel unstable, lonely, or tied too tightly to external worth.",
+          "money": "The situation may be shaped by independence or comfort that may feel unstable, lonely, or tied too tightly to external worth.",
+          "growth": "The situation may be shaped by independence or comfort that may feel unstable, lonely, or tied too tightly to external worth."
+        },
+        "past": {
+          "general": "In the past, reversed Nine of Pentacles suggests that independence or comfort that may feel unstable, lonely, or tied too tightly to external worth may have influenced the path behind you.",
+          "love": "In the past, reversed Nine of Pentacles suggests that independence or comfort that may feel unstable, lonely, or tied too tightly to external worth may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Nine of Pentacles suggests that independence or comfort that may feel unstable, lonely, or tied too tightly to external worth may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Nine of Pentacles suggests that independence or comfort that may feel unstable, lonely, or tied too tightly to external worth may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Nine of Pentacles suggests that independence or comfort that may feel unstable, lonely, or tied too tightly to external worth may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Nine of Pentacles highlights independence or comfort that may feel unstable, lonely, or tied too tightly to external worth.",
+          "love": "In the present, reversed Nine of Pentacles highlights independence or comfort that may feel unstable, lonely, or tied too tightly to external worth within the emotional field.",
+          "career": "In the present, reversed Nine of Pentacles highlights independence or comfort that may feel unstable, lonely, or tied too tightly to external worth in your work or ambitions.",
+          "money": "In the present, reversed Nine of Pentacles highlights independence or comfort that may feel unstable, lonely, or tied too tightly to external worth in practical or financial choices.",
+          "growth": "In the present, reversed Nine of Pentacles highlights independence or comfort that may feel unstable, lonely, or tied too tightly to external worth as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Nine of Pentacles suggests that independence or comfort that may feel unstable, lonely, or tied too tightly to external worth may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Nine of Pentacles suggests that independence or comfort that may feel unstable, lonely, or tied too tightly to external worth may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Nine of Pentacles suggests that independence or comfort that may feel unstable, lonely, or tied too tightly to external worth may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Nine of Pentacles suggests that independence or comfort that may feel unstable, lonely, or tied too tightly to external worth may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Nine of Pentacles suggests that independence or comfort that may feel unstable, lonely, or tied too tightly to external worth may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might dependence be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might dependence be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might dependence be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does dependence reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can dependence teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1088,6 +2042,112 @@
         "What can legacy teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "family conflict",
+        "unstable legacy",
+        "short-term thinking",
+        "financial strain",
+        "tradition pressure"
+      ],
+      "tags": [
+        "family_conflict",
+        "unstable_legacy",
+        "short_term_thinking",
+        "financial_strain",
+        "tradition_pressure"
+      ],
+      "toneTags": [
+        "ancestral",
+        "practical",
+        "honest"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Ten of Pentacles points to legacy, family, or long-term security that may be strained, inherited, or ready for redefinition.",
+          "advice": "Protect the future by questioning which patterns truly deserve to continue."
+        },
+        "love": {
+          "summary": "In love, reversed Ten of Pentacles can show legacy, family, or long-term security that may be strained, inherited, or ready for redefinition affecting trust, closeness, or emotional timing.",
+          "advice": "Protect the future by questioning which patterns truly deserve to continue."
+        },
+        "career": {
+          "summary": "In career, reversed Ten of Pentacles can suggest legacy, family, or long-term security that may be strained, inherited, or ready for redefinition shaping work, direction, or collaboration.",
+          "advice": "Protect the future by questioning which patterns truly deserve to continue."
+        },
+        "money": {
+          "summary": "In money matters, reversed Ten of Pentacles can reveal legacy, family, or long-term security that may be strained, inherited, or ready for redefinition around resources, security, or practical choices.",
+          "advice": "Return to clear numbers, small steady choices, and support that reduces fear."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Ten of Pentacles turns the lesson inward: legacy, family, or long-term security that may be strained, inherited, or ready for redefinition.",
+          "advice": "Protect the future by questioning which patterns truly deserve to continue."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Protect the future by questioning which patterns truly deserve to continue.",
+          "love": "Protect the future by questioning which patterns truly deserve to continue.",
+          "career": "Protect the future by questioning which patterns truly deserve to continue.",
+          "money": "Return to clear numbers, small steady choices, and support that reduces fear.",
+          "growth": "Protect the future by questioning which patterns truly deserve to continue."
+        },
+        "situation": {
+          "general": "The situation may be shaped by legacy, family, or long-term security that may be strained, inherited, or ready for redefinition.",
+          "love": "The situation may be shaped by legacy, family, or long-term security that may be strained, inherited, or ready for redefinition.",
+          "career": "The situation may be shaped by legacy, family, or long-term security that may be strained, inherited, or ready for redefinition.",
+          "money": "The situation may be shaped by legacy, family, or long-term security that may be strained, inherited, or ready for redefinition.",
+          "growth": "The situation may be shaped by legacy, family, or long-term security that may be strained, inherited, or ready for redefinition."
+        },
+        "past": {
+          "general": "In the past, reversed Ten of Pentacles suggests that legacy, family, or long-term security that may be strained, inherited, or ready for redefinition may have influenced the path behind you.",
+          "love": "In the past, reversed Ten of Pentacles suggests that legacy, family, or long-term security that may be strained, inherited, or ready for redefinition may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Ten of Pentacles suggests that legacy, family, or long-term security that may be strained, inherited, or ready for redefinition may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Ten of Pentacles suggests that legacy, family, or long-term security that may be strained, inherited, or ready for redefinition may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Ten of Pentacles suggests that legacy, family, or long-term security that may be strained, inherited, or ready for redefinition may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Ten of Pentacles highlights legacy, family, or long-term security that may be strained, inherited, or ready for redefinition.",
+          "love": "In the present, reversed Ten of Pentacles highlights legacy, family, or long-term security that may be strained, inherited, or ready for redefinition within the emotional field.",
+          "career": "In the present, reversed Ten of Pentacles highlights legacy, family, or long-term security that may be strained, inherited, or ready for redefinition in your work or ambitions.",
+          "money": "In the present, reversed Ten of Pentacles highlights legacy, family, or long-term security that may be strained, inherited, or ready for redefinition in practical or financial choices.",
+          "growth": "In the present, reversed Ten of Pentacles highlights legacy, family, or long-term security that may be strained, inherited, or ready for redefinition as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Ten of Pentacles suggests that legacy, family, or long-term security that may be strained, inherited, or ready for redefinition may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Ten of Pentacles suggests that legacy, family, or long-term security that may be strained, inherited, or ready for redefinition may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Ten of Pentacles suggests that legacy, family, or long-term security that may be strained, inherited, or ready for redefinition may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Ten of Pentacles suggests that legacy, family, or long-term security that may be strained, inherited, or ready for redefinition may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Ten of Pentacles suggests that legacy, family, or long-term security that may be strained, inherited, or ready for redefinition may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might family conflict be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might family conflict be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might family conflict be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does family conflict reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can family conflict teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1197,6 +2257,112 @@
         "What can student teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "procrastination",
+        "missed lesson",
+        "unrealistic plan",
+        "lack of commitment",
+        "slow start"
+      ],
+      "tags": [
+        "procrastination",
+        "missed_lesson",
+        "unrealistic_plan",
+        "lack_of_commitment",
+        "slow_start"
+      ],
+      "toneTags": [
+        "young",
+        "practical",
+        "corrective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Page of Pentacles points to a practical beginning that may be delayed by procrastination, distraction, or lack of commitment.",
+          "advice": "Make the plan smaller and more real, then begin."
+        },
+        "love": {
+          "summary": "In love, reversed Page of Pentacles can show a practical beginning that may be delayed by procrastination, distraction, or lack of commitment affecting trust, closeness, or emotional timing.",
+          "advice": "Make the plan smaller and more real, then begin."
+        },
+        "career": {
+          "summary": "In career, reversed Page of Pentacles can suggest a practical beginning that may be delayed by procrastination, distraction, or lack of commitment shaping work, direction, or collaboration.",
+          "advice": "Make the plan smaller and more real, then begin."
+        },
+        "money": {
+          "summary": "In money matters, reversed Page of Pentacles can reveal a practical beginning that may be delayed by procrastination, distraction, or lack of commitment around resources, security, or practical choices.",
+          "advice": "Make the plan smaller and more real, then begin."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Page of Pentacles turns the lesson inward: a practical beginning that may be delayed by procrastination, distraction, or lack of commitment.",
+          "advice": "Make the plan smaller and more real, then begin."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Make the plan smaller and more real, then begin.",
+          "love": "Make the plan smaller and more real, then begin.",
+          "career": "Make the plan smaller and more real, then begin.",
+          "money": "Make the plan smaller and more real, then begin.",
+          "growth": "Make the plan smaller and more real, then begin."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a practical beginning that may be delayed by procrastination, distraction, or lack of commitment.",
+          "love": "The situation may be shaped by a practical beginning that may be delayed by procrastination, distraction, or lack of commitment.",
+          "career": "The situation may be shaped by a practical beginning that may be delayed by procrastination, distraction, or lack of commitment.",
+          "money": "The situation may be shaped by a practical beginning that may be delayed by procrastination, distraction, or lack of commitment.",
+          "growth": "The situation may be shaped by a practical beginning that may be delayed by procrastination, distraction, or lack of commitment."
+        },
+        "past": {
+          "general": "In the past, reversed Page of Pentacles suggests that a practical beginning that may be delayed by procrastination, distraction, or lack of commitment may have influenced the path behind you.",
+          "love": "In the past, reversed Page of Pentacles suggests that a practical beginning that may be delayed by procrastination, distraction, or lack of commitment may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Page of Pentacles suggests that a practical beginning that may be delayed by procrastination, distraction, or lack of commitment may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Page of Pentacles suggests that a practical beginning that may be delayed by procrastination, distraction, or lack of commitment may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Page of Pentacles suggests that a practical beginning that may be delayed by procrastination, distraction, or lack of commitment may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Page of Pentacles highlights a practical beginning that may be delayed by procrastination, distraction, or lack of commitment.",
+          "love": "In the present, reversed Page of Pentacles highlights a practical beginning that may be delayed by procrastination, distraction, or lack of commitment within the emotional field.",
+          "career": "In the present, reversed Page of Pentacles highlights a practical beginning that may be delayed by procrastination, distraction, or lack of commitment in your work or ambitions.",
+          "money": "In the present, reversed Page of Pentacles highlights a practical beginning that may be delayed by procrastination, distraction, or lack of commitment in practical or financial choices.",
+          "growth": "In the present, reversed Page of Pentacles highlights a practical beginning that may be delayed by procrastination, distraction, or lack of commitment as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Page of Pentacles suggests that a practical beginning that may be delayed by procrastination, distraction, or lack of commitment may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Page of Pentacles suggests that a practical beginning that may be delayed by procrastination, distraction, or lack of commitment may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Page of Pentacles suggests that a practical beginning that may be delayed by procrastination, distraction, or lack of commitment may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Page of Pentacles suggests that a practical beginning that may be delayed by procrastination, distraction, or lack of commitment may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Page of Pentacles suggests that a practical beginning that may be delayed by procrastination, distraction, or lack of commitment may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might procrastination be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might procrastination be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might procrastination be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does procrastination reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can procrastination teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1306,6 +2472,112 @@
         "What can reliability teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "stagnation",
+        "stubbornness",
+        "boredom",
+        "overcaution",
+        "slow progress"
+      ],
+      "tags": [
+        "stagnation",
+        "stubbornness",
+        "boredom",
+        "overcaution",
+        "slow_progress"
+      ],
+      "toneTags": [
+        "slow",
+        "stubborn",
+        "grounded"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Knight of Pentacles points to stability that may have become stagnation, overcaution, or resistance to needed movement.",
+          "advice": "Keep the reliability, but let the path breathe and adapt."
+        },
+        "love": {
+          "summary": "In love, reversed Knight of Pentacles can show stability that may have become stagnation, overcaution, or resistance to needed movement affecting trust, closeness, or emotional timing.",
+          "advice": "Keep the reliability, but let the path breathe and adapt."
+        },
+        "career": {
+          "summary": "In career, reversed Knight of Pentacles can suggest stability that may have become stagnation, overcaution, or resistance to needed movement shaping work, direction, or collaboration.",
+          "advice": "Keep the reliability, but let the path breathe and adapt."
+        },
+        "money": {
+          "summary": "In money matters, reversed Knight of Pentacles can reveal stability that may have become stagnation, overcaution, or resistance to needed movement around resources, security, or practical choices.",
+          "advice": "Keep the reliability, but let the path breathe and adapt."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Knight of Pentacles turns the lesson inward: stability that may have become stagnation, overcaution, or resistance to needed movement.",
+          "advice": "Keep the reliability, but let the path breathe and adapt."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Keep the reliability, but let the path breathe and adapt.",
+          "love": "Keep the reliability, but let the path breathe and adapt.",
+          "career": "Keep the reliability, but let the path breathe and adapt.",
+          "money": "Keep the reliability, but let the path breathe and adapt.",
+          "growth": "Keep the reliability, but let the path breathe and adapt."
+        },
+        "situation": {
+          "general": "The situation may be shaped by stability that may have become stagnation, overcaution, or resistance to needed movement.",
+          "love": "The situation may be shaped by stability that may have become stagnation, overcaution, or resistance to needed movement.",
+          "career": "The situation may be shaped by stability that may have become stagnation, overcaution, or resistance to needed movement.",
+          "money": "The situation may be shaped by stability that may have become stagnation, overcaution, or resistance to needed movement.",
+          "growth": "The situation may be shaped by stability that may have become stagnation, overcaution, or resistance to needed movement."
+        },
+        "past": {
+          "general": "In the past, reversed Knight of Pentacles suggests that stability that may have become stagnation, overcaution, or resistance to needed movement may have influenced the path behind you.",
+          "love": "In the past, reversed Knight of Pentacles suggests that stability that may have become stagnation, overcaution, or resistance to needed movement may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Knight of Pentacles suggests that stability that may have become stagnation, overcaution, or resistance to needed movement may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Knight of Pentacles suggests that stability that may have become stagnation, overcaution, or resistance to needed movement may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Knight of Pentacles suggests that stability that may have become stagnation, overcaution, or resistance to needed movement may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Knight of Pentacles highlights stability that may have become stagnation, overcaution, or resistance to needed movement.",
+          "love": "In the present, reversed Knight of Pentacles highlights stability that may have become stagnation, overcaution, or resistance to needed movement within the emotional field.",
+          "career": "In the present, reversed Knight of Pentacles highlights stability that may have become stagnation, overcaution, or resistance to needed movement in your work or ambitions.",
+          "money": "In the present, reversed Knight of Pentacles highlights stability that may have become stagnation, overcaution, or resistance to needed movement in practical or financial choices.",
+          "growth": "In the present, reversed Knight of Pentacles highlights stability that may have become stagnation, overcaution, or resistance to needed movement as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Knight of Pentacles suggests that stability that may have become stagnation, overcaution, or resistance to needed movement may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Knight of Pentacles suggests that stability that may have become stagnation, overcaution, or resistance to needed movement may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Knight of Pentacles suggests that stability that may have become stagnation, overcaution, or resistance to needed movement may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Knight of Pentacles suggests that stability that may have become stagnation, overcaution, or resistance to needed movement may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Knight of Pentacles suggests that stability that may have become stagnation, overcaution, or resistance to needed movement may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might stagnation be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might stagnation be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might stagnation be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does stagnation reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can stagnation teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1415,6 +2687,112 @@
         "What can nurturing teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "self-neglect",
+        "work-home imbalance",
+        "overgiving",
+        "material insecurity",
+        "caregiver fatigue"
+      ],
+      "tags": [
+        "self_neglect",
+        "work_home_imbalance",
+        "overgiving",
+        "material_insecurity",
+        "caregiver_fatigue"
+      ],
+      "toneTags": [
+        "warm",
+        "tired",
+        "restorative"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Queen of Pentacles points to practical care that may be depleted, imbalanced, or withheld from yourself.",
+          "advice": "Include yourself in the circle of care you so naturally create for others."
+        },
+        "love": {
+          "summary": "In love, reversed Queen of Pentacles can show practical care that may be depleted, imbalanced, or withheld from yourself affecting trust, closeness, or emotional timing.",
+          "advice": "Include yourself in the circle of care you so naturally create for others."
+        },
+        "career": {
+          "summary": "In career, reversed Queen of Pentacles can suggest practical care that may be depleted, imbalanced, or withheld from yourself shaping work, direction, or collaboration.",
+          "advice": "Reduce the load before effort turns into depletion."
+        },
+        "money": {
+          "summary": "In money matters, reversed Queen of Pentacles can reveal practical care that may be depleted, imbalanced, or withheld from yourself around resources, security, or practical choices.",
+          "advice": "Return to clear numbers, small steady choices, and support that reduces fear."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Queen of Pentacles turns the lesson inward: practical care that may be depleted, imbalanced, or withheld from yourself.",
+          "advice": "Include yourself in the circle of care you so naturally create for others."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Include yourself in the circle of care you so naturally create for others.",
+          "love": "Include yourself in the circle of care you so naturally create for others.",
+          "career": "Reduce the load before effort turns into depletion.",
+          "money": "Return to clear numbers, small steady choices, and support that reduces fear.",
+          "growth": "Include yourself in the circle of care you so naturally create for others."
+        },
+        "situation": {
+          "general": "The situation may be shaped by practical care that may be depleted, imbalanced, or withheld from yourself.",
+          "love": "The situation may be shaped by practical care that may be depleted, imbalanced, or withheld from yourself.",
+          "career": "The situation may be shaped by practical care that may be depleted, imbalanced, or withheld from yourself.",
+          "money": "The situation may be shaped by practical care that may be depleted, imbalanced, or withheld from yourself.",
+          "growth": "The situation may be shaped by practical care that may be depleted, imbalanced, or withheld from yourself."
+        },
+        "past": {
+          "general": "In the past, reversed Queen of Pentacles suggests that practical care that may be depleted, imbalanced, or withheld from yourself may have influenced the path behind you.",
+          "love": "In the past, reversed Queen of Pentacles suggests that practical care that may be depleted, imbalanced, or withheld from yourself may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Queen of Pentacles suggests that practical care that may be depleted, imbalanced, or withheld from yourself may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Queen of Pentacles suggests that practical care that may be depleted, imbalanced, or withheld from yourself may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Queen of Pentacles suggests that practical care that may be depleted, imbalanced, or withheld from yourself may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Queen of Pentacles highlights practical care that may be depleted, imbalanced, or withheld from yourself.",
+          "love": "In the present, reversed Queen of Pentacles highlights practical care that may be depleted, imbalanced, or withheld from yourself within the emotional field.",
+          "career": "In the present, reversed Queen of Pentacles highlights practical care that may be depleted, imbalanced, or withheld from yourself in your work or ambitions.",
+          "money": "In the present, reversed Queen of Pentacles highlights practical care that may be depleted, imbalanced, or withheld from yourself in practical or financial choices.",
+          "growth": "In the present, reversed Queen of Pentacles highlights practical care that may be depleted, imbalanced, or withheld from yourself as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Queen of Pentacles suggests that practical care that may be depleted, imbalanced, or withheld from yourself may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Queen of Pentacles suggests that practical care that may be depleted, imbalanced, or withheld from yourself may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Queen of Pentacles suggests that practical care that may be depleted, imbalanced, or withheld from yourself may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Queen of Pentacles suggests that practical care that may be depleted, imbalanced, or withheld from yourself may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Queen of Pentacles suggests that practical care that may be depleted, imbalanced, or withheld from yourself may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might self-neglect be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might self-neglect be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might self-neglect be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does self-neglect reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can self-neglect teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1524,6 +2902,112 @@
         "What can security teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "greed",
+        "rigidity",
+        "materialism",
+        "poor stewardship",
+        "status pressure"
+      ],
+      "tags": [
+        "greed",
+        "rigidity",
+        "materialism",
+        "poor_stewardship",
+        "status_pressure"
+      ],
+      "toneTags": [
+        "earthy",
+        "serious",
+        "corrective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, King of Pentacles points to stability or leadership that may be distorted by control, status, greed, or fear of loss.",
+          "advice": "Let success become stewardship, not possession."
+        },
+        "love": {
+          "summary": "In love, reversed King of Pentacles can show stability or leadership that may be distorted by control, status, greed, or fear of loss affecting trust, closeness, or emotional timing.",
+          "advice": "Let success become stewardship, not possession."
+        },
+        "career": {
+          "summary": "In career, reversed King of Pentacles can suggest stability or leadership that may be distorted by control, status, greed, or fear of loss shaping work, direction, or collaboration.",
+          "advice": "Let success become stewardship, not possession."
+        },
+        "money": {
+          "summary": "In money matters, reversed King of Pentacles can reveal stability or leadership that may be distorted by control, status, greed, or fear of loss around resources, security, or practical choices.",
+          "advice": "Slow the impulse and choose what protects long-term stability."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed King of Pentacles turns the lesson inward: stability or leadership that may be distorted by control, status, greed, or fear of loss.",
+          "advice": "Let success become stewardship, not possession."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let success become stewardship, not possession.",
+          "love": "Let success become stewardship, not possession.",
+          "career": "Let success become stewardship, not possession.",
+          "money": "Slow the impulse and choose what protects long-term stability.",
+          "growth": "Let success become stewardship, not possession."
+        },
+        "situation": {
+          "general": "The situation may be shaped by stability or leadership that may be distorted by control, status, greed, or fear of loss.",
+          "love": "The situation may be shaped by stability or leadership that may be distorted by control, status, greed, or fear of loss.",
+          "career": "The situation may be shaped by stability or leadership that may be distorted by control, status, greed, or fear of loss.",
+          "money": "The situation may be shaped by stability or leadership that may be distorted by control, status, greed, or fear of loss.",
+          "growth": "The situation may be shaped by stability or leadership that may be distorted by control, status, greed, or fear of loss."
+        },
+        "past": {
+          "general": "In the past, reversed King of Pentacles suggests that stability or leadership that may be distorted by control, status, greed, or fear of loss may have influenced the path behind you.",
+          "love": "In the past, reversed King of Pentacles suggests that stability or leadership that may be distorted by control, status, greed, or fear of loss may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed King of Pentacles suggests that stability or leadership that may be distorted by control, status, greed, or fear of loss may have affected your work rhythm or choices.",
+          "money": "In the past, reversed King of Pentacles suggests that stability or leadership that may be distorted by control, status, greed, or fear of loss may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed King of Pentacles suggests that stability or leadership that may be distorted by control, status, greed, or fear of loss may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed King of Pentacles highlights stability or leadership that may be distorted by control, status, greed, or fear of loss.",
+          "love": "In the present, reversed King of Pentacles highlights stability or leadership that may be distorted by control, status, greed, or fear of loss within the emotional field.",
+          "career": "In the present, reversed King of Pentacles highlights stability or leadership that may be distorted by control, status, greed, or fear of loss in your work or ambitions.",
+          "money": "In the present, reversed King of Pentacles highlights stability or leadership that may be distorted by control, status, greed, or fear of loss in practical or financial choices.",
+          "growth": "In the present, reversed King of Pentacles highlights stability or leadership that may be distorted by control, status, greed, or fear of loss as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed King of Pentacles suggests that stability or leadership that may be distorted by control, status, greed, or fear of loss may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed King of Pentacles suggests that stability or leadership that may be distorted by control, status, greed, or fear of loss may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed King of Pentacles suggests that stability or leadership that may be distorted by control, status, greed, or fear of loss may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed King of Pentacles suggests that stability or leadership that may be distorted by control, status, greed, or fear of loss may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed King of Pentacles suggests that stability or leadership that may be distorted by control, status, greed, or fear of loss may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might greed be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might greed be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might greed be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does greed reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can greed teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   }
 ]

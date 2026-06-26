@@ -106,6 +106,112 @@
         "What can new love teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "blocked emotion",
+        "emotional overwhelm",
+        "self-love needed",
+        "creative dryness",
+        "guarded heart"
+      ],
+      "tags": [
+        "blocked_emotion",
+        "emotional_overwhelm",
+        "self_love_needed",
+        "creative_dryness",
+        "guarded_heart"
+      ],
+      "toneTags": [
+        "tender",
+        "soft",
+        "restorative"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Ace of Cups points to emotion that wants to flow but may be blocked, overwhelming, or difficult to receive.",
+          "advice": "Begin with self-compassion before asking the heart to open wider."
+        },
+        "love": {
+          "summary": "In love, reversed Ace of Cups can show emotion that wants to flow but may be blocked, overwhelming, or difficult to receive affecting trust, closeness, or emotional timing.",
+          "advice": "Let boundaries and tenderness work together, so love does not become self-abandonment."
+        },
+        "career": {
+          "summary": "In career, reversed Ace of Cups can suggest emotion that wants to flow but may be blocked, overwhelming, or difficult to receive shaping work, direction, or collaboration.",
+          "advice": "Begin with self-compassion before asking the heart to open wider."
+        },
+        "money": {
+          "summary": "In money matters, reversed Ace of Cups can reveal emotion that wants to flow but may be blocked, overwhelming, or difficult to receive around resources, security, or practical choices.",
+          "advice": "Begin with self-compassion before asking the heart to open wider."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Ace of Cups turns the lesson inward: emotion that wants to flow but may be blocked, overwhelming, or difficult to receive.",
+          "advice": "Begin with self-compassion before asking the heart to open wider."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Begin with self-compassion before asking the heart to open wider.",
+          "love": "Let boundaries and tenderness work together, so love does not become self-abandonment.",
+          "career": "Begin with self-compassion before asking the heart to open wider.",
+          "money": "Begin with self-compassion before asking the heart to open wider.",
+          "growth": "Begin with self-compassion before asking the heart to open wider."
+        },
+        "situation": {
+          "general": "The situation may be shaped by emotion that wants to flow but may be blocked, overwhelming, or difficult to receive.",
+          "love": "The situation may be shaped by emotion that wants to flow but may be blocked, overwhelming, or difficult to receive.",
+          "career": "The situation may be shaped by emotion that wants to flow but may be blocked, overwhelming, or difficult to receive.",
+          "money": "The situation may be shaped by emotion that wants to flow but may be blocked, overwhelming, or difficult to receive.",
+          "growth": "The situation may be shaped by emotion that wants to flow but may be blocked, overwhelming, or difficult to receive."
+        },
+        "past": {
+          "general": "In the past, reversed Ace of Cups suggests that emotion that wants to flow but may be blocked, overwhelming, or difficult to receive may have influenced the path behind you.",
+          "love": "In the past, reversed Ace of Cups suggests that emotion that wants to flow but may be blocked, overwhelming, or difficult to receive may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Ace of Cups suggests that emotion that wants to flow but may be blocked, overwhelming, or difficult to receive may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Ace of Cups suggests that emotion that wants to flow but may be blocked, overwhelming, or difficult to receive may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Ace of Cups suggests that emotion that wants to flow but may be blocked, overwhelming, or difficult to receive may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Ace of Cups highlights emotion that wants to flow but may be blocked, overwhelming, or difficult to receive.",
+          "love": "In the present, reversed Ace of Cups highlights emotion that wants to flow but may be blocked, overwhelming, or difficult to receive within the emotional field.",
+          "career": "In the present, reversed Ace of Cups highlights emotion that wants to flow but may be blocked, overwhelming, or difficult to receive in your work or ambitions.",
+          "money": "In the present, reversed Ace of Cups highlights emotion that wants to flow but may be blocked, overwhelming, or difficult to receive in practical or financial choices.",
+          "growth": "In the present, reversed Ace of Cups highlights emotion that wants to flow but may be blocked, overwhelming, or difficult to receive as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Ace of Cups suggests that emotion that wants to flow but may be blocked, overwhelming, or difficult to receive may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Ace of Cups suggests that emotion that wants to flow but may be blocked, overwhelming, or difficult to receive may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Ace of Cups suggests that emotion that wants to flow but may be blocked, overwhelming, or difficult to receive may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Ace of Cups suggests that emotion that wants to flow but may be blocked, overwhelming, or difficult to receive may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Ace of Cups suggests that emotion that wants to flow but may be blocked, overwhelming, or difficult to receive may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might blocked emotion be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might blocked emotion be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might blocked emotion be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does blocked emotion reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can blocked emotion teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -215,6 +321,112 @@
         "What can partnership teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "imbalance",
+        "disconnection",
+        "unspoken tension",
+        "one-sidedness",
+        "disharmony"
+      ],
+      "tags": [
+        "imbalance",
+        "disconnection",
+        "unspoken_tension",
+        "one_sidedness",
+        "disharmony"
+      ],
+      "toneTags": [
+        "relational",
+        "honest",
+        "tender"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Two of Cups points to a connection that may need repair, clearer reciprocity, or honest emotional exchange.",
+          "advice": "Look for mutuality; love cannot be balanced by one person alone."
+        },
+        "love": {
+          "summary": "In love, reversed Two of Cups can show a connection that may need repair, clearer reciprocity, or honest emotional exchange affecting trust, closeness, or emotional timing.",
+          "advice": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony."
+        },
+        "career": {
+          "summary": "In career, reversed Two of Cups can suggest a connection that may need repair, clearer reciprocity, or honest emotional exchange shaping work, direction, or collaboration.",
+          "advice": "Look for mutuality; love cannot be balanced by one person alone."
+        },
+        "money": {
+          "summary": "In money matters, reversed Two of Cups can reveal a connection that may need repair, clearer reciprocity, or honest emotional exchange around resources, security, or practical choices.",
+          "advice": "Look for mutuality; love cannot be balanced by one person alone."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Two of Cups turns the lesson inward: a connection that may need repair, clearer reciprocity, or honest emotional exchange.",
+          "advice": "Look for mutuality; love cannot be balanced by one person alone."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Look for mutuality; love cannot be balanced by one person alone.",
+          "love": "Look for reciprocity, honest choice, and emotional safety before trying to force harmony.",
+          "career": "Look for mutuality; love cannot be balanced by one person alone.",
+          "money": "Look for mutuality; love cannot be balanced by one person alone.",
+          "growth": "Look for mutuality; love cannot be balanced by one person alone."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a connection that may need repair, clearer reciprocity, or honest emotional exchange.",
+          "love": "The situation may be shaped by a connection that may need repair, clearer reciprocity, or honest emotional exchange.",
+          "career": "The situation may be shaped by a connection that may need repair, clearer reciprocity, or honest emotional exchange.",
+          "money": "The situation may be shaped by a connection that may need repair, clearer reciprocity, or honest emotional exchange.",
+          "growth": "The situation may be shaped by a connection that may need repair, clearer reciprocity, or honest emotional exchange."
+        },
+        "past": {
+          "general": "In the past, reversed Two of Cups suggests that a connection that may need repair, clearer reciprocity, or honest emotional exchange may have influenced the path behind you.",
+          "love": "In the past, reversed Two of Cups suggests that a connection that may need repair, clearer reciprocity, or honest emotional exchange may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Two of Cups suggests that a connection that may need repair, clearer reciprocity, or honest emotional exchange may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Two of Cups suggests that a connection that may need repair, clearer reciprocity, or honest emotional exchange may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Two of Cups suggests that a connection that may need repair, clearer reciprocity, or honest emotional exchange may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Two of Cups highlights a connection that may need repair, clearer reciprocity, or honest emotional exchange.",
+          "love": "In the present, reversed Two of Cups highlights a connection that may need repair, clearer reciprocity, or honest emotional exchange within the emotional field.",
+          "career": "In the present, reversed Two of Cups highlights a connection that may need repair, clearer reciprocity, or honest emotional exchange in your work or ambitions.",
+          "money": "In the present, reversed Two of Cups highlights a connection that may need repair, clearer reciprocity, or honest emotional exchange in practical or financial choices.",
+          "growth": "In the present, reversed Two of Cups highlights a connection that may need repair, clearer reciprocity, or honest emotional exchange as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Two of Cups suggests that a connection that may need repair, clearer reciprocity, or honest emotional exchange may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Two of Cups suggests that a connection that may need repair, clearer reciprocity, or honest emotional exchange may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Two of Cups suggests that a connection that may need repair, clearer reciprocity, or honest emotional exchange may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Two of Cups suggests that a connection that may need repair, clearer reciprocity, or honest emotional exchange may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Two of Cups suggests that a connection that may need repair, clearer reciprocity, or honest emotional exchange may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might imbalance be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might imbalance be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might imbalance be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does imbalance reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can imbalance teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -324,6 +536,112 @@
         "What can friendship teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "social strain",
+        "exclusion",
+        "overindulgence",
+        "gossip",
+        "loneliness in groups"
+      ],
+      "tags": [
+        "social_strain",
+        "exclusion",
+        "overindulgence",
+        "gossip",
+        "loneliness"
+      ],
+      "toneTags": [
+        "social",
+        "cautionary",
+        "gentle"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Three of Cups points to community energy that may feel strained, excessive, or less supportive than it appears.",
+          "advice": "Choose the circles where joy feels safe, sincere, and mutual."
+        },
+        "love": {
+          "summary": "In love, reversed Three of Cups can show community energy that may feel strained, excessive, or less supportive than it appears affecting trust, closeness, or emotional timing.",
+          "advice": "Choose the circles where joy feels safe, sincere, and mutual."
+        },
+        "career": {
+          "summary": "In career, reversed Three of Cups can suggest community energy that may feel strained, excessive, or less supportive than it appears shaping work, direction, or collaboration.",
+          "advice": "Choose the circles where joy feels safe, sincere, and mutual."
+        },
+        "money": {
+          "summary": "In money matters, reversed Three of Cups can reveal community energy that may feel strained, excessive, or less supportive than it appears around resources, security, or practical choices.",
+          "advice": "Slow the impulse and choose what protects long-term stability."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Three of Cups turns the lesson inward: community energy that may feel strained, excessive, or less supportive than it appears.",
+          "advice": "Choose the circles where joy feels safe, sincere, and mutual."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Choose the circles where joy feels safe, sincere, and mutual.",
+          "love": "Choose the circles where joy feels safe, sincere, and mutual.",
+          "career": "Choose the circles where joy feels safe, sincere, and mutual.",
+          "money": "Slow the impulse and choose what protects long-term stability.",
+          "growth": "Choose the circles where joy feels safe, sincere, and mutual."
+        },
+        "situation": {
+          "general": "The situation may be shaped by community energy that may feel strained, excessive, or less supportive than it appears.",
+          "love": "The situation may be shaped by community energy that may feel strained, excessive, or less supportive than it appears.",
+          "career": "The situation may be shaped by community energy that may feel strained, excessive, or less supportive than it appears.",
+          "money": "The situation may be shaped by community energy that may feel strained, excessive, or less supportive than it appears.",
+          "growth": "The situation may be shaped by community energy that may feel strained, excessive, or less supportive than it appears."
+        },
+        "past": {
+          "general": "In the past, reversed Three of Cups suggests that community energy that may feel strained, excessive, or less supportive than it appears may have influenced the path behind you.",
+          "love": "In the past, reversed Three of Cups suggests that community energy that may feel strained, excessive, or less supportive than it appears may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Three of Cups suggests that community energy that may feel strained, excessive, or less supportive than it appears may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Three of Cups suggests that community energy that may feel strained, excessive, or less supportive than it appears may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Three of Cups suggests that community energy that may feel strained, excessive, or less supportive than it appears may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Three of Cups highlights community energy that may feel strained, excessive, or less supportive than it appears.",
+          "love": "In the present, reversed Three of Cups highlights community energy that may feel strained, excessive, or less supportive than it appears within the emotional field.",
+          "career": "In the present, reversed Three of Cups highlights community energy that may feel strained, excessive, or less supportive than it appears in your work or ambitions.",
+          "money": "In the present, reversed Three of Cups highlights community energy that may feel strained, excessive, or less supportive than it appears in practical or financial choices.",
+          "growth": "In the present, reversed Three of Cups highlights community energy that may feel strained, excessive, or less supportive than it appears as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Three of Cups suggests that community energy that may feel strained, excessive, or less supportive than it appears may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Three of Cups suggests that community energy that may feel strained, excessive, or less supportive than it appears may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Three of Cups suggests that community energy that may feel strained, excessive, or less supportive than it appears may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Three of Cups suggests that community energy that may feel strained, excessive, or less supportive than it appears may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Three of Cups suggests that community energy that may feel strained, excessive, or less supportive than it appears may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might social strain be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might social strain be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might social strain be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does social strain reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can social strain teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -433,6 +751,112 @@
         "What can apathy teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "emotional reawakening",
+        "missed opportunity",
+        "stagnation",
+        "withdrawal",
+        "new interest"
+      ],
+      "tags": [
+        "emotional_reawakening",
+        "missed_opportunity",
+        "stagnation",
+        "withdrawal",
+        "new_interest"
+      ],
+      "toneTags": [
+        "quiet",
+        "awakening",
+        "reflective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Four of Cups points to a closed emotional state beginning to shift, or an offer that may be missed through numbness.",
+          "advice": "Notice what is being offered now, especially if boredom has become a shield."
+        },
+        "love": {
+          "summary": "In love, reversed Four of Cups can show a closed emotional state beginning to shift, or an offer that may be missed through numbness affecting trust, closeness, or emotional timing.",
+          "advice": "Notice what is being offered now, especially if boredom has become a shield."
+        },
+        "career": {
+          "summary": "In career, reversed Four of Cups can suggest a closed emotional state beginning to shift, or an offer that may be missed through numbness shaping work, direction, or collaboration.",
+          "advice": "Notice what is being offered now, especially if boredom has become a shield."
+        },
+        "money": {
+          "summary": "In money matters, reversed Four of Cups can reveal a closed emotional state beginning to shift, or an offer that may be missed through numbness around resources, security, or practical choices.",
+          "advice": "Review the foundation before committing more resources."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Four of Cups turns the lesson inward: a closed emotional state beginning to shift, or an offer that may be missed through numbness.",
+          "advice": "Notice what is being offered now, especially if boredom has become a shield."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Notice what is being offered now, especially if boredom has become a shield.",
+          "love": "Notice what is being offered now, especially if boredom has become a shield.",
+          "career": "Notice what is being offered now, especially if boredom has become a shield.",
+          "money": "Review the foundation before committing more resources.",
+          "growth": "Notice what is being offered now, especially if boredom has become a shield."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a closed emotional state beginning to shift, or an offer that may be missed through numbness.",
+          "love": "The situation may be shaped by a closed emotional state beginning to shift, or an offer that may be missed through numbness.",
+          "career": "The situation may be shaped by a closed emotional state beginning to shift, or an offer that may be missed through numbness.",
+          "money": "The situation may be shaped by a closed emotional state beginning to shift, or an offer that may be missed through numbness.",
+          "growth": "The situation may be shaped by a closed emotional state beginning to shift, or an offer that may be missed through numbness."
+        },
+        "past": {
+          "general": "In the past, reversed Four of Cups suggests that a closed emotional state beginning to shift, or an offer that may be missed through numbness may have influenced the path behind you.",
+          "love": "In the past, reversed Four of Cups suggests that a closed emotional state beginning to shift, or an offer that may be missed through numbness may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Four of Cups suggests that a closed emotional state beginning to shift, or an offer that may be missed through numbness may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Four of Cups suggests that a closed emotional state beginning to shift, or an offer that may be missed through numbness may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Four of Cups suggests that a closed emotional state beginning to shift, or an offer that may be missed through numbness may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Four of Cups highlights a closed emotional state beginning to shift, or an offer that may be missed through numbness.",
+          "love": "In the present, reversed Four of Cups highlights a closed emotional state beginning to shift, or an offer that may be missed through numbness within the emotional field.",
+          "career": "In the present, reversed Four of Cups highlights a closed emotional state beginning to shift, or an offer that may be missed through numbness in your work or ambitions.",
+          "money": "In the present, reversed Four of Cups highlights a closed emotional state beginning to shift, or an offer that may be missed through numbness in practical or financial choices.",
+          "growth": "In the present, reversed Four of Cups highlights a closed emotional state beginning to shift, or an offer that may be missed through numbness as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Four of Cups suggests that a closed emotional state beginning to shift, or an offer that may be missed through numbness may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Four of Cups suggests that a closed emotional state beginning to shift, or an offer that may be missed through numbness may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Four of Cups suggests that a closed emotional state beginning to shift, or an offer that may be missed through numbness may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Four of Cups suggests that a closed emotional state beginning to shift, or an offer that may be missed through numbness may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Four of Cups suggests that a closed emotional state beginning to shift, or an offer that may be missed through numbness may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might emotional reawakening be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might emotional reawakening be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might emotional reawakening be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does emotional reawakening reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can emotional reawakening teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -542,6 +966,112 @@
         "What can loss teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "acceptance",
+        "forgiveness",
+        "moving on",
+        "healing grief",
+        "seeing what remains"
+      ],
+      "tags": [
+        "acceptance",
+        "forgiveness",
+        "moving_on",
+        "healing_grief",
+        "perspective_returning"
+      ],
+      "toneTags": [
+        "healing",
+        "tender",
+        "hopeful"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Five of Cups points to grief or regret beginning to soften as attention returns to what still remains.",
+          "advice": "Let healing include memory without letting memory become the whole room."
+        },
+        "love": {
+          "summary": "In love, reversed Five of Cups can show grief or regret beginning to soften as attention returns to what still remains affecting trust, closeness, or emotional timing.",
+          "advice": "Let healing include memory without letting memory become the whole room."
+        },
+        "career": {
+          "summary": "In career, reversed Five of Cups can suggest grief or regret beginning to soften as attention returns to what still remains shaping work, direction, or collaboration.",
+          "advice": "Let healing include memory without letting memory become the whole room."
+        },
+        "money": {
+          "summary": "In money matters, reversed Five of Cups can reveal grief or regret beginning to soften as attention returns to what still remains around resources, security, or practical choices.",
+          "advice": "Let healing include memory without letting memory become the whole room."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Five of Cups turns the lesson inward: grief or regret beginning to soften as attention returns to what still remains.",
+          "advice": "Let healing include memory without letting memory become the whole room."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let healing include memory without letting memory become the whole room.",
+          "love": "Let healing include memory without letting memory become the whole room.",
+          "career": "Let healing include memory without letting memory become the whole room.",
+          "money": "Let healing include memory without letting memory become the whole room.",
+          "growth": "Let healing include memory without letting memory become the whole room."
+        },
+        "situation": {
+          "general": "The situation may be shaped by grief or regret beginning to soften as attention returns to what still remains.",
+          "love": "The situation may be shaped by grief or regret beginning to soften as attention returns to what still remains.",
+          "career": "The situation may be shaped by grief or regret beginning to soften as attention returns to what still remains.",
+          "money": "The situation may be shaped by grief or regret beginning to soften as attention returns to what still remains.",
+          "growth": "The situation may be shaped by grief or regret beginning to soften as attention returns to what still remains."
+        },
+        "past": {
+          "general": "In the past, reversed Five of Cups suggests that grief or regret beginning to soften as attention returns to what still remains may have influenced the path behind you.",
+          "love": "In the past, reversed Five of Cups suggests that grief or regret beginning to soften as attention returns to what still remains may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Five of Cups suggests that grief or regret beginning to soften as attention returns to what still remains may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Five of Cups suggests that grief or regret beginning to soften as attention returns to what still remains may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Five of Cups suggests that grief or regret beginning to soften as attention returns to what still remains may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Five of Cups highlights grief or regret beginning to soften as attention returns to what still remains.",
+          "love": "In the present, reversed Five of Cups highlights grief or regret beginning to soften as attention returns to what still remains within the emotional field.",
+          "career": "In the present, reversed Five of Cups highlights grief or regret beginning to soften as attention returns to what still remains in your work or ambitions.",
+          "money": "In the present, reversed Five of Cups highlights grief or regret beginning to soften as attention returns to what still remains in practical or financial choices.",
+          "growth": "In the present, reversed Five of Cups highlights grief or regret beginning to soften as attention returns to what still remains as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Five of Cups suggests that grief or regret beginning to soften as attention returns to what still remains may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Five of Cups suggests that grief or regret beginning to soften as attention returns to what still remains may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Five of Cups suggests that grief or regret beginning to soften as attention returns to what still remains may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Five of Cups suggests that grief or regret beginning to soften as attention returns to what still remains may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Five of Cups suggests that grief or regret beginning to soften as attention returns to what still remains may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might acceptance be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might acceptance be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might acceptance be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does acceptance reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can acceptance teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -651,6 +1181,112 @@
         "What can nostalgia teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "stuck in the past",
+        "idealization",
+        "childhood patterns",
+        "nostalgia trap",
+        "growing up"
+      ],
+      "tags": [
+        "stuck_in_past",
+        "idealization",
+        "childhood_patterns",
+        "nostalgia_trap",
+        "growing_up"
+      ],
+      "toneTags": [
+        "wistful",
+        "honest",
+        "maturing"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Six of Cups points to memory that may be idealized, repeated, or keeping the present smaller than it needs to be.",
+          "advice": "Take the sweetness of the past, but do not let it make decisions for today."
+        },
+        "love": {
+          "summary": "In love, reversed Six of Cups can show memory that may be idealized, repeated, or keeping the present smaller than it needs to be affecting trust, closeness, or emotional timing.",
+          "advice": "Take the sweetness of the past, but do not let it make decisions for today."
+        },
+        "career": {
+          "summary": "In career, reversed Six of Cups can suggest memory that may be idealized, repeated, or keeping the present smaller than it needs to be shaping work, direction, or collaboration.",
+          "advice": "Take the sweetness of the past, but do not let it make decisions for today."
+        },
+        "money": {
+          "summary": "In money matters, reversed Six of Cups can reveal memory that may be idealized, repeated, or keeping the present smaller than it needs to be around resources, security, or practical choices.",
+          "advice": "Take the sweetness of the past, but do not let it make decisions for today."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Six of Cups turns the lesson inward: memory that may be idealized, repeated, or keeping the present smaller than it needs to be.",
+          "advice": "Take the sweetness of the past, but do not let it make decisions for today."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Take the sweetness of the past, but do not let it make decisions for today.",
+          "love": "Take the sweetness of the past, but do not let it make decisions for today.",
+          "career": "Take the sweetness of the past, but do not let it make decisions for today.",
+          "money": "Take the sweetness of the past, but do not let it make decisions for today.",
+          "growth": "Take the sweetness of the past, but do not let it make decisions for today."
+        },
+        "situation": {
+          "general": "The situation may be shaped by memory that may be idealized, repeated, or keeping the present smaller than it needs to be.",
+          "love": "The situation may be shaped by memory that may be idealized, repeated, or keeping the present smaller than it needs to be.",
+          "career": "The situation may be shaped by memory that may be idealized, repeated, or keeping the present smaller than it needs to be.",
+          "money": "The situation may be shaped by memory that may be idealized, repeated, or keeping the present smaller than it needs to be.",
+          "growth": "The situation may be shaped by memory that may be idealized, repeated, or keeping the present smaller than it needs to be."
+        },
+        "past": {
+          "general": "In the past, reversed Six of Cups suggests that memory that may be idealized, repeated, or keeping the present smaller than it needs to be may have influenced the path behind you.",
+          "love": "In the past, reversed Six of Cups suggests that memory that may be idealized, repeated, or keeping the present smaller than it needs to be may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Six of Cups suggests that memory that may be idealized, repeated, or keeping the present smaller than it needs to be may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Six of Cups suggests that memory that may be idealized, repeated, or keeping the present smaller than it needs to be may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Six of Cups suggests that memory that may be idealized, repeated, or keeping the present smaller than it needs to be may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Six of Cups highlights memory that may be idealized, repeated, or keeping the present smaller than it needs to be.",
+          "love": "In the present, reversed Six of Cups highlights memory that may be idealized, repeated, or keeping the present smaller than it needs to be within the emotional field.",
+          "career": "In the present, reversed Six of Cups highlights memory that may be idealized, repeated, or keeping the present smaller than it needs to be in your work or ambitions.",
+          "money": "In the present, reversed Six of Cups highlights memory that may be idealized, repeated, or keeping the present smaller than it needs to be in practical or financial choices.",
+          "growth": "In the present, reversed Six of Cups highlights memory that may be idealized, repeated, or keeping the present smaller than it needs to be as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Six of Cups suggests that memory that may be idealized, repeated, or keeping the present smaller than it needs to be may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Six of Cups suggests that memory that may be idealized, repeated, or keeping the present smaller than it needs to be may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Six of Cups suggests that memory that may be idealized, repeated, or keeping the present smaller than it needs to be may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Six of Cups suggests that memory that may be idealized, repeated, or keeping the present smaller than it needs to be may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Six of Cups suggests that memory that may be idealized, repeated, or keeping the present smaller than it needs to be may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might stuck in the past be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might stuck in the past be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might stuck in the past be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does stuck in the past reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can stuck in the past teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -760,6 +1396,112 @@
         "What can choices teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "clarity after confusion",
+        "illusion fading",
+        "overwhelm",
+        "poor choices",
+        "wishful thinking"
+      ],
+      "tags": [
+        "clarity_after_confusion",
+        "illusion_fading",
+        "overwhelm",
+        "poor_choices",
+        "wishful_thinking"
+      ],
+      "toneTags": [
+        "dreamy",
+        "clarifying",
+        "cautionary"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Seven of Cups points to fantasy or confusion beginning to clear, though discernment is still needed.",
+          "advice": "Choose the option that can be lived, not only imagined."
+        },
+        "love": {
+          "summary": "In love, reversed Seven of Cups can show fantasy or confusion beginning to clear, though discernment is still needed affecting trust, closeness, or emotional timing.",
+          "advice": "Let actions confirm the feeling before building the whole story around possibility."
+        },
+        "career": {
+          "summary": "In career, reversed Seven of Cups can suggest fantasy or confusion beginning to clear, though discernment is still needed shaping work, direction, or collaboration.",
+          "advice": "Choose the option that can be lived, not only imagined."
+        },
+        "money": {
+          "summary": "In money matters, reversed Seven of Cups can reveal fantasy or confusion beginning to clear, though discernment is still needed around resources, security, or practical choices.",
+          "advice": "Choose the option that can be lived, not only imagined."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Seven of Cups turns the lesson inward: fantasy or confusion beginning to clear, though discernment is still needed.",
+          "advice": "Choose the option that can be lived, not only imagined."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Choose the option that can be lived, not only imagined.",
+          "love": "Let actions confirm the feeling before building the whole story around possibility.",
+          "career": "Choose the option that can be lived, not only imagined.",
+          "money": "Choose the option that can be lived, not only imagined.",
+          "growth": "Choose the option that can be lived, not only imagined."
+        },
+        "situation": {
+          "general": "The situation may be shaped by fantasy or confusion beginning to clear, though discernment is still needed.",
+          "love": "The situation may be shaped by fantasy or confusion beginning to clear, though discernment is still needed.",
+          "career": "The situation may be shaped by fantasy or confusion beginning to clear, though discernment is still needed.",
+          "money": "The situation may be shaped by fantasy or confusion beginning to clear, though discernment is still needed.",
+          "growth": "The situation may be shaped by fantasy or confusion beginning to clear, though discernment is still needed."
+        },
+        "past": {
+          "general": "In the past, reversed Seven of Cups suggests that fantasy or confusion beginning to clear, though discernment is still needed may have influenced the path behind you.",
+          "love": "In the past, reversed Seven of Cups suggests that fantasy or confusion beginning to clear, though discernment is still needed may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Seven of Cups suggests that fantasy or confusion beginning to clear, though discernment is still needed may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Seven of Cups suggests that fantasy or confusion beginning to clear, though discernment is still needed may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Seven of Cups suggests that fantasy or confusion beginning to clear, though discernment is still needed may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Seven of Cups highlights fantasy or confusion beginning to clear, though discernment is still needed.",
+          "love": "In the present, reversed Seven of Cups highlights fantasy or confusion beginning to clear, though discernment is still needed within the emotional field.",
+          "career": "In the present, reversed Seven of Cups highlights fantasy or confusion beginning to clear, though discernment is still needed in your work or ambitions.",
+          "money": "In the present, reversed Seven of Cups highlights fantasy or confusion beginning to clear, though discernment is still needed in practical or financial choices.",
+          "growth": "In the present, reversed Seven of Cups highlights fantasy or confusion beginning to clear, though discernment is still needed as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Seven of Cups suggests that fantasy or confusion beginning to clear, though discernment is still needed may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Seven of Cups suggests that fantasy or confusion beginning to clear, though discernment is still needed may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Seven of Cups suggests that fantasy or confusion beginning to clear, though discernment is still needed may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Seven of Cups suggests that fantasy or confusion beginning to clear, though discernment is still needed may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Seven of Cups suggests that fantasy or confusion beginning to clear, though discernment is still needed may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might clarity after confusion be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might clarity after confusion be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might clarity after confusion be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does clarity after confusion reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can clarity after confusion teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -869,6 +1611,112 @@
         "What can departure teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "fear of leaving",
+        "returning",
+        "avoidance",
+        "staying too long",
+        "unfinished search"
+      ],
+      "tags": [
+        "fear_of_leaving",
+        "returning",
+        "avoidance",
+        "staying_too_long",
+        "unfinished_search"
+      ],
+      "toneTags": [
+        "melancholic",
+        "honest",
+        "brave"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Eight of Cups points to a departure being delayed, reconsidered, or avoided because the emotional truth is difficult.",
+          "advice": "Ask whether staying is devotion, fear, habit, or hope."
+        },
+        "love": {
+          "summary": "In love, reversed Eight of Cups can show a departure being delayed, reconsidered, or avoided because the emotional truth is difficult affecting trust, closeness, or emotional timing.",
+          "advice": "Ask whether staying is devotion, fear, habit, or hope."
+        },
+        "career": {
+          "summary": "In career, reversed Eight of Cups can suggest a departure being delayed, reconsidered, or avoided because the emotional truth is difficult shaping work, direction, or collaboration.",
+          "advice": "Ask whether staying is devotion, fear, habit, or hope."
+        },
+        "money": {
+          "summary": "In money matters, reversed Eight of Cups can reveal a departure being delayed, reconsidered, or avoided because the emotional truth is difficult around resources, security, or practical choices.",
+          "advice": "Ask whether staying is devotion, fear, habit, or hope."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Eight of Cups turns the lesson inward: a departure being delayed, reconsidered, or avoided because the emotional truth is difficult.",
+          "advice": "Ask whether staying is devotion, fear, habit, or hope."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Ask whether staying is devotion, fear, habit, or hope.",
+          "love": "Ask whether staying is devotion, fear, habit, or hope.",
+          "career": "Ask whether staying is devotion, fear, habit, or hope.",
+          "money": "Ask whether staying is devotion, fear, habit, or hope.",
+          "growth": "Ask whether staying is devotion, fear, habit, or hope."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a departure being delayed, reconsidered, or avoided because the emotional truth is difficult.",
+          "love": "The situation may be shaped by a departure being delayed, reconsidered, or avoided because the emotional truth is difficult.",
+          "career": "The situation may be shaped by a departure being delayed, reconsidered, or avoided because the emotional truth is difficult.",
+          "money": "The situation may be shaped by a departure being delayed, reconsidered, or avoided because the emotional truth is difficult.",
+          "growth": "The situation may be shaped by a departure being delayed, reconsidered, or avoided because the emotional truth is difficult."
+        },
+        "past": {
+          "general": "In the past, reversed Eight of Cups suggests that a departure being delayed, reconsidered, or avoided because the emotional truth is difficult may have influenced the path behind you.",
+          "love": "In the past, reversed Eight of Cups suggests that a departure being delayed, reconsidered, or avoided because the emotional truth is difficult may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Eight of Cups suggests that a departure being delayed, reconsidered, or avoided because the emotional truth is difficult may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Eight of Cups suggests that a departure being delayed, reconsidered, or avoided because the emotional truth is difficult may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Eight of Cups suggests that a departure being delayed, reconsidered, or avoided because the emotional truth is difficult may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Eight of Cups highlights a departure being delayed, reconsidered, or avoided because the emotional truth is difficult.",
+          "love": "In the present, reversed Eight of Cups highlights a departure being delayed, reconsidered, or avoided because the emotional truth is difficult within the emotional field.",
+          "career": "In the present, reversed Eight of Cups highlights a departure being delayed, reconsidered, or avoided because the emotional truth is difficult in your work or ambitions.",
+          "money": "In the present, reversed Eight of Cups highlights a departure being delayed, reconsidered, or avoided because the emotional truth is difficult in practical or financial choices.",
+          "growth": "In the present, reversed Eight of Cups highlights a departure being delayed, reconsidered, or avoided because the emotional truth is difficult as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Eight of Cups suggests that a departure being delayed, reconsidered, or avoided because the emotional truth is difficult may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Eight of Cups suggests that a departure being delayed, reconsidered, or avoided because the emotional truth is difficult may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Eight of Cups suggests that a departure being delayed, reconsidered, or avoided because the emotional truth is difficult may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Eight of Cups suggests that a departure being delayed, reconsidered, or avoided because the emotional truth is difficult may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Eight of Cups suggests that a departure being delayed, reconsidered, or avoided because the emotional truth is difficult may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might fear of leaving be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might fear of leaving be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might fear of leaving be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does fear of leaving reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can fear of leaving teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -978,6 +1826,112 @@
         "What can wish fulfillment teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "dissatisfaction",
+        "surface pleasure",
+        "overindulgence",
+        "ungratefulness",
+        "inner emptiness"
+      ],
+      "tags": [
+        "dissatisfaction",
+        "surface_pleasure",
+        "overindulgence",
+        "ungratefulness",
+        "inner_emptiness"
+      ],
+      "toneTags": [
+        "reflective",
+        "cautionary",
+        "honest"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Nine of Cups points to pleasure or success that may look full on the outside while something deeper remains unsatisfied.",
+          "advice": "Seek fulfillment, not only comfort or approval."
+        },
+        "love": {
+          "summary": "In love, reversed Nine of Cups can show pleasure or success that may look full on the outside while something deeper remains unsatisfied affecting trust, closeness, or emotional timing.",
+          "advice": "Seek fulfillment, not only comfort or approval."
+        },
+        "career": {
+          "summary": "In career, reversed Nine of Cups can suggest pleasure or success that may look full on the outside while something deeper remains unsatisfied shaping work, direction, or collaboration.",
+          "advice": "Seek fulfillment, not only comfort or approval."
+        },
+        "money": {
+          "summary": "In money matters, reversed Nine of Cups can reveal pleasure or success that may look full on the outside while something deeper remains unsatisfied around resources, security, or practical choices.",
+          "advice": "Slow the impulse and choose what protects long-term stability."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Nine of Cups turns the lesson inward: pleasure or success that may look full on the outside while something deeper remains unsatisfied.",
+          "advice": "Seek fulfillment, not only comfort or approval."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Seek fulfillment, not only comfort or approval.",
+          "love": "Seek fulfillment, not only comfort or approval.",
+          "career": "Seek fulfillment, not only comfort or approval.",
+          "money": "Slow the impulse and choose what protects long-term stability.",
+          "growth": "Seek fulfillment, not only comfort or approval."
+        },
+        "situation": {
+          "general": "The situation may be shaped by pleasure or success that may look full on the outside while something deeper remains unsatisfied.",
+          "love": "The situation may be shaped by pleasure or success that may look full on the outside while something deeper remains unsatisfied.",
+          "career": "The situation may be shaped by pleasure or success that may look full on the outside while something deeper remains unsatisfied.",
+          "money": "The situation may be shaped by pleasure or success that may look full on the outside while something deeper remains unsatisfied.",
+          "growth": "The situation may be shaped by pleasure or success that may look full on the outside while something deeper remains unsatisfied."
+        },
+        "past": {
+          "general": "In the past, reversed Nine of Cups suggests that pleasure or success that may look full on the outside while something deeper remains unsatisfied may have influenced the path behind you.",
+          "love": "In the past, reversed Nine of Cups suggests that pleasure or success that may look full on the outside while something deeper remains unsatisfied may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Nine of Cups suggests that pleasure or success that may look full on the outside while something deeper remains unsatisfied may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Nine of Cups suggests that pleasure or success that may look full on the outside while something deeper remains unsatisfied may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Nine of Cups suggests that pleasure or success that may look full on the outside while something deeper remains unsatisfied may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Nine of Cups highlights pleasure or success that may look full on the outside while something deeper remains unsatisfied.",
+          "love": "In the present, reversed Nine of Cups highlights pleasure or success that may look full on the outside while something deeper remains unsatisfied within the emotional field.",
+          "career": "In the present, reversed Nine of Cups highlights pleasure or success that may look full on the outside while something deeper remains unsatisfied in your work or ambitions.",
+          "money": "In the present, reversed Nine of Cups highlights pleasure or success that may look full on the outside while something deeper remains unsatisfied in practical or financial choices.",
+          "growth": "In the present, reversed Nine of Cups highlights pleasure or success that may look full on the outside while something deeper remains unsatisfied as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Nine of Cups suggests that pleasure or success that may look full on the outside while something deeper remains unsatisfied may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Nine of Cups suggests that pleasure or success that may look full on the outside while something deeper remains unsatisfied may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Nine of Cups suggests that pleasure or success that may look full on the outside while something deeper remains unsatisfied may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Nine of Cups suggests that pleasure or success that may look full on the outside while something deeper remains unsatisfied may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Nine of Cups suggests that pleasure or success that may look full on the outside while something deeper remains unsatisfied may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might dissatisfaction be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might dissatisfaction be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might dissatisfaction be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does dissatisfaction reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can dissatisfaction teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1087,6 +2041,112 @@
         "What can harmony teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "family tension",
+        "delayed harmony",
+        "idealized happiness",
+        "misaligned expectations",
+        "private unhappiness"
+      ],
+      "tags": [
+        "family_tension",
+        "delayed_harmony",
+        "idealized_happiness",
+        "misaligned_expectations",
+        "private_unhappiness"
+      ],
+      "toneTags": [
+        "tender",
+        "domestic",
+        "honest"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Ten of Cups points to harmony that may be delayed, idealized, or strained beneath the image of happiness.",
+          "advice": "Let real peace matter more than the appearance of a perfect story."
+        },
+        "love": {
+          "summary": "In love, reversed Ten of Cups can show harmony that may be delayed, idealized, or strained beneath the image of happiness affecting trust, closeness, or emotional timing.",
+          "advice": "Choose repair where it is possible, and choose peace where repair is not mutual."
+        },
+        "career": {
+          "summary": "In career, reversed Ten of Cups can suggest harmony that may be delayed, idealized, or strained beneath the image of happiness shaping work, direction, or collaboration.",
+          "advice": "Let real peace matter more than the appearance of a perfect story."
+        },
+        "money": {
+          "summary": "In money matters, reversed Ten of Cups can reveal harmony that may be delayed, idealized, or strained beneath the image of happiness around resources, security, or practical choices.",
+          "advice": "Let real peace matter more than the appearance of a perfect story."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Ten of Cups turns the lesson inward: harmony that may be delayed, idealized, or strained beneath the image of happiness.",
+          "advice": "Let real peace matter more than the appearance of a perfect story."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let real peace matter more than the appearance of a perfect story.",
+          "love": "Choose repair where it is possible, and choose peace where repair is not mutual.",
+          "career": "Let real peace matter more than the appearance of a perfect story.",
+          "money": "Let real peace matter more than the appearance of a perfect story.",
+          "growth": "Let real peace matter more than the appearance of a perfect story."
+        },
+        "situation": {
+          "general": "The situation may be shaped by harmony that may be delayed, idealized, or strained beneath the image of happiness.",
+          "love": "The situation may be shaped by harmony that may be delayed, idealized, or strained beneath the image of happiness.",
+          "career": "The situation may be shaped by harmony that may be delayed, idealized, or strained beneath the image of happiness.",
+          "money": "The situation may be shaped by harmony that may be delayed, idealized, or strained beneath the image of happiness.",
+          "growth": "The situation may be shaped by harmony that may be delayed, idealized, or strained beneath the image of happiness."
+        },
+        "past": {
+          "general": "In the past, reversed Ten of Cups suggests that harmony that may be delayed, idealized, or strained beneath the image of happiness may have influenced the path behind you.",
+          "love": "In the past, reversed Ten of Cups suggests that harmony that may be delayed, idealized, or strained beneath the image of happiness may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Ten of Cups suggests that harmony that may be delayed, idealized, or strained beneath the image of happiness may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Ten of Cups suggests that harmony that may be delayed, idealized, or strained beneath the image of happiness may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Ten of Cups suggests that harmony that may be delayed, idealized, or strained beneath the image of happiness may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Ten of Cups highlights harmony that may be delayed, idealized, or strained beneath the image of happiness.",
+          "love": "In the present, reversed Ten of Cups highlights harmony that may be delayed, idealized, or strained beneath the image of happiness within the emotional field.",
+          "career": "In the present, reversed Ten of Cups highlights harmony that may be delayed, idealized, or strained beneath the image of happiness in your work or ambitions.",
+          "money": "In the present, reversed Ten of Cups highlights harmony that may be delayed, idealized, or strained beneath the image of happiness in practical or financial choices.",
+          "growth": "In the present, reversed Ten of Cups highlights harmony that may be delayed, idealized, or strained beneath the image of happiness as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Ten of Cups suggests that harmony that may be delayed, idealized, or strained beneath the image of happiness may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Ten of Cups suggests that harmony that may be delayed, idealized, or strained beneath the image of happiness may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Ten of Cups suggests that harmony that may be delayed, idealized, or strained beneath the image of happiness may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Ten of Cups suggests that harmony that may be delayed, idealized, or strained beneath the image of happiness may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Ten of Cups suggests that harmony that may be delayed, idealized, or strained beneath the image of happiness may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might family tension be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might family tension be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might family tension be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does family tension reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can family tension teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1196,6 +2256,112 @@
         "What can sensitivity teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "emotional immaturity",
+        "blocked creativity",
+        "shyness",
+        "unspoken feeling",
+        "sensitivity"
+      ],
+      "tags": [
+        "emotional_immaturity",
+        "blocked_creativity",
+        "shyness",
+        "unspoken_feeling",
+        "sensitivity"
+      ],
+      "toneTags": [
+        "gentle",
+        "sensitive",
+        "awakening"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Page of Cups points to tender feelings or creative messages that may be shy, immature, or difficult to express.",
+          "advice": "Give the feeling a safe form before asking it to become a declaration."
+        },
+        "love": {
+          "summary": "In love, reversed Page of Cups can show tender feelings or creative messages that may be shy, immature, or difficult to express affecting trust, closeness, or emotional timing.",
+          "advice": "Give the feeling a safe form before asking it to become a declaration."
+        },
+        "career": {
+          "summary": "In career, reversed Page of Cups can suggest tender feelings or creative messages that may be shy, immature, or difficult to express shaping work, direction, or collaboration.",
+          "advice": "Give the feeling a safe form before asking it to become a declaration."
+        },
+        "money": {
+          "summary": "In money matters, reversed Page of Cups can reveal tender feelings or creative messages that may be shy, immature, or difficult to express around resources, security, or practical choices.",
+          "advice": "Give the feeling a safe form before asking it to become a declaration."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Page of Cups turns the lesson inward: tender feelings or creative messages that may be shy, immature, or difficult to express.",
+          "advice": "Give the feeling a safe form before asking it to become a declaration."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Give the feeling a safe form before asking it to become a declaration.",
+          "love": "Give the feeling a safe form before asking it to become a declaration.",
+          "career": "Give the feeling a safe form before asking it to become a declaration.",
+          "money": "Give the feeling a safe form before asking it to become a declaration.",
+          "growth": "Give the feeling a safe form before asking it to become a declaration."
+        },
+        "situation": {
+          "general": "The situation may be shaped by tender feelings or creative messages that may be shy, immature, or difficult to express.",
+          "love": "The situation may be shaped by tender feelings or creative messages that may be shy, immature, or difficult to express.",
+          "career": "The situation may be shaped by tender feelings or creative messages that may be shy, immature, or difficult to express.",
+          "money": "The situation may be shaped by tender feelings or creative messages that may be shy, immature, or difficult to express.",
+          "growth": "The situation may be shaped by tender feelings or creative messages that may be shy, immature, or difficult to express."
+        },
+        "past": {
+          "general": "In the past, reversed Page of Cups suggests that tender feelings or creative messages that may be shy, immature, or difficult to express may have influenced the path behind you.",
+          "love": "In the past, reversed Page of Cups suggests that tender feelings or creative messages that may be shy, immature, or difficult to express may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Page of Cups suggests that tender feelings or creative messages that may be shy, immature, or difficult to express may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Page of Cups suggests that tender feelings or creative messages that may be shy, immature, or difficult to express may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Page of Cups suggests that tender feelings or creative messages that may be shy, immature, or difficult to express may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Page of Cups highlights tender feelings or creative messages that may be shy, immature, or difficult to express.",
+          "love": "In the present, reversed Page of Cups highlights tender feelings or creative messages that may be shy, immature, or difficult to express within the emotional field.",
+          "career": "In the present, reversed Page of Cups highlights tender feelings or creative messages that may be shy, immature, or difficult to express in your work or ambitions.",
+          "money": "In the present, reversed Page of Cups highlights tender feelings or creative messages that may be shy, immature, or difficult to express in practical or financial choices.",
+          "growth": "In the present, reversed Page of Cups highlights tender feelings or creative messages that may be shy, immature, or difficult to express as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Page of Cups suggests that tender feelings or creative messages that may be shy, immature, or difficult to express may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Page of Cups suggests that tender feelings or creative messages that may be shy, immature, or difficult to express may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Page of Cups suggests that tender feelings or creative messages that may be shy, immature, or difficult to express may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Page of Cups suggests that tender feelings or creative messages that may be shy, immature, or difficult to express may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Page of Cups suggests that tender feelings or creative messages that may be shy, immature, or difficult to express may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might emotional immaturity be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might emotional immaturity be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might emotional immaturity be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does emotional immaturity reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can emotional immaturity teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1305,6 +2471,112 @@
         "What can romance teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "unrealistic romance",
+        "moodiness",
+        "mixed signals",
+        "charm without follow-through",
+        "emotional drift"
+      ],
+      "tags": [
+        "unrealistic_romance",
+        "moodiness",
+        "mixed_signals",
+        "charm_without_followthrough",
+        "emotional_drift"
+      ],
+      "toneTags": [
+        "romantic",
+        "cautionary",
+        "soft"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Knight of Cups points to romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear.",
+          "advice": "Enjoy the poetry, but ask what actions support the promise."
+        },
+        "love": {
+          "summary": "In love, reversed Knight of Cups can show romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear affecting trust, closeness, or emotional timing.",
+          "advice": "Let actions confirm the feeling before building the whole story around possibility."
+        },
+        "career": {
+          "summary": "In career, reversed Knight of Cups can suggest romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear shaping work, direction, or collaboration.",
+          "advice": "Enjoy the poetry, but ask what actions support the promise."
+        },
+        "money": {
+          "summary": "In money matters, reversed Knight of Cups can reveal romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear around resources, security, or practical choices.",
+          "advice": "Enjoy the poetry, but ask what actions support the promise."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Knight of Cups turns the lesson inward: romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear.",
+          "advice": "Enjoy the poetry, but ask what actions support the promise."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Enjoy the poetry, but ask what actions support the promise.",
+          "love": "Let actions confirm the feeling before building the whole story around possibility.",
+          "career": "Enjoy the poetry, but ask what actions support the promise.",
+          "money": "Enjoy the poetry, but ask what actions support the promise.",
+          "growth": "Enjoy the poetry, but ask what actions support the promise."
+        },
+        "situation": {
+          "general": "The situation may be shaped by romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear.",
+          "love": "The situation may be shaped by romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear.",
+          "career": "The situation may be shaped by romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear.",
+          "money": "The situation may be shaped by romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear.",
+          "growth": "The situation may be shaped by romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear."
+        },
+        "past": {
+          "general": "In the past, reversed Knight of Cups suggests that romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear may have influenced the path behind you.",
+          "love": "In the past, reversed Knight of Cups suggests that romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Knight of Cups suggests that romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Knight of Cups suggests that romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Knight of Cups suggests that romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Knight of Cups highlights romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear.",
+          "love": "In the present, reversed Knight of Cups highlights romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear within the emotional field.",
+          "career": "In the present, reversed Knight of Cups highlights romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear in your work or ambitions.",
+          "money": "In the present, reversed Knight of Cups highlights romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear in practical or financial choices.",
+          "growth": "In the present, reversed Knight of Cups highlights romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Knight of Cups suggests that romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Knight of Cups suggests that romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Knight of Cups suggests that romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Knight of Cups suggests that romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Knight of Cups suggests that romantic or creative energy that may be beautiful but inconsistent, idealized, or unclear may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might unrealistic romance be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might unrealistic romance be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might unrealistic romance be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does unrealistic romance reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can unrealistic romance teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1414,6 +2686,112 @@
         "What can empathy teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "emotional depletion",
+        "poor boundaries",
+        "codependency",
+        "intuition clouded",
+        "self-care needed"
+      ],
+      "tags": [
+        "emotional_depletion",
+        "poor_boundaries",
+        "codependency",
+        "intuition_clouded",
+        "self_care_needed"
+      ],
+      "toneTags": [
+        "tender",
+        "watery",
+        "protective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Queen of Cups points to deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries.",
+          "advice": "Protect your sensitivity so it can remain wise instead of exhausted."
+        },
+        "love": {
+          "summary": "In love, reversed Queen of Cups can show deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries affecting trust, closeness, or emotional timing.",
+          "advice": "Let boundaries and tenderness work together, so love does not become self-abandonment."
+        },
+        "career": {
+          "summary": "In career, reversed Queen of Cups can suggest deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries shaping work, direction, or collaboration.",
+          "advice": "Protect your sensitivity so it can remain wise instead of exhausted."
+        },
+        "money": {
+          "summary": "In money matters, reversed Queen of Cups can reveal deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries around resources, security, or practical choices.",
+          "advice": "Protect your sensitivity so it can remain wise instead of exhausted."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Queen of Cups turns the lesson inward: deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries.",
+          "advice": "Protect your sensitivity so it can remain wise instead of exhausted."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Protect your sensitivity so it can remain wise instead of exhausted.",
+          "love": "Let boundaries and tenderness work together, so love does not become self-abandonment.",
+          "career": "Protect your sensitivity so it can remain wise instead of exhausted.",
+          "money": "Protect your sensitivity so it can remain wise instead of exhausted.",
+          "growth": "Protect your sensitivity so it can remain wise instead of exhausted."
+        },
+        "situation": {
+          "general": "The situation may be shaped by deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries.",
+          "love": "The situation may be shaped by deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries.",
+          "career": "The situation may be shaped by deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries.",
+          "money": "The situation may be shaped by deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries.",
+          "growth": "The situation may be shaped by deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries."
+        },
+        "past": {
+          "general": "In the past, reversed Queen of Cups suggests that deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries may have influenced the path behind you.",
+          "love": "In the past, reversed Queen of Cups suggests that deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Queen of Cups suggests that deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Queen of Cups suggests that deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Queen of Cups suggests that deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Queen of Cups highlights deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries.",
+          "love": "In the present, reversed Queen of Cups highlights deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries within the emotional field.",
+          "career": "In the present, reversed Queen of Cups highlights deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries in your work or ambitions.",
+          "money": "In the present, reversed Queen of Cups highlights deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries in practical or financial choices.",
+          "growth": "In the present, reversed Queen of Cups highlights deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Queen of Cups suggests that deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Queen of Cups suggests that deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Queen of Cups suggests that deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Queen of Cups suggests that deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Queen of Cups suggests that deep feeling that may be overwhelmed, overgiven, or blurred by weak boundaries may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might emotional depletion be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might emotional depletion be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might emotional depletion be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does emotional depletion reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can emotional depletion teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1523,6 +2901,112 @@
         "What can emotional balance teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "emotional suppression",
+        "mood control",
+        "manipulation",
+        "inner turbulence",
+        "avoidance of feeling"
+      ],
+      "tags": [
+        "emotional_suppression",
+        "mood_control",
+        "manipulation",
+        "inner_turbulence",
+        "avoidance_of_feeling"
+      ],
+      "toneTags": [
+        "contained",
+        "serious",
+        "reflective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, King of Cups points to emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence.",
+          "advice": "Let steadiness include honesty; control is not the same as peace."
+        },
+        "love": {
+          "summary": "In love, reversed King of Cups can show emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence affecting trust, closeness, or emotional timing.",
+          "advice": "Let boundaries and tenderness work together, so love does not become self-abandonment."
+        },
+        "career": {
+          "summary": "In career, reversed King of Cups can suggest emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence shaping work, direction, or collaboration.",
+          "advice": "Protect your integrity and choose influence that is clear, fair, and accountable."
+        },
+        "money": {
+          "summary": "In money matters, reversed King of Cups can reveal emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence around resources, security, or practical choices.",
+          "advice": "Let steadiness include honesty; control is not the same as peace."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed King of Cups turns the lesson inward: emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence.",
+          "advice": "Let steadiness include honesty; control is not the same as peace."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let steadiness include honesty; control is not the same as peace.",
+          "love": "Let boundaries and tenderness work together, so love does not become self-abandonment.",
+          "career": "Protect your integrity and choose influence that is clear, fair, and accountable.",
+          "money": "Let steadiness include honesty; control is not the same as peace.",
+          "growth": "Let steadiness include honesty; control is not the same as peace."
+        },
+        "situation": {
+          "general": "The situation may be shaped by emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence.",
+          "love": "The situation may be shaped by emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence.",
+          "career": "The situation may be shaped by emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence.",
+          "money": "The situation may be shaped by emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence.",
+          "growth": "The situation may be shaped by emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence."
+        },
+        "past": {
+          "general": "In the past, reversed King of Cups suggests that emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence may have influenced the path behind you.",
+          "love": "In the past, reversed King of Cups suggests that emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed King of Cups suggests that emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence may have affected your work rhythm or choices.",
+          "money": "In the past, reversed King of Cups suggests that emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed King of Cups suggests that emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed King of Cups highlights emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence.",
+          "love": "In the present, reversed King of Cups highlights emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence within the emotional field.",
+          "career": "In the present, reversed King of Cups highlights emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence in your work or ambitions.",
+          "money": "In the present, reversed King of Cups highlights emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence in practical or financial choices.",
+          "growth": "In the present, reversed King of Cups highlights emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed King of Cups suggests that emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed King of Cups suggests that emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed King of Cups suggests that emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed King of Cups suggests that emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed King of Cups suggests that emotional mastery that may be strained by suppression, manipulation, or unspoken turbulence may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might emotional suppression be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might emotional suppression be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might emotional suppression be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does emotional suppression reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can emotional suppression teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   }
 ]

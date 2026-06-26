@@ -106,6 +106,112 @@
         "What can spark teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "delayed spark",
+        "blocked inspiration",
+        "false start",
+        "low energy",
+        "misdirected passion"
+      ],
+      "tags": [
+        "delayed_spark",
+        "blocked_inspiration",
+        "false_start",
+        "low_energy",
+        "misdirected_passion"
+      ],
+      "toneTags": [
+        "fiery",
+        "paused",
+        "reigniting"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Ace of Wands points to inspiration that is present but blocked, delayed, or not yet grounded enough to act on.",
+          "advice": "Protect the spark from pressure and give it one simple path into form."
+        },
+        "love": {
+          "summary": "In love, reversed Ace of Wands can show inspiration that is present but blocked, delayed, or not yet grounded enough to act on affecting trust, closeness, or emotional timing.",
+          "advice": "Protect the spark from pressure and give it one simple path into form."
+        },
+        "career": {
+          "summary": "In career, reversed Ace of Wands can suggest inspiration that is present but blocked, delayed, or not yet grounded enough to act on shaping work, direction, or collaboration.",
+          "advice": "Use the delay to refine the plan rather than treating it as proof that the path is closed."
+        },
+        "money": {
+          "summary": "In money matters, reversed Ace of Wands can reveal inspiration that is present but blocked, delayed, or not yet grounded enough to act on around resources, security, or practical choices.",
+          "advice": "Protect the spark from pressure and give it one simple path into form."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Ace of Wands turns the lesson inward: inspiration that is present but blocked, delayed, or not yet grounded enough to act on.",
+          "advice": "Protect the spark from pressure and give it one simple path into form."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Protect the spark from pressure and give it one simple path into form.",
+          "love": "Protect the spark from pressure and give it one simple path into form.",
+          "career": "Use the delay to refine the plan rather than treating it as proof that the path is closed.",
+          "money": "Protect the spark from pressure and give it one simple path into form.",
+          "growth": "Protect the spark from pressure and give it one simple path into form."
+        },
+        "situation": {
+          "general": "The situation may be shaped by inspiration that is present but blocked, delayed, or not yet grounded enough to act on.",
+          "love": "The situation may be shaped by inspiration that is present but blocked, delayed, or not yet grounded enough to act on.",
+          "career": "The situation may be shaped by inspiration that is present but blocked, delayed, or not yet grounded enough to act on.",
+          "money": "The situation may be shaped by inspiration that is present but blocked, delayed, or not yet grounded enough to act on.",
+          "growth": "The situation may be shaped by inspiration that is present but blocked, delayed, or not yet grounded enough to act on."
+        },
+        "past": {
+          "general": "In the past, reversed Ace of Wands suggests that inspiration that is present but blocked, delayed, or not yet grounded enough to act on may have influenced the path behind you.",
+          "love": "In the past, reversed Ace of Wands suggests that inspiration that is present but blocked, delayed, or not yet grounded enough to act on may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Ace of Wands suggests that inspiration that is present but blocked, delayed, or not yet grounded enough to act on may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Ace of Wands suggests that inspiration that is present but blocked, delayed, or not yet grounded enough to act on may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Ace of Wands suggests that inspiration that is present but blocked, delayed, or not yet grounded enough to act on may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Ace of Wands highlights inspiration that is present but blocked, delayed, or not yet grounded enough to act on.",
+          "love": "In the present, reversed Ace of Wands highlights inspiration that is present but blocked, delayed, or not yet grounded enough to act on within the emotional field.",
+          "career": "In the present, reversed Ace of Wands highlights inspiration that is present but blocked, delayed, or not yet grounded enough to act on in your work or ambitions.",
+          "money": "In the present, reversed Ace of Wands highlights inspiration that is present but blocked, delayed, or not yet grounded enough to act on in practical or financial choices.",
+          "growth": "In the present, reversed Ace of Wands highlights inspiration that is present but blocked, delayed, or not yet grounded enough to act on as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Ace of Wands suggests that inspiration that is present but blocked, delayed, or not yet grounded enough to act on may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Ace of Wands suggests that inspiration that is present but blocked, delayed, or not yet grounded enough to act on may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Ace of Wands suggests that inspiration that is present but blocked, delayed, or not yet grounded enough to act on may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Ace of Wands suggests that inspiration that is present but blocked, delayed, or not yet grounded enough to act on may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Ace of Wands suggests that inspiration that is present but blocked, delayed, or not yet grounded enough to act on may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might delayed spark be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might delayed spark be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might delayed spark be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does delayed spark reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can delayed spark teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -215,6 +321,112 @@
         "What can planning teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "fear of expansion",
+        "poor planning",
+        "staying small",
+        "indecision",
+        "limited vision"
+      ],
+      "tags": [
+        "fear_of_expansion",
+        "poor_planning",
+        "staying_small",
+        "indecision",
+        "limited_vision"
+      ],
+      "toneTags": [
+        "strategic",
+        "hesitant",
+        "clarifying"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Two of Wands points to a future vision that may be limited by fear, indecision, or planning that needs refinement.",
+          "advice": "Widen your view, then choose one realistic direction."
+        },
+        "love": {
+          "summary": "In love, reversed Two of Wands can show a future vision that may be limited by fear, indecision, or planning that needs refinement affecting trust, closeness, or emotional timing.",
+          "advice": "Widen your view, then choose one realistic direction."
+        },
+        "career": {
+          "summary": "In career, reversed Two of Wands can suggest a future vision that may be limited by fear, indecision, or planning that needs refinement shaping work, direction, or collaboration.",
+          "advice": "Clarify the next practical step, then give your energy to one priority at a time."
+        },
+        "money": {
+          "summary": "In money matters, reversed Two of Wands can reveal a future vision that may be limited by fear, indecision, or planning that needs refinement around resources, security, or practical choices.",
+          "advice": "Review the foundation before committing more resources."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Two of Wands turns the lesson inward: a future vision that may be limited by fear, indecision, or planning that needs refinement.",
+          "advice": "Widen your view, then choose one realistic direction."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Widen your view, then choose one realistic direction.",
+          "love": "Widen your view, then choose one realistic direction.",
+          "career": "Clarify the next practical step, then give your energy to one priority at a time.",
+          "money": "Review the foundation before committing more resources.",
+          "growth": "Widen your view, then choose one realistic direction."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a future vision that may be limited by fear, indecision, or planning that needs refinement.",
+          "love": "The situation may be shaped by a future vision that may be limited by fear, indecision, or planning that needs refinement.",
+          "career": "The situation may be shaped by a future vision that may be limited by fear, indecision, or planning that needs refinement.",
+          "money": "The situation may be shaped by a future vision that may be limited by fear, indecision, or planning that needs refinement.",
+          "growth": "The situation may be shaped by a future vision that may be limited by fear, indecision, or planning that needs refinement."
+        },
+        "past": {
+          "general": "In the past, reversed Two of Wands suggests that a future vision that may be limited by fear, indecision, or planning that needs refinement may have influenced the path behind you.",
+          "love": "In the past, reversed Two of Wands suggests that a future vision that may be limited by fear, indecision, or planning that needs refinement may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Two of Wands suggests that a future vision that may be limited by fear, indecision, or planning that needs refinement may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Two of Wands suggests that a future vision that may be limited by fear, indecision, or planning that needs refinement may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Two of Wands suggests that a future vision that may be limited by fear, indecision, or planning that needs refinement may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Two of Wands highlights a future vision that may be limited by fear, indecision, or planning that needs refinement.",
+          "love": "In the present, reversed Two of Wands highlights a future vision that may be limited by fear, indecision, or planning that needs refinement within the emotional field.",
+          "career": "In the present, reversed Two of Wands highlights a future vision that may be limited by fear, indecision, or planning that needs refinement in your work or ambitions.",
+          "money": "In the present, reversed Two of Wands highlights a future vision that may be limited by fear, indecision, or planning that needs refinement in practical or financial choices.",
+          "growth": "In the present, reversed Two of Wands highlights a future vision that may be limited by fear, indecision, or planning that needs refinement as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Two of Wands suggests that a future vision that may be limited by fear, indecision, or planning that needs refinement may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Two of Wands suggests that a future vision that may be limited by fear, indecision, or planning that needs refinement may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Two of Wands suggests that a future vision that may be limited by fear, indecision, or planning that needs refinement may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Two of Wands suggests that a future vision that may be limited by fear, indecision, or planning that needs refinement may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Two of Wands suggests that a future vision that may be limited by fear, indecision, or planning that needs refinement may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might fear of expansion be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might fear of expansion be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might fear of expansion be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does fear of expansion reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can fear of expansion teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -324,6 +536,112 @@
         "What can expansion teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "delays",
+        "limited foresight",
+        "frustrated expansion",
+        "missed opportunity",
+        "waiting too long"
+      ],
+      "tags": [
+        "delays",
+        "limited_foresight",
+        "frustrated_expansion",
+        "missed_opportunity",
+        "waiting_too_long"
+      ],
+      "toneTags": [
+        "patient",
+        "frustrated",
+        "adaptive"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Three of Wands points to expansion that may be delayed, narrowed, or waiting for better preparation.",
+          "advice": "Check the horizon, but also check whether your current plan can truly carry the journey."
+        },
+        "love": {
+          "summary": "In love, reversed Three of Wands can show expansion that may be delayed, narrowed, or waiting for better preparation affecting trust, closeness, or emotional timing.",
+          "advice": "Check the horizon, but also check whether your current plan can truly carry the journey."
+        },
+        "career": {
+          "summary": "In career, reversed Three of Wands can suggest expansion that may be delayed, narrowed, or waiting for better preparation shaping work, direction, or collaboration.",
+          "advice": "Use the delay to refine the plan rather than treating it as proof that the path is closed."
+        },
+        "money": {
+          "summary": "In money matters, reversed Three of Wands can reveal expansion that may be delayed, narrowed, or waiting for better preparation around resources, security, or practical choices.",
+          "advice": "Review the foundation before committing more resources."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Three of Wands turns the lesson inward: expansion that may be delayed, narrowed, or waiting for better preparation.",
+          "advice": "Check the horizon, but also check whether your current plan can truly carry the journey."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Check the horizon, but also check whether your current plan can truly carry the journey.",
+          "love": "Check the horizon, but also check whether your current plan can truly carry the journey.",
+          "career": "Use the delay to refine the plan rather than treating it as proof that the path is closed.",
+          "money": "Review the foundation before committing more resources.",
+          "growth": "Check the horizon, but also check whether your current plan can truly carry the journey."
+        },
+        "situation": {
+          "general": "The situation may be shaped by expansion that may be delayed, narrowed, or waiting for better preparation.",
+          "love": "The situation may be shaped by expansion that may be delayed, narrowed, or waiting for better preparation.",
+          "career": "The situation may be shaped by expansion that may be delayed, narrowed, or waiting for better preparation.",
+          "money": "The situation may be shaped by expansion that may be delayed, narrowed, or waiting for better preparation.",
+          "growth": "The situation may be shaped by expansion that may be delayed, narrowed, or waiting for better preparation."
+        },
+        "past": {
+          "general": "In the past, reversed Three of Wands suggests that expansion that may be delayed, narrowed, or waiting for better preparation may have influenced the path behind you.",
+          "love": "In the past, reversed Three of Wands suggests that expansion that may be delayed, narrowed, or waiting for better preparation may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Three of Wands suggests that expansion that may be delayed, narrowed, or waiting for better preparation may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Three of Wands suggests that expansion that may be delayed, narrowed, or waiting for better preparation may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Three of Wands suggests that expansion that may be delayed, narrowed, or waiting for better preparation may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Three of Wands highlights expansion that may be delayed, narrowed, or waiting for better preparation.",
+          "love": "In the present, reversed Three of Wands highlights expansion that may be delayed, narrowed, or waiting for better preparation within the emotional field.",
+          "career": "In the present, reversed Three of Wands highlights expansion that may be delayed, narrowed, or waiting for better preparation in your work or ambitions.",
+          "money": "In the present, reversed Three of Wands highlights expansion that may be delayed, narrowed, or waiting for better preparation in practical or financial choices.",
+          "growth": "In the present, reversed Three of Wands highlights expansion that may be delayed, narrowed, or waiting for better preparation as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Three of Wands suggests that expansion that may be delayed, narrowed, or waiting for better preparation may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Three of Wands suggests that expansion that may be delayed, narrowed, or waiting for better preparation may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Three of Wands suggests that expansion that may be delayed, narrowed, or waiting for better preparation may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Three of Wands suggests that expansion that may be delayed, narrowed, or waiting for better preparation may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Three of Wands suggests that expansion that may be delayed, narrowed, or waiting for better preparation may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might delays be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might delays be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might delays be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does delays reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can delays teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -433,6 +751,112 @@
         "What can celebration teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "unstable home",
+        "private celebration",
+        "delayed milestone",
+        "not feeling welcome",
+        "foundation needs care"
+      ],
+      "tags": [
+        "unstable_home",
+        "private_celebration",
+        "delayed_milestone",
+        "not_feeling_welcome",
+        "foundation_needs_care"
+      ],
+      "toneTags": [
+        "domestic",
+        "tender",
+        "grounding"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Four of Wands points to belonging or celebration that may feel delayed, private, or less stable than it seems.",
+          "advice": "Strengthen the foundation before asking it to hold more joy."
+        },
+        "love": {
+          "summary": "In love, reversed Four of Wands can show belonging or celebration that may feel delayed, private, or less stable than it seems affecting trust, closeness, or emotional timing.",
+          "advice": "Strengthen the foundation before asking it to hold more joy."
+        },
+        "career": {
+          "summary": "In career, reversed Four of Wands can suggest belonging or celebration that may feel delayed, private, or less stable than it seems shaping work, direction, or collaboration.",
+          "advice": "Strengthen the foundation before asking it to hold more joy."
+        },
+        "money": {
+          "summary": "In money matters, reversed Four of Wands can reveal belonging or celebration that may feel delayed, private, or less stable than it seems around resources, security, or practical choices.",
+          "advice": "Strengthen the foundation before asking it to hold more joy."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Four of Wands turns the lesson inward: belonging or celebration that may feel delayed, private, or less stable than it seems.",
+          "advice": "Strengthen the foundation before asking it to hold more joy."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Strengthen the foundation before asking it to hold more joy.",
+          "love": "Strengthen the foundation before asking it to hold more joy.",
+          "career": "Strengthen the foundation before asking it to hold more joy.",
+          "money": "Strengthen the foundation before asking it to hold more joy.",
+          "growth": "Strengthen the foundation before asking it to hold more joy."
+        },
+        "situation": {
+          "general": "The situation may be shaped by belonging or celebration that may feel delayed, private, or less stable than it seems.",
+          "love": "The situation may be shaped by belonging or celebration that may feel delayed, private, or less stable than it seems.",
+          "career": "The situation may be shaped by belonging or celebration that may feel delayed, private, or less stable than it seems.",
+          "money": "The situation may be shaped by belonging or celebration that may feel delayed, private, or less stable than it seems.",
+          "growth": "The situation may be shaped by belonging or celebration that may feel delayed, private, or less stable than it seems."
+        },
+        "past": {
+          "general": "In the past, reversed Four of Wands suggests that belonging or celebration that may feel delayed, private, or less stable than it seems may have influenced the path behind you.",
+          "love": "In the past, reversed Four of Wands suggests that belonging or celebration that may feel delayed, private, or less stable than it seems may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Four of Wands suggests that belonging or celebration that may feel delayed, private, or less stable than it seems may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Four of Wands suggests that belonging or celebration that may feel delayed, private, or less stable than it seems may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Four of Wands suggests that belonging or celebration that may feel delayed, private, or less stable than it seems may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Four of Wands highlights belonging or celebration that may feel delayed, private, or less stable than it seems.",
+          "love": "In the present, reversed Four of Wands highlights belonging or celebration that may feel delayed, private, or less stable than it seems within the emotional field.",
+          "career": "In the present, reversed Four of Wands highlights belonging or celebration that may feel delayed, private, or less stable than it seems in your work or ambitions.",
+          "money": "In the present, reversed Four of Wands highlights belonging or celebration that may feel delayed, private, or less stable than it seems in practical or financial choices.",
+          "growth": "In the present, reversed Four of Wands highlights belonging or celebration that may feel delayed, private, or less stable than it seems as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Four of Wands suggests that belonging or celebration that may feel delayed, private, or less stable than it seems may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Four of Wands suggests that belonging or celebration that may feel delayed, private, or less stable than it seems may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Four of Wands suggests that belonging or celebration that may feel delayed, private, or less stable than it seems may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Four of Wands suggests that belonging or celebration that may feel delayed, private, or less stable than it seems may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Four of Wands suggests that belonging or celebration that may feel delayed, private, or less stable than it seems may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might unstable home be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might unstable home be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might unstable home be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does unstable home reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can unstable home teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -542,6 +966,112 @@
         "What can conflict teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "avoiding conflict",
+        "inner tension",
+        "misdirected competition",
+        "resolution possible",
+        "scattered energy"
+      ],
+      "tags": [
+        "avoiding_conflict",
+        "inner_tension",
+        "misdirected_competition",
+        "resolution_possible",
+        "scattered_energy"
+      ],
+      "toneTags": [
+        "active",
+        "tense",
+        "clarifying"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Five of Wands points to conflict that may be internal, avoided, or ready to be redirected into cooperation.",
+          "advice": "Name the real tension so the energy can become useful instead of noisy."
+        },
+        "love": {
+          "summary": "In love, reversed Five of Wands can show conflict that may be internal, avoided, or ready to be redirected into cooperation affecting trust, closeness, or emotional timing.",
+          "advice": "Name the real tension so the energy can become useful instead of noisy."
+        },
+        "career": {
+          "summary": "In career, reversed Five of Wands can suggest conflict that may be internal, avoided, or ready to be redirected into cooperation shaping work, direction, or collaboration.",
+          "advice": "Clarify the next practical step, then give your energy to one priority at a time."
+        },
+        "money": {
+          "summary": "In money matters, reversed Five of Wands can reveal conflict that may be internal, avoided, or ready to be redirected into cooperation around resources, security, or practical choices.",
+          "advice": "Name the real tension so the energy can become useful instead of noisy."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Five of Wands turns the lesson inward: conflict that may be internal, avoided, or ready to be redirected into cooperation.",
+          "advice": "Name the real tension so the energy can become useful instead of noisy."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Name the real tension so the energy can become useful instead of noisy.",
+          "love": "Name the real tension so the energy can become useful instead of noisy.",
+          "career": "Clarify the next practical step, then give your energy to one priority at a time.",
+          "money": "Name the real tension so the energy can become useful instead of noisy.",
+          "growth": "Name the real tension so the energy can become useful instead of noisy."
+        },
+        "situation": {
+          "general": "The situation may be shaped by conflict that may be internal, avoided, or ready to be redirected into cooperation.",
+          "love": "The situation may be shaped by conflict that may be internal, avoided, or ready to be redirected into cooperation.",
+          "career": "The situation may be shaped by conflict that may be internal, avoided, or ready to be redirected into cooperation.",
+          "money": "The situation may be shaped by conflict that may be internal, avoided, or ready to be redirected into cooperation.",
+          "growth": "The situation may be shaped by conflict that may be internal, avoided, or ready to be redirected into cooperation."
+        },
+        "past": {
+          "general": "In the past, reversed Five of Wands suggests that conflict that may be internal, avoided, or ready to be redirected into cooperation may have influenced the path behind you.",
+          "love": "In the past, reversed Five of Wands suggests that conflict that may be internal, avoided, or ready to be redirected into cooperation may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Five of Wands suggests that conflict that may be internal, avoided, or ready to be redirected into cooperation may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Five of Wands suggests that conflict that may be internal, avoided, or ready to be redirected into cooperation may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Five of Wands suggests that conflict that may be internal, avoided, or ready to be redirected into cooperation may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Five of Wands highlights conflict that may be internal, avoided, or ready to be redirected into cooperation.",
+          "love": "In the present, reversed Five of Wands highlights conflict that may be internal, avoided, or ready to be redirected into cooperation within the emotional field.",
+          "career": "In the present, reversed Five of Wands highlights conflict that may be internal, avoided, or ready to be redirected into cooperation in your work or ambitions.",
+          "money": "In the present, reversed Five of Wands highlights conflict that may be internal, avoided, or ready to be redirected into cooperation in practical or financial choices.",
+          "growth": "In the present, reversed Five of Wands highlights conflict that may be internal, avoided, or ready to be redirected into cooperation as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Five of Wands suggests that conflict that may be internal, avoided, or ready to be redirected into cooperation may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Five of Wands suggests that conflict that may be internal, avoided, or ready to be redirected into cooperation may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Five of Wands suggests that conflict that may be internal, avoided, or ready to be redirected into cooperation may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Five of Wands suggests that conflict that may be internal, avoided, or ready to be redirected into cooperation may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Five of Wands suggests that conflict that may be internal, avoided, or ready to be redirected into cooperation may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might avoiding conflict be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might avoiding conflict be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might avoiding conflict be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does avoiding conflict reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can avoiding conflict teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -651,6 +1181,112 @@
         "What can victory teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "private victory",
+        "delayed recognition",
+        "ego check",
+        "self-doubt",
+        "fall from pride"
+      ],
+      "tags": [
+        "private_victory",
+        "delayed_recognition",
+        "ego_check",
+        "self_doubt",
+        "fall_from_pride"
+      ],
+      "toneTags": [
+        "proud",
+        "humbling",
+        "reflective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Six of Wands points to recognition that may be delayed, private, or complicated by pride and self-doubt.",
+          "advice": "Let worth exist even when applause is quiet."
+        },
+        "love": {
+          "summary": "In love, reversed Six of Wands can show recognition that may be delayed, private, or complicated by pride and self-doubt affecting trust, closeness, or emotional timing.",
+          "advice": "Let worth exist even when applause is quiet."
+        },
+        "career": {
+          "summary": "In career, reversed Six of Wands can suggest recognition that may be delayed, private, or complicated by pride and self-doubt shaping work, direction, or collaboration.",
+          "advice": "Let worth exist even when applause is quiet."
+        },
+        "money": {
+          "summary": "In money matters, reversed Six of Wands can reveal recognition that may be delayed, private, or complicated by pride and self-doubt around resources, security, or practical choices.",
+          "advice": "Let worth exist even when applause is quiet."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Six of Wands turns the lesson inward: recognition that may be delayed, private, or complicated by pride and self-doubt.",
+          "advice": "Practice compassion first; honest growth does not need cruelty to become real."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Let worth exist even when applause is quiet.",
+          "love": "Let worth exist even when applause is quiet.",
+          "career": "Let worth exist even when applause is quiet.",
+          "money": "Let worth exist even when applause is quiet.",
+          "growth": "Practice compassion first; honest growth does not need cruelty to become real."
+        },
+        "situation": {
+          "general": "The situation may be shaped by recognition that may be delayed, private, or complicated by pride and self-doubt.",
+          "love": "The situation may be shaped by recognition that may be delayed, private, or complicated by pride and self-doubt.",
+          "career": "The situation may be shaped by recognition that may be delayed, private, or complicated by pride and self-doubt.",
+          "money": "The situation may be shaped by recognition that may be delayed, private, or complicated by pride and self-doubt.",
+          "growth": "The situation may be shaped by recognition that may be delayed, private, or complicated by pride and self-doubt."
+        },
+        "past": {
+          "general": "In the past, reversed Six of Wands suggests that recognition that may be delayed, private, or complicated by pride and self-doubt may have influenced the path behind you.",
+          "love": "In the past, reversed Six of Wands suggests that recognition that may be delayed, private, or complicated by pride and self-doubt may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Six of Wands suggests that recognition that may be delayed, private, or complicated by pride and self-doubt may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Six of Wands suggests that recognition that may be delayed, private, or complicated by pride and self-doubt may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Six of Wands suggests that recognition that may be delayed, private, or complicated by pride and self-doubt may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Six of Wands highlights recognition that may be delayed, private, or complicated by pride and self-doubt.",
+          "love": "In the present, reversed Six of Wands highlights recognition that may be delayed, private, or complicated by pride and self-doubt within the emotional field.",
+          "career": "In the present, reversed Six of Wands highlights recognition that may be delayed, private, or complicated by pride and self-doubt in your work or ambitions.",
+          "money": "In the present, reversed Six of Wands highlights recognition that may be delayed, private, or complicated by pride and self-doubt in practical or financial choices.",
+          "growth": "In the present, reversed Six of Wands highlights recognition that may be delayed, private, or complicated by pride and self-doubt as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Six of Wands suggests that recognition that may be delayed, private, or complicated by pride and self-doubt may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Six of Wands suggests that recognition that may be delayed, private, or complicated by pride and self-doubt may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Six of Wands suggests that recognition that may be delayed, private, or complicated by pride and self-doubt may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Six of Wands suggests that recognition that may be delayed, private, or complicated by pride and self-doubt may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Six of Wands suggests that recognition that may be delayed, private, or complicated by pride and self-doubt may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might private victory be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might private victory be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might private victory be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does private victory reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can private victory teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -760,6 +1396,112 @@
         "What can defense teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "overdefensiveness",
+        "giving up",
+        "pressure",
+        "weak boundaries",
+        "choosing battles"
+      ],
+      "tags": [
+        "overdefensiveness",
+        "giving_up",
+        "pressure",
+        "weak_boundaries",
+        "choosing_battles"
+      ],
+      "toneTags": [
+        "defensive",
+        "firm",
+        "discernment"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Seven of Wands points to a need to choose which battles deserve your energy and which defenses are exhausting you.",
+          "advice": "Stand for what matters, but do not let pressure turn every moment into combat."
+        },
+        "love": {
+          "summary": "In love, reversed Seven of Wands can show a need to choose which battles deserve your energy and which defenses are exhausting you affecting trust, closeness, or emotional timing.",
+          "advice": "Stand for what matters, but do not let pressure turn every moment into combat."
+        },
+        "career": {
+          "summary": "In career, reversed Seven of Wands can suggest a need to choose which battles deserve your energy and which defenses are exhausting you shaping work, direction, or collaboration.",
+          "advice": "Stand for what matters, but do not let pressure turn every moment into combat."
+        },
+        "money": {
+          "summary": "In money matters, reversed Seven of Wands can reveal a need to choose which battles deserve your energy and which defenses are exhausting you around resources, security, or practical choices.",
+          "advice": "Stand for what matters, but do not let pressure turn every moment into combat."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Seven of Wands turns the lesson inward: a need to choose which battles deserve your energy and which defenses are exhausting you.",
+          "advice": "Stand for what matters, but do not let pressure turn every moment into combat."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Stand for what matters, but do not let pressure turn every moment into combat.",
+          "love": "Stand for what matters, but do not let pressure turn every moment into combat.",
+          "career": "Stand for what matters, but do not let pressure turn every moment into combat.",
+          "money": "Stand for what matters, but do not let pressure turn every moment into combat.",
+          "growth": "Stand for what matters, but do not let pressure turn every moment into combat."
+        },
+        "situation": {
+          "general": "The situation may be shaped by a need to choose which battles deserve your energy and which defenses are exhausting you.",
+          "love": "The situation may be shaped by a need to choose which battles deserve your energy and which defenses are exhausting you.",
+          "career": "The situation may be shaped by a need to choose which battles deserve your energy and which defenses are exhausting you.",
+          "money": "The situation may be shaped by a need to choose which battles deserve your energy and which defenses are exhausting you.",
+          "growth": "The situation may be shaped by a need to choose which battles deserve your energy and which defenses are exhausting you."
+        },
+        "past": {
+          "general": "In the past, reversed Seven of Wands suggests that a need to choose which battles deserve your energy and which defenses are exhausting you may have influenced the path behind you.",
+          "love": "In the past, reversed Seven of Wands suggests that a need to choose which battles deserve your energy and which defenses are exhausting you may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Seven of Wands suggests that a need to choose which battles deserve your energy and which defenses are exhausting you may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Seven of Wands suggests that a need to choose which battles deserve your energy and which defenses are exhausting you may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Seven of Wands suggests that a need to choose which battles deserve your energy and which defenses are exhausting you may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Seven of Wands highlights a need to choose which battles deserve your energy and which defenses are exhausting you.",
+          "love": "In the present, reversed Seven of Wands highlights a need to choose which battles deserve your energy and which defenses are exhausting you within the emotional field.",
+          "career": "In the present, reversed Seven of Wands highlights a need to choose which battles deserve your energy and which defenses are exhausting you in your work or ambitions.",
+          "money": "In the present, reversed Seven of Wands highlights a need to choose which battles deserve your energy and which defenses are exhausting you in practical or financial choices.",
+          "growth": "In the present, reversed Seven of Wands highlights a need to choose which battles deserve your energy and which defenses are exhausting you as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Seven of Wands suggests that a need to choose which battles deserve your energy and which defenses are exhausting you may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Seven of Wands suggests that a need to choose which battles deserve your energy and which defenses are exhausting you may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Seven of Wands suggests that a need to choose which battles deserve your energy and which defenses are exhausting you may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Seven of Wands suggests that a need to choose which battles deserve your energy and which defenses are exhausting you may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Seven of Wands suggests that a need to choose which battles deserve your energy and which defenses are exhausting you may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might overdefensiveness be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might overdefensiveness be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might overdefensiveness be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does overdefensiveness reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can overdefensiveness teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -869,6 +1611,112 @@
         "What can speed teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "delays",
+        "mixed messages",
+        "rushed choices",
+        "blocked momentum",
+        "poor timing"
+      ],
+      "tags": [
+        "delays",
+        "mixed_messages",
+        "rushed_choices",
+        "blocked_momentum",
+        "poor_timing"
+      ],
+      "toneTags": [
+        "fast",
+        "frustrated",
+        "cautionary"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Eight of Wands points to movement that may be delayed, miscommunicated, or rushed before the details are ready.",
+          "advice": "Slow the message just enough to make sure it lands clearly."
+        },
+        "love": {
+          "summary": "In love, reversed Eight of Wands can show movement that may be delayed, miscommunicated, or rushed before the details are ready affecting trust, closeness, or emotional timing.",
+          "advice": "Slow the message just enough to make sure it lands clearly."
+        },
+        "career": {
+          "summary": "In career, reversed Eight of Wands can suggest movement that may be delayed, miscommunicated, or rushed before the details are ready shaping work, direction, or collaboration.",
+          "advice": "Use the delay to refine the plan rather than treating it as proof that the path is closed."
+        },
+        "money": {
+          "summary": "In money matters, reversed Eight of Wands can reveal movement that may be delayed, miscommunicated, or rushed before the details are ready around resources, security, or practical choices.",
+          "advice": "Slow the message just enough to make sure it lands clearly."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Eight of Wands turns the lesson inward: movement that may be delayed, miscommunicated, or rushed before the details are ready.",
+          "advice": "Slow the message just enough to make sure it lands clearly."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Slow the message just enough to make sure it lands clearly.",
+          "love": "Slow the message just enough to make sure it lands clearly.",
+          "career": "Use the delay to refine the plan rather than treating it as proof that the path is closed.",
+          "money": "Slow the message just enough to make sure it lands clearly.",
+          "growth": "Slow the message just enough to make sure it lands clearly."
+        },
+        "situation": {
+          "general": "The situation may be shaped by movement that may be delayed, miscommunicated, or rushed before the details are ready.",
+          "love": "The situation may be shaped by movement that may be delayed, miscommunicated, or rushed before the details are ready.",
+          "career": "The situation may be shaped by movement that may be delayed, miscommunicated, or rushed before the details are ready.",
+          "money": "The situation may be shaped by movement that may be delayed, miscommunicated, or rushed before the details are ready.",
+          "growth": "The situation may be shaped by movement that may be delayed, miscommunicated, or rushed before the details are ready."
+        },
+        "past": {
+          "general": "In the past, reversed Eight of Wands suggests that movement that may be delayed, miscommunicated, or rushed before the details are ready may have influenced the path behind you.",
+          "love": "In the past, reversed Eight of Wands suggests that movement that may be delayed, miscommunicated, or rushed before the details are ready may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Eight of Wands suggests that movement that may be delayed, miscommunicated, or rushed before the details are ready may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Eight of Wands suggests that movement that may be delayed, miscommunicated, or rushed before the details are ready may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Eight of Wands suggests that movement that may be delayed, miscommunicated, or rushed before the details are ready may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Eight of Wands highlights movement that may be delayed, miscommunicated, or rushed before the details are ready.",
+          "love": "In the present, reversed Eight of Wands highlights movement that may be delayed, miscommunicated, or rushed before the details are ready within the emotional field.",
+          "career": "In the present, reversed Eight of Wands highlights movement that may be delayed, miscommunicated, or rushed before the details are ready in your work or ambitions.",
+          "money": "In the present, reversed Eight of Wands highlights movement that may be delayed, miscommunicated, or rushed before the details are ready in practical or financial choices.",
+          "growth": "In the present, reversed Eight of Wands highlights movement that may be delayed, miscommunicated, or rushed before the details are ready as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Eight of Wands suggests that movement that may be delayed, miscommunicated, or rushed before the details are ready may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Eight of Wands suggests that movement that may be delayed, miscommunicated, or rushed before the details are ready may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Eight of Wands suggests that movement that may be delayed, miscommunicated, or rushed before the details are ready may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Eight of Wands suggests that movement that may be delayed, miscommunicated, or rushed before the details are ready may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Eight of Wands suggests that movement that may be delayed, miscommunicated, or rushed before the details are ready may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might delays be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might delays be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might delays be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does delays reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can delays teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -978,6 +1826,112 @@
         "What can resilience teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "exhaustion",
+        "paranoia",
+        "lowering defenses",
+        "resilience tested",
+        "burnout"
+      ],
+      "tags": [
+        "exhaustion",
+        "paranoia",
+        "lowering_defenses",
+        "resilience_tested",
+        "burnout"
+      ],
+      "toneTags": [
+        "weary",
+        "protective",
+        "resilient"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Nine of Wands points to resilience that may be turning into exhaustion, suspicion, or guarded isolation.",
+          "advice": "Rest without abandoning your boundary; not every threat is the old battle returning."
+        },
+        "love": {
+          "summary": "In love, reversed Nine of Wands can show resilience that may be turning into exhaustion, suspicion, or guarded isolation affecting trust, closeness, or emotional timing.",
+          "advice": "Rest without abandoning your boundary; not every threat is the old battle returning."
+        },
+        "career": {
+          "summary": "In career, reversed Nine of Wands can suggest resilience that may be turning into exhaustion, suspicion, or guarded isolation shaping work, direction, or collaboration.",
+          "advice": "Reduce the load before effort turns into depletion."
+        },
+        "money": {
+          "summary": "In money matters, reversed Nine of Wands can reveal resilience that may be turning into exhaustion, suspicion, or guarded isolation around resources, security, or practical choices.",
+          "advice": "Rest without abandoning your boundary; not every threat is the old battle returning."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Nine of Wands turns the lesson inward: resilience that may be turning into exhaustion, suspicion, or guarded isolation.",
+          "advice": "Rest without abandoning your boundary; not every threat is the old battle returning."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Rest without abandoning your boundary; not every threat is the old battle returning.",
+          "love": "Rest without abandoning your boundary; not every threat is the old battle returning.",
+          "career": "Reduce the load before effort turns into depletion.",
+          "money": "Rest without abandoning your boundary; not every threat is the old battle returning.",
+          "growth": "Rest without abandoning your boundary; not every threat is the old battle returning."
+        },
+        "situation": {
+          "general": "The situation may be shaped by resilience that may be turning into exhaustion, suspicion, or guarded isolation.",
+          "love": "The situation may be shaped by resilience that may be turning into exhaustion, suspicion, or guarded isolation.",
+          "career": "The situation may be shaped by resilience that may be turning into exhaustion, suspicion, or guarded isolation.",
+          "money": "The situation may be shaped by resilience that may be turning into exhaustion, suspicion, or guarded isolation.",
+          "growth": "The situation may be shaped by resilience that may be turning into exhaustion, suspicion, or guarded isolation."
+        },
+        "past": {
+          "general": "In the past, reversed Nine of Wands suggests that resilience that may be turning into exhaustion, suspicion, or guarded isolation may have influenced the path behind you.",
+          "love": "In the past, reversed Nine of Wands suggests that resilience that may be turning into exhaustion, suspicion, or guarded isolation may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Nine of Wands suggests that resilience that may be turning into exhaustion, suspicion, or guarded isolation may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Nine of Wands suggests that resilience that may be turning into exhaustion, suspicion, or guarded isolation may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Nine of Wands suggests that resilience that may be turning into exhaustion, suspicion, or guarded isolation may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Nine of Wands highlights resilience that may be turning into exhaustion, suspicion, or guarded isolation.",
+          "love": "In the present, reversed Nine of Wands highlights resilience that may be turning into exhaustion, suspicion, or guarded isolation within the emotional field.",
+          "career": "In the present, reversed Nine of Wands highlights resilience that may be turning into exhaustion, suspicion, or guarded isolation in your work or ambitions.",
+          "money": "In the present, reversed Nine of Wands highlights resilience that may be turning into exhaustion, suspicion, or guarded isolation in practical or financial choices.",
+          "growth": "In the present, reversed Nine of Wands highlights resilience that may be turning into exhaustion, suspicion, or guarded isolation as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Nine of Wands suggests that resilience that may be turning into exhaustion, suspicion, or guarded isolation may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Nine of Wands suggests that resilience that may be turning into exhaustion, suspicion, or guarded isolation may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Nine of Wands suggests that resilience that may be turning into exhaustion, suspicion, or guarded isolation may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Nine of Wands suggests that resilience that may be turning into exhaustion, suspicion, or guarded isolation may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Nine of Wands suggests that resilience that may be turning into exhaustion, suspicion, or guarded isolation may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might exhaustion be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might exhaustion be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might exhaustion be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does exhaustion reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can exhaustion teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1087,6 +2041,112 @@
         "What can burden teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "burden release",
+        "overload",
+        "delegation needed",
+        "collapse from pressure",
+        "carrying too much"
+      ],
+      "tags": [
+        "burden_release",
+        "overload",
+        "delegation_needed",
+        "collapse_pressure",
+        "carrying_too_much"
+      ],
+      "toneTags": [
+        "heavy",
+        "relieving",
+        "practical"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Ten of Wands points to responsibility that has become too heavy, or the moment when burdens must be released or shared.",
+          "advice": "Put down what was never meant to be carried alone."
+        },
+        "love": {
+          "summary": "In love, reversed Ten of Wands can show responsibility that has become too heavy, or the moment when burdens must be released or shared affecting trust, closeness, or emotional timing.",
+          "advice": "Put down what was never meant to be carried alone."
+        },
+        "career": {
+          "summary": "In career, reversed Ten of Wands can suggest responsibility that has become too heavy, or the moment when burdens must be released or shared shaping work, direction, or collaboration.",
+          "advice": "Reduce the load before effort turns into depletion."
+        },
+        "money": {
+          "summary": "In money matters, reversed Ten of Wands can reveal responsibility that has become too heavy, or the moment when burdens must be released or shared around resources, security, or practical choices.",
+          "advice": "Put down what was never meant to be carried alone."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Ten of Wands turns the lesson inward: responsibility that has become too heavy, or the moment when burdens must be released or shared.",
+          "advice": "Put down what was never meant to be carried alone."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Put down what was never meant to be carried alone.",
+          "love": "Put down what was never meant to be carried alone.",
+          "career": "Reduce the load before effort turns into depletion.",
+          "money": "Put down what was never meant to be carried alone.",
+          "growth": "Put down what was never meant to be carried alone."
+        },
+        "situation": {
+          "general": "The situation may be shaped by responsibility that has become too heavy, or the moment when burdens must be released or shared.",
+          "love": "The situation may be shaped by responsibility that has become too heavy, or the moment when burdens must be released or shared.",
+          "career": "The situation may be shaped by responsibility that has become too heavy, or the moment when burdens must be released or shared.",
+          "money": "The situation may be shaped by responsibility that has become too heavy, or the moment when burdens must be released or shared.",
+          "growth": "The situation may be shaped by responsibility that has become too heavy, or the moment when burdens must be released or shared."
+        },
+        "past": {
+          "general": "In the past, reversed Ten of Wands suggests that responsibility that has become too heavy, or the moment when burdens must be released or shared may have influenced the path behind you.",
+          "love": "In the past, reversed Ten of Wands suggests that responsibility that has become too heavy, or the moment when burdens must be released or shared may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Ten of Wands suggests that responsibility that has become too heavy, or the moment when burdens must be released or shared may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Ten of Wands suggests that responsibility that has become too heavy, or the moment when burdens must be released or shared may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Ten of Wands suggests that responsibility that has become too heavy, or the moment when burdens must be released or shared may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Ten of Wands highlights responsibility that has become too heavy, or the moment when burdens must be released or shared.",
+          "love": "In the present, reversed Ten of Wands highlights responsibility that has become too heavy, or the moment when burdens must be released or shared within the emotional field.",
+          "career": "In the present, reversed Ten of Wands highlights responsibility that has become too heavy, or the moment when burdens must be released or shared in your work or ambitions.",
+          "money": "In the present, reversed Ten of Wands highlights responsibility that has become too heavy, or the moment when burdens must be released or shared in practical or financial choices.",
+          "growth": "In the present, reversed Ten of Wands highlights responsibility that has become too heavy, or the moment when burdens must be released or shared as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Ten of Wands suggests that responsibility that has become too heavy, or the moment when burdens must be released or shared may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Ten of Wands suggests that responsibility that has become too heavy, or the moment when burdens must be released or shared may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Ten of Wands suggests that responsibility that has become too heavy, or the moment when burdens must be released or shared may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Ten of Wands suggests that responsibility that has become too heavy, or the moment when burdens must be released or shared may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Ten of Wands suggests that responsibility that has become too heavy, or the moment when burdens must be released or shared may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might burden release be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might burden release be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might burden release be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does burden release reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can burden release teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1196,6 +2256,112 @@
         "What can curiosity teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "hesitation",
+        "restlessness",
+        "immaturity",
+        "blocked enthusiasm",
+        "unfocused curiosity"
+      ],
+      "tags": [
+        "hesitation",
+        "restlessness",
+        "immaturity",
+        "blocked_enthusiasm",
+        "unfocused_curiosity"
+      ],
+      "toneTags": [
+        "curious",
+        "restless",
+        "young"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Page of Wands points to curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin.",
+          "advice": "Explore, but give the spark enough structure to teach you something."
+        },
+        "love": {
+          "summary": "In love, reversed Page of Wands can show curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin affecting trust, closeness, or emotional timing.",
+          "advice": "Explore, but give the spark enough structure to teach you something."
+        },
+        "career": {
+          "summary": "In career, reversed Page of Wands can suggest curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin shaping work, direction, or collaboration.",
+          "advice": "Explore, but give the spark enough structure to teach you something."
+        },
+        "money": {
+          "summary": "In money matters, reversed Page of Wands can reveal curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin around resources, security, or practical choices.",
+          "advice": "Explore, but give the spark enough structure to teach you something."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Page of Wands turns the lesson inward: curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin.",
+          "advice": "Explore, but give the spark enough structure to teach you something."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Explore, but give the spark enough structure to teach you something.",
+          "love": "Explore, but give the spark enough structure to teach you something.",
+          "career": "Explore, but give the spark enough structure to teach you something.",
+          "money": "Explore, but give the spark enough structure to teach you something.",
+          "growth": "Explore, but give the spark enough structure to teach you something."
+        },
+        "situation": {
+          "general": "The situation may be shaped by curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin.",
+          "love": "The situation may be shaped by curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin.",
+          "career": "The situation may be shaped by curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin.",
+          "money": "The situation may be shaped by curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin.",
+          "growth": "The situation may be shaped by curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin."
+        },
+        "past": {
+          "general": "In the past, reversed Page of Wands suggests that curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin may have influenced the path behind you.",
+          "love": "In the past, reversed Page of Wands suggests that curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Page of Wands suggests that curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Page of Wands suggests that curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Page of Wands suggests that curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Page of Wands highlights curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin.",
+          "love": "In the present, reversed Page of Wands highlights curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin within the emotional field.",
+          "career": "In the present, reversed Page of Wands highlights curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin in your work or ambitions.",
+          "money": "In the present, reversed Page of Wands highlights curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin in practical or financial choices.",
+          "growth": "In the present, reversed Page of Wands highlights curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Page of Wands suggests that curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Page of Wands suggests that curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Page of Wands suggests that curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Page of Wands suggests that curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Page of Wands suggests that curiosity or inspiration that may be unfocused, hesitant, or seeking permission to begin may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might hesitation be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might hesitation be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might hesitation be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does hesitation reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can hesitation teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1305,6 +2471,112 @@
         "What can adventure teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "recklessness",
+        "inconsistency",
+        "scattered passion",
+        "impatience",
+        "burnout"
+      ],
+      "tags": [
+        "recklessness",
+        "inconsistency",
+        "scattered_passion",
+        "impatience",
+        "burnout"
+      ],
+      "toneTags": [
+        "fiery",
+        "restless",
+        "cautionary"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Knight of Wands points to bold energy that may be impulsive, inconsistent, or moving faster than wisdom.",
+          "advice": "Aim the fire before you let it run."
+        },
+        "love": {
+          "summary": "In love, reversed Knight of Wands can show bold energy that may be impulsive, inconsistent, or moving faster than wisdom affecting trust, closeness, or emotional timing.",
+          "advice": "Aim the fire before you let it run."
+        },
+        "career": {
+          "summary": "In career, reversed Knight of Wands can suggest bold energy that may be impulsive, inconsistent, or moving faster than wisdom shaping work, direction, or collaboration.",
+          "advice": "Reduce the load before effort turns into depletion."
+        },
+        "money": {
+          "summary": "In money matters, reversed Knight of Wands can reveal bold energy that may be impulsive, inconsistent, or moving faster than wisdom around resources, security, or practical choices.",
+          "advice": "Aim the fire before you let it run."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Knight of Wands turns the lesson inward: bold energy that may be impulsive, inconsistent, or moving faster than wisdom.",
+          "advice": "Aim the fire before you let it run."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Aim the fire before you let it run.",
+          "love": "Aim the fire before you let it run.",
+          "career": "Reduce the load before effort turns into depletion.",
+          "money": "Aim the fire before you let it run.",
+          "growth": "Aim the fire before you let it run."
+        },
+        "situation": {
+          "general": "The situation may be shaped by bold energy that may be impulsive, inconsistent, or moving faster than wisdom.",
+          "love": "The situation may be shaped by bold energy that may be impulsive, inconsistent, or moving faster than wisdom.",
+          "career": "The situation may be shaped by bold energy that may be impulsive, inconsistent, or moving faster than wisdom.",
+          "money": "The situation may be shaped by bold energy that may be impulsive, inconsistent, or moving faster than wisdom.",
+          "growth": "The situation may be shaped by bold energy that may be impulsive, inconsistent, or moving faster than wisdom."
+        },
+        "past": {
+          "general": "In the past, reversed Knight of Wands suggests that bold energy that may be impulsive, inconsistent, or moving faster than wisdom may have influenced the path behind you.",
+          "love": "In the past, reversed Knight of Wands suggests that bold energy that may be impulsive, inconsistent, or moving faster than wisdom may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Knight of Wands suggests that bold energy that may be impulsive, inconsistent, or moving faster than wisdom may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Knight of Wands suggests that bold energy that may be impulsive, inconsistent, or moving faster than wisdom may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Knight of Wands suggests that bold energy that may be impulsive, inconsistent, or moving faster than wisdom may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Knight of Wands highlights bold energy that may be impulsive, inconsistent, or moving faster than wisdom.",
+          "love": "In the present, reversed Knight of Wands highlights bold energy that may be impulsive, inconsistent, or moving faster than wisdom within the emotional field.",
+          "career": "In the present, reversed Knight of Wands highlights bold energy that may be impulsive, inconsistent, or moving faster than wisdom in your work or ambitions.",
+          "money": "In the present, reversed Knight of Wands highlights bold energy that may be impulsive, inconsistent, or moving faster than wisdom in practical or financial choices.",
+          "growth": "In the present, reversed Knight of Wands highlights bold energy that may be impulsive, inconsistent, or moving faster than wisdom as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Knight of Wands suggests that bold energy that may be impulsive, inconsistent, or moving faster than wisdom may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Knight of Wands suggests that bold energy that may be impulsive, inconsistent, or moving faster than wisdom may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Knight of Wands suggests that bold energy that may be impulsive, inconsistent, or moving faster than wisdom may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Knight of Wands suggests that bold energy that may be impulsive, inconsistent, or moving faster than wisdom may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Knight of Wands suggests that bold energy that may be impulsive, inconsistent, or moving faster than wisdom may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might recklessness be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might recklessness be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might recklessness be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does recklessness reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can recklessness teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1414,6 +2686,112 @@
         "What can confidence teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "self-doubt",
+        "jealousy",
+        "hidden confidence",
+        "burnout",
+        "dimming your light"
+      ],
+      "tags": [
+        "self_doubt",
+        "jealousy",
+        "hidden_confidence",
+        "burnout",
+        "dimming_light"
+      ],
+      "toneTags": [
+        "warm",
+        "shadowed",
+        "reclaiming"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, Queen of Wands points to confidence that may be hidden, depleted, or distorted by comparison.",
+          "advice": "Reclaim your warmth without needing to compete for light."
+        },
+        "love": {
+          "summary": "In love, reversed Queen of Wands can show confidence that may be hidden, depleted, or distorted by comparison affecting trust, closeness, or emotional timing.",
+          "advice": "Reclaim your warmth without needing to compete for light."
+        },
+        "career": {
+          "summary": "In career, reversed Queen of Wands can suggest confidence that may be hidden, depleted, or distorted by comparison shaping work, direction, or collaboration.",
+          "advice": "Reduce the load before effort turns into depletion."
+        },
+        "money": {
+          "summary": "In money matters, reversed Queen of Wands can reveal confidence that may be hidden, depleted, or distorted by comparison around resources, security, or practical choices.",
+          "advice": "Reclaim your warmth without needing to compete for light."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed Queen of Wands turns the lesson inward: confidence that may be hidden, depleted, or distorted by comparison.",
+          "advice": "Practice compassion first; honest growth does not need cruelty to become real."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Reclaim your warmth without needing to compete for light.",
+          "love": "Reclaim your warmth without needing to compete for light.",
+          "career": "Reduce the load before effort turns into depletion.",
+          "money": "Reclaim your warmth without needing to compete for light.",
+          "growth": "Practice compassion first; honest growth does not need cruelty to become real."
+        },
+        "situation": {
+          "general": "The situation may be shaped by confidence that may be hidden, depleted, or distorted by comparison.",
+          "love": "The situation may be shaped by confidence that may be hidden, depleted, or distorted by comparison.",
+          "career": "The situation may be shaped by confidence that may be hidden, depleted, or distorted by comparison.",
+          "money": "The situation may be shaped by confidence that may be hidden, depleted, or distorted by comparison.",
+          "growth": "The situation may be shaped by confidence that may be hidden, depleted, or distorted by comparison."
+        },
+        "past": {
+          "general": "In the past, reversed Queen of Wands suggests that confidence that may be hidden, depleted, or distorted by comparison may have influenced the path behind you.",
+          "love": "In the past, reversed Queen of Wands suggests that confidence that may be hidden, depleted, or distorted by comparison may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed Queen of Wands suggests that confidence that may be hidden, depleted, or distorted by comparison may have affected your work rhythm or choices.",
+          "money": "In the past, reversed Queen of Wands suggests that confidence that may be hidden, depleted, or distorted by comparison may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed Queen of Wands suggests that confidence that may be hidden, depleted, or distorted by comparison may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed Queen of Wands highlights confidence that may be hidden, depleted, or distorted by comparison.",
+          "love": "In the present, reversed Queen of Wands highlights confidence that may be hidden, depleted, or distorted by comparison within the emotional field.",
+          "career": "In the present, reversed Queen of Wands highlights confidence that may be hidden, depleted, or distorted by comparison in your work or ambitions.",
+          "money": "In the present, reversed Queen of Wands highlights confidence that may be hidden, depleted, or distorted by comparison in practical or financial choices.",
+          "growth": "In the present, reversed Queen of Wands highlights confidence that may be hidden, depleted, or distorted by comparison as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed Queen of Wands suggests that confidence that may be hidden, depleted, or distorted by comparison may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed Queen of Wands suggests that confidence that may be hidden, depleted, or distorted by comparison may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed Queen of Wands suggests that confidence that may be hidden, depleted, or distorted by comparison may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed Queen of Wands suggests that confidence that may be hidden, depleted, or distorted by comparison may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed Queen of Wands suggests that confidence that may be hidden, depleted, or distorted by comparison may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might self-doubt be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might self-doubt be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might self-doubt be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does self-doubt reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can self-doubt teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   },
   {
@@ -1523,6 +2901,112 @@
         "What can leadership teach me about myself?",
         "What would it mean to grow without forcing myself?"
       ]
+    },
+    "orientationSupport": {
+      "upright": true,
+      "reversed": true
+    },
+    "reversed": {
+      "keywords": [
+        "impulsiveness",
+        "domination",
+        "lack of follow-through",
+        "misused leadership",
+        "impatience"
+      ],
+      "tags": [
+        "impulsiveness",
+        "domination",
+        "lack_of_followthrough",
+        "misused_leadership",
+        "impatience"
+      ],
+      "toneTags": [
+        "fiery",
+        "commanding",
+        "corrective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "Reversed, King of Wands points to leadership that may be too forceful, impatient, or disconnected from steady follow-through.",
+          "advice": "Lead through vision and consistency, not pressure."
+        },
+        "love": {
+          "summary": "In love, reversed King of Wands can show leadership that may be too forceful, impatient, or disconnected from steady follow-through affecting trust, closeness, or emotional timing.",
+          "advice": "Lead through vision and consistency, not pressure."
+        },
+        "career": {
+          "summary": "In career, reversed King of Wands can suggest leadership that may be too forceful, impatient, or disconnected from steady follow-through shaping work, direction, or collaboration.",
+          "advice": "Protect your integrity and choose influence that is clear, fair, and accountable."
+        },
+        "money": {
+          "summary": "In money matters, reversed King of Wands can reveal leadership that may be too forceful, impatient, or disconnected from steady follow-through around resources, security, or practical choices.",
+          "advice": "Lead through vision and consistency, not pressure."
+        },
+        "growth": {
+          "summary": "For personal growth, reversed King of Wands turns the lesson inward: leadership that may be too forceful, impatient, or disconnected from steady follow-through.",
+          "advice": "Lead through vision and consistency, not pressure."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "Lead through vision and consistency, not pressure.",
+          "love": "Lead through vision and consistency, not pressure.",
+          "career": "Protect your integrity and choose influence that is clear, fair, and accountable.",
+          "money": "Lead through vision and consistency, not pressure.",
+          "growth": "Lead through vision and consistency, not pressure."
+        },
+        "situation": {
+          "general": "The situation may be shaped by leadership that may be too forceful, impatient, or disconnected from steady follow-through.",
+          "love": "The situation may be shaped by leadership that may be too forceful, impatient, or disconnected from steady follow-through.",
+          "career": "The situation may be shaped by leadership that may be too forceful, impatient, or disconnected from steady follow-through.",
+          "money": "The situation may be shaped by leadership that may be too forceful, impatient, or disconnected from steady follow-through.",
+          "growth": "The situation may be shaped by leadership that may be too forceful, impatient, or disconnected from steady follow-through."
+        },
+        "past": {
+          "general": "In the past, reversed King of Wands suggests that leadership that may be too forceful, impatient, or disconnected from steady follow-through may have influenced the path behind you.",
+          "love": "In the past, reversed King of Wands suggests that leadership that may be too forceful, impatient, or disconnected from steady follow-through may have influenced a bond, expectation, or emotional pattern.",
+          "career": "In the past, reversed King of Wands suggests that leadership that may be too forceful, impatient, or disconnected from steady follow-through may have affected your work rhythm or choices.",
+          "money": "In the past, reversed King of Wands suggests that leadership that may be too forceful, impatient, or disconnected from steady follow-through may have shaped your sense of safety or resources.",
+          "growth": "In the past, reversed King of Wands suggests that leadership that may be too forceful, impatient, or disconnected from steady follow-through may have become part of the lesson you are still integrating."
+        },
+        "present": {
+          "general": "In the present, reversed King of Wands highlights leadership that may be too forceful, impatient, or disconnected from steady follow-through.",
+          "love": "In the present, reversed King of Wands highlights leadership that may be too forceful, impatient, or disconnected from steady follow-through within the emotional field.",
+          "career": "In the present, reversed King of Wands highlights leadership that may be too forceful, impatient, or disconnected from steady follow-through in your work or ambitions.",
+          "money": "In the present, reversed King of Wands highlights leadership that may be too forceful, impatient, or disconnected from steady follow-through in practical or financial choices.",
+          "growth": "In the present, reversed King of Wands highlights leadership that may be too forceful, impatient, or disconnected from steady follow-through as an inner growth edge."
+        },
+        "future": {
+          "general": "Looking ahead, reversed King of Wands suggests that leadership that may be too forceful, impatient, or disconnected from steady follow-through may ask for attention before the energy can move freely.",
+          "love": "Looking ahead, reversed King of Wands suggests that leadership that may be too forceful, impatient, or disconnected from steady follow-through may need honesty, patience, or repair in matters of the heart.",
+          "career": "Looking ahead, reversed King of Wands suggests that leadership that may be too forceful, impatient, or disconnected from steady follow-through may require a clearer strategy at work.",
+          "money": "Looking ahead, reversed King of Wands suggests that leadership that may be too forceful, impatient, or disconnected from steady follow-through may call for more grounded resource choices.",
+          "growth": "Looking ahead, reversed King of Wands suggests that leadership that may be too forceful, impatient, or disconnected from steady follow-through may become a doorway to deeper self-awareness."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "Where might impulsiveness be asking for my attention?",
+          "What would help this blocked or inward energy move with more honesty?"
+        ],
+        "love": [
+          "How might impulsiveness be affecting the way I give, receive, or protect love?",
+          "What would make this connection feel clearer, safer, or more mutual?"
+        ],
+        "career": [
+          "Where might impulsiveness be shaping my work or direction?",
+          "What practical adjustment would help this energy become useful?"
+        ],
+        "money": [
+          "What does impulsiveness reveal about my relationship with security or resources?",
+          "What grounded choice would reduce pressure or confusion?"
+        ],
+        "growth": [
+          "What can impulsiveness teach me about myself right now?",
+          "Where can I meet this lesson with compassion instead of force?"
+        ]
+      }
     }
   }
 ]
