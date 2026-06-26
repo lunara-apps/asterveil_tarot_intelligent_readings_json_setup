@@ -1,0 +1,42 @@
+{
+  "id": "pickup_card",
+  "kind": "pick_a_card",
+  "name": "Pick a Card",
+  "description": "Choose one facedown card and receive a soft message for this moment.",
+  "cardCount": 1,
+  "ui": {
+    "route": "/readings/pickup-card",
+    "layout": "facedown_choice_row",
+    "selectFromCount": 3,
+    "saveToHistory": true,
+    "canJournal": true
+  },
+  "positions": [
+    {
+      "id": "message",
+      "name": "Message",
+      "meaningPath": "positions.message.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    }
+  ],
+  "template": {
+    "opening": "You chose the card that wanted your attention now.",
+    "cardLine": "{cardName} brings this message: {positionMeaning}",
+    "adviceLine": "Gentle advice: {advice}",
+    "closing": "For reflection and entertainment only. This is not medical, legal, financial, or professional advice."
+  },
+  "supportedReadingTypes": [
+    "general",
+    "love",
+    "career",
+    "money",
+    "growth"
+  ],
+  "drawPolicy": {
+    "allowReversed": false,
+    "avoidDuplicateCardsInSameReading": true
+  },
+  "safety": {
+    "showDisclaimerKey": "standard_reflection_disclaimer"
+  }
+}

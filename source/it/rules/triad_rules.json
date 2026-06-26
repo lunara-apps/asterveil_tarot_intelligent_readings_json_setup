@@ -1,0 +1,18 @@
+[
+  {
+    "id": "emotional_recovery_to_new_start",
+    "priority": 100,
+    "appliesToReading": "three_cards",
+    "requiredTagsAcrossReading": [
+      "loss",
+      "healing",
+      "new_beginning"
+    ],
+    "readingTypes": [
+      "general",
+      "love",
+      "growth"
+    ],
+    "text": "Insieme, queste carte descrivono un percorso dal peso emotivo verso il rinnovamento e un nuovo inizio più concreto."
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "id": "three_cards",
+  "kind": "past_present_future",
+  "name": "Passato · Presente · Futuro",
+  "description": "Una lettura a tre carte che mostra il percorso da influenza precedente, energia attuale e possibile direzione.",
+  "cardCount": 3,
+  "ui": {
+    "route": "/readings/three-cards",
+    "layout": "past_present_future_table",
+    "revealOrder": [
+      "past",
+      "present",
+      "future"
+    ],
+    "saveToHistory": true,
+    "canJournal": true
+  },
+  "positions": [
+    {
+      "id": "past",
+      "name": "Passato",
+      "meaningPath": "positions.past.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    },
+    {
+      "id": "present",
+      "name": "Presente",
+      "meaningPath": "positions.present.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    },
+    {
+      "id": "future",
+      "name": "Futuro",
+      "meaningPath": "positions.future.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    }
+  ],
+  "template": {
+    "opening": "Questa stesa attraversa passato, presente e futuro, mostrando come l’energia potrebbe evolversi.",
+    "positionLine": "{positionName}: {cardName} suggerisce: {positionMeaning}",
+    "connectionIntro": "Il collegamento tra le carte:",
+    "triadIntro": "Nel complesso:",
+    "closing": "Solo per riflessione e intrattenimento. Non è un consiglio medico, legale, finanziario o professionale."
+  },
+  "supportedReadingTypes": [
+    "general",
+    "love",
+    "career",
+    "money",
+    "growth"
+  ],
+  "drawPolicy": {
+    "allowReversed": false,
+    "avoidDuplicateCardsInSameReading": true
+  },
+  "safety": {
+    "showDisclaimerKey": "standard_reflection_disclaimer"
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "general",
+    "name": "Generale",
+    "shortName": "Generale",
+    "description": "Una lettura equilibrata sull’energia del momento, sulle scelte e sulla direzione.",
+    "tone": "reflective"
+  },
+  {
+    "id": "love",
+    "name": "Amore",
+    "shortName": "Amore",
+    "description": "Una lettura delicata su sentimenti, relazioni, schemi emotivi e connessione.",
+    "tone": "gentle"
+  },
+  {
+    "id": "career",
+    "name": "Carriera",
+    "shortName": "Carriera",
+    "description": "Una lettura concreta su lavoro, ambizione, direzione e crescita pratica.",
+    "tone": "grounded"
+  },
+  {
+    "id": "money",
+    "name": "Denaro",
+    "shortName": "Denaro",
+    "description": "Una lettura concreta su risorse, stabilità, opportunità e scelte finanziarie.",
+    "tone": "practical"
+  },
+  {
+    "id": "growth",
+    "name": "Crescita personale",
+    "shortName": "Crescita",
+    "description": "Una lettura di supporto su consapevolezza, guarigione, abitudini e cambiamento interiore.",
+    "tone": "supportive"
+  }
+]

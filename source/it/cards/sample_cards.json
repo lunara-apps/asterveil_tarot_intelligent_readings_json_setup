@@ -1,0 +1,330 @@
+[
+  {
+    "id": "the_star",
+    "name": "La Stella",
+    "arcana": "major",
+    "number": 17,
+    "romanNumeral": "XVII",
+    "assetId": "major_17_star.png",
+    "keywords": [
+      "hope",
+      "healing",
+      "renewal",
+      "trust",
+      "gentle guidance"
+    ],
+    "tags": [
+      "hope",
+      "healing",
+      "renewal",
+      "trust",
+      "spiritual_clarity",
+      "soft_recovery"
+    ],
+    "toneTags": [
+      "gentle",
+      "reassuring",
+      "spiritual"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "TODO IT: translate/adapt: The Star brings hope, healing, and a quiet return of trust.",
+        "advice": "TODO IT: translate/adapt: Let yourself believe that renewal is possible, even if it arrives slowly."
+      },
+      "love": {
+        "summary": "TODO IT: translate/adapt: A tender emotional space is opening, especially where trust has been fragile.",
+        "advice": "TODO IT: translate/adapt: Allow connection to grow gently, without forcing certainty too soon."
+      },
+      "career": {
+        "summary": "TODO IT: translate/adapt: Inspiration may be returning after a draining period.",
+        "advice": "TODO IT: translate/adapt: Follow the direction that restores your energy, not only the one that looks impressive."
+      },
+      "money": {
+        "summary": "TODO IT: translate/adapt: A calmer relationship with stability and planning can begin now.",
+        "advice": "TODO IT: translate/adapt: Choose steady hope over anxious urgency."
+      },
+      "growth": {
+        "summary": "TODO IT: translate/adapt: This card reflects healing, inner guidance, and the return of self-belief.",
+        "advice": "TODO IT: translate/adapt: Let your next step be guided by hope, not fear."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "TODO IT: translate/adapt: A gentle light is returning. This card asks you to notice where hope is already present.",
+        "love": "TODO IT: translate/adapt: Your heart may need softness, honesty, and time rather than pressure.",
+        "career": "TODO IT: translate/adapt: Your motivation can return through meaningful, restorative choices.",
+        "money": "TODO IT: translate/adapt: Calm planning will help more than anxious control.",
+        "growth": "TODO IT: translate/adapt: Healing can be quiet and still be real."
+      },
+      "situation": {
+        "general": "TODO IT: translate/adapt: You may be entering a softer phase of recovery and renewed trust.",
+        "love": "TODO IT: translate/adapt: There is room for tenderness and emotional honesty now.",
+        "career": "TODO IT: translate/adapt: A clearer sense of purpose may be slowly returning.",
+        "money": "TODO IT: translate/adapt: You may be learning to relate to resources with less fear.",
+        "growth": "TODO IT: translate/adapt: Your inner compass is becoming easier to hear."
+      },
+      "past": {
+        "general": "TODO IT: translate/adapt: A period of healing or restored hope may still influence the situation.",
+        "love": "TODO IT: translate/adapt: A healing connection or moment of emotional clarity may still shape your heart.",
+        "career": "TODO IT: translate/adapt: A past source of inspiration helped you continue.",
+        "money": "TODO IT: translate/adapt: You may have started rebuilding trust in your own stability.",
+        "growth": "TODO IT: translate/adapt: You have already begun learning how to believe in yourself again."
+      },
+      "present": {
+        "general": "TODO IT: translate/adapt: The present holds a quiet invitation to heal and trust again.",
+        "love": "TODO IT: translate/adapt: There is space now for tenderness, honesty, and emotional renewal.",
+        "career": "TODO IT: translate/adapt: Your inspiration may be returning, even if the full path is not clear yet.",
+        "money": "TODO IT: translate/adapt: A calmer and more hopeful approach can help you make better choices.",
+        "growth": "TODO IT: translate/adapt: This moment supports healing, self-trust, and gentle renewal."
+      },
+      "future": {
+        "general": "TODO IT: translate/adapt: The future points toward hope, restoration, and a softer kind of clarity.",
+        "love": "TODO IT: translate/adapt: A more peaceful emotional chapter can open if healing is allowed to continue.",
+        "career": "TODO IT: translate/adapt: You may move toward work that feels more aligned and meaningful.",
+        "money": "TODO IT: translate/adapt: A steadier sense of trust and planning can grow over time.",
+        "growth": "TODO IT: translate/adapt: The path ahead may restore your faith in yourself."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "TODO IT: translate/adapt: Where is hope quietly returning?",
+        "TODO IT: translate/adapt: What would healing look like if I allowed it to be gentle?"
+      ],
+      "love": [
+        "TODO IT: translate/adapt: What would help my heart feel safe without closing it?",
+        "TODO IT: translate/adapt: Where can I allow tenderness instead of pressure?"
+      ],
+      "career": [
+        "TODO IT: translate/adapt: What kind of work restores my energy?",
+        "TODO IT: translate/adapt: Which next step feels both realistic and meaningful?"
+      ],
+      "money": [
+        "TODO IT: translate/adapt: What financial choice would feel calm and grounded?",
+        "TODO IT: translate/adapt: What fear can I replace with a practical plan?"
+      ],
+      "growth": [
+        "TODO IT: translate/adapt: What part of me is ready to trust again?",
+        "TODO IT: translate/adapt: How can I support my healing today?"
+      ]
+    }
+  },
+  {
+    "id": "five_of_cups",
+    "name": "Cinque di Coppe",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "five",
+    "number": 5,
+    "assetId": "cups_05_five.png",
+    "keywords": [
+      "loss",
+      "regret",
+      "grief",
+      "emotional processing",
+      "what remains"
+    ],
+    "tags": [
+      "loss",
+      "regret",
+      "emotional_processing",
+      "healing_needed",
+      "perspective"
+    ],
+    "toneTags": [
+      "tender",
+      "honest",
+      "reflective"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "TODO IT: translate/adapt: The Five of Cups points to disappointment, regret, or emotional loss.",
+        "advice": "TODO IT: translate/adapt: Acknowledge what hurt, but do not forget what still remains."
+      },
+      "love": {
+        "summary": "TODO IT: translate/adapt: Old hurt, disappointment, or emotional distance may still be affecting the heart.",
+        "advice": "TODO IT: translate/adapt: Healing begins when you stop living only inside what went wrong."
+      },
+      "career": {
+        "summary": "TODO IT: translate/adapt: A setback or missed opportunity may still weigh on your confidence.",
+        "advice": "TODO IT: translate/adapt: Learn from the loss, then look for what can still be rebuilt."
+      },
+      "money": {
+        "summary": "TODO IT: translate/adapt: This card can suggest regret around past choices or missed financial chances.",
+        "advice": "TODO IT: translate/adapt: Focus on the resources still available instead of only what was lost."
+      },
+      "growth": {
+        "summary": "TODO IT: translate/adapt: Growth may begin by facing grief, disappointment, or self-blame with honesty.",
+        "advice": "TODO IT: translate/adapt: Do not let one difficult chapter become your entire story."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "TODO IT: translate/adapt: Something may still feel disappointing, but the whole picture is not lost.",
+        "love": "TODO IT: translate/adapt: Your heart may be protecting itself because something once hurt.",
+        "career": "TODO IT: translate/adapt: A result may feel discouraging, but it can still become useful information.",
+        "money": "TODO IT: translate/adapt: Regret can become a clearer plan when you look at what remains.",
+        "growth": "TODO IT: translate/adapt: This is a moment to process pain without becoming defined by it."
+      },
+      "situation": {
+        "general": "TODO IT: translate/adapt: The situation may be colored by disappointment or regret.",
+        "love": "TODO IT: translate/adapt: A previous hurt may still influence how open you feel.",
+        "career": "TODO IT: translate/adapt: You may be judging the whole path through one setback.",
+        "money": "TODO IT: translate/adapt: An old financial worry may be taking too much emotional space.",
+        "growth": "TODO IT: translate/adapt: Self-compassion is needed before clarity can return."
+      },
+      "past": {
+        "general": "TODO IT: translate/adapt: The past may have carried disappointment, grief, or emotional loss.",
+        "love": "TODO IT: translate/adapt: A previous hurt or relationship disappointment may still shape how you protect your heart.",
+        "career": "TODO IT: translate/adapt: A past setback may have affected your confidence or direction.",
+        "money": "TODO IT: translate/adapt: A previous financial disappointment may still influence your choices.",
+        "growth": "TODO IT: translate/adapt: You may have grown through a painful lesson that still asks for compassion."
+      },
+      "present": {
+        "general": "TODO IT: translate/adapt: Right now, you may be focused on what went wrong instead of what still remains.",
+        "love": "TODO IT: translate/adapt: Your heart may need gentleness before it can fully open again.",
+        "career": "TODO IT: translate/adapt: You may be carrying disappointment from a recent result, but the path is not closed.",
+        "money": "TODO IT: translate/adapt: A financial worry or regret may be asking for a calmer, clearer look.",
+        "growth": "TODO IT: translate/adapt: This moment asks you to process what hurts without letting it define you."
+      },
+      "future": {
+        "general": "TODO IT: translate/adapt: The future asks you to process what was lost without letting it define you.",
+        "love": "TODO IT: translate/adapt: Emotional healing is possible, but it may require releasing old regret.",
+        "career": "TODO IT: translate/adapt: A difficult lesson can become useful if you stop seeing it only as failure.",
+        "money": "TODO IT: translate/adapt: A past mistake can guide wiser choices ahead.",
+        "growth": "TODO IT: translate/adapt: Your next step may be learning how to carry wisdom without carrying blame."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "TODO IT: translate/adapt: What am I still carrying that I am ready to set down?",
+        "TODO IT: translate/adapt: What remains available to me, even after disappointment?"
+      ],
+      "love": [
+        "TODO IT: translate/adapt: What past hurt am I ready to stop bringing into every new moment?",
+        "TODO IT: translate/adapt: What would help my heart feel respected?"
+      ],
+      "career": [
+        "TODO IT: translate/adapt: What did this setback teach me?",
+        "TODO IT: translate/adapt: What part of the path is still open?"
+      ],
+      "money": [
+        "TODO IT: translate/adapt: Which regret can become a practical lesson?",
+        "TODO IT: translate/adapt: What resource do I still have?"
+      ],
+      "growth": [
+        "TODO IT: translate/adapt: Where can I offer myself compassion instead of blame?",
+        "TODO IT: translate/adapt: What would it mean to move forward gently?"
+      ]
+    }
+  },
+  {
+    "id": "ace_of_pentacles",
+    "name": "Asso di Denari",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "ace",
+    "number": 1,
+    "assetId": "pentacles_01_ace.png",
+    "keywords": [
+      "new beginning",
+      "stability",
+      "opportunity",
+      "grounding",
+      "potential"
+    ],
+    "tags": [
+      "new_beginning",
+      "stability",
+      "opportunity",
+      "material_growth",
+      "grounding",
+      "practical_step"
+    ],
+    "toneTags": [
+      "grounded",
+      "encouraging",
+      "practical"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "TODO IT: translate/adapt: The Ace of Pentacles brings the seed of a stable new beginning.",
+        "advice": "TODO IT: translate/adapt: Take the opportunity seriously, but let it grow one step at a time."
+      },
+      "love": {
+        "summary": "TODO IT: translate/adapt: A grounded connection with real potential may be forming.",
+        "advice": "TODO IT: translate/adapt: Look for consistency, care, and actions that can become trust."
+      },
+      "career": {
+        "summary": "TODO IT: translate/adapt: A practical opportunity may be opening around work, study, or resources.",
+        "advice": "TODO IT: translate/adapt: Give the opportunity structure so it can become something lasting."
+      },
+      "money": {
+        "summary": "TODO IT: translate/adapt: A new financial opportunity, resource, or practical start may appear.",
+        "advice": "TODO IT: translate/adapt: Small stable choices can become long-term growth."
+      },
+      "growth": {
+        "summary": "TODO IT: translate/adapt: Personal growth may begin through a simple, grounded habit or commitment.",
+        "advice": "TODO IT: translate/adapt: Plant the seed, then protect it with consistency."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "TODO IT: translate/adapt: A small practical beginning deserves your attention.",
+        "love": "TODO IT: translate/adapt: Trust may grow through consistent actions, not only feelings.",
+        "career": "TODO IT: translate/adapt: A real opportunity needs structure and follow-through.",
+        "money": "TODO IT: translate/adapt: A simple financial step can support future stability.",
+        "growth": "TODO IT: translate/adapt: A grounded habit can change more than a dramatic promise."
+      },
+      "situation": {
+        "general": "TODO IT: translate/adapt: The situation contains potential, but it needs care and consistency.",
+        "love": "TODO IT: translate/adapt: A connection may become real through patience and reliability.",
+        "career": "TODO IT: translate/adapt: This is a moment to treat opportunity as something to build.",
+        "money": "TODO IT: translate/adapt: A stable plan can begin with one manageable action.",
+        "growth": "TODO IT: translate/adapt: Your growth wants practical roots."
+      },
+      "past": {
+        "general": "TODO IT: translate/adapt: The past may have offered the first seed of something stable.",
+        "love": "TODO IT: translate/adapt: A connection may have begun with practical care or quiet potential.",
+        "career": "TODO IT: translate/adapt: A past opportunity may have given you something to build on.",
+        "money": "TODO IT: translate/adapt: You may have already received or created the foundation for better stability.",
+        "growth": "TODO IT: translate/adapt: A small habit or decision from the past may still be growing."
+      },
+      "present": {
+        "general": "TODO IT: translate/adapt: The present offers a grounded opportunity that can become something real.",
+        "love": "TODO IT: translate/adapt: A relationship or emotional connection may need patience, consistency, and trust.",
+        "career": "TODO IT: translate/adapt: This is a good moment to act on a practical opportunity.",
+        "money": "TODO IT: translate/adapt: A stable financial step may be available now.",
+        "growth": "TODO IT: translate/adapt: Your growth is asking for simple, consistent action."
+      },
+      "future": {
+        "general": "TODO IT: translate/adapt: The future may bring a new stable beginning or practical opportunity.",
+        "love": "TODO IT: translate/adapt: A connection may become more grounded, steady, and real.",
+        "career": "TODO IT: translate/adapt: A new opportunity could become something reliable if you nurture it.",
+        "money": "TODO IT: translate/adapt: A small practical choice may grow into greater stability.",
+        "growth": "TODO IT: translate/adapt: Your future growth may come from patience, structure, and care."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "TODO IT: translate/adapt: What small seed am I ready to protect?",
+        "TODO IT: translate/adapt: What practical step would help this opportunity grow?"
+      ],
+      "love": [
+        "TODO IT: translate/adapt: What action would make love feel more grounded?",
+        "TODO IT: translate/adapt: Where do I need consistency more than intensity?"
+      ],
+      "career": [
+        "TODO IT: translate/adapt: What opportunity needs a plan?",
+        "TODO IT: translate/adapt: What small action can I take today?"
+      ],
+      "money": [
+        "TODO IT: translate/adapt: What stable choice can I repeat?",
+        "TODO IT: translate/adapt: Where can I build security step by step?"
+      ],
+      "growth": [
+        "TODO IT: translate/adapt: What habit would support the person I am becoming?",
+        "TODO IT: translate/adapt: What does grounded growth look like today?"
+      ]
+    }
+  }
+]

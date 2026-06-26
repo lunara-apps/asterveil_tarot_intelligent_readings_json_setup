@@ -1,0 +1,42 @@
+{
+  "id": "one_card",
+  "kind": "single_card",
+  "name": "One-Card Reading",
+  "description": "A focused reflection on one question, topic, or current energy.",
+  "cardCount": 1,
+  "ui": {
+    "route": "/readings/one-card",
+    "layout": "single_center_card",
+    "saveToHistory": true,
+    "canJournal": true
+  },
+  "positions": [
+    {
+      "id": "situation",
+      "name": "Situation",
+      "meaningPath": "positions.situation.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    }
+  ],
+  "template": {
+    "opening": "This one-card reading focuses the message into a simple reflection.",
+    "cardLine": "For your {readingTypeName} reading, {cardName} suggests: {positionMeaning}",
+    "adviceLine": "The advice is: {advice}",
+    "journalPromptLine": "Reflection: {journalPrompt}",
+    "closing": "For reflection and entertainment only. This is not medical, legal, financial, or professional advice."
+  },
+  "supportedReadingTypes": [
+    "general",
+    "love",
+    "career",
+    "money",
+    "growth"
+  ],
+  "drawPolicy": {
+    "allowReversed": false,
+    "avoidDuplicateCardsInSameReading": true
+  },
+  "safety": {
+    "showDisclaimerKey": "standard_reflection_disclaimer"
+  }
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "loss_to_healing",
+    "priority": 90,
+    "appliesToReading": "three_cards",
+    "fromPosition": "past",
+    "toPosition": "present",
+    "fromTagsAny": [
+      "loss",
+      "regret",
+      "emotional_processing"
+    ],
+    "toTagsAny": [
+      "hope",
+      "healing",
+      "renewal"
+    ],
+    "readingTypes": [
+      "general",
+      "love",
+      "growth"
+    ],
+    "text": "The movement from past into present suggests that pain is slowly becoming healing."
+  },
+  {
+    "id": "healing_to_stability",
+    "priority": 80,
+    "appliesToReading": "three_cards",
+    "fromPosition": "present",
+    "toPosition": "future",
+    "fromTagsAny": [
+      "hope",
+      "healing",
+      "renewal"
+    ],
+    "toTagsAny": [
+      "stability",
+      "opportunity",
+      "grounding"
+    ],
+    "readingTypes": [
+      "general",
+      "love",
+      "career",
+      "money",
+      "growth"
+    ],
+    "text": "What begins as healing may become something steadier if it is given patience and care."
+  },
+  {
+    "id": "loss_card_in_single",
+    "priority": 50,
+    "appliesToReadingAny": [
+      "pickup_card",
+      "one_card"
+    ],
+    "cardTagsAny": [
+      "loss",
+      "regret",
+      "healing_needed"
+    ],
+    "readingTypes": [
+      "general",
+      "love",
+      "growth"
+    ],
+    "text": "This card does not ask you to stay in pain; it asks you to understand what still needs tenderness."
+  }
+]

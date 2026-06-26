@@ -1,0 +1,69 @@
+[
+  {
+    "id": "loss_to_healing",
+    "priority": 90,
+    "appliesToReading": "three_cards",
+    "fromPosition": "past",
+    "toPosition": "present",
+    "fromTagsAny": [
+      "loss",
+      "regret",
+      "emotional_processing"
+    ],
+    "toTagsAny": [
+      "hope",
+      "healing",
+      "renewal"
+    ],
+    "readingTypes": [
+      "general",
+      "love",
+      "growth"
+    ],
+    "text": "El movimiento del pasado al presente sugiere que el dolor está convirtiéndose poco a poco en sanación."
+  },
+  {
+    "id": "healing_to_stability",
+    "priority": 80,
+    "appliesToReading": "three_cards",
+    "fromPosition": "present",
+    "toPosition": "future",
+    "fromTagsAny": [
+      "hope",
+      "healing",
+      "renewal"
+    ],
+    "toTagsAny": [
+      "stability",
+      "opportunity",
+      "grounding"
+    ],
+    "readingTypes": [
+      "general",
+      "love",
+      "career",
+      "money",
+      "growth"
+    ],
+    "text": "Lo que empieza como sanación puede volverse más estable si recibe paciencia y cuidado."
+  },
+  {
+    "id": "loss_card_in_single",
+    "priority": 50,
+    "appliesToReadingAny": [
+      "pickup_card",
+      "one_card"
+    ],
+    "cardTagsAny": [
+      "loss",
+      "regret",
+      "healing_needed"
+    ],
+    "readingTypes": [
+      "general",
+      "love",
+      "growth"
+    ],
+    "text": "Esta carta no te pide quedarte en el dolor; te invita a entender qué todavía necesita ternura."
+  }
+]

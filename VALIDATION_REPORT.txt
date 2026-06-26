@@ -1,0 +1,3 @@
+Validated 37 JSON files successfully.
+Manifest sha256: 9d14554e1da37ed20b6084882eae64a2edcde3e23feac2ecce696f6d50327300
+Manifest URLs are relative so they work with GitHub Pages project paths and custom domains.

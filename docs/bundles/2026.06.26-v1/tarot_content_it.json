@@ -1,0 +1,620 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026.06.26-v1",
+  "locale": "it",
+  "deckId": "asterveil_tarot",
+  "deckName": "Asterveil Tarot",
+  "cards": [
+    {
+      "id": "the_star",
+      "name": "La Stella",
+      "arcana": "major",
+      "number": 17,
+      "romanNumeral": "XVII",
+      "assetId": "major_17_star.png",
+      "keywords": [
+        "hope",
+        "healing",
+        "renewal",
+        "trust",
+        "gentle guidance"
+      ],
+      "tags": [
+        "hope",
+        "healing",
+        "renewal",
+        "trust",
+        "spiritual_clarity",
+        "soft_recovery"
+      ],
+      "toneTags": [
+        "gentle",
+        "reassuring",
+        "spiritual"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "TODO IT: translate/adapt: The Star brings hope, healing, and a quiet return of trust.",
+          "advice": "TODO IT: translate/adapt: Let yourself believe that renewal is possible, even if it arrives slowly."
+        },
+        "love": {
+          "summary": "TODO IT: translate/adapt: A tender emotional space is opening, especially where trust has been fragile.",
+          "advice": "TODO IT: translate/adapt: Allow connection to grow gently, without forcing certainty too soon."
+        },
+        "career": {
+          "summary": "TODO IT: translate/adapt: Inspiration may be returning after a draining period.",
+          "advice": "TODO IT: translate/adapt: Follow the direction that restores your energy, not only the one that looks impressive."
+        },
+        "money": {
+          "summary": "TODO IT: translate/adapt: A calmer relationship with stability and planning can begin now.",
+          "advice": "TODO IT: translate/adapt: Choose steady hope over anxious urgency."
+        },
+        "growth": {
+          "summary": "TODO IT: translate/adapt: This card reflects healing, inner guidance, and the return of self-belief.",
+          "advice": "TODO IT: translate/adapt: Let your next step be guided by hope, not fear."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "TODO IT: translate/adapt: A gentle light is returning. This card asks you to notice where hope is already present.",
+          "love": "TODO IT: translate/adapt: Your heart may need softness, honesty, and time rather than pressure.",
+          "career": "TODO IT: translate/adapt: Your motivation can return through meaningful, restorative choices.",
+          "money": "TODO IT: translate/adapt: Calm planning will help more than anxious control.",
+          "growth": "TODO IT: translate/adapt: Healing can be quiet and still be real."
+        },
+        "situation": {
+          "general": "TODO IT: translate/adapt: You may be entering a softer phase of recovery and renewed trust.",
+          "love": "TODO IT: translate/adapt: There is room for tenderness and emotional honesty now.",
+          "career": "TODO IT: translate/adapt: A clearer sense of purpose may be slowly returning.",
+          "money": "TODO IT: translate/adapt: You may be learning to relate to resources with less fear.",
+          "growth": "TODO IT: translate/adapt: Your inner compass is becoming easier to hear."
+        },
+        "past": {
+          "general": "TODO IT: translate/adapt: A period of healing or restored hope may still influence the situation.",
+          "love": "TODO IT: translate/adapt: A healing connection or moment of emotional clarity may still shape your heart.",
+          "career": "TODO IT: translate/adapt: A past source of inspiration helped you continue.",
+          "money": "TODO IT: translate/adapt: You may have started rebuilding trust in your own stability.",
+          "growth": "TODO IT: translate/adapt: You have already begun learning how to believe in yourself again."
+        },
+        "present": {
+          "general": "TODO IT: translate/adapt: The present holds a quiet invitation to heal and trust again.",
+          "love": "TODO IT: translate/adapt: There is space now for tenderness, honesty, and emotional renewal.",
+          "career": "TODO IT: translate/adapt: Your inspiration may be returning, even if the full path is not clear yet.",
+          "money": "TODO IT: translate/adapt: A calmer and more hopeful approach can help you make better choices.",
+          "growth": "TODO IT: translate/adapt: This moment supports healing, self-trust, and gentle renewal."
+        },
+        "future": {
+          "general": "TODO IT: translate/adapt: The future points toward hope, restoration, and a softer kind of clarity.",
+          "love": "TODO IT: translate/adapt: A more peaceful emotional chapter can open if healing is allowed to continue.",
+          "career": "TODO IT: translate/adapt: You may move toward work that feels more aligned and meaningful.",
+          "money": "TODO IT: translate/adapt: A steadier sense of trust and planning can grow over time.",
+          "growth": "TODO IT: translate/adapt: The path ahead may restore your faith in yourself."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "TODO IT: translate/adapt: Where is hope quietly returning?",
+          "TODO IT: translate/adapt: What would healing look like if I allowed it to be gentle?"
+        ],
+        "love": [
+          "TODO IT: translate/adapt: What would help my heart feel safe without closing it?",
+          "TODO IT: translate/adapt: Where can I allow tenderness instead of pressure?"
+        ],
+        "career": [
+          "TODO IT: translate/adapt: What kind of work restores my energy?",
+          "TODO IT: translate/adapt: Which next step feels both realistic and meaningful?"
+        ],
+        "money": [
+          "TODO IT: translate/adapt: What financial choice would feel calm and grounded?",
+          "TODO IT: translate/adapt: What fear can I replace with a practical plan?"
+        ],
+        "growth": [
+          "TODO IT: translate/adapt: What part of me is ready to trust again?",
+          "TODO IT: translate/adapt: How can I support my healing today?"
+        ]
+      }
+    },
+    {
+      "id": "five_of_cups",
+      "name": "Cinque di Coppe",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "five",
+      "number": 5,
+      "assetId": "cups_05_five.png",
+      "keywords": [
+        "loss",
+        "regret",
+        "grief",
+        "emotional processing",
+        "what remains"
+      ],
+      "tags": [
+        "loss",
+        "regret",
+        "emotional_processing",
+        "healing_needed",
+        "perspective"
+      ],
+      "toneTags": [
+        "tender",
+        "honest",
+        "reflective"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "TODO IT: translate/adapt: The Five of Cups points to disappointment, regret, or emotional loss.",
+          "advice": "TODO IT: translate/adapt: Acknowledge what hurt, but do not forget what still remains."
+        },
+        "love": {
+          "summary": "TODO IT: translate/adapt: Old hurt, disappointment, or emotional distance may still be affecting the heart.",
+          "advice": "TODO IT: translate/adapt: Healing begins when you stop living only inside what went wrong."
+        },
+        "career": {
+          "summary": "TODO IT: translate/adapt: A setback or missed opportunity may still weigh on your confidence.",
+          "advice": "TODO IT: translate/adapt: Learn from the loss, then look for what can still be rebuilt."
+        },
+        "money": {
+          "summary": "TODO IT: translate/adapt: This card can suggest regret around past choices or missed financial chances.",
+          "advice": "TODO IT: translate/adapt: Focus on the resources still available instead of only what was lost."
+        },
+        "growth": {
+          "summary": "TODO IT: translate/adapt: Growth may begin by facing grief, disappointment, or self-blame with honesty.",
+          "advice": "TODO IT: translate/adapt: Do not let one difficult chapter become your entire story."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "TODO IT: translate/adapt: Something may still feel disappointing, but the whole picture is not lost.",
+          "love": "TODO IT: translate/adapt: Your heart may be protecting itself because something once hurt.",
+          "career": "TODO IT: translate/adapt: A result may feel discouraging, but it can still become useful information.",
+          "money": "TODO IT: translate/adapt: Regret can become a clearer plan when you look at what remains.",
+          "growth": "TODO IT: translate/adapt: This is a moment to process pain without becoming defined by it."
+        },
+        "situation": {
+          "general": "TODO IT: translate/adapt: The situation may be colored by disappointment or regret.",
+          "love": "TODO IT: translate/adapt: A previous hurt may still influence how open you feel.",
+          "career": "TODO IT: translate/adapt: You may be judging the whole path through one setback.",
+          "money": "TODO IT: translate/adapt: An old financial worry may be taking too much emotional space.",
+          "growth": "TODO IT: translate/adapt: Self-compassion is needed before clarity can return."
+        },
+        "past": {
+          "general": "TODO IT: translate/adapt: The past may have carried disappointment, grief, or emotional loss.",
+          "love": "TODO IT: translate/adapt: A previous hurt or relationship disappointment may still shape how you protect your heart.",
+          "career": "TODO IT: translate/adapt: A past setback may have affected your confidence or direction.",
+          "money": "TODO IT: translate/adapt: A previous financial disappointment may still influence your choices.",
+          "growth": "TODO IT: translate/adapt: You may have grown through a painful lesson that still asks for compassion."
+        },
+        "present": {
+          "general": "TODO IT: translate/adapt: Right now, you may be focused on what went wrong instead of what still remains.",
+          "love": "TODO IT: translate/adapt: Your heart may need gentleness before it can fully open again.",
+          "career": "TODO IT: translate/adapt: You may be carrying disappointment from a recent result, but the path is not closed.",
+          "money": "TODO IT: translate/adapt: A financial worry or regret may be asking for a calmer, clearer look.",
+          "growth": "TODO IT: translate/adapt: This moment asks you to process what hurts without letting it define you."
+        },
+        "future": {
+          "general": "TODO IT: translate/adapt: The future asks you to process what was lost without letting it define you.",
+          "love": "TODO IT: translate/adapt: Emotional healing is possible, but it may require releasing old regret.",
+          "career": "TODO IT: translate/adapt: A difficult lesson can become useful if you stop seeing it only as failure.",
+          "money": "TODO IT: translate/adapt: A past mistake can guide wiser choices ahead.",
+          "growth": "TODO IT: translate/adapt: Your next step may be learning how to carry wisdom without carrying blame."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "TODO IT: translate/adapt: What am I still carrying that I am ready to set down?",
+          "TODO IT: translate/adapt: What remains available to me, even after disappointment?"
+        ],
+        "love": [
+          "TODO IT: translate/adapt: What past hurt am I ready to stop bringing into every new moment?",
+          "TODO IT: translate/adapt: What would help my heart feel respected?"
+        ],
+        "career": [
+          "TODO IT: translate/adapt: What did this setback teach me?",
+          "TODO IT: translate/adapt: What part of the path is still open?"
+        ],
+        "money": [
+          "TODO IT: translate/adapt: Which regret can become a practical lesson?",
+          "TODO IT: translate/adapt: What resource do I still have?"
+        ],
+        "growth": [
+          "TODO IT: translate/adapt: Where can I offer myself compassion instead of blame?",
+          "TODO IT: translate/adapt: What would it mean to move forward gently?"
+        ]
+      }
+    },
+    {
+      "id": "ace_of_pentacles",
+      "name": "Asso di Denari",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "ace",
+      "number": 1,
+      "assetId": "pentacles_01_ace.png",
+      "keywords": [
+        "new beginning",
+        "stability",
+        "opportunity",
+        "grounding",
+        "potential"
+      ],
+      "tags": [
+        "new_beginning",
+        "stability",
+        "opportunity",
+        "material_growth",
+        "grounding",
+        "practical_step"
+      ],
+      "toneTags": [
+        "grounded",
+        "encouraging",
+        "practical"
+      ],
+      "meanings": {
+        "general": {
+          "summary": "TODO IT: translate/adapt: The Ace of Pentacles brings the seed of a stable new beginning.",
+          "advice": "TODO IT: translate/adapt: Take the opportunity seriously, but let it grow one step at a time."
+        },
+        "love": {
+          "summary": "TODO IT: translate/adapt: A grounded connection with real potential may be forming.",
+          "advice": "TODO IT: translate/adapt: Look for consistency, care, and actions that can become trust."
+        },
+        "career": {
+          "summary": "TODO IT: translate/adapt: A practical opportunity may be opening around work, study, or resources.",
+          "advice": "TODO IT: translate/adapt: Give the opportunity structure so it can become something lasting."
+        },
+        "money": {
+          "summary": "TODO IT: translate/adapt: A new financial opportunity, resource, or practical start may appear.",
+          "advice": "TODO IT: translate/adapt: Small stable choices can become long-term growth."
+        },
+        "growth": {
+          "summary": "TODO IT: translate/adapt: Personal growth may begin through a simple, grounded habit or commitment.",
+          "advice": "TODO IT: translate/adapt: Plant the seed, then protect it with consistency."
+        }
+      },
+      "positions": {
+        "message": {
+          "general": "TODO IT: translate/adapt: A small practical beginning deserves your attention.",
+          "love": "TODO IT: translate/adapt: Trust may grow through consistent actions, not only feelings.",
+          "career": "TODO IT: translate/adapt: A real opportunity needs structure and follow-through.",
+          "money": "TODO IT: translate/adapt: A simple financial step can support future stability.",
+          "growth": "TODO IT: translate/adapt: A grounded habit can change more than a dramatic promise."
+        },
+        "situation": {
+          "general": "TODO IT: translate/adapt: The situation contains potential, but it needs care and consistency.",
+          "love": "TODO IT: translate/adapt: A connection may become real through patience and reliability.",
+          "career": "TODO IT: translate/adapt: This is a moment to treat opportunity as something to build.",
+          "money": "TODO IT: translate/adapt: A stable plan can begin with one manageable action.",
+          "growth": "TODO IT: translate/adapt: Your growth wants practical roots."
+        },
+        "past": {
+          "general": "TODO IT: translate/adapt: The past may have offered the first seed of something stable.",
+          "love": "TODO IT: translate/adapt: A connection may have begun with practical care or quiet potential.",
+          "career": "TODO IT: translate/adapt: A past opportunity may have given you something to build on.",
+          "money": "TODO IT: translate/adapt: You may have already received or created the foundation for better stability.",
+          "growth": "TODO IT: translate/adapt: A small habit or decision from the past may still be growing."
+        },
+        "present": {
+          "general": "TODO IT: translate/adapt: The present offers a grounded opportunity that can become something real.",
+          "love": "TODO IT: translate/adapt: A relationship or emotional connection may need patience, consistency, and trust.",
+          "career": "TODO IT: translate/adapt: This is a good moment to act on a practical opportunity.",
+          "money": "TODO IT: translate/adapt: A stable financial step may be available now.",
+          "growth": "TODO IT: translate/adapt: Your growth is asking for simple, consistent action."
+        },
+        "future": {
+          "general": "TODO IT: translate/adapt: The future may bring a new stable beginning or practical opportunity.",
+          "love": "TODO IT: translate/adapt: A connection may become more grounded, steady, and real.",
+          "career": "TODO IT: translate/adapt: A new opportunity could become something reliable if you nurture it.",
+          "money": "TODO IT: translate/adapt: A small practical choice may grow into greater stability.",
+          "growth": "TODO IT: translate/adapt: Your future growth may come from patience, structure, and care."
+        }
+      },
+      "journalPrompts": {
+        "general": [
+          "TODO IT: translate/adapt: What small seed am I ready to protect?",
+          "TODO IT: translate/adapt: What practical step would help this opportunity grow?"
+        ],
+        "love": [
+          "TODO IT: translate/adapt: What action would make love feel more grounded?",
+          "TODO IT: translate/adapt: Where do I need consistency more than intensity?"
+        ],
+        "career": [
+          "TODO IT: translate/adapt: What opportunity needs a plan?",
+          "TODO IT: translate/adapt: What small action can I take today?"
+        ],
+        "money": [
+          "TODO IT: translate/adapt: What stable choice can I repeat?",
+          "TODO IT: translate/adapt: Where can I build security step by step?"
+        ],
+        "growth": [
+          "TODO IT: translate/adapt: What habit would support the person I am becoming?",
+          "TODO IT: translate/adapt: What does grounded growth look like today?"
+        ]
+      }
+    }
+  ],
+  "readingTypes": [
+    {
+      "id": "general",
+      "name": "Generale",
+      "shortName": "Generale",
+      "description": "Una lettura equilibrata sull’energia del momento, sulle scelte e sulla direzione.",
+      "tone": "reflective"
+    },
+    {
+      "id": "love",
+      "name": "Amore",
+      "shortName": "Amore",
+      "description": "Una lettura delicata su sentimenti, relazioni, schemi emotivi e connessione.",
+      "tone": "gentle"
+    },
+    {
+      "id": "career",
+      "name": "Carriera",
+      "shortName": "Carriera",
+      "description": "Una lettura concreta su lavoro, ambizione, direzione e crescita pratica.",
+      "tone": "grounded"
+    },
+    {
+      "id": "money",
+      "name": "Denaro",
+      "shortName": "Denaro",
+      "description": "Una lettura concreta su risorse, stabilità, opportunità e scelte finanziarie.",
+      "tone": "practical"
+    },
+    {
+      "id": "growth",
+      "name": "Crescita personale",
+      "shortName": "Crescita",
+      "description": "Una lettura di supporto su consapevolezza, guarigione, abitudini e cambiamento interiore.",
+      "tone": "supportive"
+    }
+  ],
+  "readings": [
+    {
+      "id": "pickup_card",
+      "kind": "pick_a_card",
+      "name": "Scegli una Carta",
+      "description": "Scegli una carta coperta e ricevi un messaggio delicato per questo momento.",
+      "cardCount": 1,
+      "ui": {
+        "route": "/readings/pickup-card",
+        "layout": "facedown_choice_row",
+        "selectFromCount": 3,
+        "saveToHistory": true,
+        "canJournal": true
+      },
+      "positions": [
+        {
+          "id": "message",
+          "name": "Messaggio",
+          "meaningPath": "positions.message.{readingType}",
+          "fallbackMeaningPath": "meanings.{readingType}.summary"
+        }
+      ],
+      "template": {
+        "opening": "Hai scelto la carta che richiama la tua attenzione in questo momento.",
+        "cardLine": "{cardName} porta questo messaggio: {positionMeaning}",
+        "adviceLine": "Consiglio gentile: {advice}",
+        "closing": "Solo per riflessione e intrattenimento. Non è un consiglio medico, legale, finanziario o professionale."
+      },
+      "supportedReadingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "drawPolicy": {
+        "allowReversed": false,
+        "avoidDuplicateCardsInSameReading": true
+      },
+      "safety": {
+        "showDisclaimerKey": "standard_reflection_disclaimer"
+      }
+    },
+    {
+      "id": "one_card",
+      "kind": "single_card",
+      "name": "Lettura a una Carta",
+      "description": "Una riflessione focalizzata su una domanda, un tema o l’energia attuale.",
+      "cardCount": 1,
+      "ui": {
+        "route": "/readings/one-card",
+        "layout": "single_center_card",
+        "saveToHistory": true,
+        "canJournal": true
+      },
+      "positions": [
+        {
+          "id": "situation",
+          "name": "Situazione",
+          "meaningPath": "positions.situation.{readingType}",
+          "fallbackMeaningPath": "meanings.{readingType}.summary"
+        }
+      ],
+      "template": {
+        "opening": "Questa lettura a una carta concentra il messaggio in una riflessione semplice.",
+        "cardLine": "Per la tua lettura {readingTypeName}, {cardName} suggerisce: {positionMeaning}",
+        "adviceLine": "Il consiglio è: {advice}",
+        "journalPromptLine": "Riflessione: {journalPrompt}",
+        "closing": "Solo per riflessione e intrattenimento. Non è un consiglio medico, legale, finanziario o professionale."
+      },
+      "supportedReadingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "drawPolicy": {
+        "allowReversed": false,
+        "avoidDuplicateCardsInSameReading": true
+      },
+      "safety": {
+        "showDisclaimerKey": "standard_reflection_disclaimer"
+      }
+    },
+    {
+      "id": "three_cards",
+      "kind": "past_present_future",
+      "name": "Passato · Presente · Futuro",
+      "description": "Una lettura a tre carte che mostra il percorso da influenza precedente, energia attuale e possibile direzione.",
+      "cardCount": 3,
+      "ui": {
+        "route": "/readings/three-cards",
+        "layout": "past_present_future_table",
+        "revealOrder": [
+          "past",
+          "present",
+          "future"
+        ],
+        "saveToHistory": true,
+        "canJournal": true
+      },
+      "positions": [
+        {
+          "id": "past",
+          "name": "Passato",
+          "meaningPath": "positions.past.{readingType}",
+          "fallbackMeaningPath": "meanings.{readingType}.summary"
+        },
+        {
+          "id": "present",
+          "name": "Presente",
+          "meaningPath": "positions.present.{readingType}",
+          "fallbackMeaningPath": "meanings.{readingType}.summary"
+        },
+        {
+          "id": "future",
+          "name": "Futuro",
+          "meaningPath": "positions.future.{readingType}",
+          "fallbackMeaningPath": "meanings.{readingType}.summary"
+        }
+      ],
+      "template": {
+        "opening": "Questa stesa attraversa passato, presente e futuro, mostrando come l’energia potrebbe evolversi.",
+        "positionLine": "{positionName}: {cardName} suggerisce: {positionMeaning}",
+        "connectionIntro": "Il collegamento tra le carte:",
+        "triadIntro": "Nel complesso:",
+        "closing": "Solo per riflessione e intrattenimento. Non è un consiglio medico, legale, finanziario o professionale."
+      },
+      "supportedReadingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "drawPolicy": {
+        "allowReversed": false,
+        "avoidDuplicateCardsInSameReading": true
+      },
+      "safety": {
+        "showDisclaimerKey": "standard_reflection_disclaimer"
+      }
+    }
+  ],
+  "combinationRules": [
+    {
+      "id": "loss_to_healing",
+      "priority": 90,
+      "appliesToReading": "three_cards",
+      "fromPosition": "past",
+      "toPosition": "present",
+      "fromTagsAny": [
+        "loss",
+        "regret",
+        "emotional_processing"
+      ],
+      "toTagsAny": [
+        "hope",
+        "healing",
+        "renewal"
+      ],
+      "readingTypes": [
+        "general",
+        "love",
+        "growth"
+      ],
+      "text": "Il passaggio dal passato al presente suggerisce che il dolore sta lentamente diventando guarigione."
+    },
+    {
+      "id": "healing_to_stability",
+      "priority": 80,
+      "appliesToReading": "three_cards",
+      "fromPosition": "present",
+      "toPosition": "future",
+      "fromTagsAny": [
+        "hope",
+        "healing",
+        "renewal"
+      ],
+      "toTagsAny": [
+        "stability",
+        "opportunity",
+        "grounding"
+      ],
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "text": "Ciò che nasce come guarigione può diventare più stabile se riceve pazienza e cura."
+    },
+    {
+      "id": "loss_card_in_single",
+      "priority": 50,
+      "appliesToReadingAny": [
+        "pickup_card",
+        "one_card"
+      ],
+      "cardTagsAny": [
+        "loss",
+        "regret",
+        "healing_needed"
+      ],
+      "readingTypes": [
+        "general",
+        "love",
+        "growth"
+      ],
+      "text": "Questa carta non ti chiede di restare nel dolore; ti invita a capire cosa ha ancora bisogno di tenerezza."
+    }
+  ],
+  "triadRules": [
+    {
+      "id": "emotional_recovery_to_new_start",
+      "priority": 100,
+      "appliesToReading": "three_cards",
+      "requiredTagsAcrossReading": [
+        "loss",
+        "healing",
+        "new_beginning"
+      ],
+      "readingTypes": [
+        "general",
+        "love",
+        "growth"
+      ],
+      "text": "Insieme, queste carte descrivono un percorso dal peso emotivo verso il rinnovamento e un nuovo inizio più concreto."
+    }
+  ],
+  "safety": {
+    "blockedTopics": [
+      "medical_diagnosis",
+      "legal_decision",
+      "financial_guarantee",
+      "pregnancy_prediction",
+      "death_prediction"
+    ],
+    "fallbackMessage": {
+      "en": "This reading is for reflection and entertainment only. For medical, legal, financial, or urgent personal decisions, please speak with a qualified professional.",
+      "it": "Questa lettura è solo per riflessione e intrattenimento. Per decisioni mediche, legali, finanziarie o personali urgenti, rivolgiti a un professionista qualificato.",
+      "es": "Esta lectura es solo para reflexión y entretenimiento. Para decisiones médicas, legales, financieras o personales urgentes, consulta con un profesional calificado."
+    }
+  }
+}

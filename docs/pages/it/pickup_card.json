@@ -1,0 +1,42 @@
+{
+  "id": "pickup_card",
+  "kind": "pick_a_card",
+  "name": "Scegli una Carta",
+  "description": "Scegli una carta coperta e ricevi un messaggio delicato per questo momento.",
+  "cardCount": 1,
+  "ui": {
+    "route": "/readings/pickup-card",
+    "layout": "facedown_choice_row",
+    "selectFromCount": 3,
+    "saveToHistory": true,
+    "canJournal": true
+  },
+  "positions": [
+    {
+      "id": "message",
+      "name": "Messaggio",
+      "meaningPath": "positions.message.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    }
+  ],
+  "template": {
+    "opening": "Hai scelto la carta che richiama la tua attenzione in questo momento.",
+    "cardLine": "{cardName} porta questo messaggio: {positionMeaning}",
+    "adviceLine": "Consiglio gentile: {advice}",
+    "closing": "Solo per riflessione e intrattenimento. Non è un consiglio medico, legale, finanziario o professionale."
+  },
+  "supportedReadingTypes": [
+    "general",
+    "love",
+    "career",
+    "money",
+    "growth"
+  ],
+  "drawPolicy": {
+    "allowReversed": false,
+    "avoidDuplicateCardsInSameReading": true
+  },
+  "safety": {
+    "showDisclaimerKey": "standard_reflection_disclaimer"
+  }
+}

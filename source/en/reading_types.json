@@ -1,0 +1,37 @@
+[
+  {
+    "id": "general",
+    "name": "General",
+    "shortName": "General",
+    "description": "A balanced reading for the current energy, choices, and direction.",
+    "tone": "reflective"
+  },
+  {
+    "id": "love",
+    "name": "Love",
+    "shortName": "Love",
+    "description": "A gentle reading focused on feelings, relationships, emotional patterns, and connection.",
+    "tone": "gentle"
+  },
+  {
+    "id": "career",
+    "name": "Career",
+    "shortName": "Career",
+    "description": "A grounded reading focused on work, ambition, direction, and practical growth.",
+    "tone": "grounded"
+  },
+  {
+    "id": "money",
+    "name": "Money",
+    "shortName": "Money",
+    "description": "A grounded reading focused on resources, stability, opportunity, and financial choices.",
+    "tone": "practical"
+  },
+  {
+    "id": "growth",
+    "name": "Personal Growth",
+    "shortName": "Growth",
+    "description": "A supportive reading focused on self-awareness, healing, habits, and inner change.",
+    "tone": "supportive"
+  }
+]

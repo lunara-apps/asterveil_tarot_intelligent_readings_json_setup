@@ -1,0 +1,42 @@
+{
+  "id": "pickup_card",
+  "kind": "pick_a_card",
+  "name": "Elige una Carta",
+  "description": "Elige una carta boca abajo y recibe un mensaje suave para este momento.",
+  "cardCount": 1,
+  "ui": {
+    "route": "/readings/pickup-card",
+    "layout": "facedown_choice_row",
+    "selectFromCount": 3,
+    "saveToHistory": true,
+    "canJournal": true
+  },
+  "positions": [
+    {
+      "id": "message",
+      "name": "Mensaje",
+      "meaningPath": "positions.message.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    }
+  ],
+  "template": {
+    "opening": "Elegiste la carta que quería llamar tu atención ahora.",
+    "cardLine": "{cardName} trae este mensaje: {positionMeaning}",
+    "adviceLine": "Consejo suave: {advice}",
+    "closing": "Solo para reflexión y entretenimiento. No es consejo médico, legal, financiero ni profesional."
+  },
+  "supportedReadingTypes": [
+    "general",
+    "love",
+    "career",
+    "money",
+    "growth"
+  ],
+  "drawPolicy": {
+    "allowReversed": false,
+    "avoidDuplicateCardsInSameReading": true
+  },
+  "safety": {
+    "showDisclaimerKey": "standard_reflection_disclaimer"
+  }
+}

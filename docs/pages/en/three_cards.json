@@ -1,0 +1,59 @@
+{
+  "id": "three_cards",
+  "kind": "past_present_future",
+  "name": "Past · Present · Future",
+  "description": "A three-card reading that shows the path from previous influence, to current energy, to possible direction.",
+  "cardCount": 3,
+  "ui": {
+    "route": "/readings/three-cards",
+    "layout": "past_present_future_table",
+    "revealOrder": [
+      "past",
+      "present",
+      "future"
+    ],
+    "saveToHistory": true,
+    "canJournal": true
+  },
+  "positions": [
+    {
+      "id": "past",
+      "name": "Past",
+      "meaningPath": "positions.past.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    },
+    {
+      "id": "present",
+      "name": "Present",
+      "meaningPath": "positions.present.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    },
+    {
+      "id": "future",
+      "name": "Future",
+      "meaningPath": "positions.future.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    }
+  ],
+  "template": {
+    "opening": "This spread moves through past, present, and future, showing how the energy may be unfolding.",
+    "positionLine": "{positionName}: {cardName} suggests: {positionMeaning}",
+    "connectionIntro": "The connection between the cards:",
+    "triadIntro": "As a whole:",
+    "closing": "For reflection and entertainment only. This is not medical, legal, financial, or professional advice."
+  },
+  "supportedReadingTypes": [
+    "general",
+    "love",
+    "career",
+    "money",
+    "growth"
+  ],
+  "drawPolicy": {
+    "allowReversed": false,
+    "avoidDuplicateCardsInSameReading": true
+  },
+  "safety": {
+    "showDisclaimerKey": "standard_reflection_disclaimer"
+  }
+}

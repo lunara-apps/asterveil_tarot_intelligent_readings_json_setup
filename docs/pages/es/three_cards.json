@@ -1,0 +1,59 @@
+{
+  "id": "three_cards",
+  "kind": "past_present_future",
+  "name": "Pasado · Presente · Futuro",
+  "description": "Una lectura de tres cartas que muestra el camino desde la influencia previa, la energía actual y una posible dirección.",
+  "cardCount": 3,
+  "ui": {
+    "route": "/readings/three-cards",
+    "layout": "past_present_future_table",
+    "revealOrder": [
+      "past",
+      "present",
+      "future"
+    ],
+    "saveToHistory": true,
+    "canJournal": true
+  },
+  "positions": [
+    {
+      "id": "past",
+      "name": "Pasado",
+      "meaningPath": "positions.past.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    },
+    {
+      "id": "present",
+      "name": "Presente",
+      "meaningPath": "positions.present.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    },
+    {
+      "id": "future",
+      "name": "Futuro",
+      "meaningPath": "positions.future.{readingType}",
+      "fallbackMeaningPath": "meanings.{readingType}.summary"
+    }
+  ],
+  "template": {
+    "opening": "Esta tirada recorre pasado, presente y futuro, mostrando cómo puede desarrollarse la energía.",
+    "positionLine": "{positionName}: {cardName} sugiere: {positionMeaning}",
+    "connectionIntro": "La conexión entre las cartas:",
+    "triadIntro": "En conjunto:",
+    "closing": "Solo para reflexión y entretenimiento. No es consejo médico, legal, financiero ni profesional."
+  },
+  "supportedReadingTypes": [
+    "general",
+    "love",
+    "career",
+    "money",
+    "growth"
+  ],
+  "drawPolicy": {
+    "allowReversed": false,
+    "avoidDuplicateCardsInSameReading": true
+  },
+  "safety": {
+    "showDisclaimerKey": "standard_reflection_disclaimer"
+  }
+}

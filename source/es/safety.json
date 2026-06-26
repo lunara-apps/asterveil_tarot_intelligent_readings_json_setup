@@ -1,0 +1,14 @@
+{
+  "blockedTopics": [
+    "medical_diagnosis",
+    "legal_decision",
+    "financial_guarantee",
+    "pregnancy_prediction",
+    "death_prediction"
+  ],
+  "fallbackMessage": {
+    "en": "This reading is for reflection and entertainment only. For medical, legal, financial, or urgent personal decisions, please speak with a qualified professional.",
+    "it": "Questa lettura è solo per riflessione e intrattenimento. Per decisioni mediche, legali, finanziarie o personali urgenti, rivolgiti a un professionista qualificato.",
+    "es": "Esta lectura es solo para reflexión y entretenimiento. Para decisiones médicas, legales, financieras o personales urgentes, consulta con un profesional calificado."
+  }
+}
