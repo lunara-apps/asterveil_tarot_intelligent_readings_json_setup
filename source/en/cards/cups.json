@@ -1,0 +1,111 @@
+[
+  {
+    "id": "five_of_cups",
+    "name": "Five of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "five",
+    "number": 5,
+    "assetId": "cups_05_five.png",
+    "keywords": [
+      "loss",
+      "regret",
+      "grief",
+      "emotional processing",
+      "what remains"
+    ],
+    "tags": [
+      "loss",
+      "regret",
+      "emotional_processing",
+      "healing_needed",
+      "perspective"
+    ],
+    "toneTags": [
+      "tender",
+      "honest",
+      "reflective"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Five of Cups points to disappointment, regret, or emotional loss.",
+        "advice": "Acknowledge what hurt, but do not forget what still remains."
+      },
+      "love": {
+        "summary": "Old hurt, disappointment, or emotional distance may still be affecting the heart.",
+        "advice": "Healing begins when you stop living only inside what went wrong."
+      },
+      "career": {
+        "summary": "A setback or missed opportunity may still weigh on your confidence.",
+        "advice": "Learn from the loss, then look for what can still be rebuilt."
+      },
+      "money": {
+        "summary": "This card can suggest regret around past choices or missed financial chances.",
+        "advice": "Focus on the resources still available instead of only what was lost."
+      },
+      "growth": {
+        "summary": "Growth may begin by facing grief, disappointment, or self-blame with honesty.",
+        "advice": "Do not let one difficult chapter become your entire story."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "Something may still feel disappointing, but the whole picture is not lost.",
+        "love": "Your heart may be protecting itself because something once hurt.",
+        "career": "A result may feel discouraging, but it can still become useful information.",
+        "money": "Regret can become a clearer plan when you look at what remains.",
+        "growth": "This is a moment to process pain without becoming defined by it."
+      },
+      "situation": {
+        "general": "The situation may be colored by disappointment or regret.",
+        "love": "A previous hurt may still influence how open you feel.",
+        "career": "You may be judging the whole path through one setback.",
+        "money": "An old financial worry may be taking too much emotional space.",
+        "growth": "Self-compassion is needed before clarity can return."
+      },
+      "past": {
+        "general": "The past may have carried disappointment, grief, or emotional loss.",
+        "love": "A previous hurt or relationship disappointment may still shape how you protect your heart.",
+        "career": "A past setback may have affected your confidence or direction.",
+        "money": "A previous financial disappointment may still influence your choices.",
+        "growth": "You may have grown through a painful lesson that still asks for compassion."
+      },
+      "present": {
+        "general": "Right now, you may be focused on what went wrong instead of what still remains.",
+        "love": "Your heart may need gentleness before it can fully open again.",
+        "career": "You may be carrying disappointment from a recent result, but the path is not closed.",
+        "money": "A financial worry or regret may be asking for a calmer, clearer look.",
+        "growth": "This moment asks you to process what hurts without letting it define you."
+      },
+      "future": {
+        "general": "The future asks you to process what was lost without letting it define you.",
+        "love": "Emotional healing is possible, but it may require releasing old regret.",
+        "career": "A difficult lesson can become useful if you stop seeing it only as failure.",
+        "money": "A past mistake can guide wiser choices ahead.",
+        "growth": "Your next step may be learning how to carry wisdom without carrying blame."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "What am I still carrying that I am ready to set down?",
+        "What remains available to me, even after disappointment?"
+      ],
+      "love": [
+        "What past hurt am I ready to stop bringing into every new moment?",
+        "What would help my heart feel respected?"
+      ],
+      "career": [
+        "What did this setback teach me?",
+        "What part of the path is still open?"
+      ],
+      "money": [
+        "Which regret can become a practical lesson?",
+        "What resource do I still have?"
+      ],
+      "growth": [
+        "Where can I offer myself compassion instead of blame?",
+        "What would it mean to move forward gently?"
+      ]
+    }
+  }
+]

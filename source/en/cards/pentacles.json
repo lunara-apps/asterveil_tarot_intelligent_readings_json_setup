@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ace_of_pentacles",
+    "name": "Ace of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "ace",
+    "number": 1,
+    "assetId": "pentacles_01_ace.png",
+    "keywords": [
+      "new beginning",
+      "stability",
+      "opportunity",
+      "grounding",
+      "potential"
+    ],
+    "tags": [
+      "new_beginning",
+      "stability",
+      "opportunity",
+      "material_growth",
+      "grounding",
+      "practical_step"
+    ],
+    "toneTags": [
+      "grounded",
+      "encouraging",
+      "practical"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "The Ace of Pentacles brings the seed of a stable new beginning.",
+        "advice": "Take the opportunity seriously, but let it grow one step at a time."
+      },
+      "love": {
+        "summary": "A grounded connection with real potential may be forming.",
+        "advice": "Look for consistency, care, and actions that can become trust."
+      },
+      "career": {
+        "summary": "A practical opportunity may be opening around work, study, or resources.",
+        "advice": "Give the opportunity structure so it can become something lasting."
+      },
+      "money": {
+        "summary": "A new financial opportunity, resource, or practical start may appear.",
+        "advice": "Small stable choices can become long-term growth."
+      },
+      "growth": {
+        "summary": "Personal growth may begin through a simple, grounded habit or commitment.",
+        "advice": "Plant the seed, then protect it with consistency."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "A small practical beginning deserves your attention.",
+        "love": "Trust may grow through consistent actions, not only feelings.",
+        "career": "A real opportunity needs structure and follow-through.",
+        "money": "A simple financial step can support future stability.",
+        "growth": "A grounded habit can change more than a dramatic promise."
+      },
+      "situation": {
+        "general": "The situation contains potential, but it needs care and consistency.",
+        "love": "A connection may become real through patience and reliability.",
+        "career": "This is a moment to treat opportunity as something to build.",
+        "money": "A stable plan can begin with one manageable action.",
+        "growth": "Your growth wants practical roots."
+      },
+      "past": {
+        "general": "The past may have offered the first seed of something stable.",
+        "love": "A connection may have begun with practical care or quiet potential.",
+        "career": "A past opportunity may have given you something to build on.",
+        "money": "You may have already received or created the foundation for better stability.",
+        "growth": "A small habit or decision from the past may still be growing."
+      },
+      "present": {
+        "general": "The present offers a grounded opportunity that can become something real.",
+        "love": "A relationship or emotional connection may need patience, consistency, and trust.",
+        "career": "This is a good moment to act on a practical opportunity.",
+        "money": "A stable financial step may be available now.",
+        "growth": "Your growth is asking for simple, consistent action."
+      },
+      "future": {
+        "general": "The future may bring a new stable beginning or practical opportunity.",
+        "love": "A connection may become more grounded, steady, and real.",
+        "career": "A new opportunity could become something reliable if you nurture it.",
+        "money": "A small practical choice may grow into greater stability.",
+        "growth": "Your future growth may come from patience, structure, and care."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "What small seed am I ready to protect?",
+        "What practical step would help this opportunity grow?"
+      ],
+      "love": [
+        "What action would make love feel more grounded?",
+        "Where do I need consistency more than intensity?"
+      ],
+      "career": [
+        "What opportunity needs a plan?",
+        "What small action can I take today?"
+      ],
+      "money": [
+        "What stable choice can I repeat?",
+        "Where can I build security step by step?"
+      ],
+      "growth": [
+        "What habit would support the person I am becoming?",
+        "What does grounded growth look like today?"
+      ]
+    }
+  }
+]

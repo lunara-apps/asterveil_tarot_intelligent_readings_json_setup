@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ace_of_pentacles",
+    "name": "Asso di Denari",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "ace",
+    "number": 1,
+    "assetId": "pentacles_01_ace.png",
+    "keywords": [
+      "new beginning",
+      "stability",
+      "opportunity",
+      "grounding",
+      "potential"
+    ],
+    "tags": [
+      "new_beginning",
+      "stability",
+      "opportunity",
+      "material_growth",
+      "grounding",
+      "practical_step"
+    ],
+    "toneTags": [
+      "grounded",
+      "encouraging",
+      "practical"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "TODO IT: translate/adapt: The Ace of Pentacles brings the seed of a stable new beginning.",
+        "advice": "TODO IT: translate/adapt: Take the opportunity seriously, but let it grow one step at a time."
+      },
+      "love": {
+        "summary": "TODO IT: translate/adapt: A grounded connection with real potential may be forming.",
+        "advice": "TODO IT: translate/adapt: Look for consistency, care, and actions that can become trust."
+      },
+      "career": {
+        "summary": "TODO IT: translate/adapt: A practical opportunity may be opening around work, study, or resources.",
+        "advice": "TODO IT: translate/adapt: Give the opportunity structure so it can become something lasting."
+      },
+      "money": {
+        "summary": "TODO IT: translate/adapt: A new financial opportunity, resource, or practical start may appear.",
+        "advice": "TODO IT: translate/adapt: Small stable choices can become long-term growth."
+      },
+      "growth": {
+        "summary": "TODO IT: translate/adapt: Personal growth may begin through a simple, grounded habit or commitment.",
+        "advice": "TODO IT: translate/adapt: Plant the seed, then protect it with consistency."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "TODO IT: translate/adapt: A small practical beginning deserves your attention.",
+        "love": "TODO IT: translate/adapt: Trust may grow through consistent actions, not only feelings.",
+        "career": "TODO IT: translate/adapt: A real opportunity needs structure and follow-through.",
+        "money": "TODO IT: translate/adapt: A simple financial step can support future stability.",
+        "growth": "TODO IT: translate/adapt: A grounded habit can change more than a dramatic promise."
+      },
+      "situation": {
+        "general": "TODO IT: translate/adapt: The situation contains potential, but it needs care and consistency.",
+        "love": "TODO IT: translate/adapt: A connection may become real through patience and reliability.",
+        "career": "TODO IT: translate/adapt: This is a moment to treat opportunity as something to build.",
+        "money": "TODO IT: translate/adapt: A stable plan can begin with one manageable action.",
+        "growth": "TODO IT: translate/adapt: Your growth wants practical roots."
+      },
+      "past": {
+        "general": "TODO IT: translate/adapt: The past may have offered the first seed of something stable.",
+        "love": "TODO IT: translate/adapt: A connection may have begun with practical care or quiet potential.",
+        "career": "TODO IT: translate/adapt: A past opportunity may have given you something to build on.",
+        "money": "TODO IT: translate/adapt: You may have already received or created the foundation for better stability.",
+        "growth": "TODO IT: translate/adapt: A small habit or decision from the past may still be growing."
+      },
+      "present": {
+        "general": "TODO IT: translate/adapt: The present offers a grounded opportunity that can become something real.",
+        "love": "TODO IT: translate/adapt: A relationship or emotional connection may need patience, consistency, and trust.",
+        "career": "TODO IT: translate/adapt: This is a good moment to act on a practical opportunity.",
+        "money": "TODO IT: translate/adapt: A stable financial step may be available now.",
+        "growth": "TODO IT: translate/adapt: Your growth is asking for simple, consistent action."
+      },
+      "future": {
+        "general": "TODO IT: translate/adapt: The future may bring a new stable beginning or practical opportunity.",
+        "love": "TODO IT: translate/adapt: A connection may become more grounded, steady, and real.",
+        "career": "TODO IT: translate/adapt: A new opportunity could become something reliable if you nurture it.",
+        "money": "TODO IT: translate/adapt: A small practical choice may grow into greater stability.",
+        "growth": "TODO IT: translate/adapt: Your future growth may come from patience, structure, and care."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "TODO IT: translate/adapt: What small seed am I ready to protect?",
+        "TODO IT: translate/adapt: What practical step would help this opportunity grow?"
+      ],
+      "love": [
+        "TODO IT: translate/adapt: What action would make love feel more grounded?",
+        "TODO IT: translate/adapt: Where do I need consistency more than intensity?"
+      ],
+      "career": [
+        "TODO IT: translate/adapt: What opportunity needs a plan?",
+        "TODO IT: translate/adapt: What small action can I take today?"
+      ],
+      "money": [
+        "TODO IT: translate/adapt: What stable choice can I repeat?",
+        "TODO IT: translate/adapt: Where can I build security step by step?"
+      ],
+      "growth": [
+        "TODO IT: translate/adapt: What habit would support the person I am becoming?",
+        "TODO IT: translate/adapt: What does grounded growth look like today?"
+      ]
+    }
+  }
+]

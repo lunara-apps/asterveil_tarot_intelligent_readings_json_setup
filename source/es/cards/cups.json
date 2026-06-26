@@ -1,0 +1,111 @@
+[
+  {
+    "id": "five_of_cups",
+    "name": "Cinco de Copas",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "five",
+    "number": 5,
+    "assetId": "cups_05_five.png",
+    "keywords": [
+      "loss",
+      "regret",
+      "grief",
+      "emotional processing",
+      "what remains"
+    ],
+    "tags": [
+      "loss",
+      "regret",
+      "emotional_processing",
+      "healing_needed",
+      "perspective"
+    ],
+    "toneTags": [
+      "tender",
+      "honest",
+      "reflective"
+    ],
+    "meanings": {
+      "general": {
+        "summary": "TODO ES: translate/adapt: The Five of Cups points to disappointment, regret, or emotional loss.",
+        "advice": "TODO ES: translate/adapt: Acknowledge what hurt, but do not forget what still remains."
+      },
+      "love": {
+        "summary": "TODO ES: translate/adapt: Old hurt, disappointment, or emotional distance may still be affecting the heart.",
+        "advice": "TODO ES: translate/adapt: Healing begins when you stop living only inside what went wrong."
+      },
+      "career": {
+        "summary": "TODO ES: translate/adapt: A setback or missed opportunity may still weigh on your confidence.",
+        "advice": "TODO ES: translate/adapt: Learn from the loss, then look for what can still be rebuilt."
+      },
+      "money": {
+        "summary": "TODO ES: translate/adapt: This card can suggest regret around past choices or missed financial chances.",
+        "advice": "TODO ES: translate/adapt: Focus on the resources still available instead of only what was lost."
+      },
+      "growth": {
+        "summary": "TODO ES: translate/adapt: Growth may begin by facing grief, disappointment, or self-blame with honesty.",
+        "advice": "TODO ES: translate/adapt: Do not let one difficult chapter become your entire story."
+      }
+    },
+    "positions": {
+      "message": {
+        "general": "TODO ES: translate/adapt: Something may still feel disappointing, but the whole picture is not lost.",
+        "love": "TODO ES: translate/adapt: Your heart may be protecting itself because something once hurt.",
+        "career": "TODO ES: translate/adapt: A result may feel discouraging, but it can still become useful information.",
+        "money": "TODO ES: translate/adapt: Regret can become a clearer plan when you look at what remains.",
+        "growth": "TODO ES: translate/adapt: This is a moment to process pain without becoming defined by it."
+      },
+      "situation": {
+        "general": "TODO ES: translate/adapt: The situation may be colored by disappointment or regret.",
+        "love": "TODO ES: translate/adapt: A previous hurt may still influence how open you feel.",
+        "career": "TODO ES: translate/adapt: You may be judging the whole path through one setback.",
+        "money": "TODO ES: translate/adapt: An old financial worry may be taking too much emotional space.",
+        "growth": "TODO ES: translate/adapt: Self-compassion is needed before clarity can return."
+      },
+      "past": {
+        "general": "TODO ES: translate/adapt: The past may have carried disappointment, grief, or emotional loss.",
+        "love": "TODO ES: translate/adapt: A previous hurt or relationship disappointment may still shape how you protect your heart.",
+        "career": "TODO ES: translate/adapt: A past setback may have affected your confidence or direction.",
+        "money": "TODO ES: translate/adapt: A previous financial disappointment may still influence your choices.",
+        "growth": "TODO ES: translate/adapt: You may have grown through a painful lesson that still asks for compassion."
+      },
+      "present": {
+        "general": "TODO ES: translate/adapt: Right now, you may be focused on what went wrong instead of what still remains.",
+        "love": "TODO ES: translate/adapt: Your heart may need gentleness before it can fully open again.",
+        "career": "TODO ES: translate/adapt: You may be carrying disappointment from a recent result, but the path is not closed.",
+        "money": "TODO ES: translate/adapt: A financial worry or regret may be asking for a calmer, clearer look.",
+        "growth": "TODO ES: translate/adapt: This moment asks you to process what hurts without letting it define you."
+      },
+      "future": {
+        "general": "TODO ES: translate/adapt: The future asks you to process what was lost without letting it define you.",
+        "love": "TODO ES: translate/adapt: Emotional healing is possible, but it may require releasing old regret.",
+        "career": "TODO ES: translate/adapt: A difficult lesson can become useful if you stop seeing it only as failure.",
+        "money": "TODO ES: translate/adapt: A past mistake can guide wiser choices ahead.",
+        "growth": "TODO ES: translate/adapt: Your next step may be learning how to carry wisdom without carrying blame."
+      }
+    },
+    "journalPrompts": {
+      "general": [
+        "TODO ES: translate/adapt: What am I still carrying that I am ready to set down?",
+        "TODO ES: translate/adapt: What remains available to me, even after disappointment?"
+      ],
+      "love": [
+        "TODO ES: translate/adapt: What past hurt am I ready to stop bringing into every new moment?",
+        "TODO ES: translate/adapt: What would help my heart feel respected?"
+      ],
+      "career": [
+        "TODO ES: translate/adapt: What did this setback teach me?",
+        "TODO ES: translate/adapt: What part of the path is still open?"
+      ],
+      "money": [
+        "TODO ES: translate/adapt: Which regret can become a practical lesson?",
+        "TODO ES: translate/adapt: What resource do I still have?"
+      ],
+      "growth": [
+        "TODO ES: translate/adapt: Where can I offer myself compassion instead of blame?",
+        "TODO ES: translate/adapt: What would it mean to move forward gently?"
+      ]
+    }
+  }
+]
