@@ -14,6 +14,12 @@ For each locale the script merges the five sets into one flat ``cards`` array
 content, writes the bundle + manifest, refreshes the public reading pages, and
 self-verifies the generated output.
 
+The content version (``v1-<hash>``) is content-addressed: it is derived from a
+hash of the delivered content, so it changes automatically — and only — when the
+content changes. The app can therefore detect updates by comparing the manifest's
+``latestContentVersion`` (which also drives the bundle URL, so a new version busts
+any cache), and verify integrity via each bundle's ``sha256``.
+
 Run locally (Windows):  py scripts\\build_bundle.py
 Run in CI (Linux):       python scripts/build_bundle.py
 Stdlib only; exits non-zero with a clear message on any validation failure.
@@ -24,7 +30,11 @@ import shutil
 import sys
 from pathlib import Path
 
-VERSION = "2026.06.26-v1"
+# Content version is derived from a hash of the delivered content (see compute_version),
+# so it changes automatically — and only — when card/reading content actually changes.
+# Bump VERSION_PREFIX manually only for a breaking schema change or to force every client
+# to re-download regardless of content.
+VERSION_PREFIX = "v1"
 ROOT = Path(__file__).resolve().parents[1]
 LOCALES = ["en", "it", "es"]
 SUITS = ["cups", "wands", "swords", "pentacles"]
@@ -215,10 +225,10 @@ def _check_same_sets(per_locale_sets, label, errors):
             )
 
 
-def build_bundle(loc, data):
+def build_bundle(loc, data, version):
     return {
         "schemaVersion": 1,
-        "contentVersion": VERSION,
+        "contentVersion": version,
         "locale": loc,
         "deckId": "asterveil_tarot",
         "deckName": "Asterveil Tarot",
@@ -231,25 +241,43 @@ def build_bundle(loc, data):
     }
 
 
-def write_outputs(per_locale):
+def compute_version(bundles):
+    """Content-addressed version: changes iff the delivered content changes.
+
+    Hashes each locale's assembled bundle while its `contentVersion` is still the
+    "" placeholder, so the result depends only on the actual content (cards,
+    readings, reading types, rules, safety, deck metadata) and never on the
+    version string itself. Identical content -> identical version, so no-op
+    rebuilds produce no diff and no new bundle folder.
+    """
+    h = hashlib.sha256()
+    for loc in LOCALES:
+        h.update(loc.encode("utf-8"))
+        h.update(b"\0")
+        h.update(dump_bytes(bundles[loc]))
+        h.update(b"\0")
+    return f"{VERSION_PREFIX}-{h.hexdigest()[:12]}"
+
+
+def write_outputs(bundles, version):
     manifest = {
         "schemaVersion": 1,
-        "latestContentVersion": VERSION,
+        "latestContentVersion": version,
         "minimumAppVersion": "1.0.0",
         "defaultLocale": "en",
         "availableLocales": LOCALES,
         "bundles": {},
     }
-    out_dir = ROOT / "docs" / "bundles" / VERSION
+    out_dir = ROOT / "docs" / "bundles" / version
     out_dir.mkdir(parents=True, exist_ok=True)
 
     for loc in LOCALES:
-        data = dump_bytes(build_bundle(loc, per_locale[loc]))
+        data = dump_bytes(bundles[loc])
         path = out_dir / f"tarot_content_{loc}.json"
         path.write_bytes(data)
         manifest["bundles"][loc] = {
-            "version": VERSION,
-            "url": f"bundles/{VERSION}/tarot_content_{loc}.json",
+            "version": version,
+            "url": f"bundles/{version}/tarot_content_{loc}.json",
             "sha256": hashlib.sha256(data).hexdigest(),
             "sizeBytes": len(data),
         }
@@ -290,7 +318,13 @@ def main():
     try:
         per_locale = {loc: load_locale(loc) for loc in LOCALES}
         validate(per_locale)
-        manifest_path = write_outputs(per_locale)
+        # Assemble bundles with a placeholder version, derive the content hash,
+        # then stamp the real version in (reassigning an existing key keeps order).
+        bundles = {loc: build_bundle(loc, per_locale[loc], "") for loc in LOCALES}
+        version = compute_version(bundles)
+        for loc in LOCALES:
+            bundles[loc]["contentVersion"] = version
+        manifest_path = write_outputs(bundles, version)
         generate_pages()
         self_verify(manifest_path)
     except BuildError as exc:
@@ -298,7 +332,7 @@ def main():
         return 1
 
     card_count = len(per_locale["en"]["cards"])
-    print(f"Built {VERSION}: {len(LOCALES)} locales, {card_count} cards each. Validation + self-verify OK.")
+    print(f"Built {version}: {len(LOCALES)} locales, {card_count} cards each. Validation + self-verify OK.")
     return 0
 
 

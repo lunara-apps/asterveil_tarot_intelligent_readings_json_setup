@@ -1,6 +1,7 @@
 # Asterveil Tarot — Intelligent Readings JSON Setup
 
-Version: `2026.06.26-v1`
+Content version: **content-addressed** — `v1-<hash>`, derived automatically by the build from a
+hash of the delivered content (see [Versioning](#versioning)).
 
 This repository layout is designed for non-AI, deterministic-but-dynamic tarot readings.
 The app downloads only `docs/manifest.json` and the selected language bundle
@@ -91,8 +92,25 @@ python scripts/build_bundle.py
 
 The script (re)generates `docs/manifest.json`, the three `docs/bundles/<VERSION>/tarot_content_*.json`
 bundles, and `docs/pages/<locale>/*`, then self-verifies that each bundle matches its recorded
-`sha256`/`sizeBytes` in the manifest. To publish a new content version, bump `VERSION` at the top of
-`scripts/build_bundle.py` and re-run.
+`sha256`/`sizeBytes` in the manifest.
+
+## Versioning
+
+The content version is **content-addressed**: the build hashes the delivered content and produces a
+version of the form `v1-<hash>` (e.g. `v1-a88b1a5c2e94`). You do **not** bump it by hand — it changes
+automatically, and only, when card/reading content actually changes. Rebuilding with no content change
+produces the exact same version (and therefore no diff and no new bundle folder).
+
+Because the version is also part of the bundle URL (`bundles/<VERSION>/tarot_content_<locale>.json`),
+a content change yields a brand-new URL, which reliably busts any CDN/browser cache. The app should:
+
+- **detect updates** by comparing the manifest's `latestContentVersion` to the version it last fetched;
+- **verify integrity** of a downloaded bundle against the manifest's `sha256`.
+
+Each published version gets its own immutable `bundles/<VERSION>/` folder; older folders are left in
+place so clients mid-download keep working. The `v1` prefix (`VERSION_PREFIX` in
+`scripts/build_bundle.py`) is the only manual lever — bump it for a breaking schema change or to force
+every client to re-download regardless of content.
 
 ## How publishing works (GitHub Pages)
 
