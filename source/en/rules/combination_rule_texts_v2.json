@@ -1,0 +1,1838 @@
+{
+  "schemaVersion": 2,
+  "locale": "en",
+  "kind": "combinationRuleTexts",
+  "description": "English localized v2 texts for pair combination rules. IDs must match shared combination_rules_v2.json.",
+  "ruleTexts": {
+    "loss_to_healing": {
+      "general": {
+        "theme": "Pain becoming care",
+        "text": "The movement between these cards suggests that the situation is not asking you to stay inside loss, but to notice where tenderness is beginning to return.",
+        "advice": "Let healing be gradual; the next step is to name what still hurts without making it your whole story.",
+        "journalPrompt": "What part of this situation needs gentleness before it can become wisdom?",
+        "challenge": "Old grief may still want to define the present.",
+        "opportunity": "A softer relationship with the past can begin to open."
+      },
+      "love": {
+        "theme": "Pain becoming care",
+        "text": "The movement between these cards suggests that the emotional pattern is not asking you to stay inside loss, but to notice where tenderness is beginning to return.",
+        "advice": "Let healing be gradual; the next honest step is to name what still hurts without making it your whole story.",
+        "journalPrompt": "What part of this connection or pattern needs gentleness before it can become wisdom?",
+        "challenge": "Old grief may still want to define the present.",
+        "opportunity": "A softer relationship with the past can begin to open."
+      },
+      "growth": {
+        "theme": "Pain becoming care",
+        "text": "The movement between these cards suggests that your inner process is not asking you to stay inside loss, but to notice where tenderness is beginning to return.",
+        "advice": "Let healing be gradual; the next compassionate step is to name what still hurts without making it your whole story.",
+        "journalPrompt": "What part of this inner lesson needs gentleness before it can become wisdom?",
+        "challenge": "Old grief may still want to define the present.",
+        "opportunity": "A softer relationship with the past can begin to open."
+      }
+    },
+    "loss_to_new_beginning": {
+      "general": {
+        "theme": "After the empty space",
+        "text": "These cards show a passage from what feels missing toward a new seed that may need quiet protection before it can grow.",
+        "advice": "Do not rush to fill the space; choose the beginning that feels honest, steady, and kind to your future self.",
+        "journalPrompt": "What new beginning feels real because I have understood what I can no longer carry?",
+        "challenge": "The old story may make the new opening feel smaller than it is.",
+        "opportunity": "A fresh path can be chosen with more maturity than before."
+      },
+      "love": {
+        "theme": "After the empty space",
+        "text": "These cards show a passage from what feels missing toward a new seed that may need quiet protection before it can grow.",
+        "advice": "Do not rush to fill the space; choose the beginning that feels honest, steady, and kind to your future self.",
+        "journalPrompt": "What new beginning feels real because I have understood what I can no longer carry?",
+        "challenge": "The old story may make the new opening feel smaller than it is.",
+        "opportunity": "A fresh path can be chosen with more maturity than before."
+      },
+      "career": {
+        "theme": "After the empty space",
+        "text": "These cards show a passage from what feels missing toward a new seed that may need quiet protection before it can grow.",
+        "advice": "Do not rush to fill the space; choose the beginning that feels honest, steady, and kind to your future self.",
+        "journalPrompt": "What new beginning feels real because I have understood what I can no longer carry?",
+        "challenge": "The old story may make the new opening feel smaller than it is.",
+        "opportunity": "A fresh path can be chosen with more maturity than before."
+      },
+      "money": {
+        "theme": "After the empty space",
+        "text": "These cards show a passage from what feels missing toward a new seed that may need quiet protection before it can grow.",
+        "advice": "Do not rush to fill the space; choose the beginning that feels honest, steady, and kind to your future self.",
+        "journalPrompt": "What new beginning feels real because I have understood what I can no longer carry?",
+        "challenge": "The old story may make the new opening feel smaller than it is.",
+        "opportunity": "A fresh path can be chosen with more maturity than before."
+      },
+      "growth": {
+        "theme": "After the empty space",
+        "text": "These cards show a passage from what feels missing toward a new seed that may need quiet protection before it can grow.",
+        "advice": "Do not rush to fill the space; choose the beginning that feels honest, steady, and kind to your future self.",
+        "journalPrompt": "What new beginning feels real because I have understood what I can no longer carry?",
+        "challenge": "The old story may make the new opening feel smaller than it is.",
+        "opportunity": "A fresh path can be chosen with more maturity than before."
+      }
+    },
+    "conflict_to_clarity": {
+      "general": {
+        "theme": "Truth after friction",
+        "text": "The tension shown by the first card can become useful when it leads toward cleaner truth rather than another round of reaction.",
+        "advice": "Use clarity as a lantern, not a blade; the next step is to understand before you try to win.",
+        "journalPrompt": "What truth is this conflict trying to reveal beneath the noise?",
+        "challenge": "A desire to be right can blur the deeper message.",
+        "opportunity": "Honest understanding can replace repeated struggle."
+      },
+      "love": {
+        "theme": "Truth after friction",
+        "text": "The tension shown by the first card can become useful when it leads toward cleaner truth rather than another round of reaction.",
+        "advice": "Use clarity as a lantern, not a blade; the next honest step is to understand before you try to win.",
+        "journalPrompt": "What truth is this conflict trying to reveal beneath the noise?",
+        "challenge": "A desire to be right can blur the deeper message.",
+        "opportunity": "Honest understanding can replace repeated struggle."
+      },
+      "career": {
+        "theme": "Truth after friction",
+        "text": "The tension shown by the first card can become useful when it leads toward cleaner truth rather than another round of reaction.",
+        "advice": "Use clarity as a lantern, not a blade; the next practical step is to understand before you try to win.",
+        "journalPrompt": "What truth is this conflict trying to reveal beneath the noise?",
+        "challenge": "A desire to be right can blur the deeper message.",
+        "opportunity": "Honest understanding can replace repeated struggle."
+      },
+      "growth": {
+        "theme": "Truth after friction",
+        "text": "The tension shown by the first card can become useful when it leads toward cleaner truth rather than another round of reaction.",
+        "advice": "Use clarity as a lantern, not a blade; the next compassionate step is to understand before you try to win.",
+        "journalPrompt": "What truth is this conflict trying to reveal beneath the noise?",
+        "challenge": "A desire to be right can blur the deeper message.",
+        "opportunity": "Honest understanding can replace repeated struggle."
+      }
+    },
+    "confusion_to_truth": {
+      "general": {
+        "theme": "Fog lifting",
+        "text": "The pair moves from uncertainty toward truth, suggesting that the situation may become clearer when you stop forcing an answer and start gathering what is real.",
+        "advice": "Separate facts, feelings, and assumptions before choosing the next step.",
+        "journalPrompt": "What do I actually know, and what have I been imagining or fearing?",
+        "challenge": "The fog may feel familiar enough to mistake for safety.",
+        "opportunity": "Clearer information can bring calmer choices."
+      },
+      "love": {
+        "theme": "Fog lifting",
+        "text": "The pair moves from uncertainty toward truth, suggesting that the emotional pattern may become clearer when you stop forcing an answer and start gathering what is real.",
+        "advice": "Separate facts, feelings, and assumptions before choosing the next honest step.",
+        "journalPrompt": "What do I actually know, and what have I been imagining or fearing?",
+        "challenge": "The fog may feel familiar enough to mistake for safety.",
+        "opportunity": "Clearer information can bring calmer choices."
+      },
+      "career": {
+        "theme": "Fog lifting",
+        "text": "The pair moves from uncertainty toward truth, suggesting that your work path may become clearer when you stop forcing an answer and start gathering what is real.",
+        "advice": "Separate facts, feelings, and assumptions before choosing the next practical step.",
+        "journalPrompt": "What do I actually know, and what have I been imagining or fearing?",
+        "challenge": "The fog may feel familiar enough to mistake for safety.",
+        "opportunity": "Clearer information can bring calmer choices."
+      },
+      "money": {
+        "theme": "Fog lifting",
+        "text": "The pair moves from uncertainty toward truth, suggesting that your resource picture may become clearer when you stop forcing an answer and start gathering what is real.",
+        "advice": "Separate facts, feelings, and assumptions before choosing one small grounded step.",
+        "journalPrompt": "What do I actually know, and what have I been imagining or fearing?",
+        "challenge": "The fog may feel familiar enough to mistake for safety.",
+        "opportunity": "Clearer information can bring calmer choices."
+      },
+      "growth": {
+        "theme": "Fog lifting",
+        "text": "The pair moves from uncertainty toward truth, suggesting that your inner process may become clearer when you stop forcing an answer and start gathering what is real.",
+        "advice": "Separate facts, feelings, and assumptions before choosing the next compassionate step.",
+        "journalPrompt": "What do I actually know, and what have I been imagining or fearing?",
+        "challenge": "The fog may feel familiar enough to mistake for safety.",
+        "opportunity": "Clearer information can bring calmer choices."
+      }
+    },
+    "burden_to_release": {
+      "general": {
+        "theme": "Laying down weight",
+        "text": "These cards describe a movement from carrying too much toward the relief that comes when the load is named honestly.",
+        "advice": "Choose one responsibility to simplify, share, postpone, or release instead of proving your strength through exhaustion.",
+        "journalPrompt": "Which burden am I treating as permanent when it may be adjustable?",
+        "challenge": "Over-responsibility may feel like loyalty.",
+        "opportunity": "Energy can return when the load becomes more honest."
+      },
+      "career": {
+        "theme": "Laying down weight",
+        "text": "These cards describe a movement from carrying too much toward the relief that comes when the load is named honestly.",
+        "advice": "Choose one responsibility to simplify, share, postpone, or release instead of proving your strength through exhaustion.",
+        "journalPrompt": "Which burden am I treating as permanent when it may be adjustable?",
+        "challenge": "Over-responsibility may feel like loyalty.",
+        "opportunity": "Energy can return when the load becomes more honest."
+      },
+      "money": {
+        "theme": "Laying down weight",
+        "text": "These cards describe a movement from carrying too much toward the relief that comes when the load is named honestly.",
+        "advice": "Choose one responsibility to simplify, share, postpone, or release instead of proving your strength through exhaustion.",
+        "journalPrompt": "Which burden am I treating as permanent when it may be adjustable?",
+        "challenge": "Over-responsibility may feel like loyalty.",
+        "opportunity": "Energy can return when the load becomes more honest."
+      },
+      "growth": {
+        "theme": "Laying down weight",
+        "text": "These cards describe a movement from carrying too much toward the relief that comes when the load is named honestly.",
+        "advice": "Choose one responsibility to simplify, share, postpone, or release instead of proving your strength through exhaustion.",
+        "journalPrompt": "Which burden am I treating as permanent when it may be adjustable?",
+        "challenge": "Over-responsibility may feel like loyalty.",
+        "opportunity": "Energy can return when the load becomes more honest."
+      }
+    },
+    "attachment_to_liberation": {
+      "general": {
+        "theme": "The loosened chain",
+        "text": "This pair points from attachment toward liberation, inviting you to see where something has power mainly because it has gone unquestioned.",
+        "advice": "Notice the pattern without shame, then choose one action that returns authority to you.",
+        "journalPrompt": "What feels like a chain, and what small choice would loosen it?",
+        "challenge": "Comfort can hide inside limitation.",
+        "opportunity": "Freedom may begin as a quiet refusal to repeat the same pattern."
+      },
+      "love": {
+        "theme": "The loosened chain",
+        "text": "This pair points from attachment toward liberation, inviting you to see where something has power mainly because it has gone unquestioned.",
+        "advice": "Notice the pattern without shame, then choose one action that returns authority to you.",
+        "journalPrompt": "What feels like a chain, and what small choice would loosen it?",
+        "challenge": "Comfort can hide inside limitation.",
+        "opportunity": "Freedom may begin as a quiet refusal to repeat the same pattern."
+      },
+      "money": {
+        "theme": "The loosened chain",
+        "text": "This pair points from attachment toward liberation, inviting you to see where something has power mainly because it has gone unquestioned.",
+        "advice": "Notice the pattern without shame, then choose one action that returns authority to you.",
+        "journalPrompt": "What feels like a chain, and what small choice would loosen it?",
+        "challenge": "Comfort can hide inside limitation.",
+        "opportunity": "Freedom may begin as a quiet refusal to repeat the same pattern."
+      },
+      "growth": {
+        "theme": "The loosened chain",
+        "text": "This pair points from attachment toward liberation, inviting you to see where something has power mainly because it has gone unquestioned.",
+        "advice": "Notice the pattern without shame, then choose one action that returns authority to you.",
+        "journalPrompt": "What feels like a chain, and what small choice would loosen it?",
+        "challenge": "Comfort can hide inside limitation.",
+        "opportunity": "Freedom may begin as a quiet refusal to repeat the same pattern."
+      }
+    },
+    "stagnation_to_movement": {
+      "general": {
+        "theme": "Energy beginning to move",
+        "text": "The first card holds stillness, while the second introduces movement; together they suggest that the situation may shift through one clear, manageable action.",
+        "advice": "Do not demand a dramatic leap; choose the smallest action that breaks the spell of waiting.",
+        "journalPrompt": "Where has stillness become avoidance, and what movement would feel honest?",
+        "challenge": "Staying still may feel safer than testing the path.",
+        "opportunity": "A single action can restore a sense of participation."
+      },
+      "love": {
+        "theme": "Energy beginning to move",
+        "text": "The first card holds stillness, while the second introduces movement; together they suggest that the emotional pattern may shift through one clear, manageable action.",
+        "advice": "Do not demand a dramatic leap; choose the smallest action that breaks the spell of waiting.",
+        "journalPrompt": "Where has stillness become avoidance, and what movement would feel honest?",
+        "challenge": "Staying still may feel safer than testing the path.",
+        "opportunity": "A single action can restore a sense of participation."
+      },
+      "career": {
+        "theme": "Energy beginning to move",
+        "text": "The first card holds stillness, while the second introduces movement; together they suggest that your work path may shift through one clear, manageable action.",
+        "advice": "Do not demand a dramatic leap; choose the smallest action that breaks the spell of waiting.",
+        "journalPrompt": "Where has stillness become avoidance, and what movement would feel honest?",
+        "challenge": "Staying still may feel safer than testing the path.",
+        "opportunity": "A single action can restore a sense of participation."
+      },
+      "money": {
+        "theme": "Energy beginning to move",
+        "text": "The first card holds stillness, while the second introduces movement; together they suggest that your resource picture may shift through one clear, manageable action.",
+        "advice": "Do not demand a dramatic leap; choose the smallest action that breaks the spell of waiting.",
+        "journalPrompt": "Where has stillness become avoidance, and what movement would feel honest?",
+        "challenge": "Staying still may feel safer than testing the path.",
+        "opportunity": "A single action can restore a sense of participation."
+      },
+      "growth": {
+        "theme": "Energy beginning to move",
+        "text": "The first card holds stillness, while the second introduces movement; together they suggest that your inner process may shift through one clear, manageable action.",
+        "advice": "Do not demand a dramatic leap; choose the smallest action that breaks the spell of waiting.",
+        "journalPrompt": "Where has stillness become avoidance, and what movement would feel honest?",
+        "challenge": "Staying still may feel safer than testing the path.",
+        "opportunity": "A single action can restore a sense of participation."
+      }
+    },
+    "patience_to_growth": {
+      "general": {
+        "theme": "Quiet cultivation",
+        "text": "These cards show growth that responds to patience, repetition, and trust in small changes.",
+        "advice": "Keep tending the foundation; not every meaningful result announces itself immediately.",
+        "journalPrompt": "What am I cultivating that deserves steadiness instead of pressure?",
+        "challenge": "Impatience may make slow progress look like no progress.",
+        "opportunity": "Consistent care can become visible over time."
+      },
+      "career": {
+        "theme": "Quiet cultivation",
+        "text": "These cards show growth that responds to patience, repetition, and trust in small changes.",
+        "advice": "Keep tending the foundation; not every meaningful result announces itself immediately.",
+        "journalPrompt": "What am I cultivating that deserves steadiness instead of pressure?",
+        "challenge": "Impatience may make slow progress look like no progress.",
+        "opportunity": "Consistent care can become visible over time."
+      },
+      "money": {
+        "theme": "Quiet cultivation",
+        "text": "These cards show growth that responds to patience, repetition, and trust in small changes.",
+        "advice": "Keep tending the foundation; not every meaningful result announces itself immediately.",
+        "journalPrompt": "What am I cultivating that deserves steadiness instead of pressure?",
+        "challenge": "Impatience may make slow progress look like no progress.",
+        "opportunity": "Consistent care can become visible over time."
+      },
+      "growth": {
+        "theme": "Quiet cultivation",
+        "text": "These cards show growth that responds to patience, repetition, and trust in small changes.",
+        "advice": "Keep tending the foundation; not every meaningful result announces itself immediately.",
+        "journalPrompt": "What am I cultivating that deserves steadiness instead of pressure?",
+        "challenge": "Impatience may make slow progress look like no progress.",
+        "opportunity": "Consistent care can become visible over time."
+      }
+    },
+    "choice_to_alignment": {
+      "general": {
+        "theme": "Choosing from the whole self",
+        "text": "A choice becomes more meaningful here because it asks for alignment, not just preference.",
+        "advice": "Let values, body, mind, and future consequences all have a voice before choosing the next step.",
+        "journalPrompt": "Which option feels most aligned when I listen beyond urgency?",
+        "challenge": "Attraction, fear, or pressure may try to choose for you.",
+        "opportunity": "A decision can become a ritual of self-respect."
+      },
+      "love": {
+        "theme": "Choosing from the whole self",
+        "text": "A choice becomes more meaningful here because it asks for alignment, not just preference.",
+        "advice": "Let values, body, mind, and future consequences all have a voice before choosing the next honest step.",
+        "journalPrompt": "Which option feels most aligned when I listen beyond urgency?",
+        "challenge": "Attraction, fear, or pressure may try to choose for you.",
+        "opportunity": "A decision can become a ritual of self-respect."
+      },
+      "career": {
+        "theme": "Choosing from the whole self",
+        "text": "A choice becomes more meaningful here because it asks for alignment, not just preference.",
+        "advice": "Let values, body, mind, and future consequences all have a voice before choosing the next practical step.",
+        "journalPrompt": "Which option feels most aligned when I listen beyond urgency?",
+        "challenge": "Attraction, fear, or pressure may try to choose for you.",
+        "opportunity": "A decision can become a ritual of self-respect."
+      },
+      "money": {
+        "theme": "Choosing from the whole self",
+        "text": "A choice becomes more meaningful here because it asks for alignment, not just preference.",
+        "advice": "Let values, body, mind, and future consequences all have a voice before choosing one small grounded step.",
+        "journalPrompt": "Which option feels most aligned when I listen beyond urgency?",
+        "challenge": "Attraction, fear, or pressure may try to choose for you.",
+        "opportunity": "A decision can become a ritual of self-respect."
+      },
+      "growth": {
+        "theme": "Choosing from the whole self",
+        "text": "A choice becomes more meaningful here because it asks for alignment, not just preference.",
+        "advice": "Let values, body, mind, and future consequences all have a voice before choosing the next compassionate step.",
+        "journalPrompt": "Which option feels most aligned when I listen beyond urgency?",
+        "challenge": "Attraction, fear, or pressure may try to choose for you.",
+        "opportunity": "A decision can become a ritual of self-respect."
+      }
+    },
+    "intuition_to_uncertainty": {
+      "general": {
+        "theme": "Trusting the quiet signal",
+        "text": "Intuition meets uncertainty in this pair, suggesting that not everything needs immediate proof before it deserves attention.",
+        "advice": "Hold the intuitive signal gently while you continue to gather grounded information.",
+        "journalPrompt": "What quiet knowing keeps returning, even when the details are unclear?",
+        "challenge": "Overthinking may drown out the subtle truth.",
+        "opportunity": "Inner wisdom and practical patience can work together."
+      },
+      "love": {
+        "theme": "Trusting the quiet signal",
+        "text": "Intuition meets uncertainty in this pair, suggesting that not everything needs immediate proof before it deserves attention.",
+        "advice": "Hold the intuitive signal gently while you continue to gather grounded information.",
+        "journalPrompt": "What quiet knowing keeps returning, even when the details are unclear?",
+        "challenge": "Overthinking may drown out the subtle truth.",
+        "opportunity": "Inner wisdom and practical patience can work together."
+      },
+      "career": {
+        "theme": "Trusting the quiet signal",
+        "text": "Intuition meets uncertainty in this pair, suggesting that not everything needs immediate proof before it deserves attention.",
+        "advice": "Hold the intuitive signal gently while you continue to gather grounded information.",
+        "journalPrompt": "What quiet knowing keeps returning, even when the details are unclear?",
+        "challenge": "Overthinking may drown out the subtle truth.",
+        "opportunity": "Inner wisdom and practical patience can work together."
+      },
+      "money": {
+        "theme": "Trusting the quiet signal",
+        "text": "Intuition meets uncertainty in this pair, suggesting that not everything needs immediate proof before it deserves attention.",
+        "advice": "Hold the intuitive signal gently while you continue to gather grounded information.",
+        "journalPrompt": "What quiet knowing keeps returning, even when the details are unclear?",
+        "challenge": "Overthinking may drown out the subtle truth.",
+        "opportunity": "Inner wisdom and practical patience can work together."
+      },
+      "growth": {
+        "theme": "Trusting the quiet signal",
+        "text": "Intuition meets uncertainty in this pair, suggesting that not everything needs immediate proof before it deserves attention.",
+        "advice": "Hold the intuitive signal gently while you continue to gather grounded information.",
+        "journalPrompt": "What quiet knowing keeps returning, even when the details are unclear?",
+        "challenge": "Overthinking may drown out the subtle truth.",
+        "opportunity": "Inner wisdom and practical patience can work together."
+      }
+    },
+    "uncertainty_to_inner_wisdom": {
+      "general": {
+        "theme": "Wisdom inside the fog",
+        "text": "The path moves from uncertainty toward inner wisdom, showing that the fog may be asking for listening rather than panic.",
+        "advice": "Create quiet before deciding; the next step may appear when the nervous noise settles.",
+        "journalPrompt": "What would I hear if I stopped demanding instant certainty?",
+        "challenge": "Discomfort may tempt you to grab the first answer.",
+        "opportunity": "Stillness can reveal what pressure hides."
+      },
+      "love": {
+        "theme": "Wisdom inside the fog",
+        "text": "The path moves from uncertainty toward inner wisdom, showing that the fog may be asking for listening rather than panic.",
+        "advice": "Create quiet before deciding; the next honest step may appear when the nervous noise settles.",
+        "journalPrompt": "What would I hear if I stopped demanding instant certainty?",
+        "challenge": "Discomfort may tempt you to grab the first answer.",
+        "opportunity": "Stillness can reveal what pressure hides."
+      },
+      "career": {
+        "theme": "Wisdom inside the fog",
+        "text": "The path moves from uncertainty toward inner wisdom, showing that the fog may be asking for listening rather than panic.",
+        "advice": "Create quiet before deciding; the next practical step may appear when the nervous noise settles.",
+        "journalPrompt": "What would I hear if I stopped demanding instant certainty?",
+        "challenge": "Discomfort may tempt you to grab the first answer.",
+        "opportunity": "Stillness can reveal what pressure hides."
+      },
+      "money": {
+        "theme": "Wisdom inside the fog",
+        "text": "The path moves from uncertainty toward inner wisdom, showing that the fog may be asking for listening rather than panic.",
+        "advice": "Create quiet before deciding; one small grounded step may appear when the nervous noise settles.",
+        "journalPrompt": "What would I hear if I stopped demanding instant certainty?",
+        "challenge": "Discomfort may tempt you to grab the first answer.",
+        "opportunity": "Stillness can reveal what pressure hides."
+      },
+      "growth": {
+        "theme": "Wisdom inside the fog",
+        "text": "The path moves from uncertainty toward inner wisdom, showing that the fog may be asking for listening rather than panic.",
+        "advice": "Create quiet before deciding; the next compassionate step may appear when the nervous noise settles.",
+        "journalPrompt": "What would I hear if I stopped demanding instant certainty?",
+        "challenge": "Discomfort may tempt you to grab the first answer.",
+        "opportunity": "Stillness can reveal what pressure hides."
+      }
+    },
+    "structure_to_stability": {
+      "general": {
+        "theme": "A container that can hold",
+        "text": "Structure leads toward stability here, suggesting that the situation may improve when care becomes organized.",
+        "advice": "Create a simple framework: a boundary, a schedule, a budget, or an agreement that protects what matters.",
+        "journalPrompt": "What structure would make this part of my life feel safer and more sustainable?",
+        "challenge": "Structure may feel restrictive if it is confused with control.",
+        "opportunity": "A clear container can make growth feel less fragile."
+      },
+      "love": {
+        "theme": "A container that can hold",
+        "text": "Structure leads toward stability here, suggesting that the emotional pattern may improve when care becomes organized.",
+        "advice": "Create a simple framework: a boundary, a schedule, a budget, or an agreement that protects what matters.",
+        "journalPrompt": "What structure would make this part of my life feel safer and more sustainable?",
+        "challenge": "Structure may feel restrictive if it is confused with control.",
+        "opportunity": "A clear container can make growth feel less fragile."
+      },
+      "career": {
+        "theme": "A container that can hold",
+        "text": "Structure leads toward stability here, suggesting that your work path may improve when care becomes organized.",
+        "advice": "Create a simple framework: a boundary, a schedule, a budget, or an agreement that protects what matters.",
+        "journalPrompt": "What structure would make this part of my life feel safer and more sustainable?",
+        "challenge": "Structure may feel restrictive if it is confused with control.",
+        "opportunity": "A clear container can make growth feel less fragile."
+      },
+      "money": {
+        "theme": "A container that can hold",
+        "text": "Structure leads toward stability here, suggesting that your resource picture may improve when care becomes organized.",
+        "advice": "Create a simple framework: a boundary, a schedule, a budget, or an agreement that protects what matters.",
+        "journalPrompt": "What structure would make this part of my life feel safer and more sustainable?",
+        "challenge": "Structure may feel restrictive if it is confused with control.",
+        "opportunity": "A clear container can make growth feel less fragile."
+      },
+      "growth": {
+        "theme": "A container that can hold",
+        "text": "Structure leads toward stability here, suggesting that your inner process may improve when care becomes organized.",
+        "advice": "Create a simple framework: a boundary, a schedule, a budget, or an agreement that protects what matters.",
+        "journalPrompt": "What structure would make this part of my life feel safer and more sustainable?",
+        "challenge": "Structure may feel restrictive if it is confused with control.",
+        "opportunity": "A clear container can make growth feel less fragile."
+      }
+    },
+    "solitude_to_inner_guidance": {
+      "general": {
+        "theme": "The lantern within",
+        "text": "This pair suggests that stepping back can help the deeper guidance become easier to recognize.",
+        "advice": "Give yourself a private moment before inviting everyone else's voice into the question.",
+        "journalPrompt": "What answer becomes clearer when I stop performing certainty?",
+        "challenge": "Solitude can become isolation if it never returns to life.",
+        "opportunity": "Quiet reflection can restore your own center."
+      },
+      "love": {
+        "theme": "The lantern within",
+        "text": "This pair suggests that stepping back can help the deeper guidance become easier to recognize.",
+        "advice": "Give yourself a private moment before inviting everyone else's voice into the question.",
+        "journalPrompt": "What answer becomes clearer when I stop performing certainty?",
+        "challenge": "Solitude can become isolation if it never returns to life.",
+        "opportunity": "Quiet reflection can restore your own center."
+      },
+      "career": {
+        "theme": "The lantern within",
+        "text": "This pair suggests that stepping back can help the deeper guidance become easier to recognize.",
+        "advice": "Give yourself a private moment before inviting everyone else's voice into the question.",
+        "journalPrompt": "What answer becomes clearer when I stop performing certainty?",
+        "challenge": "Solitude can become isolation if it never returns to life.",
+        "opportunity": "Quiet reflection can restore your own center."
+      },
+      "growth": {
+        "theme": "The lantern within",
+        "text": "This pair suggests that stepping back can help the deeper guidance become easier to recognize.",
+        "advice": "Give yourself a private moment before inviting everyone else's voice into the question.",
+        "journalPrompt": "What answer becomes clearer when I stop performing certainty?",
+        "challenge": "Solitude can become isolation if it never returns to life.",
+        "opportunity": "Quiet reflection can restore your own center."
+      }
+    },
+    "hope_to_renewal": {
+      "general": {
+        "theme": "The first light returning",
+        "text": "Hope becomes renewal in this pairing, not as a guarantee, but as a gentle sign that the inner climate may be changing.",
+        "advice": "Protect the small light; it does not need to be dramatic to be real.",
+        "journalPrompt": "Where is hope returning in a form I can actually nurture?",
+        "challenge": "Old disappointment may distrust any sign of renewal.",
+        "opportunity": "A quiet yes can become a new rhythm."
+      },
+      "love": {
+        "theme": "The first light returning",
+        "text": "Hope becomes renewal in this pairing, not as a guarantee, but as a gentle sign that the inner climate may be changing.",
+        "advice": "Protect the small light; it does not need to be dramatic to be real.",
+        "journalPrompt": "Where is hope returning in a form I can actually nurture?",
+        "challenge": "Old disappointment may distrust any sign of renewal.",
+        "opportunity": "A quiet yes can become a new rhythm."
+      },
+      "career": {
+        "theme": "The first light returning",
+        "text": "Hope becomes renewal in this pairing, not as a guarantee, but as a gentle sign that the inner climate may be changing.",
+        "advice": "Protect the small light; it does not need to be dramatic to be real.",
+        "journalPrompt": "Where is hope returning in a form I can actually nurture?",
+        "challenge": "Old disappointment may distrust any sign of renewal.",
+        "opportunity": "A quiet yes can become a new rhythm."
+      },
+      "growth": {
+        "theme": "The first light returning",
+        "text": "Hope becomes renewal in this pairing, not as a guarantee, but as a gentle sign that the inner climate may be changing.",
+        "advice": "Protect the small light; it does not need to be dramatic to be real.",
+        "journalPrompt": "Where is hope returning in a form I can actually nurture?",
+        "challenge": "Old disappointment may distrust any sign of renewal.",
+        "opportunity": "A quiet yes can become a new rhythm."
+      }
+    },
+    "ending_to_transformation": {
+      "general": {
+        "theme": "Change after closure",
+        "text": "These cards frame an ending as part of transformation, inviting you to honor what is complete without treating completion as failure.",
+        "advice": "Release the form that has ended, then ask what truth or strength it leaves behind.",
+        "journalPrompt": "What has completed its role, and what might that completion make possible?",
+        "challenge": "The mind may call every ending a loss.",
+        "opportunity": "A more honest shape can emerge after closure."
+      },
+      "love": {
+        "theme": "Change after closure",
+        "text": "These cards frame an ending as part of transformation, inviting you to honor what is complete without treating completion as failure.",
+        "advice": "Release the form that has ended, then ask what truth or strength it leaves behind.",
+        "journalPrompt": "What has completed its role, and what might that completion make possible?",
+        "challenge": "The mind may call every ending a loss.",
+        "opportunity": "A more honest shape can emerge after closure."
+      },
+      "career": {
+        "theme": "Change after closure",
+        "text": "These cards frame an ending as part of transformation, inviting you to honor what is complete without treating completion as failure.",
+        "advice": "Release the form that has ended, then ask what truth or strength it leaves behind.",
+        "journalPrompt": "What has completed its role, and what might that completion make possible?",
+        "challenge": "The mind may call every ending a loss.",
+        "opportunity": "A more honest shape can emerge after closure."
+      },
+      "money": {
+        "theme": "Change after closure",
+        "text": "These cards frame an ending as part of transformation, inviting you to honor what is complete without treating completion as failure.",
+        "advice": "Release the form that has ended, then ask what truth or strength it leaves behind.",
+        "journalPrompt": "What has completed its role, and what might that completion make possible?",
+        "challenge": "The mind may call every ending a loss.",
+        "opportunity": "A more honest shape can emerge after closure."
+      },
+      "growth": {
+        "theme": "Change after closure",
+        "text": "These cards frame an ending as part of transformation, inviting you to honor what is complete without treating completion as failure.",
+        "advice": "Release the form that has ended, then ask what truth or strength it leaves behind.",
+        "journalPrompt": "What has completed its role, and what might that completion make possible?",
+        "challenge": "The mind may call every ending a loss.",
+        "opportunity": "A more honest shape can emerge after closure."
+      }
+    },
+    "planning_to_action": {
+      "general": {
+        "theme": "From map to motion",
+        "text": "The plan is ready to become movement; these cards ask that vision be tested through a grounded next action.",
+        "advice": "Choose one step that proves the plan can live outside your thoughts.",
+        "journalPrompt": "What action would turn this vision into something real enough to learn from?",
+        "challenge": "Planning can become a beautiful way to delay beginning.",
+        "opportunity": "A modest action can give the larger vision traction."
+      },
+      "career": {
+        "theme": "From map to motion",
+        "text": "The plan is ready to become movement; these cards ask that vision be tested through a grounded next action.",
+        "advice": "Choose one step that proves the plan can live outside your thoughts.",
+        "journalPrompt": "What action would turn this vision into something real enough to learn from?",
+        "challenge": "Planning can become a beautiful way to delay beginning.",
+        "opportunity": "A modest action can give the larger vision traction."
+      },
+      "money": {
+        "theme": "From map to motion",
+        "text": "The plan is ready to become movement; these cards ask that vision be tested through a grounded next action.",
+        "advice": "Choose one step that proves the plan can live outside your thoughts.",
+        "journalPrompt": "What action would turn this vision into something real enough to learn from?",
+        "challenge": "Planning can become a beautiful way to delay beginning.",
+        "opportunity": "A modest action can give the larger vision traction."
+      },
+      "growth": {
+        "theme": "From map to motion",
+        "text": "The plan is ready to become movement; these cards ask that vision be tested through a grounded next action.",
+        "advice": "Choose one step that proves the plan can live outside your thoughts.",
+        "journalPrompt": "What action would turn this vision into something real enough to learn from?",
+        "challenge": "Planning can become a beautiful way to delay beginning.",
+        "opportunity": "A modest action can give the larger vision traction."
+      }
+    },
+    "effort_to_reward": {
+      "general": {
+        "theme": "The dignity of effort",
+        "text": "This pair connects sustained effort with meaningful reward, especially the kind that grows from care rather than shortcuts.",
+        "advice": "Stay close to the craft; let results be measured by quality, learning, and stability.",
+        "journalPrompt": "Where is steady effort already creating value, even if recognition is still quiet?",
+        "challenge": "Impatience may undervalue the work already done.",
+        "opportunity": "Consistency can become a source of confidence."
+      },
+      "career": {
+        "theme": "The dignity of effort",
+        "text": "This pair connects sustained effort with meaningful reward, especially the kind that grows from care rather than shortcuts.",
+        "advice": "Stay close to the craft; let results be measured by quality, learning, and stability.",
+        "journalPrompt": "Where is steady effort already creating value, even if recognition is still quiet?",
+        "challenge": "Impatience may undervalue the work already done.",
+        "opportunity": "Consistency can become a source of confidence."
+      },
+      "money": {
+        "theme": "The dignity of effort",
+        "text": "This pair connects sustained effort with meaningful reward, especially the kind that grows from care rather than shortcuts.",
+        "advice": "Stay close to the craft; let results be measured by quality, learning, and stability.",
+        "journalPrompt": "Where is steady effort already creating value, even if recognition is still quiet?",
+        "challenge": "Impatience may undervalue the work already done.",
+        "opportunity": "Consistency can become a source of confidence."
+      },
+      "growth": {
+        "theme": "The dignity of effort",
+        "text": "This pair connects sustained effort with meaningful reward, especially the kind that grows from care rather than shortcuts.",
+        "advice": "Stay close to the craft; let results be measured by quality, learning, and stability.",
+        "journalPrompt": "Where is steady effort already creating value, even if recognition is still quiet?",
+        "challenge": "Impatience may undervalue the work already done.",
+        "opportunity": "Consistency can become a source of confidence."
+      }
+    },
+    "generosity_to_boundaries": {
+      "general": {
+        "theme": "Kindness with edges",
+        "text": "Generosity meets boundaries here, reminding you that true giving does not require self-erasure.",
+        "advice": "Give from consent and capacity, not guilt, pressure, or fear of disappointing someone.",
+        "journalPrompt": "Where can I remain generous while also respecting my limits?",
+        "challenge": "Overgiving may disguise itself as love or responsibility.",
+        "opportunity": "Clear limits can make giving cleaner and more sincere."
+      },
+      "love": {
+        "theme": "Kindness with edges",
+        "text": "Generosity meets boundaries here, reminding you that true giving does not require self-erasure.",
+        "advice": "Give from consent and capacity, not guilt, pressure, or fear of disappointing someone.",
+        "journalPrompt": "Where can I remain generous while also respecting my limits?",
+        "challenge": "Overgiving may disguise itself as love or responsibility.",
+        "opportunity": "Clear limits can make giving cleaner and more sincere."
+      },
+      "career": {
+        "theme": "Kindness with edges",
+        "text": "Generosity meets boundaries here, reminding you that true giving does not require self-erasure.",
+        "advice": "Give from consent and capacity, not guilt, pressure, or fear of disappointing someone.",
+        "journalPrompt": "Where can I remain generous while also respecting my limits?",
+        "challenge": "Overgiving may disguise itself as love or responsibility.",
+        "opportunity": "Clear limits can make giving cleaner and more sincere."
+      },
+      "money": {
+        "theme": "Kindness with edges",
+        "text": "Generosity meets boundaries here, reminding you that true giving does not require self-erasure.",
+        "advice": "Give from consent and capacity, not guilt, pressure, or fear of disappointing someone.",
+        "journalPrompt": "Where can I remain generous while also respecting my limits?",
+        "challenge": "Overgiving may disguise itself as love or responsibility.",
+        "opportunity": "Clear limits can make giving cleaner and more sincere."
+      },
+      "growth": {
+        "theme": "Kindness with edges",
+        "text": "Generosity meets boundaries here, reminding you that true giving does not require self-erasure.",
+        "advice": "Give from consent and capacity, not guilt, pressure, or fear of disappointing someone.",
+        "journalPrompt": "Where can I remain generous while also respecting my limits?",
+        "challenge": "Overgiving may disguise itself as love or responsibility.",
+        "opportunity": "Clear limits can make giving cleaner and more sincere."
+      }
+    },
+    "emotional_opening_to_discernment": {
+      "general": {
+        "theme": "An open heart with clear eyes",
+        "text": "The heart is opening, but discernment asks that tenderness stay connected to truth.",
+        "advice": "Let yourself feel, while also noticing consistency, respect, and timing.",
+        "journalPrompt": "How can I stay open without abandoning what I know to be true?",
+        "challenge": "Longing may try to rush past observation.",
+        "opportunity": "Tenderness can become wiser when it includes discernment."
+      },
+      "love": {
+        "theme": "An open heart with clear eyes",
+        "text": "The heart is opening, but discernment asks that tenderness stay connected to truth.",
+        "advice": "Let yourself feel, while also noticing consistency, respect, and timing.",
+        "journalPrompt": "How can I stay open without abandoning what I know to be true?",
+        "challenge": "Longing may try to rush past observation.",
+        "opportunity": "Tenderness can become wiser when it includes discernment."
+      },
+      "growth": {
+        "theme": "An open heart with clear eyes",
+        "text": "The heart is opening, but discernment asks that tenderness stay connected to truth.",
+        "advice": "Let yourself feel, while also noticing consistency, respect, and timing.",
+        "journalPrompt": "How can I stay open without abandoning what I know to be true?",
+        "challenge": "Longing may try to rush past observation.",
+        "opportunity": "Tenderness can become wiser when it includes discernment."
+      }
+    },
+    "ambition_to_discipline": {
+      "general": {
+        "theme": "Fire given form",
+        "text": "Ambition becomes more useful when discipline gives it shape; this pair favors focus over scattered striving.",
+        "advice": "Choose the routine, boundary, or skill that can carry the desire into reality.",
+        "journalPrompt": "What structure would help my ambition become sustainable rather than exhausting?",
+        "challenge": "Desire alone may not be enough to hold the path.",
+        "opportunity": "Discipline can turn intensity into craft."
+      },
+      "career": {
+        "theme": "Fire given form",
+        "text": "Ambition becomes more useful when discipline gives it shape; this pair favors focus over scattered striving.",
+        "advice": "Choose the routine, boundary, or skill that can carry the desire into reality.",
+        "journalPrompt": "What structure would help my ambition become sustainable rather than exhausting?",
+        "challenge": "Desire alone may not be enough to hold the path.",
+        "opportunity": "Discipline can turn intensity into craft."
+      },
+      "money": {
+        "theme": "Fire given form",
+        "text": "Ambition becomes more useful when discipline gives it shape; this pair favors focus over scattered striving.",
+        "advice": "Choose the routine, boundary, or skill that can carry the desire into reality.",
+        "journalPrompt": "What structure would help my ambition become sustainable rather than exhausting?",
+        "challenge": "Desire alone may not be enough to hold the path.",
+        "opportunity": "Discipline can turn intensity into craft."
+      },
+      "growth": {
+        "theme": "Fire given form",
+        "text": "Ambition becomes more useful when discipline gives it shape; this pair favors focus over scattered striving.",
+        "advice": "Choose the routine, boundary, or skill that can carry the desire into reality.",
+        "journalPrompt": "What structure would help my ambition become sustainable rather than exhausting?",
+        "challenge": "Desire alone may not be enough to hold the path.",
+        "opportunity": "Discipline can turn intensity into craft."
+      }
+    },
+    "fear_to_courage": {
+      "general": {
+        "theme": "Courage in a small step",
+        "text": "Fear does not disappear before courage arrives; these cards suggest that courage may begin while uncertainty is still present.",
+        "advice": "Choose a brave action that is proportional, safe, and honest rather than dramatic.",
+        "journalPrompt": "What would courage look like if it were gentle and realistic?",
+        "challenge": "Fear may ask for certainty before allowing movement.",
+        "opportunity": "A small brave choice can change your relationship with the fear."
+      },
+      "love": {
+        "theme": "Courage in a small step",
+        "text": "Fear does not disappear before courage arrives; these cards suggest that courage may begin while uncertainty is still present.",
+        "advice": "Choose a brave action that is proportional, safe, and honest rather than dramatic.",
+        "journalPrompt": "What would courage look like if it were gentle and realistic?",
+        "challenge": "Fear may ask for certainty before allowing movement.",
+        "opportunity": "A small brave choice can change your relationship with the fear."
+      },
+      "career": {
+        "theme": "Courage in a small step",
+        "text": "Fear does not disappear before courage arrives; these cards suggest that courage may begin while uncertainty is still present.",
+        "advice": "Choose a brave action that is proportional, safe, and honest rather than dramatic.",
+        "journalPrompt": "What would courage look like if it were gentle and realistic?",
+        "challenge": "Fear may ask for certainty before allowing movement.",
+        "opportunity": "A small brave choice can change your relationship with the fear."
+      },
+      "money": {
+        "theme": "Courage in a small step",
+        "text": "Fear does not disappear before courage arrives; these cards suggest that courage may begin while uncertainty is still present.",
+        "advice": "Choose a brave action that is proportional, safe, and honest rather than dramatic.",
+        "journalPrompt": "What would courage look like if it were gentle and realistic?",
+        "challenge": "Fear may ask for certainty before allowing movement.",
+        "opportunity": "A small brave choice can change your relationship with the fear."
+      },
+      "growth": {
+        "theme": "Courage in a small step",
+        "text": "Fear does not disappear before courage arrives; these cards suggest that courage may begin while uncertainty is still present.",
+        "advice": "Choose a brave action that is proportional, safe, and honest rather than dramatic.",
+        "journalPrompt": "What would courage look like if it were gentle and realistic?",
+        "challenge": "Fear may ask for certainty before allowing movement.",
+        "opportunity": "A small brave choice can change your relationship with the fear."
+      }
+    },
+    "shadow_to_awareness": {
+      "general": {
+        "theme": "Seeing the pattern",
+        "text": "This pair brings shadow into awareness, inviting honesty without self-punishment.",
+        "advice": "Name the pattern clearly, then respond with accountability and compassion together.",
+        "journalPrompt": "What pattern becomes less powerful when I am willing to see it?",
+        "challenge": "Shame may make the truth feel unsafe to admit.",
+        "opportunity": "Awareness can turn a hidden pattern into a conscious choice."
+      },
+      "love": {
+        "theme": "Seeing the pattern",
+        "text": "This pair brings shadow into awareness, inviting honesty without self-punishment.",
+        "advice": "Name the pattern clearly, then respond with accountability and compassion together.",
+        "journalPrompt": "What pattern becomes less powerful when I am willing to see it?",
+        "challenge": "Shame may make the truth feel unsafe to admit.",
+        "opportunity": "Awareness can turn a hidden pattern into a conscious choice."
+      },
+      "career": {
+        "theme": "Seeing the pattern",
+        "text": "This pair brings shadow into awareness, inviting honesty without self-punishment.",
+        "advice": "Name the pattern clearly, then respond with accountability and compassion together.",
+        "journalPrompt": "What pattern becomes less powerful when I am willing to see it?",
+        "challenge": "Shame may make the truth feel unsafe to admit.",
+        "opportunity": "Awareness can turn a hidden pattern into a conscious choice."
+      },
+      "money": {
+        "theme": "Seeing the pattern",
+        "text": "This pair brings shadow into awareness, inviting honesty without self-punishment.",
+        "advice": "Name the pattern clearly, then respond with accountability and compassion together.",
+        "journalPrompt": "What pattern becomes less powerful when I am willing to see it?",
+        "challenge": "Shame may make the truth feel unsafe to admit.",
+        "opportunity": "Awareness can turn a hidden pattern into a conscious choice."
+      },
+      "growth": {
+        "theme": "Seeing the pattern",
+        "text": "This pair brings shadow into awareness, inviting honesty without self-punishment.",
+        "advice": "Name the pattern clearly, then respond with accountability and compassion together.",
+        "journalPrompt": "What pattern becomes less powerful when I am willing to see it?",
+        "challenge": "Shame may make the truth feel unsafe to admit.",
+        "opportunity": "Awareness can turn a hidden pattern into a conscious choice."
+      }
+    },
+    "waiting_to_perspective": {
+      "general": {
+        "theme": "The gift of the pause",
+        "text": "Waiting can become perspective when the pause is used for honest seeing rather than anxious replaying.",
+        "advice": "Ask what the delay is showing you about timing, desire, and readiness.",
+        "journalPrompt": "What can I see from this pause that I could not see while rushing?",
+        "challenge": "A pause may feel like rejection or failure.",
+        "opportunity": "Perspective can make the next action cleaner."
+      },
+      "love": {
+        "theme": "The gift of the pause",
+        "text": "Waiting can become perspective when the pause is used for honest seeing rather than anxious replaying.",
+        "advice": "Ask what the delay is showing you about timing, desire, and readiness.",
+        "journalPrompt": "What can I see from this pause that I could not see while rushing?",
+        "challenge": "A pause may feel like rejection or failure.",
+        "opportunity": "Perspective can make the next action cleaner."
+      },
+      "career": {
+        "theme": "The gift of the pause",
+        "text": "Waiting can become perspective when the pause is used for honest seeing rather than anxious replaying.",
+        "advice": "Ask what the delay is showing you about timing, desire, and readiness.",
+        "journalPrompt": "What can I see from this pause that I could not see while rushing?",
+        "challenge": "A pause may feel like rejection or failure.",
+        "opportunity": "Perspective can make the next action cleaner."
+      },
+      "money": {
+        "theme": "The gift of the pause",
+        "text": "Waiting can become perspective when the pause is used for honest seeing rather than anxious replaying.",
+        "advice": "Ask what the delay is showing you about timing, desire, and readiness.",
+        "journalPrompt": "What can I see from this pause that I could not see while rushing?",
+        "challenge": "A pause may feel like rejection or failure.",
+        "opportunity": "Perspective can make the next action cleaner."
+      },
+      "growth": {
+        "theme": "The gift of the pause",
+        "text": "Waiting can become perspective when the pause is used for honest seeing rather than anxious replaying.",
+        "advice": "Ask what the delay is showing you about timing, desire, and readiness.",
+        "journalPrompt": "What can I see from this pause that I could not see while rushing?",
+        "challenge": "A pause may feel like rejection or failure.",
+        "opportunity": "Perspective can make the next action cleaner."
+      }
+    },
+    "material_stress_to_grounding": {
+      "money": {
+        "theme": "Grounding resource fear",
+        "text": "Resource pressure is met by grounding here, suggesting that stability begins with practical awareness rather than panic.",
+        "advice": "Return to clear numbers, immediate needs, and one repeatable habit that supports security.",
+        "journalPrompt": "What grounded action would reduce pressure without pretending everything is solved?",
+        "challenge": "Fear may make practical choices feel overwhelming.",
+        "opportunity": "Small steady steps can rebuild trust in your own resource care."
+      },
+      "general": {
+        "theme": "Grounding resource fear",
+        "text": "Resource pressure is met by grounding here, suggesting that stability begins with practical awareness rather than panic.",
+        "advice": "Return to clear numbers, immediate needs, and one repeatable habit that supports security.",
+        "journalPrompt": "What grounded action would reduce pressure without pretending everything is solved?",
+        "challenge": "Fear may make practical choices feel overwhelming.",
+        "opportunity": "Small steady steps can rebuild trust in your own resource care."
+      },
+      "growth": {
+        "theme": "Grounding resource fear",
+        "text": "Resource pressure is met by grounding here, suggesting that stability begins with practical awareness rather than panic.",
+        "advice": "Return to clear numbers, immediate needs, and one repeatable habit that supports security.",
+        "journalPrompt": "What grounded action would reduce pressure without pretending everything is solved?",
+        "challenge": "Fear may make practical choices feel overwhelming.",
+        "opportunity": "Small steady steps can rebuild trust in your own resource care."
+      }
+    },
+    "love_choice_to_honesty": {
+      "love": {
+        "theme": "Love choosing truth",
+        "text": "A loving choice asks for honesty here; the cards favor connection that can stand in the light of what is real.",
+        "advice": "Let affection and truth support each other instead of making one erase the other.",
+        "journalPrompt": "What truth would make love or connection feel more mutual and respectful?",
+        "challenge": "Fear of losing closeness may silence what needs to be said.",
+        "opportunity": "Honesty can become a form of care."
+      },
+      "general": {
+        "theme": "Love choosing truth",
+        "text": "A loving choice asks for honesty here; the cards favor connection that can stand in the light of what is real.",
+        "advice": "Let affection and truth support each other instead of making one erase the other.",
+        "journalPrompt": "What truth would make love or connection feel more mutual and respectful?",
+        "challenge": "Fear of losing closeness may silence what needs to be said.",
+        "opportunity": "Honesty can become a form of care."
+      },
+      "growth": {
+        "theme": "Love choosing truth",
+        "text": "A loving choice asks for honesty here; the cards favor connection that can stand in the light of what is real.",
+        "advice": "Let affection and truth support each other instead of making one erase the other.",
+        "journalPrompt": "What truth would make love or connection feel more mutual and respectful?",
+        "challenge": "Fear of losing closeness may silence what needs to be said.",
+        "opportunity": "Honesty can become a form of care."
+      }
+    },
+    "career_pressure_to_resilience": {
+      "career": {
+        "theme": "Resilience under pressure",
+        "text": "Pressure is met by resilience, showing a need to protect your energy while staying connected to what matters.",
+        "advice": "Respond strategically rather than proving endurance; resilience includes recovery.",
+        "journalPrompt": "What would help me stay steady without sacrificing my wellbeing or integrity?",
+        "challenge": "Endurance may be confused with never needing support.",
+        "opportunity": "A more sustainable kind of strength can emerge."
+      },
+      "general": {
+        "theme": "Resilience under pressure",
+        "text": "Pressure is met by resilience, showing a need to protect your energy while staying connected to what matters.",
+        "advice": "Respond strategically rather than proving endurance; resilience includes recovery.",
+        "journalPrompt": "What would help me stay steady without sacrificing my wellbeing or integrity?",
+        "challenge": "Endurance may be confused with never needing support.",
+        "opportunity": "A more sustainable kind of strength can emerge."
+      },
+      "growth": {
+        "theme": "Resilience under pressure",
+        "text": "Pressure is met by resilience, showing a need to protect your energy while staying connected to what matters.",
+        "advice": "Respond strategically rather than proving endurance; resilience includes recovery.",
+        "journalPrompt": "What would help me stay steady without sacrificing my wellbeing or integrity?",
+        "challenge": "Endurance may be confused with never needing support.",
+        "opportunity": "A more sustainable kind of strength can emerge."
+      }
+    },
+    "overwhelm_to_priorities": {
+      "general": {
+        "theme": "Choosing what matters first",
+        "text": "Overwhelm begins to soften when priorities become visible.",
+        "advice": "Do not organize everything at once; identify the one thing that matters most now.",
+        "journalPrompt": "What am I treating as equally urgent when it is not?",
+        "challenge": "Too many inputs can make every choice feel impossible.",
+        "opportunity": "A clear priority can restore breath and direction."
+      },
+      "career": {
+        "theme": "Choosing what matters first",
+        "text": "Overwhelm begins to soften when priorities become visible.",
+        "advice": "Do not organize everything at once; identify the one thing that matters most now.",
+        "journalPrompt": "What am I treating as equally urgent when it is not?",
+        "challenge": "Too many inputs can make every choice feel impossible.",
+        "opportunity": "A clear priority can restore breath and direction."
+      },
+      "money": {
+        "theme": "Choosing what matters first",
+        "text": "Overwhelm begins to soften when priorities become visible.",
+        "advice": "Do not organize everything at once; identify the one thing that matters most now.",
+        "journalPrompt": "What am I treating as equally urgent when it is not?",
+        "challenge": "Too many inputs can make every choice feel impossible.",
+        "opportunity": "A clear priority can restore breath and direction."
+      },
+      "growth": {
+        "theme": "Choosing what matters first",
+        "text": "Overwhelm begins to soften when priorities become visible.",
+        "advice": "Do not organize everything at once; identify the one thing that matters most now.",
+        "journalPrompt": "What am I treating as equally urgent when it is not?",
+        "challenge": "Too many inputs can make every choice feel impossible.",
+        "opportunity": "A clear priority can restore breath and direction."
+      }
+    },
+    "imbalance_to_harmony": {
+      "general": {
+        "theme": "Returning to proportion",
+        "text": "These cards point from imbalance toward harmony, suggesting that peace may come through adjustment rather than perfection.",
+        "advice": "Look for the place where too much, too little, or too often has distorted the rhythm.",
+        "journalPrompt": "What small rebalancing would make this situation feel more humane?",
+        "challenge": "An old rhythm may continue simply because it is familiar.",
+        "opportunity": "Harmony can return through practical recalibration."
+      },
+      "love": {
+        "theme": "Returning to proportion",
+        "text": "These cards point from imbalance toward harmony, suggesting that peace may come through adjustment rather than perfection.",
+        "advice": "Look for the place where too much, too little, or too often has distorted the rhythm.",
+        "journalPrompt": "What small rebalancing would make this connection or pattern feel more humane?",
+        "challenge": "An old rhythm may continue simply because it is familiar.",
+        "opportunity": "Harmony can return through practical recalibration."
+      },
+      "career": {
+        "theme": "Returning to proportion",
+        "text": "These cards point from imbalance toward harmony, suggesting that peace may come through adjustment rather than perfection.",
+        "advice": "Look for the place where too much, too little, or too often has distorted the rhythm.",
+        "journalPrompt": "What small rebalancing would make my work or direction feel more humane?",
+        "challenge": "An old rhythm may continue simply because it is familiar.",
+        "opportunity": "Harmony can return through practical recalibration."
+      },
+      "money": {
+        "theme": "Returning to proportion",
+        "text": "These cards point from imbalance toward harmony, suggesting that peace may come through adjustment rather than perfection.",
+        "advice": "Look for the place where too much, too little, or too often has distorted the rhythm.",
+        "journalPrompt": "What small rebalancing would make my resources, habits, or values feel more humane?",
+        "challenge": "An old rhythm may continue simply because it is familiar.",
+        "opportunity": "Harmony can return through practical recalibration."
+      },
+      "growth": {
+        "theme": "Returning to proportion",
+        "text": "These cards point from imbalance toward harmony, suggesting that peace may come through adjustment rather than perfection.",
+        "advice": "Look for the place where too much, too little, or too often has distorted the rhythm.",
+        "journalPrompt": "What small rebalancing would make this inner lesson feel more humane?",
+        "challenge": "An old rhythm may continue simply because it is familiar.",
+        "opportunity": "Harmony can return through practical recalibration."
+      }
+    },
+    "heartbreak_to_truth": {
+      "general": {
+        "theme": "The honest wound",
+        "text": "Heartbreak is paired with truth, asking you to let pain clarify rather than harden you.",
+        "advice": "Honor the hurt, but do not let hurt be the only interpreter of what happened.",
+        "journalPrompt": "What truth can I take from this pain without turning it against myself?",
+        "challenge": "The wound may try to become an identity.",
+        "opportunity": "Clear seeing can support real healing."
+      },
+      "love": {
+        "theme": "The honest wound",
+        "text": "Heartbreak is paired with truth, asking you to let pain clarify rather than harden you.",
+        "advice": "Honor the hurt, but do not let hurt be the only interpreter of what happened.",
+        "journalPrompt": "What truth can I take from this pain without turning it against myself?",
+        "challenge": "The wound may try to become an identity.",
+        "opportunity": "Clear seeing can support real healing."
+      },
+      "growth": {
+        "theme": "The honest wound",
+        "text": "Heartbreak is paired with truth, asking you to let pain clarify rather than harden you.",
+        "advice": "Honor the hurt, but do not let hurt be the only interpreter of what happened.",
+        "journalPrompt": "What truth can I take from this pain without turning it against myself?",
+        "challenge": "The wound may try to become an identity.",
+        "opportunity": "Clear seeing can support real healing."
+      }
+    },
+    "disappointment_to_perspective": {
+      "general": {
+        "theme": "Reframing the unmet wish",
+        "text": "Disappointment meets perspective, suggesting that an unmet wish may still hold useful information.",
+        "advice": "Ask what the disappointment reveals about your need, value, or expectation.",
+        "journalPrompt": "What did this disappointment teach me about what I truly hoped for?",
+        "challenge": "Regret may focus only on what did not happen.",
+        "opportunity": "A clearer desire can emerge from the unmet one."
+      },
+      "love": {
+        "theme": "Reframing the unmet wish",
+        "text": "Disappointment meets perspective, suggesting that an unmet wish may still hold useful information.",
+        "advice": "Ask what the disappointment reveals about your need, value, or expectation.",
+        "journalPrompt": "What did this disappointment teach me about what I truly hoped for?",
+        "challenge": "Regret may focus only on what did not happen.",
+        "opportunity": "A clearer desire can emerge from the unmet one."
+      },
+      "career": {
+        "theme": "Reframing the unmet wish",
+        "text": "Disappointment meets perspective, suggesting that an unmet wish may still hold useful information.",
+        "advice": "Ask what the disappointment reveals about your need, value, or expectation.",
+        "journalPrompt": "What did this disappointment teach me about what I truly hoped for?",
+        "challenge": "Regret may focus only on what did not happen.",
+        "opportunity": "A clearer desire can emerge from the unmet one."
+      },
+      "money": {
+        "theme": "Reframing the unmet wish",
+        "text": "Disappointment meets perspective, suggesting that an unmet wish may still hold useful information.",
+        "advice": "Ask what the disappointment reveals about your need, value, or expectation.",
+        "journalPrompt": "What did this disappointment teach me about what I truly hoped for?",
+        "challenge": "Regret may focus only on what did not happen.",
+        "opportunity": "A clearer desire can emerge from the unmet one."
+      },
+      "growth": {
+        "theme": "Reframing the unmet wish",
+        "text": "Disappointment meets perspective, suggesting that an unmet wish may still hold useful information.",
+        "advice": "Ask what the disappointment reveals about your need, value, or expectation.",
+        "journalPrompt": "What did this disappointment teach me about what I truly hoped for?",
+        "challenge": "Regret may focus only on what did not happen.",
+        "opportunity": "A clearer desire can emerge from the unmet one."
+      }
+    },
+    "rest_to_clarity": {
+      "general": {
+        "theme": "Clarity after rest",
+        "text": "Rest creates room for clarity in this pair, especially where effort has become too noisy to hear the truth.",
+        "advice": "Let the nervous system settle before treating your first thought as the final answer.",
+        "journalPrompt": "What becomes clearer when I stop pushing for a moment?",
+        "challenge": "Rest may feel unproductive even when it is necessary.",
+        "opportunity": "A calmer mind can choose more wisely."
+      },
+      "career": {
+        "theme": "Clarity after rest",
+        "text": "Rest creates room for clarity in this pair, especially where effort has become too noisy to hear the truth.",
+        "advice": "Let the nervous system settle before treating your first thought as the final answer.",
+        "journalPrompt": "What becomes clearer when I stop pushing for a moment?",
+        "challenge": "Rest may feel unproductive even when it is necessary.",
+        "opportunity": "A calmer mind can choose more wisely."
+      },
+      "money": {
+        "theme": "Clarity after rest",
+        "text": "Rest creates room for clarity in this pair, especially where effort has become too noisy to hear the truth.",
+        "advice": "Let the nervous system settle before treating your first thought as the final answer.",
+        "journalPrompt": "What becomes clearer when I stop pushing for a moment?",
+        "challenge": "Rest may feel unproductive even when it is necessary.",
+        "opportunity": "A calmer mind can choose more wisely."
+      },
+      "growth": {
+        "theme": "Clarity after rest",
+        "text": "Rest creates room for clarity in this pair, especially where effort has become too noisy to hear the truth.",
+        "advice": "Let the nervous system settle before treating your first thought as the final answer.",
+        "journalPrompt": "What becomes clearer when I stop pushing for a moment?",
+        "challenge": "Rest may feel unproductive even when it is necessary.",
+        "opportunity": "A calmer mind can choose more wisely."
+      }
+    },
+    "temptation_to_values": {
+      "general": {
+        "theme": "Desire checked by values",
+        "text": "The pull of temptation is met by values, asking whether the immediate desire supports the life you are trying to build.",
+        "advice": "Pause long enough to ask what this choice costs emotionally, practically, or spiritually.",
+        "journalPrompt": "What value do I want to honor before I follow this impulse?",
+        "challenge": "Immediate relief may look like alignment when you are tired.",
+        "opportunity": "Desire can become cleaner when guided by self-respect."
+      },
+      "love": {
+        "theme": "Desire checked by values",
+        "text": "The pull of temptation is met by values, asking whether the immediate desire supports the life you are trying to build.",
+        "advice": "Pause long enough to ask what this choice costs emotionally, practically, or spiritually.",
+        "journalPrompt": "What value do I want to honor before I follow this impulse?",
+        "challenge": "Immediate relief may look like alignment when you are tired.",
+        "opportunity": "Desire can become cleaner when guided by self-respect."
+      },
+      "money": {
+        "theme": "Desire checked by values",
+        "text": "The pull of temptation is met by values, asking whether the immediate desire supports the life you are trying to build.",
+        "advice": "Pause long enough to ask what this choice costs emotionally, practically, or spiritually.",
+        "journalPrompt": "What value do I want to honor before I follow this impulse?",
+        "challenge": "Immediate relief may look like alignment when you are tired.",
+        "opportunity": "Desire can become cleaner when guided by self-respect."
+      },
+      "growth": {
+        "theme": "Desire checked by values",
+        "text": "The pull of temptation is met by values, asking whether the immediate desire supports the life you are trying to build.",
+        "advice": "Pause long enough to ask what this choice costs emotionally, practically, or spiritually.",
+        "journalPrompt": "What value do I want to honor before I follow this impulse?",
+        "challenge": "Immediate relief may look like alignment when you are tired.",
+        "opportunity": "Desire can become cleaner when guided by self-respect."
+      }
+    },
+    "control_to_boundaries": {
+      "general": {
+        "theme": "From control to clear limits",
+        "text": "Control and boundaries are not the same; this pair asks for limits that protect dignity without tightening into force.",
+        "advice": "Name what is yours to decide, what is shared, and what belongs to someone else.",
+        "journalPrompt": "Where am I confusing control with safety?",
+        "challenge": "Fear may make force feel like protection.",
+        "opportunity": "Healthy boundaries can restore respect and room to breathe."
+      },
+      "love": {
+        "theme": "From control to clear limits",
+        "text": "Control and boundaries are not the same; this pair asks for limits that protect dignity without tightening into force.",
+        "advice": "Name what is yours to decide, what is shared, and what belongs to someone else.",
+        "journalPrompt": "Where am I confusing control with safety?",
+        "challenge": "Fear may make force feel like protection.",
+        "opportunity": "Healthy boundaries can restore respect and room to breathe."
+      },
+      "career": {
+        "theme": "From control to clear limits",
+        "text": "Control and boundaries are not the same; this pair asks for limits that protect dignity without tightening into force.",
+        "advice": "Name what is yours to decide, what is shared, and what belongs to someone else.",
+        "journalPrompt": "Where am I confusing control with safety?",
+        "challenge": "Fear may make force feel like protection.",
+        "opportunity": "Healthy boundaries can restore respect and room to breathe."
+      },
+      "money": {
+        "theme": "From control to clear limits",
+        "text": "Control and boundaries are not the same; this pair asks for limits that protect dignity without tightening into force.",
+        "advice": "Name what is yours to decide, what is shared, and what belongs to someone else.",
+        "journalPrompt": "Where am I confusing control with safety?",
+        "challenge": "Fear may make force feel like protection.",
+        "opportunity": "Healthy boundaries can restore respect and room to breathe."
+      },
+      "growth": {
+        "theme": "From control to clear limits",
+        "text": "Control and boundaries are not the same; this pair asks for limits that protect dignity without tightening into force.",
+        "advice": "Name what is yours to decide, what is shared, and what belongs to someone else.",
+        "journalPrompt": "Where am I confusing control with safety?",
+        "challenge": "Fear may make force feel like protection.",
+        "opportunity": "Healthy boundaries can restore respect and room to breathe."
+      }
+    },
+    "awakening_to_responsibility": {
+      "general": {
+        "theme": "Answering the call with maturity",
+        "text": "A realization becomes meaningful when it is followed by responsibility.",
+        "advice": "Let the insight change one concrete behavior, not just your mood.",
+        "journalPrompt": "What responsibility naturally follows from what I now understand?",
+        "challenge": "Awakening can stay abstract if it never touches daily life.",
+        "opportunity": "Insight can mature into trustworthy action."
+      },
+      "career": {
+        "theme": "Answering the call with maturity",
+        "text": "A realization becomes meaningful when it is followed by responsibility.",
+        "advice": "Let the insight change one concrete behavior, not just your mood.",
+        "journalPrompt": "What responsibility naturally follows from what I now understand?",
+        "challenge": "Awakening can stay abstract if it never touches daily life.",
+        "opportunity": "Insight can mature into trustworthy action."
+      },
+      "growth": {
+        "theme": "Answering the call with maturity",
+        "text": "A realization becomes meaningful when it is followed by responsibility.",
+        "advice": "Let the insight change one concrete behavior, not just your mood.",
+        "journalPrompt": "What responsibility naturally follows from what I now understand?",
+        "challenge": "Awakening can stay abstract if it never touches daily life.",
+        "opportunity": "Insight can mature into trustworthy action."
+      }
+    },
+    "celebration_to_stability": {
+      "general": {
+        "theme": "Joy becoming rooted",
+        "text": "Celebration meets stability, suggesting that a good moment can be honored by giving it a lasting foundation.",
+        "advice": "Enjoy the brightness, then ask what would help it remain healthy and grounded.",
+        "journalPrompt": "How can I support this good moment without trying to possess it?",
+        "challenge": "Excitement may skip the practical care that keeps things steady.",
+        "opportunity": "Joy can become part of a sustainable rhythm."
+      },
+      "love": {
+        "theme": "Joy becoming rooted",
+        "text": "Celebration meets stability, suggesting that a good moment can be honored by giving it a lasting foundation.",
+        "advice": "Enjoy the brightness, then ask what would help it remain healthy and grounded.",
+        "journalPrompt": "How can I support this good moment without trying to possess it?",
+        "challenge": "Excitement may skip the practical care that keeps things steady.",
+        "opportunity": "Joy can become part of a sustainable rhythm."
+      },
+      "career": {
+        "theme": "Joy becoming rooted",
+        "text": "Celebration meets stability, suggesting that a good moment can be honored by giving it a lasting foundation.",
+        "advice": "Enjoy the brightness, then ask what would help it remain healthy and grounded.",
+        "journalPrompt": "How can I support this good moment without trying to possess it?",
+        "challenge": "Excitement may skip the practical care that keeps things steady.",
+        "opportunity": "Joy can become part of a sustainable rhythm."
+      },
+      "money": {
+        "theme": "Joy becoming rooted",
+        "text": "Celebration meets stability, suggesting that a good moment can be honored by giving it a lasting foundation.",
+        "advice": "Enjoy the brightness, then ask what would help it remain healthy and grounded.",
+        "journalPrompt": "How can I support this good moment without trying to possess it?",
+        "challenge": "Excitement may skip the practical care that keeps things steady.",
+        "opportunity": "Joy can become part of a sustainable rhythm."
+      },
+      "growth": {
+        "theme": "Joy becoming rooted",
+        "text": "Celebration meets stability, suggesting that a good moment can be honored by giving it a lasting foundation.",
+        "advice": "Enjoy the brightness, then ask what would help it remain healthy and grounded.",
+        "journalPrompt": "How can I support this good moment without trying to possess it?",
+        "challenge": "Excitement may skip the practical care that keeps things steady.",
+        "opportunity": "Joy can become part of a sustainable rhythm."
+      }
+    },
+    "teamwork_to_mastery": {
+      "general": {
+        "theme": "Shared work, refined skill",
+        "text": "Collaboration and mastery appear together, showing that skill can grow through respectful contribution and feedback.",
+        "advice": "Let shared effort sharpen the craft rather than threaten your individual value.",
+        "journalPrompt": "What can collaboration teach me that I cannot learn alone?",
+        "challenge": "Pride or insecurity may resist useful feedback.",
+        "opportunity": "Working with others can deepen competence."
+      },
+      "career": {
+        "theme": "Shared work, refined skill",
+        "text": "Collaboration and mastery appear together, showing that skill can grow through respectful contribution and feedback.",
+        "advice": "Let shared effort sharpen the craft rather than threaten your individual value.",
+        "journalPrompt": "What can collaboration teach me that I cannot learn alone?",
+        "challenge": "Pride or insecurity may resist useful feedback.",
+        "opportunity": "Working with others can deepen competence."
+      },
+      "growth": {
+        "theme": "Shared work, refined skill",
+        "text": "Collaboration and mastery appear together, showing that skill can grow through respectful contribution and feedback.",
+        "advice": "Let shared effort sharpen the craft rather than threaten your individual value.",
+        "journalPrompt": "What can collaboration teach me that I cannot learn alone?",
+        "challenge": "Pride or insecurity may resist useful feedback.",
+        "opportunity": "Working with others can deepen competence."
+      }
+    },
+    "curiosity_to_learning": {
+      "general": {
+        "theme": "Curiosity becoming knowledge",
+        "text": "Curiosity points toward learning, suggesting that questions are not a weakness but the doorway to greater skill.",
+        "advice": "Choose one source, mentor, or practice that can turn interest into understanding.",
+        "journalPrompt": "What question deserves study instead of a quick answer?",
+        "challenge": "Wanting to know everything may delay beginning with one lesson.",
+        "opportunity": "A beginner's mind can become real competence."
+      },
+      "career": {
+        "theme": "Curiosity becoming knowledge",
+        "text": "Curiosity points toward learning, suggesting that questions are not a weakness but the doorway to greater skill.",
+        "advice": "Choose one source, mentor, or practice that can turn interest into understanding.",
+        "journalPrompt": "What question deserves study instead of a quick answer?",
+        "challenge": "Wanting to know everything may delay beginning with one lesson.",
+        "opportunity": "A beginner's mind can become real competence."
+      },
+      "money": {
+        "theme": "Curiosity becoming knowledge",
+        "text": "Curiosity points toward learning, suggesting that questions are not a weakness but the doorway to greater skill.",
+        "advice": "Choose one source, mentor, or practice that can turn interest into understanding.",
+        "journalPrompt": "What question deserves study instead of a quick answer?",
+        "challenge": "Wanting to know everything may delay beginning with one lesson.",
+        "opportunity": "A beginner's mind can become real competence."
+      },
+      "growth": {
+        "theme": "Curiosity becoming knowledge",
+        "text": "Curiosity points toward learning, suggesting that questions are not a weakness but the doorway to greater skill.",
+        "advice": "Choose one source, mentor, or practice that can turn interest into understanding.",
+        "journalPrompt": "What question deserves study instead of a quick answer?",
+        "challenge": "Wanting to know everything may delay beginning with one lesson.",
+        "opportunity": "A beginner's mind can become real competence."
+      }
+    },
+    "movement_to_integration": {
+      "general": {
+        "theme": "Letting movement settle",
+        "text": "After movement, integration asks you to absorb what has changed instead of rushing immediately into the next thing.",
+        "advice": "Make room to stabilize the gain, lesson, or shift before expanding again.",
+        "journalPrompt": "What has changed, and how can I integrate it into daily life?",
+        "challenge": "Momentum may become avoidance of reflection.",
+        "opportunity": "Integrated change becomes more trustworthy."
+      },
+      "career": {
+        "theme": "Letting movement settle",
+        "text": "After movement, integration asks you to absorb what has changed instead of rushing immediately into the next thing.",
+        "advice": "Make room to stabilize the gain, lesson, or shift before expanding again.",
+        "journalPrompt": "What has changed, and how can I integrate it into daily life?",
+        "challenge": "Momentum may become avoidance of reflection.",
+        "opportunity": "Integrated change becomes more trustworthy."
+      },
+      "money": {
+        "theme": "Letting movement settle",
+        "text": "After movement, integration asks you to absorb what has changed instead of rushing immediately into the next thing.",
+        "advice": "Make room to stabilize the gain, lesson, or shift before expanding again.",
+        "journalPrompt": "What has changed, and how can I integrate it into daily life?",
+        "challenge": "Momentum may become avoidance of reflection.",
+        "opportunity": "Integrated change becomes more trustworthy."
+      },
+      "growth": {
+        "theme": "Letting movement settle",
+        "text": "After movement, integration asks you to absorb what has changed instead of rushing immediately into the next thing.",
+        "advice": "Make room to stabilize the gain, lesson, or shift before expanding again.",
+        "journalPrompt": "What has changed, and how can I integrate it into daily life?",
+        "challenge": "Momentum may become avoidance of reflection.",
+        "opportunity": "Integrated change becomes more trustworthy."
+      }
+    },
+    "scarcity_to_generosity": {
+      "general": {
+        "theme": "Resource fear meeting support",
+        "text": "Scarcity softens when support, exchange, or receiving becomes possible.",
+        "advice": "Notice where fear is asking for practical care, and where help can be accepted without shame.",
+        "journalPrompt": "What kind of support would help me respond to scarcity with more steadiness?",
+        "challenge": "Fear may make receiving feel unsafe or undeserved.",
+        "opportunity": "Healthy exchange can challenge the story of lack."
+      },
+      "money": {
+        "theme": "Resource fear meeting support",
+        "text": "Scarcity softens when support, exchange, or receiving becomes possible.",
+        "advice": "Notice where fear is asking for practical care, and where help can be accepted without shame.",
+        "journalPrompt": "What kind of support would help me respond to scarcity with more steadiness?",
+        "challenge": "Fear may make receiving feel unsafe or undeserved.",
+        "opportunity": "Healthy exchange can challenge the story of lack."
+      },
+      "love": {
+        "theme": "Resource fear meeting support",
+        "text": "Scarcity softens when support, exchange, or receiving becomes possible.",
+        "advice": "Notice where fear is asking for practical care, and where help can be accepted without shame.",
+        "journalPrompt": "What kind of support would help me respond to scarcity with more steadiness?",
+        "challenge": "Fear may make receiving feel unsafe or undeserved.",
+        "opportunity": "Healthy exchange can challenge the story of lack."
+      },
+      "growth": {
+        "theme": "Resource fear meeting support",
+        "text": "Scarcity softens when support, exchange, or receiving becomes possible.",
+        "advice": "Notice where fear is asking for practical care, and where help can be accepted without shame.",
+        "journalPrompt": "What kind of support would help me respond to scarcity with more steadiness?",
+        "challenge": "Fear may make receiving feel unsafe or undeserved.",
+        "opportunity": "Healthy exchange can challenge the story of lack."
+      }
+    },
+    "guarded_heart_to_openness": {
+      "general": {
+        "theme": "Softening protection",
+        "text": "The guarded heart is not wrong; this pair simply asks whether protection is ready to soften where safety is real.",
+        "advice": "Open by degrees, and let trust be built through consistency rather than pressure.",
+        "journalPrompt": "Where can I soften a little without betraying my need for safety?",
+        "challenge": "Old pain may make every opening feel dangerous.",
+        "opportunity": "Measured vulnerability can invite genuine connection."
+      },
+      "love": {
+        "theme": "Softening protection",
+        "text": "The guarded heart is not wrong; this pair simply asks whether protection is ready to soften where safety is real.",
+        "advice": "Open by degrees, and let trust be built through consistency rather than pressure.",
+        "journalPrompt": "Where can I soften a little without betraying my need for safety?",
+        "challenge": "Old pain may make every opening feel dangerous.",
+        "opportunity": "Measured vulnerability can invite genuine connection."
+      },
+      "growth": {
+        "theme": "Softening protection",
+        "text": "The guarded heart is not wrong; this pair simply asks whether protection is ready to soften where safety is real.",
+        "advice": "Open by degrees, and let trust be built through consistency rather than pressure.",
+        "journalPrompt": "Where can I soften a little without betraying my need for safety?",
+        "challenge": "Old pain may make every opening feel dangerous.",
+        "opportunity": "Measured vulnerability can invite genuine connection."
+      }
+    },
+    "blocked_truth_to_clear_conversation": {
+      "general": {
+        "theme": "The conversation becoming clear",
+        "text": "Blocked truth moves toward clearer expression, suggesting that what has been indirect may need a more honest channel.",
+        "advice": "Speak plainly and kindly; ask for clarity rather than guessing in silence.",
+        "journalPrompt": "What needs to be said or asked in a cleaner way?",
+        "challenge": "Fear of reaction may keep the truth tangled.",
+        "opportunity": "Clear conversation can reduce unnecessary emotional labor."
+      },
+      "love": {
+        "theme": "The conversation becoming clear",
+        "text": "Blocked truth moves toward clearer expression, suggesting that what has been indirect may need a more honest channel.",
+        "advice": "Speak plainly and kindly; ask for clarity rather than guessing in silence.",
+        "journalPrompt": "What needs to be said or asked in a cleaner way?",
+        "challenge": "Fear of reaction may keep the truth tangled.",
+        "opportunity": "Clear conversation can reduce unnecessary emotional labor."
+      },
+      "career": {
+        "theme": "The conversation becoming clear",
+        "text": "Blocked truth moves toward clearer expression, suggesting that what has been indirect may need a more honest channel.",
+        "advice": "Speak plainly and kindly; ask for clarity rather than guessing in silence.",
+        "journalPrompt": "What needs to be said or asked in a cleaner way?",
+        "challenge": "Fear of reaction may keep the truth tangled.",
+        "opportunity": "Clear conversation can reduce unnecessary emotional labor."
+      },
+      "growth": {
+        "theme": "The conversation becoming clear",
+        "text": "Blocked truth moves toward clearer expression, suggesting that what has been indirect may need a more honest channel.",
+        "advice": "Speak plainly and kindly; ask for clarity rather than guessing in silence.",
+        "journalPrompt": "What needs to be said or asked in a cleaner way?",
+        "challenge": "Fear of reaction may keep the truth tangled.",
+        "opportunity": "Clear conversation can reduce unnecessary emotional labor."
+      }
+    },
+    "burnout_to_recovery": {
+      "general": {
+        "theme": "Energy returning through care",
+        "text": "Burnout is met by recovery, reminding you that restoration is part of the path, not a detour from it.",
+        "advice": "Reduce demand where possible and choose one form of care that is repeatable, not heroic.",
+        "journalPrompt": "What does my energy need before it can honestly return?",
+        "challenge": "The habit of pushing may resist rest.",
+        "opportunity": "Recovery can rebuild a truer relationship with effort."
+      },
+      "career": {
+        "theme": "Energy returning through care",
+        "text": "Burnout is met by recovery, reminding you that restoration is part of the path, not a detour from it.",
+        "advice": "Reduce demand where possible and choose one form of care that is repeatable, not heroic.",
+        "journalPrompt": "What does my energy need before it can honestly return?",
+        "challenge": "The habit of pushing may resist rest.",
+        "opportunity": "Recovery can rebuild a truer relationship with effort."
+      },
+      "money": {
+        "theme": "Energy returning through care",
+        "text": "Burnout is met by recovery, reminding you that restoration is part of the path, not a detour from it.",
+        "advice": "Reduce demand where possible and choose one form of care that is repeatable, not heroic.",
+        "journalPrompt": "What does my energy need before it can honestly return?",
+        "challenge": "The habit of pushing may resist rest.",
+        "opportunity": "Recovery can rebuild a truer relationship with effort."
+      },
+      "growth": {
+        "theme": "Energy returning through care",
+        "text": "Burnout is met by recovery, reminding you that restoration is part of the path, not a detour from it.",
+        "advice": "Reduce demand where possible and choose one form of care that is repeatable, not heroic.",
+        "journalPrompt": "What does my energy need before it can honestly return?",
+        "challenge": "The habit of pushing may resist rest.",
+        "opportunity": "Recovery can rebuild a truer relationship with effort."
+      }
+    },
+    "independence_to_connection": {
+      "general": {
+        "theme": "Selfhood meeting relationship",
+        "text": "Independence and connection appear together, suggesting that closeness does not need to erase selfhood.",
+        "advice": "Let support in without handing over your center.",
+        "journalPrompt": "How can I stay myself while allowing more connection?",
+        "challenge": "Self-protection may call isolation independence.",
+        "opportunity": "A secure self can relate more freely."
+      },
+      "love": {
+        "theme": "Selfhood meeting relationship",
+        "text": "Independence and connection appear together, suggesting that closeness does not need to erase selfhood.",
+        "advice": "Let support in without handing over your center.",
+        "journalPrompt": "How can I stay myself while allowing more connection?",
+        "challenge": "Self-protection may call isolation independence.",
+        "opportunity": "A secure self can relate more freely."
+      },
+      "career": {
+        "theme": "Selfhood meeting relationship",
+        "text": "Independence and connection appear together, suggesting that closeness does not need to erase selfhood.",
+        "advice": "Let support in without handing over your center.",
+        "journalPrompt": "How can I stay myself while allowing more connection?",
+        "challenge": "Self-protection may call isolation independence.",
+        "opportunity": "A secure self can relate more freely."
+      },
+      "growth": {
+        "theme": "Selfhood meeting relationship",
+        "text": "Independence and connection appear together, suggesting that closeness does not need to erase selfhood.",
+        "advice": "Let support in without handing over your center.",
+        "journalPrompt": "How can I stay myself while allowing more connection?",
+        "challenge": "Self-protection may call isolation independence.",
+        "opportunity": "A secure self can relate more freely."
+      }
+    },
+    "security_to_change": {
+      "general": {
+        "theme": "Safe enough to change",
+        "text": "Stability meets change, suggesting that security may be the ground from which movement becomes possible.",
+        "advice": "Keep what genuinely supports you while allowing the parts that are ready to evolve.",
+        "journalPrompt": "What stable foundation can help me move through change with less fear?",
+        "challenge": "Comfort may resist necessary growth.",
+        "opportunity": "Change can be less chaotic when rooted in what is steady."
+      },
+      "love": {
+        "theme": "Safe enough to change",
+        "text": "Stability meets change, suggesting that security may be the ground from which movement becomes possible.",
+        "advice": "Keep what genuinely supports you while allowing the parts that are ready to evolve.",
+        "journalPrompt": "What stable foundation can help me move through change with less fear?",
+        "challenge": "Comfort may resist necessary growth.",
+        "opportunity": "Change can be less chaotic when rooted in what is steady."
+      },
+      "career": {
+        "theme": "Safe enough to change",
+        "text": "Stability meets change, suggesting that security may be the ground from which movement becomes possible.",
+        "advice": "Keep what genuinely supports you while allowing the parts that are ready to evolve.",
+        "journalPrompt": "What stable foundation can help me move through change with less fear?",
+        "challenge": "Comfort may resist necessary growth.",
+        "opportunity": "Change can be less chaotic when rooted in what is steady."
+      },
+      "money": {
+        "theme": "Safe enough to change",
+        "text": "Stability meets change, suggesting that security may be the ground from which movement becomes possible.",
+        "advice": "Keep what genuinely supports you while allowing the parts that are ready to evolve.",
+        "journalPrompt": "What stable foundation can help me move through change with less fear?",
+        "challenge": "Comfort may resist necessary growth.",
+        "opportunity": "Change can be less chaotic when rooted in what is steady."
+      },
+      "growth": {
+        "theme": "Safe enough to change",
+        "text": "Stability meets change, suggesting that security may be the ground from which movement becomes possible.",
+        "advice": "Keep what genuinely supports you while allowing the parts that are ready to evolve.",
+        "journalPrompt": "What stable foundation can help me move through change with less fear?",
+        "challenge": "Comfort may resist necessary growth.",
+        "opportunity": "Change can be less chaotic when rooted in what is steady."
+      }
+    },
+    "tradition_to_questioning": {
+      "general": {
+        "theme": "Wisdom that can be questioned",
+        "text": "Tradition meets questioning here, inviting respect for guidance without surrendering your inner authority.",
+        "advice": "Ask which inherited rule still nourishes you and which one has become too small.",
+        "journalPrompt": "What belief am I ready to examine with honesty and compassion?",
+        "challenge": "Belonging may make questioning feel disloyal.",
+        "opportunity": "A more personal truth can grow from examined wisdom."
+      },
+      "love": {
+        "theme": "Wisdom that can be questioned",
+        "text": "Tradition meets questioning here, inviting respect for guidance without surrendering your inner authority.",
+        "advice": "Ask which inherited rule still nourishes you and which one has become too small.",
+        "journalPrompt": "What belief am I ready to examine with honesty and compassion?",
+        "challenge": "Belonging may make questioning feel disloyal.",
+        "opportunity": "A more personal truth can grow from examined wisdom."
+      },
+      "career": {
+        "theme": "Wisdom that can be questioned",
+        "text": "Tradition meets questioning here, inviting respect for guidance without surrendering your inner authority.",
+        "advice": "Ask which inherited rule still nourishes you and which one has become too small.",
+        "journalPrompt": "What belief am I ready to examine with honesty and compassion?",
+        "challenge": "Belonging may make questioning feel disloyal.",
+        "opportunity": "A more personal truth can grow from examined wisdom."
+      },
+      "money": {
+        "theme": "Wisdom that can be questioned",
+        "text": "Tradition meets questioning here, inviting respect for guidance without surrendering your inner authority.",
+        "advice": "Ask which inherited rule still nourishes you and which one has become too small.",
+        "journalPrompt": "What belief am I ready to examine with honesty and compassion?",
+        "challenge": "Belonging may make questioning feel disloyal.",
+        "opportunity": "A more personal truth can grow from examined wisdom."
+      },
+      "growth": {
+        "theme": "Wisdom that can be questioned",
+        "text": "Tradition meets questioning here, inviting respect for guidance without surrendering your inner authority.",
+        "advice": "Ask which inherited rule still nourishes you and which one has become too small.",
+        "journalPrompt": "What belief am I ready to examine with honesty and compassion?",
+        "challenge": "Belonging may make questioning feel disloyal.",
+        "opportunity": "A more personal truth can grow from examined wisdom."
+      }
+    },
+    "manifestation_to_practical_step": {
+      "general": {
+        "theme": "Intention made practical",
+        "text": "Intention becomes stronger when grounded in one practical step.",
+        "advice": "Use what is already in your hands and give the desire a simple form.",
+        "journalPrompt": "What practical step would make my intention more honest?",
+        "challenge": "Big visions may avoid the humility of small beginnings.",
+        "opportunity": "Grounded action can turn possibility into participation."
+      },
+      "career": {
+        "theme": "Intention made practical",
+        "text": "Intention becomes stronger when grounded in one practical step.",
+        "advice": "Use what is already in your hands and give the desire a simple form.",
+        "journalPrompt": "What practical step would make my intention more honest?",
+        "challenge": "Big visions may avoid the humility of small beginnings.",
+        "opportunity": "Grounded action can turn possibility into participation."
+      },
+      "money": {
+        "theme": "Intention made practical",
+        "text": "Intention becomes stronger when grounded in one practical step.",
+        "advice": "Use what is already in your hands and give the desire a simple form.",
+        "journalPrompt": "What practical step would make my intention more honest?",
+        "challenge": "Big visions may avoid the humility of small beginnings.",
+        "opportunity": "Grounded action can turn possibility into participation."
+      },
+      "growth": {
+        "theme": "Intention made practical",
+        "text": "Intention becomes stronger when grounded in one practical step.",
+        "advice": "Use what is already in your hands and give the desire a simple form.",
+        "journalPrompt": "What practical step would make my intention more honest?",
+        "challenge": "Big visions may avoid the humility of small beginnings.",
+        "opportunity": "Grounded action can turn possibility into participation."
+      }
+    },
+    "imagination_to_choice": {
+      "general": {
+        "theme": "Possibility meets discernment",
+        "text": "Imagination opens options, while choice asks which possibility deserves your real energy.",
+        "advice": "Let the dream inspire you, then choose according to capacity, values, and timing.",
+        "journalPrompt": "Which possibility becomes stronger when I test it against reality?",
+        "challenge": "Too many imagined paths may delay commitment.",
+        "opportunity": "Discernment can protect the dream that truly matters."
+      },
+      "love": {
+        "theme": "Possibility meets discernment",
+        "text": "Imagination opens options, while choice asks which possibility deserves your real energy.",
+        "advice": "Let the dream inspire you, then choose according to capacity, values, and timing.",
+        "journalPrompt": "Which possibility becomes stronger when I test it against reality?",
+        "challenge": "Too many imagined paths may delay commitment.",
+        "opportunity": "Discernment can protect the dream that truly matters."
+      },
+      "career": {
+        "theme": "Possibility meets discernment",
+        "text": "Imagination opens options, while choice asks which possibility deserves your real energy.",
+        "advice": "Let the dream inspire you, then choose according to capacity, values, and timing.",
+        "journalPrompt": "Which possibility becomes stronger when I test it against reality?",
+        "challenge": "Too many imagined paths may delay commitment.",
+        "opportunity": "Discernment can protect the dream that truly matters."
+      },
+      "money": {
+        "theme": "Possibility meets discernment",
+        "text": "Imagination opens options, while choice asks which possibility deserves your real energy.",
+        "advice": "Let the dream inspire you, then choose according to capacity, values, and timing.",
+        "journalPrompt": "Which possibility becomes stronger when I test it against reality?",
+        "challenge": "Too many imagined paths may delay commitment.",
+        "opportunity": "Discernment can protect the dream that truly matters."
+      },
+      "growth": {
+        "theme": "Possibility meets discernment",
+        "text": "Imagination opens options, while choice asks which possibility deserves your real energy.",
+        "advice": "Let the dream inspire you, then choose according to capacity, values, and timing.",
+        "journalPrompt": "Which possibility becomes stronger when I test it against reality?",
+        "challenge": "Too many imagined paths may delay commitment.",
+        "opportunity": "Discernment can protect the dream that truly matters."
+      }
+    },
+    "fairness_to_compassion": {
+      "general": {
+        "theme": "Truth with mercy",
+        "text": "Fairness is paired with compassion, asking for honesty that does not forget humanity.",
+        "advice": "Hold accountability and tenderness together; neither has to erase the other.",
+        "journalPrompt": "Where can I be truthful without becoming harsh?",
+        "challenge": "The need for justice may harden into punishment.",
+        "opportunity": "Compassion can make truth easier to integrate."
+      },
+      "love": {
+        "theme": "Truth with mercy",
+        "text": "Fairness is paired with compassion, asking for honesty that does not forget humanity.",
+        "advice": "Hold accountability and tenderness together; neither has to erase the other.",
+        "journalPrompt": "Where can I be truthful without becoming harsh?",
+        "challenge": "The need for justice may harden into punishment.",
+        "opportunity": "Compassion can make truth easier to integrate."
+      },
+      "career": {
+        "theme": "Truth with mercy",
+        "text": "Fairness is paired with compassion, asking for honesty that does not forget humanity.",
+        "advice": "Hold accountability and tenderness together; neither has to erase the other.",
+        "journalPrompt": "Where can I be truthful without becoming harsh?",
+        "challenge": "The need for justice may harden into punishment.",
+        "opportunity": "Compassion can make truth easier to integrate."
+      },
+      "growth": {
+        "theme": "Truth with mercy",
+        "text": "Fairness is paired with compassion, asking for honesty that does not forget humanity.",
+        "advice": "Hold accountability and tenderness together; neither has to erase the other.",
+        "journalPrompt": "Where can I be truthful without becoming harsh?",
+        "challenge": "The need for justice may harden into punishment.",
+        "opportunity": "Compassion can make truth easier to integrate."
+      }
+    },
+    "intuition_to_action": {
+      "general": {
+        "theme": "The inner signal becomes a step",
+        "text": "Intuition is asking to become action, not through impulse, but through a move that honors what you quietly know.",
+        "advice": "Choose a small action that tests the guidance without forcing the entire outcome.",
+        "journalPrompt": "What action would respectfully answer what my intuition keeps showing me?",
+        "challenge": "Waiting for perfect certainty may silence a useful signal.",
+        "opportunity": "Inner knowing can become grounded participation."
+      },
+      "love": {
+        "theme": "The inner signal becomes a step",
+        "text": "Intuition is asking to become action, not through impulse, but through a move that honors what you quietly know.",
+        "advice": "Choose a small action that tests the guidance without forcing the entire outcome.",
+        "journalPrompt": "What action would respectfully answer what my intuition keeps showing me?",
+        "challenge": "Waiting for perfect certainty may silence a useful signal.",
+        "opportunity": "Inner knowing can become grounded participation."
+      },
+      "career": {
+        "theme": "The inner signal becomes a step",
+        "text": "Intuition is asking to become action, not through impulse, but through a move that honors what you quietly know.",
+        "advice": "Choose a small action that tests the guidance without forcing the entire outcome.",
+        "journalPrompt": "What action would respectfully answer what my intuition keeps showing me?",
+        "challenge": "Waiting for perfect certainty may silence a useful signal.",
+        "opportunity": "Inner knowing can become grounded participation."
+      },
+      "money": {
+        "theme": "The inner signal becomes a step",
+        "text": "Intuition is asking to become action, not through impulse, but through a move that honors what you quietly know.",
+        "advice": "Choose a small action that tests the guidance without forcing the entire outcome.",
+        "journalPrompt": "What action would respectfully answer what my intuition keeps showing me?",
+        "challenge": "Waiting for perfect certainty may silence a useful signal.",
+        "opportunity": "Inner knowing can become grounded participation."
+      },
+      "growth": {
+        "theme": "The inner signal becomes a step",
+        "text": "Intuition is asking to become action, not through impulse, but through a move that honors what you quietly know.",
+        "advice": "Choose a small action that tests the guidance without forcing the entire outcome.",
+        "journalPrompt": "What action would respectfully answer what my intuition keeps showing me?",
+        "challenge": "Waiting for perfect certainty may silence a useful signal.",
+        "opportunity": "Inner knowing can become grounded participation."
+      }
+    },
+    "conflict_to_boundaries": {
+      "general": {
+        "theme": "Conflict clarifying limits",
+        "text": "Conflict can reveal where boundaries are needed, especially if the same tension keeps returning.",
+        "advice": "Name the limit clearly before resentment becomes the only language available.",
+        "journalPrompt": "What boundary would make this conflict less repetitive?",
+        "challenge": "Avoiding discomfort may allow the pattern to continue.",
+        "opportunity": "A respectful limit can protect peace."
+      },
+      "love": {
+        "theme": "Conflict clarifying limits",
+        "text": "Conflict can reveal where boundaries are needed, especially if the same tension keeps returning.",
+        "advice": "Name the limit clearly before resentment becomes the only language available.",
+        "journalPrompt": "What boundary would make this conflict less repetitive?",
+        "challenge": "Avoiding discomfort may allow the pattern to continue.",
+        "opportunity": "A respectful limit can protect peace."
+      },
+      "career": {
+        "theme": "Conflict clarifying limits",
+        "text": "Conflict can reveal where boundaries are needed, especially if the same tension keeps returning.",
+        "advice": "Name the limit clearly before resentment becomes the only language available.",
+        "journalPrompt": "What boundary would make this conflict less repetitive?",
+        "challenge": "Avoiding discomfort may allow the pattern to continue.",
+        "opportunity": "A respectful limit can protect peace."
+      },
+      "growth": {
+        "theme": "Conflict clarifying limits",
+        "text": "Conflict can reveal where boundaries are needed, especially if the same tension keeps returning.",
+        "advice": "Name the limit clearly before resentment becomes the only language available.",
+        "journalPrompt": "What boundary would make this conflict less repetitive?",
+        "challenge": "Avoiding discomfort may allow the pattern to continue.",
+        "opportunity": "A respectful limit can protect peace."
+      }
+    },
+    "anxiety_to_support": {
+      "general": {
+        "theme": "Worry reaching for support",
+        "text": "Anxiety meets support here, reminding you that worry does not have to be processed alone.",
+        "advice": "Share the concern with a trustworthy person or bring it into a grounded plan, rather than letting it echo privately.",
+        "journalPrompt": "What support would make this worry feel less isolating?",
+        "challenge": "Anxiety may convince you that you must solve everything alone.",
+        "opportunity": "Support can turn spiraling thought into shared steadiness."
+      },
+      "love": {
+        "theme": "Worry reaching for support",
+        "text": "Anxiety meets support here, reminding you that worry does not have to be processed alone.",
+        "advice": "Share the concern with a trustworthy person or bring it into a grounded plan, rather than letting it echo privately.",
+        "journalPrompt": "What support would make this worry feel less isolating?",
+        "challenge": "Anxiety may convince you that you must solve everything alone.",
+        "opportunity": "Support can turn spiraling thought into shared steadiness."
+      },
+      "career": {
+        "theme": "Worry reaching for support",
+        "text": "Anxiety meets support here, reminding you that worry does not have to be processed alone.",
+        "advice": "Share the concern with a trustworthy person or bring it into a grounded plan, rather than letting it echo privately.",
+        "journalPrompt": "What support would make this worry feel less isolating?",
+        "challenge": "Anxiety may convince you that you must solve everything alone.",
+        "opportunity": "Support can turn spiraling thought into shared steadiness."
+      },
+      "money": {
+        "theme": "Worry reaching for support",
+        "text": "Anxiety meets support here, reminding you that worry does not have to be processed alone.",
+        "advice": "Share the concern with a trustworthy person or bring it into a grounded plan, rather than letting it echo privately.",
+        "journalPrompt": "What support would make this worry feel less isolating?",
+        "challenge": "Anxiety may convince you that you must solve everything alone.",
+        "opportunity": "Support can turn spiraling thought into shared steadiness."
+      },
+      "growth": {
+        "theme": "Worry reaching for support",
+        "text": "Anxiety meets support here, reminding you that worry does not have to be processed alone.",
+        "advice": "Share the concern with a trustworthy person or bring it into a grounded plan, rather than letting it echo privately.",
+        "journalPrompt": "What support would make this worry feel less isolating?",
+        "challenge": "Anxiety may convince you that you must solve everything alone.",
+        "opportunity": "Support can turn spiraling thought into shared steadiness."
+      }
+    }
+  }
+}

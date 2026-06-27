@@ -1,0 +1,1838 @@
+{
+  "schemaVersion": 2,
+  "locale": "it",
+  "kind": "combinationRuleTexts",
+  "description": "Testi italiani localizzati v2 per le regole di combinazione a coppia. Gli ID devono corrispondere a shared/combination_rules_v2.json.",
+  "ruleTexts": {
+    "loss_to_healing": {
+      "general": {
+        "theme": "Il dolore che diventa cura",
+        "text": "Il movimento tra queste carte suggerisce che la situazione non ti chiede di restare dentro la perdita, ma di notare dove la tenerezza sta iniziando a tornare.",
+        "advice": "Lascia che la guarigione sia graduale; il prossimo passo è dare un nome a ciò che fa ancora male senza farne tutta la tua storia.",
+        "journalPrompt": "Quale parte di questa situazione ha bisogno di gentilezza prima di poter diventare saggezza?",
+        "challenge": "Un vecchio dolore potrebbe voler ancora definire il presente.",
+        "opportunity": "Un rapporto più morbido con il passato può iniziare ad aprirsi."
+      },
+      "love": {
+        "theme": "Il dolore che diventa cura",
+        "text": "Il movimento tra queste carte suggerisce che la situazione non ti chiede di restare dentro la perdita, ma di notare dove la tenerezza sta iniziando a tornare.",
+        "advice": "Lascia che la guarigione sia graduale; il prossimo passo è dare un nome a ciò che fa ancora male senza farne tutta la tua storia.",
+        "journalPrompt": "Quale parte di questa situazione ha bisogno di gentilezza prima di poter diventare saggezza?",
+        "challenge": "Un vecchio dolore potrebbe voler ancora definire il presente.",
+        "opportunity": "Un rapporto più morbido con il passato può iniziare ad aprirsi."
+      },
+      "growth": {
+        "theme": "Il dolore che diventa cura",
+        "text": "Il movimento tra queste carte suggerisce che la situazione non ti chiede di restare dentro la perdita, ma di notare dove la tenerezza sta iniziando a tornare.",
+        "advice": "Lascia che la guarigione sia graduale; il prossimo passo è dare un nome a ciò che fa ancora male senza farne tutta la tua storia.",
+        "journalPrompt": "Quale parte di questa situazione ha bisogno di gentilezza prima di poter diventare saggezza?",
+        "challenge": "Un vecchio dolore potrebbe voler ancora definire il presente.",
+        "opportunity": "Un rapporto più morbido con il passato può iniziare ad aprirsi."
+      }
+    },
+    "loss_to_new_beginning": {
+      "general": {
+        "theme": "Dopo lo spazio vuoto",
+        "text": "Queste carte mostrano un passaggio da ciò che sembra mancare verso un nuovo seme che può aver bisogno di protezione silenziosa prima di crescere.",
+        "advice": "Non affrettarti a riempire lo spazio; scegli l’inizio che senti onesto, stabile e gentile verso il tuo io futuro.",
+        "journalPrompt": "Quale nuovo inizio sembra reale perché ho compreso ciò che non posso più portare con me?",
+        "challenge": "La vecchia storia può far sembrare la nuova apertura più piccola di quanto sia.",
+        "opportunity": "Un sentiero fresco può essere scelto con più maturità di prima."
+      },
+      "love": {
+        "theme": "Dopo lo spazio vuoto",
+        "text": "Queste carte mostrano un passaggio da ciò che sembra mancare verso un nuovo seme che può aver bisogno di protezione silenziosa prima di crescere.",
+        "advice": "Non affrettarti a riempire lo spazio; scegli l’inizio che senti onesto, stabile e gentile verso il tuo io futuro.",
+        "journalPrompt": "Quale nuovo inizio sembra reale perché ho compreso ciò che non posso più portare con me?",
+        "challenge": "La vecchia storia può far sembrare la nuova apertura più piccola di quanto sia.",
+        "opportunity": "Un sentiero fresco può essere scelto con più maturità di prima."
+      },
+      "career": {
+        "theme": "Dopo lo spazio vuoto",
+        "text": "Queste carte mostrano un passaggio da ciò che sembra mancare verso un nuovo seme che può aver bisogno di protezione silenziosa prima di crescere.",
+        "advice": "Non affrettarti a riempire lo spazio; scegli l’inizio che senti onesto, stabile e gentile verso il tuo io futuro.",
+        "journalPrompt": "Quale nuovo inizio sembra reale perché ho compreso ciò che non posso più portare con me?",
+        "challenge": "La vecchia storia può far sembrare la nuova apertura più piccola di quanto sia.",
+        "opportunity": "Un sentiero fresco può essere scelto con più maturità di prima."
+      },
+      "money": {
+        "theme": "Dopo lo spazio vuoto",
+        "text": "Queste carte mostrano un passaggio da ciò che sembra mancare verso un nuovo seme che può aver bisogno di protezione silenziosa prima di crescere.",
+        "advice": "Non affrettarti a riempire lo spazio; scegli l’inizio che senti onesto, stabile e gentile verso il tuo io futuro.",
+        "journalPrompt": "Quale nuovo inizio sembra reale perché ho compreso ciò che non posso più portare con me?",
+        "challenge": "La vecchia storia può far sembrare la nuova apertura più piccola di quanto sia.",
+        "opportunity": "Un sentiero fresco può essere scelto con più maturità di prima."
+      },
+      "growth": {
+        "theme": "Dopo lo spazio vuoto",
+        "text": "Queste carte mostrano un passaggio da ciò che sembra mancare verso un nuovo seme che può aver bisogno di protezione silenziosa prima di crescere.",
+        "advice": "Non affrettarti a riempire lo spazio; scegli l’inizio che senti onesto, stabile e gentile verso il tuo io futuro.",
+        "journalPrompt": "Quale nuovo inizio sembra reale perché ho compreso ciò che non posso più portare con me?",
+        "challenge": "La vecchia storia può far sembrare la nuova apertura più piccola di quanto sia.",
+        "opportunity": "Un sentiero fresco può essere scelto con più maturità di prima."
+      }
+    },
+    "conflict_to_clarity": {
+      "general": {
+        "theme": "Verità dopo l’attrito",
+        "text": "La tensione mostrata dalla prima carta può diventare utile quando conduce a una verità più limpida, invece che a un’altra reazione.",
+        "advice": "Usa la chiarezza come una lanterna, non come una lama; il prossimo passo è capire prima di cercare di vincere.",
+        "journalPrompt": "Quale verità sta cercando di rivelare questo conflitto sotto il rumore?",
+        "challenge": "Il desiderio di avere ragione può offuscare il messaggio più profondo.",
+        "opportunity": "Una comprensione onesta può sostituire una lotta ripetuta."
+      },
+      "love": {
+        "theme": "Verità dopo l’attrito",
+        "text": "La tensione mostrata dalla prima carta può diventare utile quando conduce a una verità più limpida, invece che a un’altra reazione.",
+        "advice": "Usa la chiarezza come una lanterna, non come una lama; il prossimo passo è capire prima di cercare di vincere.",
+        "journalPrompt": "Quale verità sta cercando di rivelare questo conflitto sotto il rumore?",
+        "challenge": "Il desiderio di avere ragione può offuscare il messaggio più profondo.",
+        "opportunity": "Una comprensione onesta può sostituire una lotta ripetuta."
+      },
+      "career": {
+        "theme": "Verità dopo l’attrito",
+        "text": "La tensione mostrata dalla prima carta può diventare utile quando conduce a una verità più limpida, invece che a un’altra reazione.",
+        "advice": "Usa la chiarezza come una lanterna, non come una lama; il prossimo passo è capire prima di cercare di vincere.",
+        "journalPrompt": "Quale verità sta cercando di rivelare questo conflitto sotto il rumore?",
+        "challenge": "Il desiderio di avere ragione può offuscare il messaggio più profondo.",
+        "opportunity": "Una comprensione onesta può sostituire una lotta ripetuta."
+      },
+      "growth": {
+        "theme": "Verità dopo l’attrito",
+        "text": "La tensione mostrata dalla prima carta può diventare utile quando conduce a una verità più limpida, invece che a un’altra reazione.",
+        "advice": "Usa la chiarezza come una lanterna, non come una lama; il prossimo passo è capire prima di cercare di vincere.",
+        "journalPrompt": "Quale verità sta cercando di rivelare questo conflitto sotto il rumore?",
+        "challenge": "Il desiderio di avere ragione può offuscare il messaggio più profondo.",
+        "opportunity": "Una comprensione onesta può sostituire una lotta ripetuta."
+      }
+    },
+    "confusion_to_truth": {
+      "general": {
+        "theme": "La nebbia si dirada",
+        "text": "La coppia si muove dall’incertezza verso la verità, suggerendo che la situazione può chiarirsi quando smetti di forzare una risposta e inizi a raccogliere ciò che è reale.",
+        "advice": "Separa fatti, emozioni e supposizioni prima di scegliere il prossimo passo.",
+        "journalPrompt": "Che cosa so davvero, e che cosa ho immaginato o temuto?",
+        "challenge": "La nebbia può sembrare abbastanza familiare da essere scambiata per sicurezza.",
+        "opportunity": "Informazioni più chiare possono portare scelte più calme."
+      },
+      "love": {
+        "theme": "La nebbia si dirada",
+        "text": "La coppia si muove dall’incertezza verso la verità, suggerendo che la situazione può chiarirsi quando smetti di forzare una risposta e inizi a raccogliere ciò che è reale.",
+        "advice": "Separa fatti, emozioni e supposizioni prima di scegliere il prossimo passo.",
+        "journalPrompt": "Che cosa so davvero, e che cosa ho immaginato o temuto?",
+        "challenge": "La nebbia può sembrare abbastanza familiare da essere scambiata per sicurezza.",
+        "opportunity": "Informazioni più chiare possono portare scelte più calme."
+      },
+      "career": {
+        "theme": "La nebbia si dirada",
+        "text": "La coppia si muove dall’incertezza verso la verità, suggerendo che la situazione può chiarirsi quando smetti di forzare una risposta e inizi a raccogliere ciò che è reale.",
+        "advice": "Separa fatti, emozioni e supposizioni prima di scegliere il prossimo passo.",
+        "journalPrompt": "Che cosa so davvero, e che cosa ho immaginato o temuto?",
+        "challenge": "La nebbia può sembrare abbastanza familiare da essere scambiata per sicurezza.",
+        "opportunity": "Informazioni più chiare possono portare scelte più calme."
+      },
+      "money": {
+        "theme": "La nebbia si dirada",
+        "text": "La coppia si muove dall’incertezza verso la verità, suggerendo che la situazione può chiarirsi quando smetti di forzare una risposta e inizi a raccogliere ciò che è reale.",
+        "advice": "Separa fatti, emozioni e supposizioni prima di scegliere il prossimo passo.",
+        "journalPrompt": "Che cosa so davvero, e che cosa ho immaginato o temuto?",
+        "challenge": "La nebbia può sembrare abbastanza familiare da essere scambiata per sicurezza.",
+        "opportunity": "Informazioni più chiare possono portare scelte più calme."
+      },
+      "growth": {
+        "theme": "La nebbia si dirada",
+        "text": "La coppia si muove dall’incertezza verso la verità, suggerendo che la situazione può chiarirsi quando smetti di forzare una risposta e inizi a raccogliere ciò che è reale.",
+        "advice": "Separa fatti, emozioni e supposizioni prima di scegliere il prossimo passo.",
+        "journalPrompt": "Che cosa so davvero, e che cosa ho immaginato o temuto?",
+        "challenge": "La nebbia può sembrare abbastanza familiare da essere scambiata per sicurezza.",
+        "opportunity": "Informazioni più chiare possono portare scelte più calme."
+      }
+    },
+    "burden_to_release": {
+      "general": {
+        "theme": "Deporre il peso",
+        "text": "Queste carte descrivono un movimento dal portare troppo verso il sollievo che arriva quando il carico viene nominato con onestà.",
+        "advice": "Scegli una responsabilità da semplificare, condividere, rimandare o lasciare andare, invece di dimostrare la tua forza attraverso lo sfinimento.",
+        "journalPrompt": "Quale peso sto trattando come permanente, anche se potrebbe essere modificabile?",
+        "challenge": "L’eccesso di responsabilità può sembrare lealtà.",
+        "opportunity": "L’energia può tornare quando il carico diventa più onesto."
+      },
+      "career": {
+        "theme": "Deporre il peso",
+        "text": "Queste carte descrivono un movimento dal portare troppo verso il sollievo che arriva quando il carico viene nominato con onestà.",
+        "advice": "Scegli una responsabilità da semplificare, condividere, rimandare o lasciare andare, invece di dimostrare la tua forza attraverso lo sfinimento.",
+        "journalPrompt": "Quale peso sto trattando come permanente, anche se potrebbe essere modificabile?",
+        "challenge": "L’eccesso di responsabilità può sembrare lealtà.",
+        "opportunity": "L’energia può tornare quando il carico diventa più onesto."
+      },
+      "money": {
+        "theme": "Deporre il peso",
+        "text": "Queste carte descrivono un movimento dal portare troppo verso il sollievo che arriva quando il carico viene nominato con onestà.",
+        "advice": "Scegli una responsabilità da semplificare, condividere, rimandare o lasciare andare, invece di dimostrare la tua forza attraverso lo sfinimento.",
+        "journalPrompt": "Quale peso sto trattando come permanente, anche se potrebbe essere modificabile?",
+        "challenge": "L’eccesso di responsabilità può sembrare lealtà.",
+        "opportunity": "L’energia può tornare quando il carico diventa più onesto."
+      },
+      "growth": {
+        "theme": "Deporre il peso",
+        "text": "Queste carte descrivono un movimento dal portare troppo verso il sollievo che arriva quando il carico viene nominato con onestà.",
+        "advice": "Scegli una responsabilità da semplificare, condividere, rimandare o lasciare andare, invece di dimostrare la tua forza attraverso lo sfinimento.",
+        "journalPrompt": "Quale peso sto trattando come permanente, anche se potrebbe essere modificabile?",
+        "challenge": "L’eccesso di responsabilità può sembrare lealtà.",
+        "opportunity": "L’energia può tornare quando il carico diventa più onesto."
+      }
+    },
+    "attachment_to_liberation": {
+      "general": {
+        "theme": "La catena allentata",
+        "text": "Questa coppia va dall’attaccamento alla liberazione, invitandoti a vedere dove qualcosa ha potere soprattutto perché non è mai stato messo in discussione.",
+        "advice": "Osserva il modello senza vergogna, poi scegli un’azione che ti restituisca autorità.",
+        "journalPrompt": "Che cosa sembra una catena, e quale piccola scelta potrebbe allentarla?",
+        "challenge": "La comodità può nascondersi dentro un limite.",
+        "opportunity": "La libertà può iniziare come un quieto rifiuto di ripetere lo stesso schema."
+      },
+      "love": {
+        "theme": "La catena allentata",
+        "text": "Questa coppia va dall’attaccamento alla liberazione, invitandoti a vedere dove qualcosa ha potere soprattutto perché non è mai stato messo in discussione.",
+        "advice": "Osserva il modello senza vergogna, poi scegli un’azione che ti restituisca autorità.",
+        "journalPrompt": "Che cosa sembra una catena, e quale piccola scelta potrebbe allentarla?",
+        "challenge": "La comodità può nascondersi dentro un limite.",
+        "opportunity": "La libertà può iniziare come un quieto rifiuto di ripetere lo stesso schema."
+      },
+      "money": {
+        "theme": "La catena allentata",
+        "text": "Questa coppia va dall’attaccamento alla liberazione, invitandoti a vedere dove qualcosa ha potere soprattutto perché non è mai stato messo in discussione.",
+        "advice": "Osserva il modello senza vergogna, poi scegli un’azione che ti restituisca autorità.",
+        "journalPrompt": "Che cosa sembra una catena, e quale piccola scelta potrebbe allentarla?",
+        "challenge": "La comodità può nascondersi dentro un limite.",
+        "opportunity": "La libertà può iniziare come un quieto rifiuto di ripetere lo stesso schema."
+      },
+      "growth": {
+        "theme": "La catena allentata",
+        "text": "Questa coppia va dall’attaccamento alla liberazione, invitandoti a vedere dove qualcosa ha potere soprattutto perché non è mai stato messo in discussione.",
+        "advice": "Osserva il modello senza vergogna, poi scegli un’azione che ti restituisca autorità.",
+        "journalPrompt": "Che cosa sembra una catena, e quale piccola scelta potrebbe allentarla?",
+        "challenge": "La comodità può nascondersi dentro un limite.",
+        "opportunity": "La libertà può iniziare come un quieto rifiuto di ripetere lo stesso schema."
+      }
+    },
+    "stagnation_to_movement": {
+      "general": {
+        "theme": "Energia che ricomincia a muoversi",
+        "text": "La prima carta trattiene immobilità, mentre la seconda introduce movimento; insieme suggeriscono che la situazione può cambiare attraverso un’azione chiara e gestibile.",
+        "advice": "Non pretendere un salto spettacolare; scegli l’azione più piccola che rompa l’incantesimo dell’attesa.",
+        "journalPrompt": "Dove l’immobilità è diventata evitamento, e quale movimento sarebbe onesto?",
+        "challenge": "Restare fermi può sembrare più sicuro che mettere alla prova il sentiero.",
+        "opportunity": "Una sola azione può restituire un senso di partecipazione."
+      },
+      "love": {
+        "theme": "Energia che ricomincia a muoversi",
+        "text": "La prima carta trattiene immobilità, mentre la seconda introduce movimento; insieme suggeriscono che la situazione può cambiare attraverso un’azione chiara e gestibile.",
+        "advice": "Non pretendere un salto spettacolare; scegli l’azione più piccola che rompa l’incantesimo dell’attesa.",
+        "journalPrompt": "Dove l’immobilità è diventata evitamento, e quale movimento sarebbe onesto?",
+        "challenge": "Restare fermi può sembrare più sicuro che mettere alla prova il sentiero.",
+        "opportunity": "Una sola azione può restituire un senso di partecipazione."
+      },
+      "career": {
+        "theme": "Energia che ricomincia a muoversi",
+        "text": "La prima carta trattiene immobilità, mentre la seconda introduce movimento; insieme suggeriscono che la situazione può cambiare attraverso un’azione chiara e gestibile.",
+        "advice": "Non pretendere un salto spettacolare; scegli l’azione più piccola che rompa l’incantesimo dell’attesa.",
+        "journalPrompt": "Dove l’immobilità è diventata evitamento, e quale movimento sarebbe onesto?",
+        "challenge": "Restare fermi può sembrare più sicuro che mettere alla prova il sentiero.",
+        "opportunity": "Una sola azione può restituire un senso di partecipazione."
+      },
+      "money": {
+        "theme": "Energia che ricomincia a muoversi",
+        "text": "La prima carta trattiene immobilità, mentre la seconda introduce movimento; insieme suggeriscono che la situazione può cambiare attraverso un’azione chiara e gestibile.",
+        "advice": "Non pretendere un salto spettacolare; scegli l’azione più piccola che rompa l’incantesimo dell’attesa.",
+        "journalPrompt": "Dove l’immobilità è diventata evitamento, e quale movimento sarebbe onesto?",
+        "challenge": "Restare fermi può sembrare più sicuro che mettere alla prova il sentiero.",
+        "opportunity": "Una sola azione può restituire un senso di partecipazione."
+      },
+      "growth": {
+        "theme": "Energia che ricomincia a muoversi",
+        "text": "La prima carta trattiene immobilità, mentre la seconda introduce movimento; insieme suggeriscono che la situazione può cambiare attraverso un’azione chiara e gestibile.",
+        "advice": "Non pretendere un salto spettacolare; scegli l’azione più piccola che rompa l’incantesimo dell’attesa.",
+        "journalPrompt": "Dove l’immobilità è diventata evitamento, e quale movimento sarebbe onesto?",
+        "challenge": "Restare fermi può sembrare più sicuro che mettere alla prova il sentiero.",
+        "opportunity": "Una sola azione può restituire un senso di partecipazione."
+      }
+    },
+    "patience_to_growth": {
+      "general": {
+        "theme": "Coltivazione silenziosa",
+        "text": "Queste carte mostrano una crescita che risponde a pazienza, ripetizione e fiducia nei piccoli cambiamenti.",
+        "advice": "Continua a curare le fondamenta; non ogni risultato significativo si annuncia subito.",
+        "journalPrompt": "Che cosa sto coltivando che merita costanza invece di pressione?",
+        "challenge": "L’impazienza può far sembrare il progresso lento come assenza di progresso.",
+        "opportunity": "Una cura costante può diventare visibile nel tempo."
+      },
+      "career": {
+        "theme": "Coltivazione silenziosa",
+        "text": "Queste carte mostrano una crescita che risponde a pazienza, ripetizione e fiducia nei piccoli cambiamenti.",
+        "advice": "Continua a curare le fondamenta; non ogni risultato significativo si annuncia subito.",
+        "journalPrompt": "Che cosa sto coltivando che merita costanza invece di pressione?",
+        "challenge": "L’impazienza può far sembrare il progresso lento come assenza di progresso.",
+        "opportunity": "Una cura costante può diventare visibile nel tempo."
+      },
+      "money": {
+        "theme": "Coltivazione silenziosa",
+        "text": "Queste carte mostrano una crescita che risponde a pazienza, ripetizione e fiducia nei piccoli cambiamenti.",
+        "advice": "Continua a curare le fondamenta; non ogni risultato significativo si annuncia subito.",
+        "journalPrompt": "Che cosa sto coltivando che merita costanza invece di pressione?",
+        "challenge": "L’impazienza può far sembrare il progresso lento come assenza di progresso.",
+        "opportunity": "Una cura costante può diventare visibile nel tempo."
+      },
+      "growth": {
+        "theme": "Coltivazione silenziosa",
+        "text": "Queste carte mostrano una crescita che risponde a pazienza, ripetizione e fiducia nei piccoli cambiamenti.",
+        "advice": "Continua a curare le fondamenta; non ogni risultato significativo si annuncia subito.",
+        "journalPrompt": "Che cosa sto coltivando che merita costanza invece di pressione?",
+        "challenge": "L’impazienza può far sembrare il progresso lento come assenza di progresso.",
+        "opportunity": "Una cura costante può diventare visibile nel tempo."
+      }
+    },
+    "choice_to_alignment": {
+      "general": {
+        "theme": "Scegliere con tutto il sé",
+        "text": "Qui una scelta diventa più significativa perché chiede allineamento, non solo preferenza.",
+        "advice": "Lascia che valori, corpo, mente e conseguenze future abbiano tutti voce prima di scegliere il prossimo passo.",
+        "journalPrompt": "Quale opzione sembra più allineata quando ascolto oltre l’urgenza?",
+        "challenge": "Attrazione, paura o pressione potrebbero cercare di scegliere al tuo posto.",
+        "opportunity": "Una decisione può diventare un rituale di rispetto per te stesso."
+      },
+      "love": {
+        "theme": "Scegliere con tutto il sé",
+        "text": "Qui una scelta diventa più significativa perché chiede allineamento, non solo preferenza.",
+        "advice": "Lascia che valori, corpo, mente e conseguenze future abbiano tutti voce prima di scegliere il prossimo passo.",
+        "journalPrompt": "Quale opzione sembra più allineata quando ascolto oltre l’urgenza?",
+        "challenge": "Attrazione, paura o pressione potrebbero cercare di scegliere al tuo posto.",
+        "opportunity": "Una decisione può diventare un rituale di rispetto per te stesso."
+      },
+      "career": {
+        "theme": "Scegliere con tutto il sé",
+        "text": "Qui una scelta diventa più significativa perché chiede allineamento, non solo preferenza.",
+        "advice": "Lascia che valori, corpo, mente e conseguenze future abbiano tutti voce prima di scegliere il prossimo passo.",
+        "journalPrompt": "Quale opzione sembra più allineata quando ascolto oltre l’urgenza?",
+        "challenge": "Attrazione, paura o pressione potrebbero cercare di scegliere al tuo posto.",
+        "opportunity": "Una decisione può diventare un rituale di rispetto per te stesso."
+      },
+      "money": {
+        "theme": "Scegliere con tutto il sé",
+        "text": "Qui una scelta diventa più significativa perché chiede allineamento, non solo preferenza.",
+        "advice": "Lascia che valori, corpo, mente e conseguenze future abbiano tutti voce prima di scegliere il prossimo passo.",
+        "journalPrompt": "Quale opzione sembra più allineata quando ascolto oltre l’urgenza?",
+        "challenge": "Attrazione, paura o pressione potrebbero cercare di scegliere al tuo posto.",
+        "opportunity": "Una decisione può diventare un rituale di rispetto per te stesso."
+      },
+      "growth": {
+        "theme": "Scegliere con tutto il sé",
+        "text": "Qui una scelta diventa più significativa perché chiede allineamento, non solo preferenza.",
+        "advice": "Lascia che valori, corpo, mente e conseguenze future abbiano tutti voce prima di scegliere il prossimo passo.",
+        "journalPrompt": "Quale opzione sembra più allineata quando ascolto oltre l’urgenza?",
+        "challenge": "Attrazione, paura o pressione potrebbero cercare di scegliere al tuo posto.",
+        "opportunity": "Una decisione può diventare un rituale di rispetto per te stesso."
+      }
+    },
+    "intuition_to_uncertainty": {
+      "general": {
+        "theme": "Fidarsi del segnale quieto",
+        "text": "In questa coppia l’intuizione incontra l’incertezza, suggerendo che non tutto ha bisogno di prove immediate prima di meritare attenzione.",
+        "advice": "Tieni con delicatezza il segnale intuitivo mentre continui a raccogliere informazioni concrete.",
+        "journalPrompt": "Quale sapere silenzioso continua a tornare, anche quando i dettagli non sono chiari?",
+        "challenge": "Il rimuginare può coprire la verità sottile.",
+        "opportunity": "Saggezza interiore e pazienza pratica possono lavorare insieme."
+      },
+      "love": {
+        "theme": "Fidarsi del segnale quieto",
+        "text": "In questa coppia l’intuizione incontra l’incertezza, suggerendo che non tutto ha bisogno di prove immediate prima di meritare attenzione.",
+        "advice": "Tieni con delicatezza il segnale intuitivo mentre continui a raccogliere informazioni concrete.",
+        "journalPrompt": "Quale sapere silenzioso continua a tornare, anche quando i dettagli non sono chiari?",
+        "challenge": "Il rimuginare può coprire la verità sottile.",
+        "opportunity": "Saggezza interiore e pazienza pratica possono lavorare insieme."
+      },
+      "career": {
+        "theme": "Fidarsi del segnale quieto",
+        "text": "In questa coppia l’intuizione incontra l’incertezza, suggerendo che non tutto ha bisogno di prove immediate prima di meritare attenzione.",
+        "advice": "Tieni con delicatezza il segnale intuitivo mentre continui a raccogliere informazioni concrete.",
+        "journalPrompt": "Quale sapere silenzioso continua a tornare, anche quando i dettagli non sono chiari?",
+        "challenge": "Il rimuginare può coprire la verità sottile.",
+        "opportunity": "Saggezza interiore e pazienza pratica possono lavorare insieme."
+      },
+      "money": {
+        "theme": "Fidarsi del segnale quieto",
+        "text": "In questa coppia l’intuizione incontra l’incertezza, suggerendo che non tutto ha bisogno di prove immediate prima di meritare attenzione.",
+        "advice": "Tieni con delicatezza il segnale intuitivo mentre continui a raccogliere informazioni concrete.",
+        "journalPrompt": "Quale sapere silenzioso continua a tornare, anche quando i dettagli non sono chiari?",
+        "challenge": "Il rimuginare può coprire la verità sottile.",
+        "opportunity": "Saggezza interiore e pazienza pratica possono lavorare insieme."
+      },
+      "growth": {
+        "theme": "Fidarsi del segnale quieto",
+        "text": "In questa coppia l’intuizione incontra l’incertezza, suggerendo che non tutto ha bisogno di prove immediate prima di meritare attenzione.",
+        "advice": "Tieni con delicatezza il segnale intuitivo mentre continui a raccogliere informazioni concrete.",
+        "journalPrompt": "Quale sapere silenzioso continua a tornare, anche quando i dettagli non sono chiari?",
+        "challenge": "Il rimuginare può coprire la verità sottile.",
+        "opportunity": "Saggezza interiore e pazienza pratica possono lavorare insieme."
+      }
+    },
+    "uncertainty_to_inner_wisdom": {
+      "general": {
+        "theme": "Saggezza dentro la nebbia",
+        "text": "Il percorso si muove dall’incertezza verso la saggezza interiore, mostrando che la nebbia può chiedere ascolto invece che panico.",
+        "advice": "Crea quiete prima di decidere; il prossimo passo può apparire quando il rumore nervoso si placa.",
+        "journalPrompt": "Che cosa sentirei se smettessi di pretendere certezza immediata?",
+        "challenge": "Il disagio può tentarti a prendere la prima risposta.",
+        "opportunity": "La quiete può rivelare ciò che la pressione nasconde."
+      },
+      "love": {
+        "theme": "Saggezza dentro la nebbia",
+        "text": "Il percorso si muove dall’incertezza verso la saggezza interiore, mostrando che la nebbia può chiedere ascolto invece che panico.",
+        "advice": "Crea quiete prima di decidere; il prossimo passo può apparire quando il rumore nervoso si placa.",
+        "journalPrompt": "Che cosa sentirei se smettessi di pretendere certezza immediata?",
+        "challenge": "Il disagio può tentarti a prendere la prima risposta.",
+        "opportunity": "La quiete può rivelare ciò che la pressione nasconde."
+      },
+      "career": {
+        "theme": "Saggezza dentro la nebbia",
+        "text": "Il percorso si muove dall’incertezza verso la saggezza interiore, mostrando che la nebbia può chiedere ascolto invece che panico.",
+        "advice": "Crea quiete prima di decidere; il prossimo passo può apparire quando il rumore nervoso si placa.",
+        "journalPrompt": "Che cosa sentirei se smettessi di pretendere certezza immediata?",
+        "challenge": "Il disagio può tentarti a prendere la prima risposta.",
+        "opportunity": "La quiete può rivelare ciò che la pressione nasconde."
+      },
+      "money": {
+        "theme": "Saggezza dentro la nebbia",
+        "text": "Il percorso si muove dall’incertezza verso la saggezza interiore, mostrando che la nebbia può chiedere ascolto invece che panico.",
+        "advice": "Crea quiete prima di decidere; il prossimo passo può apparire quando il rumore nervoso si placa.",
+        "journalPrompt": "Che cosa sentirei se smettessi di pretendere certezza immediata?",
+        "challenge": "Il disagio può tentarti a prendere la prima risposta.",
+        "opportunity": "La quiete può rivelare ciò che la pressione nasconde."
+      },
+      "growth": {
+        "theme": "Saggezza dentro la nebbia",
+        "text": "Il percorso si muove dall’incertezza verso la saggezza interiore, mostrando che la nebbia può chiedere ascolto invece che panico.",
+        "advice": "Crea quiete prima di decidere; il prossimo passo può apparire quando il rumore nervoso si placa.",
+        "journalPrompt": "Che cosa sentirei se smettessi di pretendere certezza immediata?",
+        "challenge": "Il disagio può tentarti a prendere la prima risposta.",
+        "opportunity": "La quiete può rivelare ciò che la pressione nasconde."
+      }
+    },
+    "structure_to_stability": {
+      "general": {
+        "theme": "Un contenitore capace di sostenere",
+        "text": "Qui la struttura conduce verso stabilità, suggerendo che la situazione può migliorare quando la cura diventa organizzata.",
+        "advice": "Crea una cornice semplice: un confine, un orario, un budget o un accordo che protegga ciò che conta.",
+        "journalPrompt": "Quale struttura renderebbe questa parte della mia vita più sicura e sostenibile?",
+        "challenge": "La struttura può sembrare restrittiva se viene confusa con il controllo.",
+        "opportunity": "Un contenitore chiaro può far sentire la crescita meno fragile."
+      },
+      "love": {
+        "theme": "Un contenitore capace di sostenere",
+        "text": "Qui la struttura conduce verso stabilità, suggerendo che la situazione può migliorare quando la cura diventa organizzata.",
+        "advice": "Crea una cornice semplice: un confine, un orario, un budget o un accordo che protegga ciò che conta.",
+        "journalPrompt": "Quale struttura renderebbe questa parte della mia vita più sicura e sostenibile?",
+        "challenge": "La struttura può sembrare restrittiva se viene confusa con il controllo.",
+        "opportunity": "Un contenitore chiaro può far sentire la crescita meno fragile."
+      },
+      "career": {
+        "theme": "Un contenitore capace di sostenere",
+        "text": "Qui la struttura conduce verso stabilità, suggerendo che la situazione può migliorare quando la cura diventa organizzata.",
+        "advice": "Crea una cornice semplice: un confine, un orario, un budget o un accordo che protegga ciò che conta.",
+        "journalPrompt": "Quale struttura renderebbe questa parte della mia vita più sicura e sostenibile?",
+        "challenge": "La struttura può sembrare restrittiva se viene confusa con il controllo.",
+        "opportunity": "Un contenitore chiaro può far sentire la crescita meno fragile."
+      },
+      "money": {
+        "theme": "Un contenitore capace di sostenere",
+        "text": "Qui la struttura conduce verso stabilità, suggerendo che la situazione può migliorare quando la cura diventa organizzata.",
+        "advice": "Crea una cornice semplice: un confine, un orario, un budget o un accordo che protegga ciò che conta.",
+        "journalPrompt": "Quale struttura renderebbe questa parte della mia vita più sicura e sostenibile?",
+        "challenge": "La struttura può sembrare restrittiva se viene confusa con il controllo.",
+        "opportunity": "Un contenitore chiaro può far sentire la crescita meno fragile."
+      },
+      "growth": {
+        "theme": "Un contenitore capace di sostenere",
+        "text": "Qui la struttura conduce verso stabilità, suggerendo che la situazione può migliorare quando la cura diventa organizzata.",
+        "advice": "Crea una cornice semplice: un confine, un orario, un budget o un accordo che protegga ciò che conta.",
+        "journalPrompt": "Quale struttura renderebbe questa parte della mia vita più sicura e sostenibile?",
+        "challenge": "La struttura può sembrare restrittiva se viene confusa con il controllo.",
+        "opportunity": "Un contenitore chiaro può far sentire la crescita meno fragile."
+      }
+    },
+    "solitude_to_inner_guidance": {
+      "general": {
+        "theme": "La lanterna interiore",
+        "text": "Questa coppia suggerisce che fare un passo indietro può aiutare la guida più profonda a diventare più riconoscibile.",
+        "advice": "Concediti un momento privato prima di invitare nella domanda la voce di tutti gli altri.",
+        "journalPrompt": "Quale risposta diventa più chiara quando smetto di recitare certezza?",
+        "challenge": "La solitudine può diventare isolamento se non torna mai alla vita.",
+        "opportunity": "La riflessione silenziosa può restituirti il tuo centro."
+      },
+      "love": {
+        "theme": "La lanterna interiore",
+        "text": "Questa coppia suggerisce che fare un passo indietro può aiutare la guida più profonda a diventare più riconoscibile.",
+        "advice": "Concediti un momento privato prima di invitare nella domanda la voce di tutti gli altri.",
+        "journalPrompt": "Quale risposta diventa più chiara quando smetto di recitare certezza?",
+        "challenge": "La solitudine può diventare isolamento se non torna mai alla vita.",
+        "opportunity": "La riflessione silenziosa può restituirti il tuo centro."
+      },
+      "career": {
+        "theme": "La lanterna interiore",
+        "text": "Questa coppia suggerisce che fare un passo indietro può aiutare la guida più profonda a diventare più riconoscibile.",
+        "advice": "Concediti un momento privato prima di invitare nella domanda la voce di tutti gli altri.",
+        "journalPrompt": "Quale risposta diventa più chiara quando smetto di recitare certezza?",
+        "challenge": "La solitudine può diventare isolamento se non torna mai alla vita.",
+        "opportunity": "La riflessione silenziosa può restituirti il tuo centro."
+      },
+      "growth": {
+        "theme": "La lanterna interiore",
+        "text": "Questa coppia suggerisce che fare un passo indietro può aiutare la guida più profonda a diventare più riconoscibile.",
+        "advice": "Concediti un momento privato prima di invitare nella domanda la voce di tutti gli altri.",
+        "journalPrompt": "Quale risposta diventa più chiara quando smetto di recitare certezza?",
+        "challenge": "La solitudine può diventare isolamento se non torna mai alla vita.",
+        "opportunity": "La riflessione silenziosa può restituirti il tuo centro."
+      }
+    },
+    "hope_to_renewal": {
+      "general": {
+        "theme": "La prima luce che ritorna",
+        "text": "In questa coppia la speranza diventa rinnovamento, non come garanzia, ma come segno gentile che il clima interiore può cambiare.",
+        "advice": "Proteggi la piccola luce; non deve essere spettacolare per essere reale.",
+        "journalPrompt": "Dove sta tornando la speranza in una forma che posso davvero nutrire?",
+        "challenge": "Una vecchia delusione può diffidare di ogni segno di rinnovamento.",
+        "opportunity": "Un sì quieto può diventare un nuovo ritmo."
+      },
+      "love": {
+        "theme": "La prima luce che ritorna",
+        "text": "In questa coppia la speranza diventa rinnovamento, non come garanzia, ma come segno gentile che il clima interiore può cambiare.",
+        "advice": "Proteggi la piccola luce; non deve essere spettacolare per essere reale.",
+        "journalPrompt": "Dove sta tornando la speranza in una forma che posso davvero nutrire?",
+        "challenge": "Una vecchia delusione può diffidare di ogni segno di rinnovamento.",
+        "opportunity": "Un sì quieto può diventare un nuovo ritmo."
+      },
+      "career": {
+        "theme": "La prima luce che ritorna",
+        "text": "In questa coppia la speranza diventa rinnovamento, non come garanzia, ma come segno gentile che il clima interiore può cambiare.",
+        "advice": "Proteggi la piccola luce; non deve essere spettacolare per essere reale.",
+        "journalPrompt": "Dove sta tornando la speranza in una forma che posso davvero nutrire?",
+        "challenge": "Una vecchia delusione può diffidare di ogni segno di rinnovamento.",
+        "opportunity": "Un sì quieto può diventare un nuovo ritmo."
+      },
+      "growth": {
+        "theme": "La prima luce che ritorna",
+        "text": "In questa coppia la speranza diventa rinnovamento, non come garanzia, ma come segno gentile che il clima interiore può cambiare.",
+        "advice": "Proteggi la piccola luce; non deve essere spettacolare per essere reale.",
+        "journalPrompt": "Dove sta tornando la speranza in una forma che posso davvero nutrire?",
+        "challenge": "Una vecchia delusione può diffidare di ogni segno di rinnovamento.",
+        "opportunity": "Un sì quieto può diventare un nuovo ritmo."
+      }
+    },
+    "ending_to_transformation": {
+      "general": {
+        "theme": "Cambiamento dopo la chiusura",
+        "text": "Queste carte presentano una fine come parte della trasformazione, invitandoti a onorare ciò che è completo senza trattare il compimento come fallimento.",
+        "advice": "Lascia andare la forma che si è conclusa, poi chiediti quale verità o forza lascia dietro di sé.",
+        "journalPrompt": "Che cosa ha completato il suo ruolo, e che cosa potrebbe rendere possibile questa conclusione?",
+        "challenge": "La mente può chiamare perdita ogni fine.",
+        "opportunity": "Dopo la chiusura può emergere una forma più onesta."
+      },
+      "love": {
+        "theme": "Cambiamento dopo la chiusura",
+        "text": "Queste carte presentano una fine come parte della trasformazione, invitandoti a onorare ciò che è completo senza trattare il compimento come fallimento.",
+        "advice": "Lascia andare la forma che si è conclusa, poi chiediti quale verità o forza lascia dietro di sé.",
+        "journalPrompt": "Che cosa ha completato il suo ruolo, e che cosa potrebbe rendere possibile questa conclusione?",
+        "challenge": "La mente può chiamare perdita ogni fine.",
+        "opportunity": "Dopo la chiusura può emergere una forma più onesta."
+      },
+      "career": {
+        "theme": "Cambiamento dopo la chiusura",
+        "text": "Queste carte presentano una fine come parte della trasformazione, invitandoti a onorare ciò che è completo senza trattare il compimento come fallimento.",
+        "advice": "Lascia andare la forma che si è conclusa, poi chiediti quale verità o forza lascia dietro di sé.",
+        "journalPrompt": "Che cosa ha completato il suo ruolo, e che cosa potrebbe rendere possibile questa conclusione?",
+        "challenge": "La mente può chiamare perdita ogni fine.",
+        "opportunity": "Dopo la chiusura può emergere una forma più onesta."
+      },
+      "money": {
+        "theme": "Cambiamento dopo la chiusura",
+        "text": "Queste carte presentano una fine come parte della trasformazione, invitandoti a onorare ciò che è completo senza trattare il compimento come fallimento.",
+        "advice": "Lascia andare la forma che si è conclusa, poi chiediti quale verità o forza lascia dietro di sé.",
+        "journalPrompt": "Che cosa ha completato il suo ruolo, e che cosa potrebbe rendere possibile questa conclusione?",
+        "challenge": "La mente può chiamare perdita ogni fine.",
+        "opportunity": "Dopo la chiusura può emergere una forma più onesta."
+      },
+      "growth": {
+        "theme": "Cambiamento dopo la chiusura",
+        "text": "Queste carte presentano una fine come parte della trasformazione, invitandoti a onorare ciò che è completo senza trattare il compimento come fallimento.",
+        "advice": "Lascia andare la forma che si è conclusa, poi chiediti quale verità o forza lascia dietro di sé.",
+        "journalPrompt": "Che cosa ha completato il suo ruolo, e che cosa potrebbe rendere possibile questa conclusione?",
+        "challenge": "La mente può chiamare perdita ogni fine.",
+        "opportunity": "Dopo la chiusura può emergere una forma più onesta."
+      }
+    },
+    "planning_to_action": {
+      "general": {
+        "theme": "Dalla mappa al movimento",
+        "text": "Il piano è pronto a diventare movimento; queste carte chiedono che la visione venga messa alla prova attraverso un prossimo passo concreto.",
+        "advice": "Scegli un passo che dimostri che il piano può vivere fuori dai tuoi pensieri.",
+        "journalPrompt": "Quale azione trasformerebbe questa visione in qualcosa di abbastanza reale da insegnarmi?",
+        "challenge": "Pianificare può diventare un bel modo per rimandare l’inizio.",
+        "opportunity": "Un’azione modesta può dare trazione alla visione più grande."
+      },
+      "career": {
+        "theme": "Dalla mappa al movimento",
+        "text": "Il piano è pronto a diventare movimento; queste carte chiedono che la visione venga messa alla prova attraverso un prossimo passo concreto.",
+        "advice": "Scegli un passo che dimostri che il piano può vivere fuori dai tuoi pensieri.",
+        "journalPrompt": "Quale azione trasformerebbe questa visione in qualcosa di abbastanza reale da insegnarmi?",
+        "challenge": "Pianificare può diventare un bel modo per rimandare l’inizio.",
+        "opportunity": "Un’azione modesta può dare trazione alla visione più grande."
+      },
+      "money": {
+        "theme": "Dalla mappa al movimento",
+        "text": "Il piano è pronto a diventare movimento; queste carte chiedono che la visione venga messa alla prova attraverso un prossimo passo concreto.",
+        "advice": "Scegli un passo che dimostri che il piano può vivere fuori dai tuoi pensieri.",
+        "journalPrompt": "Quale azione trasformerebbe questa visione in qualcosa di abbastanza reale da insegnarmi?",
+        "challenge": "Pianificare può diventare un bel modo per rimandare l’inizio.",
+        "opportunity": "Un’azione modesta può dare trazione alla visione più grande."
+      },
+      "growth": {
+        "theme": "Dalla mappa al movimento",
+        "text": "Il piano è pronto a diventare movimento; queste carte chiedono che la visione venga messa alla prova attraverso un prossimo passo concreto.",
+        "advice": "Scegli un passo che dimostri che il piano può vivere fuori dai tuoi pensieri.",
+        "journalPrompt": "Quale azione trasformerebbe questa visione in qualcosa di abbastanza reale da insegnarmi?",
+        "challenge": "Pianificare può diventare un bel modo per rimandare l’inizio.",
+        "opportunity": "Un’azione modesta può dare trazione alla visione più grande."
+      }
+    },
+    "effort_to_reward": {
+      "general": {
+        "theme": "La dignità dell’impegno",
+        "text": "Questa coppia collega lo sforzo costante a una ricompensa significativa, soprattutto quella che cresce dalla cura invece che dalle scorciatoie.",
+        "advice": "Resta vicino al mestiere; misura i risultati in qualità, apprendimento e stabilità.",
+        "journalPrompt": "Dove lo sforzo costante sta già creando valore, anche se il riconoscimento è ancora silenzioso?",
+        "challenge": "L’impazienza può svalutare il lavoro già fatto.",
+        "opportunity": "La coerenza può diventare una fonte di fiducia."
+      },
+      "career": {
+        "theme": "La dignità dell’impegno",
+        "text": "Questa coppia collega lo sforzo costante a una ricompensa significativa, soprattutto quella che cresce dalla cura invece che dalle scorciatoie.",
+        "advice": "Resta vicino al mestiere; misura i risultati in qualità, apprendimento e stabilità.",
+        "journalPrompt": "Dove lo sforzo costante sta già creando valore, anche se il riconoscimento è ancora silenzioso?",
+        "challenge": "L’impazienza può svalutare il lavoro già fatto.",
+        "opportunity": "La coerenza può diventare una fonte di fiducia."
+      },
+      "money": {
+        "theme": "La dignità dell’impegno",
+        "text": "Questa coppia collega lo sforzo costante a una ricompensa significativa, soprattutto quella che cresce dalla cura invece che dalle scorciatoie.",
+        "advice": "Resta vicino al mestiere; misura i risultati in qualità, apprendimento e stabilità.",
+        "journalPrompt": "Dove lo sforzo costante sta già creando valore, anche se il riconoscimento è ancora silenzioso?",
+        "challenge": "L’impazienza può svalutare il lavoro già fatto.",
+        "opportunity": "La coerenza può diventare una fonte di fiducia."
+      },
+      "growth": {
+        "theme": "La dignità dell’impegno",
+        "text": "Questa coppia collega lo sforzo costante a una ricompensa significativa, soprattutto quella che cresce dalla cura invece che dalle scorciatoie.",
+        "advice": "Resta vicino al mestiere; misura i risultati in qualità, apprendimento e stabilità.",
+        "journalPrompt": "Dove lo sforzo costante sta già creando valore, anche se il riconoscimento è ancora silenzioso?",
+        "challenge": "L’impazienza può svalutare il lavoro già fatto.",
+        "opportunity": "La coerenza può diventare una fonte di fiducia."
+      }
+    },
+    "generosity_to_boundaries": {
+      "general": {
+        "theme": "Gentilezza con margini chiari",
+        "text": "Qui la generosità incontra i confini, ricordando che il vero dare non richiede di cancellarsi.",
+        "advice": "Dai da consenso e capacità, non da colpa, pressione o paura di deludere qualcuno.",
+        "journalPrompt": "Dove posso restare generoso rispettando anche i miei limiti?",
+        "challenge": "Dare troppo può travestirsi da amore o responsabilità.",
+        "opportunity": "Limiti chiari possono rendere il dare più pulito e sincero."
+      },
+      "love": {
+        "theme": "Gentilezza con margini chiari",
+        "text": "Qui la generosità incontra i confini, ricordando che il vero dare non richiede di cancellarsi.",
+        "advice": "Dai da consenso e capacità, non da colpa, pressione o paura di deludere qualcuno.",
+        "journalPrompt": "Dove posso restare generoso rispettando anche i miei limiti?",
+        "challenge": "Dare troppo può travestirsi da amore o responsabilità.",
+        "opportunity": "Limiti chiari possono rendere il dare più pulito e sincero."
+      },
+      "career": {
+        "theme": "Gentilezza con margini chiari",
+        "text": "Qui la generosità incontra i confini, ricordando che il vero dare non richiede di cancellarsi.",
+        "advice": "Dai da consenso e capacità, non da colpa, pressione o paura di deludere qualcuno.",
+        "journalPrompt": "Dove posso restare generoso rispettando anche i miei limiti?",
+        "challenge": "Dare troppo può travestirsi da amore o responsabilità.",
+        "opportunity": "Limiti chiari possono rendere il dare più pulito e sincero."
+      },
+      "money": {
+        "theme": "Gentilezza con margini chiari",
+        "text": "Qui la generosità incontra i confini, ricordando che il vero dare non richiede di cancellarsi.",
+        "advice": "Dai da consenso e capacità, non da colpa, pressione o paura di deludere qualcuno.",
+        "journalPrompt": "Dove posso restare generoso rispettando anche i miei limiti?",
+        "challenge": "Dare troppo può travestirsi da amore o responsabilità.",
+        "opportunity": "Limiti chiari possono rendere il dare più pulito e sincero."
+      },
+      "growth": {
+        "theme": "Gentilezza con margini chiari",
+        "text": "Qui la generosità incontra i confini, ricordando che il vero dare non richiede di cancellarsi.",
+        "advice": "Dai da consenso e capacità, non da colpa, pressione o paura di deludere qualcuno.",
+        "journalPrompt": "Dove posso restare generoso rispettando anche i miei limiti?",
+        "challenge": "Dare troppo può travestirsi da amore o responsabilità.",
+        "opportunity": "Limiti chiari possono rendere il dare più pulito e sincero."
+      }
+    },
+    "emotional_opening_to_discernment": {
+      "general": {
+        "theme": "Cuore aperto e occhi chiari",
+        "text": "Il cuore si sta aprendo, ma il discernimento chiede che la tenerezza resti collegata alla verità.",
+        "advice": "Permettiti di sentire, notando anche coerenza, rispetto e tempi.",
+        "journalPrompt": "Come posso restare aperto senza abbandonare ciò che so essere vero?",
+        "challenge": "Il desiderio può cercare di correre oltre l’osservazione.",
+        "opportunity": "La tenerezza diventa più saggia quando include discernimento."
+      },
+      "love": {
+        "theme": "Cuore aperto e occhi chiari",
+        "text": "Il cuore si sta aprendo, ma il discernimento chiede che la tenerezza resti collegata alla verità.",
+        "advice": "Permettiti di sentire, notando anche coerenza, rispetto e tempi.",
+        "journalPrompt": "Come posso restare aperto senza abbandonare ciò che so essere vero?",
+        "challenge": "Il desiderio può cercare di correre oltre l’osservazione.",
+        "opportunity": "La tenerezza diventa più saggia quando include discernimento."
+      },
+      "growth": {
+        "theme": "Cuore aperto e occhi chiari",
+        "text": "Il cuore si sta aprendo, ma il discernimento chiede che la tenerezza resti collegata alla verità.",
+        "advice": "Permettiti di sentire, notando anche coerenza, rispetto e tempi.",
+        "journalPrompt": "Come posso restare aperto senza abbandonare ciò che so essere vero?",
+        "challenge": "Il desiderio può cercare di correre oltre l’osservazione.",
+        "opportunity": "La tenerezza diventa più saggia quando include discernimento."
+      }
+    },
+    "ambition_to_discipline": {
+      "general": {
+        "theme": "Fuoco che prende forma",
+        "text": "L’ambizione diventa più utile quando la disciplina le dà una forma; questa coppia favorisce la concentrazione invece di uno sforzo disperso.",
+        "advice": "Scegli la routine, il confine o l’abilità che può portare il desiderio nella realtà.",
+        "journalPrompt": "Quale struttura aiuterebbe la mia ambizione a diventare sostenibile invece che estenuante?",
+        "challenge": "Il desiderio da solo potrebbe non bastare a sostenere il percorso.",
+        "opportunity": "La disciplina può trasformare l’intensità in mestiere."
+      },
+      "career": {
+        "theme": "Fuoco che prende forma",
+        "text": "L’ambizione diventa più utile quando la disciplina le dà una forma; questa coppia favorisce la concentrazione invece di uno sforzo disperso.",
+        "advice": "Scegli la routine, il confine o l’abilità che può portare il desiderio nella realtà.",
+        "journalPrompt": "Quale struttura aiuterebbe la mia ambizione a diventare sostenibile invece che estenuante?",
+        "challenge": "Il desiderio da solo potrebbe non bastare a sostenere il percorso.",
+        "opportunity": "La disciplina può trasformare l’intensità in mestiere."
+      },
+      "money": {
+        "theme": "Fuoco che prende forma",
+        "text": "L’ambizione diventa più utile quando la disciplina le dà una forma; questa coppia favorisce la concentrazione invece di uno sforzo disperso.",
+        "advice": "Scegli la routine, il confine o l’abilità che può portare il desiderio nella realtà.",
+        "journalPrompt": "Quale struttura aiuterebbe la mia ambizione a diventare sostenibile invece che estenuante?",
+        "challenge": "Il desiderio da solo potrebbe non bastare a sostenere il percorso.",
+        "opportunity": "La disciplina può trasformare l’intensità in mestiere."
+      },
+      "growth": {
+        "theme": "Fuoco che prende forma",
+        "text": "L’ambizione diventa più utile quando la disciplina le dà una forma; questa coppia favorisce la concentrazione invece di uno sforzo disperso.",
+        "advice": "Scegli la routine, il confine o l’abilità che può portare il desiderio nella realtà.",
+        "journalPrompt": "Quale struttura aiuterebbe la mia ambizione a diventare sostenibile invece che estenuante?",
+        "challenge": "Il desiderio da solo potrebbe non bastare a sostenere il percorso.",
+        "opportunity": "La disciplina può trasformare l’intensità in mestiere."
+      }
+    },
+    "fear_to_courage": {
+      "general": {
+        "theme": "Coraggio in un piccolo passo",
+        "text": "La paura non scompare prima che arrivi il coraggio; queste carte suggeriscono che il coraggio può iniziare mentre l’incertezza è ancora presente.",
+        "advice": "Scegli un’azione coraggiosa che sia proporzionata, sicura e onesta, non drammatica.",
+        "journalPrompt": "Che aspetto avrebbe il coraggio se fosse gentile e realistico?",
+        "challenge": "La paura può chiedere certezza prima di permettere il movimento.",
+        "opportunity": "Una piccola scelta coraggiosa può cambiare il tuo rapporto con la paura."
+      },
+      "love": {
+        "theme": "Coraggio in un piccolo passo",
+        "text": "La paura non scompare prima che arrivi il coraggio; queste carte suggeriscono che il coraggio può iniziare mentre l’incertezza è ancora presente.",
+        "advice": "Scegli un’azione coraggiosa che sia proporzionata, sicura e onesta, non drammatica.",
+        "journalPrompt": "Che aspetto avrebbe il coraggio se fosse gentile e realistico?",
+        "challenge": "La paura può chiedere certezza prima di permettere il movimento.",
+        "opportunity": "Una piccola scelta coraggiosa può cambiare il tuo rapporto con la paura."
+      },
+      "career": {
+        "theme": "Coraggio in un piccolo passo",
+        "text": "La paura non scompare prima che arrivi il coraggio; queste carte suggeriscono che il coraggio può iniziare mentre l’incertezza è ancora presente.",
+        "advice": "Scegli un’azione coraggiosa che sia proporzionata, sicura e onesta, non drammatica.",
+        "journalPrompt": "Che aspetto avrebbe il coraggio se fosse gentile e realistico?",
+        "challenge": "La paura può chiedere certezza prima di permettere il movimento.",
+        "opportunity": "Una piccola scelta coraggiosa può cambiare il tuo rapporto con la paura."
+      },
+      "money": {
+        "theme": "Coraggio in un piccolo passo",
+        "text": "La paura non scompare prima che arrivi il coraggio; queste carte suggeriscono che il coraggio può iniziare mentre l’incertezza è ancora presente.",
+        "advice": "Scegli un’azione coraggiosa che sia proporzionata, sicura e onesta, non drammatica.",
+        "journalPrompt": "Che aspetto avrebbe il coraggio se fosse gentile e realistico?",
+        "challenge": "La paura può chiedere certezza prima di permettere il movimento.",
+        "opportunity": "Una piccola scelta coraggiosa può cambiare il tuo rapporto con la paura."
+      },
+      "growth": {
+        "theme": "Coraggio in un piccolo passo",
+        "text": "La paura non scompare prima che arrivi il coraggio; queste carte suggeriscono che il coraggio può iniziare mentre l’incertezza è ancora presente.",
+        "advice": "Scegli un’azione coraggiosa che sia proporzionata, sicura e onesta, non drammatica.",
+        "journalPrompt": "Che aspetto avrebbe il coraggio se fosse gentile e realistico?",
+        "challenge": "La paura può chiedere certezza prima di permettere il movimento.",
+        "opportunity": "Una piccola scelta coraggiosa può cambiare il tuo rapporto con la paura."
+      }
+    },
+    "shadow_to_awareness": {
+      "general": {
+        "theme": "Vedere il modello",
+        "text": "Questa coppia porta l’ombra alla consapevolezza, invitando onestà senza autopunizione.",
+        "advice": "Dai un nome chiaro al modello, poi rispondi con responsabilità e compassione insieme.",
+        "journalPrompt": "Quale schema perde potere quando sono disposto a vederlo?",
+        "challenge": "La vergogna può far sembrare la verità poco sicura da ammettere.",
+        "opportunity": "La consapevolezza può trasformare un modello nascosto in una scelta cosciente."
+      },
+      "love": {
+        "theme": "Vedere il modello",
+        "text": "Questa coppia porta l’ombra alla consapevolezza, invitando onestà senza autopunizione.",
+        "advice": "Dai un nome chiaro al modello, poi rispondi con responsabilità e compassione insieme.",
+        "journalPrompt": "Quale schema perde potere quando sono disposto a vederlo?",
+        "challenge": "La vergogna può far sembrare la verità poco sicura da ammettere.",
+        "opportunity": "La consapevolezza può trasformare un modello nascosto in una scelta cosciente."
+      },
+      "career": {
+        "theme": "Vedere il modello",
+        "text": "Questa coppia porta l’ombra alla consapevolezza, invitando onestà senza autopunizione.",
+        "advice": "Dai un nome chiaro al modello, poi rispondi con responsabilità e compassione insieme.",
+        "journalPrompt": "Quale schema perde potere quando sono disposto a vederlo?",
+        "challenge": "La vergogna può far sembrare la verità poco sicura da ammettere.",
+        "opportunity": "La consapevolezza può trasformare un modello nascosto in una scelta cosciente."
+      },
+      "money": {
+        "theme": "Vedere il modello",
+        "text": "Questa coppia porta l’ombra alla consapevolezza, invitando onestà senza autopunizione.",
+        "advice": "Dai un nome chiaro al modello, poi rispondi con responsabilità e compassione insieme.",
+        "journalPrompt": "Quale schema perde potere quando sono disposto a vederlo?",
+        "challenge": "La vergogna può far sembrare la verità poco sicura da ammettere.",
+        "opportunity": "La consapevolezza può trasformare un modello nascosto in una scelta cosciente."
+      },
+      "growth": {
+        "theme": "Vedere il modello",
+        "text": "Questa coppia porta l’ombra alla consapevolezza, invitando onestà senza autopunizione.",
+        "advice": "Dai un nome chiaro al modello, poi rispondi con responsabilità e compassione insieme.",
+        "journalPrompt": "Quale schema perde potere quando sono disposto a vederlo?",
+        "challenge": "La vergogna può far sembrare la verità poco sicura da ammettere.",
+        "opportunity": "La consapevolezza può trasformare un modello nascosto in una scelta cosciente."
+      }
+    },
+    "waiting_to_perspective": {
+      "general": {
+        "theme": "Il dono della pausa",
+        "text": "L’attesa può diventare prospettiva quando la pausa viene usata per vedere con onestà invece che per ripetere l’ansia.",
+        "advice": "Chiediti che cosa il ritardo sta mostrando su tempi, desiderio e prontezza.",
+        "journalPrompt": "Che cosa posso vedere da questa pausa che non potevo vedere mentre correvo?",
+        "challenge": "Una pausa può sembrare rifiuto o fallimento.",
+        "opportunity": "La prospettiva può rendere la prossima azione più pulita."
+      },
+      "love": {
+        "theme": "Il dono della pausa",
+        "text": "L’attesa può diventare prospettiva quando la pausa viene usata per vedere con onestà invece che per ripetere l’ansia.",
+        "advice": "Chiediti che cosa il ritardo sta mostrando su tempi, desiderio e prontezza.",
+        "journalPrompt": "Che cosa posso vedere da questa pausa che non potevo vedere mentre correvo?",
+        "challenge": "Una pausa può sembrare rifiuto o fallimento.",
+        "opportunity": "La prospettiva può rendere la prossima azione più pulita."
+      },
+      "career": {
+        "theme": "Il dono della pausa",
+        "text": "L’attesa può diventare prospettiva quando la pausa viene usata per vedere con onestà invece che per ripetere l’ansia.",
+        "advice": "Chiediti che cosa il ritardo sta mostrando su tempi, desiderio e prontezza.",
+        "journalPrompt": "Che cosa posso vedere da questa pausa che non potevo vedere mentre correvo?",
+        "challenge": "Una pausa può sembrare rifiuto o fallimento.",
+        "opportunity": "La prospettiva può rendere la prossima azione più pulita."
+      },
+      "money": {
+        "theme": "Il dono della pausa",
+        "text": "L’attesa può diventare prospettiva quando la pausa viene usata per vedere con onestà invece che per ripetere l’ansia.",
+        "advice": "Chiediti che cosa il ritardo sta mostrando su tempi, desiderio e prontezza.",
+        "journalPrompt": "Che cosa posso vedere da questa pausa che non potevo vedere mentre correvo?",
+        "challenge": "Una pausa può sembrare rifiuto o fallimento.",
+        "opportunity": "La prospettiva può rendere la prossima azione più pulita."
+      },
+      "growth": {
+        "theme": "Il dono della pausa",
+        "text": "L’attesa può diventare prospettiva quando la pausa viene usata per vedere con onestà invece che per ripetere l’ansia.",
+        "advice": "Chiediti che cosa il ritardo sta mostrando su tempi, desiderio e prontezza.",
+        "journalPrompt": "Che cosa posso vedere da questa pausa che non potevo vedere mentre correvo?",
+        "challenge": "Una pausa può sembrare rifiuto o fallimento.",
+        "opportunity": "La prospettiva può rendere la prossima azione più pulita."
+      }
+    },
+    "material_stress_to_grounding": {
+      "money": {
+        "theme": "Radicare la paura delle risorse",
+        "text": "La pressione sulle risorse incontra qui il radicamento, suggerendo che la stabilità inizia da consapevolezza pratica, non dal panico.",
+        "advice": "Torna a numeri chiari, bisogni immediati e un’abitudine ripetibile che sostenga la sicurezza.",
+        "journalPrompt": "Quale azione concreta ridurrebbe la pressione senza fingere che tutto sia risolto?",
+        "challenge": "La paura può far sembrare travolgenti le scelte pratiche.",
+        "opportunity": "Piccoli passi costanti possono ricostruire fiducia nella cura delle tue risorse."
+      },
+      "general": {
+        "theme": "Radicare la paura delle risorse",
+        "text": "La pressione sulle risorse incontra qui il radicamento, suggerendo che la stabilità inizia da consapevolezza pratica, non dal panico.",
+        "advice": "Torna a numeri chiari, bisogni immediati e un’abitudine ripetibile che sostenga la sicurezza.",
+        "journalPrompt": "Quale azione concreta ridurrebbe la pressione senza fingere che tutto sia risolto?",
+        "challenge": "La paura può far sembrare travolgenti le scelte pratiche.",
+        "opportunity": "Piccoli passi costanti possono ricostruire fiducia nella cura delle tue risorse."
+      },
+      "growth": {
+        "theme": "Radicare la paura delle risorse",
+        "text": "La pressione sulle risorse incontra qui il radicamento, suggerendo che la stabilità inizia da consapevolezza pratica, non dal panico.",
+        "advice": "Torna a numeri chiari, bisogni immediati e un’abitudine ripetibile che sostenga la sicurezza.",
+        "journalPrompt": "Quale azione concreta ridurrebbe la pressione senza fingere che tutto sia risolto?",
+        "challenge": "La paura può far sembrare travolgenti le scelte pratiche.",
+        "opportunity": "Piccoli passi costanti possono ricostruire fiducia nella cura delle tue risorse."
+      }
+    },
+    "love_choice_to_honesty": {
+      "love": {
+        "theme": "L’amore che sceglie la verità",
+        "text": "Una scelta d’amore chiede onestà; le carte favoriscono un legame capace di stare nella luce di ciò che è reale.",
+        "advice": "Lascia che affetto e verità si sostengano, invece di far sì che uno cancelli l’altra.",
+        "journalPrompt": "Quale verità renderebbe l’amore o la connessione più reciproci e rispettosi?",
+        "challenge": "La paura di perdere vicinanza può zittire ciò che deve essere detto.",
+        "opportunity": "L’onestà può diventare una forma di cura."
+      },
+      "general": {
+        "theme": "L’amore che sceglie la verità",
+        "text": "Una scelta d’amore chiede onestà; le carte favoriscono un legame capace di stare nella luce di ciò che è reale.",
+        "advice": "Lascia che affetto e verità si sostengano, invece di far sì che uno cancelli l’altra.",
+        "journalPrompt": "Quale verità renderebbe l’amore o la connessione più reciproci e rispettosi?",
+        "challenge": "La paura di perdere vicinanza può zittire ciò che deve essere detto.",
+        "opportunity": "L’onestà può diventare una forma di cura."
+      },
+      "growth": {
+        "theme": "L’amore che sceglie la verità",
+        "text": "Una scelta d’amore chiede onestà; le carte favoriscono un legame capace di stare nella luce di ciò che è reale.",
+        "advice": "Lascia che affetto e verità si sostengano, invece di far sì che uno cancelli l’altra.",
+        "journalPrompt": "Quale verità renderebbe l’amore o la connessione più reciproci e rispettosi?",
+        "challenge": "La paura di perdere vicinanza può zittire ciò che deve essere detto.",
+        "opportunity": "L’onestà può diventare una forma di cura."
+      }
+    },
+    "career_pressure_to_resilience": {
+      "career": {
+        "theme": "Resilienza sotto pressione",
+        "text": "La pressione incontra la resilienza, mostrando il bisogno di proteggere la tua energia restando connesso a ciò che conta.",
+        "advice": "Rispondi in modo strategico invece di dimostrare resistenza; la resilienza include il recupero.",
+        "journalPrompt": "Che cosa mi aiuterebbe a restare stabile senza sacrificare benessere o integrità?",
+        "challenge": "La resistenza può essere confusa con il non avere mai bisogno di supporto.",
+        "opportunity": "Può emergere una forza più sostenibile."
+      },
+      "general": {
+        "theme": "Resilienza sotto pressione",
+        "text": "La pressione incontra la resilienza, mostrando il bisogno di proteggere la tua energia restando connesso a ciò che conta.",
+        "advice": "Rispondi in modo strategico invece di dimostrare resistenza; la resilienza include il recupero.",
+        "journalPrompt": "Che cosa mi aiuterebbe a restare stabile senza sacrificare benessere o integrità?",
+        "challenge": "La resistenza può essere confusa con il non avere mai bisogno di supporto.",
+        "opportunity": "Può emergere una forza più sostenibile."
+      },
+      "growth": {
+        "theme": "Resilienza sotto pressione",
+        "text": "La pressione incontra la resilienza, mostrando il bisogno di proteggere la tua energia restando connesso a ciò che conta.",
+        "advice": "Rispondi in modo strategico invece di dimostrare resistenza; la resilienza include il recupero.",
+        "journalPrompt": "Che cosa mi aiuterebbe a restare stabile senza sacrificare benessere o integrità?",
+        "challenge": "La resistenza può essere confusa con il non avere mai bisogno di supporto.",
+        "opportunity": "Può emergere una forza più sostenibile."
+      }
+    },
+    "overwhelm_to_priorities": {
+      "general": {
+        "theme": "Scegliere prima ciò che conta",
+        "text": "Il senso di sopraffazione inizia ad ammorbidirsi quando le priorità diventano visibili.",
+        "advice": "Non organizzare tutto in una volta; individua l’unica cosa che conta di più adesso.",
+        "journalPrompt": "Che cosa sto trattando come ugualmente urgente quando non lo è?",
+        "challenge": "Troppi input possono far sembrare impossibile ogni scelta.",
+        "opportunity": "Una priorità chiara può restituire respiro e direzione."
+      },
+      "career": {
+        "theme": "Scegliere prima ciò che conta",
+        "text": "Il senso di sopraffazione inizia ad ammorbidirsi quando le priorità diventano visibili.",
+        "advice": "Non organizzare tutto in una volta; individua l’unica cosa che conta di più adesso.",
+        "journalPrompt": "Che cosa sto trattando come ugualmente urgente quando non lo è?",
+        "challenge": "Troppi input possono far sembrare impossibile ogni scelta.",
+        "opportunity": "Una priorità chiara può restituire respiro e direzione."
+      },
+      "money": {
+        "theme": "Scegliere prima ciò che conta",
+        "text": "Il senso di sopraffazione inizia ad ammorbidirsi quando le priorità diventano visibili.",
+        "advice": "Non organizzare tutto in una volta; individua l’unica cosa che conta di più adesso.",
+        "journalPrompt": "Che cosa sto trattando come ugualmente urgente quando non lo è?",
+        "challenge": "Troppi input possono far sembrare impossibile ogni scelta.",
+        "opportunity": "Una priorità chiara può restituire respiro e direzione."
+      },
+      "growth": {
+        "theme": "Scegliere prima ciò che conta",
+        "text": "Il senso di sopraffazione inizia ad ammorbidirsi quando le priorità diventano visibili.",
+        "advice": "Non organizzare tutto in una volta; individua l’unica cosa che conta di più adesso.",
+        "journalPrompt": "Che cosa sto trattando come ugualmente urgente quando non lo è?",
+        "challenge": "Troppi input possono far sembrare impossibile ogni scelta.",
+        "opportunity": "Una priorità chiara può restituire respiro e direzione."
+      }
+    },
+    "imbalance_to_harmony": {
+      "general": {
+        "theme": "Ritornare alla proporzione",
+        "text": "Queste carte indicano un movimento dallo squilibrio verso l’armonia, suggerendo che la pace può arrivare attraverso un aggiustamento, non attraverso la perfezione.",
+        "advice": "Cerca il punto in cui troppo, troppo poco o troppo spesso ha deformato il ritmo.",
+        "journalPrompt": "Quale piccolo riequilibrio renderebbe questa situazione più umana?",
+        "challenge": "Un vecchio ritmo può continuare solo perché è familiare.",
+        "opportunity": "L’armonia può tornare attraverso una ricalibrazione pratica."
+      },
+      "love": {
+        "theme": "Ritornare alla proporzione",
+        "text": "Queste carte indicano un movimento dallo squilibrio verso l’armonia, suggerendo che la pace può arrivare attraverso un aggiustamento, non attraverso la perfezione.",
+        "advice": "Cerca il punto in cui troppo, troppo poco o troppo spesso ha deformato il ritmo.",
+        "journalPrompt": "Quale piccolo riequilibrio renderebbe questa situazione più umana?",
+        "challenge": "Un vecchio ritmo può continuare solo perché è familiare.",
+        "opportunity": "L’armonia può tornare attraverso una ricalibrazione pratica."
+      },
+      "career": {
+        "theme": "Ritornare alla proporzione",
+        "text": "Queste carte indicano un movimento dallo squilibrio verso l’armonia, suggerendo che la pace può arrivare attraverso un aggiustamento, non attraverso la perfezione.",
+        "advice": "Cerca il punto in cui troppo, troppo poco o troppo spesso ha deformato il ritmo.",
+        "journalPrompt": "Quale piccolo riequilibrio renderebbe questa situazione più umana?",
+        "challenge": "Un vecchio ritmo può continuare solo perché è familiare.",
+        "opportunity": "L’armonia può tornare attraverso una ricalibrazione pratica."
+      },
+      "money": {
+        "theme": "Ritornare alla proporzione",
+        "text": "Queste carte indicano un movimento dallo squilibrio verso l’armonia, suggerendo che la pace può arrivare attraverso un aggiustamento, non attraverso la perfezione.",
+        "advice": "Cerca il punto in cui troppo, troppo poco o troppo spesso ha deformato il ritmo.",
+        "journalPrompt": "Quale piccolo riequilibrio renderebbe questa situazione più umana?",
+        "challenge": "Un vecchio ritmo può continuare solo perché è familiare.",
+        "opportunity": "L’armonia può tornare attraverso una ricalibrazione pratica."
+      },
+      "growth": {
+        "theme": "Ritornare alla proporzione",
+        "text": "Queste carte indicano un movimento dallo squilibrio verso l’armonia, suggerendo che la pace può arrivare attraverso un aggiustamento, non attraverso la perfezione.",
+        "advice": "Cerca il punto in cui troppo, troppo poco o troppo spesso ha deformato il ritmo.",
+        "journalPrompt": "Quale piccolo riequilibrio renderebbe questa situazione più umana?",
+        "challenge": "Un vecchio ritmo può continuare solo perché è familiare.",
+        "opportunity": "L’armonia può tornare attraverso una ricalibrazione pratica."
+      }
+    },
+    "heartbreak_to_truth": {
+      "general": {
+        "theme": "La ferita onesta",
+        "text": "Il cuore ferito è accostato alla verità, chiedendoti di lasciare che il dolore chiarisca invece di indurirti.",
+        "advice": "Onora il dolore, ma non lasciare che sia l’unico interprete di ciò che è accaduto.",
+        "journalPrompt": "Quale verità posso portare via da questo dolore senza usarla contro me stesso?",
+        "challenge": "La ferita può cercare di diventare un’identità.",
+        "opportunity": "Vedere con chiarezza può sostenere una guarigione reale."
+      },
+      "love": {
+        "theme": "La ferita onesta",
+        "text": "Il cuore ferito è accostato alla verità, chiedendoti di lasciare che il dolore chiarisca invece di indurirti.",
+        "advice": "Onora il dolore, ma non lasciare che sia l’unico interprete di ciò che è accaduto.",
+        "journalPrompt": "Quale verità posso portare via da questo dolore senza usarla contro me stesso?",
+        "challenge": "La ferita può cercare di diventare un’identità.",
+        "opportunity": "Vedere con chiarezza può sostenere una guarigione reale."
+      },
+      "growth": {
+        "theme": "La ferita onesta",
+        "text": "Il cuore ferito è accostato alla verità, chiedendoti di lasciare che il dolore chiarisca invece di indurirti.",
+        "advice": "Onora il dolore, ma non lasciare che sia l’unico interprete di ciò che è accaduto.",
+        "journalPrompt": "Quale verità posso portare via da questo dolore senza usarla contro me stesso?",
+        "challenge": "La ferita può cercare di diventare un’identità.",
+        "opportunity": "Vedere con chiarezza può sostenere una guarigione reale."
+      }
+    },
+    "disappointment_to_perspective": {
+      "general": {
+        "theme": "Rileggere il desiderio non realizzato",
+        "text": "La delusione incontra la prospettiva, suggerendo che un desiderio non soddisfatto può contenere comunque informazioni utili.",
+        "advice": "Chiediti che cosa la delusione rivela sul tuo bisogno, valore o aspettativa.",
+        "journalPrompt": "Che cosa mi ha insegnato questa delusione su ciò che speravo davvero?",
+        "challenge": "Il rimpianto può concentrarsi solo su ciò che non è accaduto.",
+        "opportunity": "Da ciò che non si è compiuto può emergere un desiderio più chiaro."
+      },
+      "love": {
+        "theme": "Rileggere il desiderio non realizzato",
+        "text": "La delusione incontra la prospettiva, suggerendo che un desiderio non soddisfatto può contenere comunque informazioni utili.",
+        "advice": "Chiediti che cosa la delusione rivela sul tuo bisogno, valore o aspettativa.",
+        "journalPrompt": "Che cosa mi ha insegnato questa delusione su ciò che speravo davvero?",
+        "challenge": "Il rimpianto può concentrarsi solo su ciò che non è accaduto.",
+        "opportunity": "Da ciò che non si è compiuto può emergere un desiderio più chiaro."
+      },
+      "career": {
+        "theme": "Rileggere il desiderio non realizzato",
+        "text": "La delusione incontra la prospettiva, suggerendo che un desiderio non soddisfatto può contenere comunque informazioni utili.",
+        "advice": "Chiediti che cosa la delusione rivela sul tuo bisogno, valore o aspettativa.",
+        "journalPrompt": "Che cosa mi ha insegnato questa delusione su ciò che speravo davvero?",
+        "challenge": "Il rimpianto può concentrarsi solo su ciò che non è accaduto.",
+        "opportunity": "Da ciò che non si è compiuto può emergere un desiderio più chiaro."
+      },
+      "money": {
+        "theme": "Rileggere il desiderio non realizzato",
+        "text": "La delusione incontra la prospettiva, suggerendo che un desiderio non soddisfatto può contenere comunque informazioni utili.",
+        "advice": "Chiediti che cosa la delusione rivela sul tuo bisogno, valore o aspettativa.",
+        "journalPrompt": "Che cosa mi ha insegnato questa delusione su ciò che speravo davvero?",
+        "challenge": "Il rimpianto può concentrarsi solo su ciò che non è accaduto.",
+        "opportunity": "Da ciò che non si è compiuto può emergere un desiderio più chiaro."
+      },
+      "growth": {
+        "theme": "Rileggere il desiderio non realizzato",
+        "text": "La delusione incontra la prospettiva, suggerendo che un desiderio non soddisfatto può contenere comunque informazioni utili.",
+        "advice": "Chiediti che cosa la delusione rivela sul tuo bisogno, valore o aspettativa.",
+        "journalPrompt": "Che cosa mi ha insegnato questa delusione su ciò che speravo davvero?",
+        "challenge": "Il rimpianto può concentrarsi solo su ciò che non è accaduto.",
+        "opportunity": "Da ciò che non si è compiuto può emergere un desiderio più chiaro."
+      }
+    },
+    "rest_to_clarity": {
+      "general": {
+        "theme": "Chiarezza dopo il riposo",
+        "text": "In questa coppia il riposo crea spazio per la chiarezza, soprattutto dove lo sforzo è diventato troppo rumoroso per sentire la verità.",
+        "advice": "Lascia che il sistema nervoso si calmi prima di trattare il primo pensiero come risposta finale.",
+        "journalPrompt": "Che cosa diventa più chiaro quando smetto di spingere per un momento?",
+        "challenge": "Il riposo può sembrare improduttivo anche quando è necessario.",
+        "opportunity": "Una mente più calma può scegliere con più saggezza."
+      },
+      "career": {
+        "theme": "Chiarezza dopo il riposo",
+        "text": "In questa coppia il riposo crea spazio per la chiarezza, soprattutto dove lo sforzo è diventato troppo rumoroso per sentire la verità.",
+        "advice": "Lascia che il sistema nervoso si calmi prima di trattare il primo pensiero come risposta finale.",
+        "journalPrompt": "Che cosa diventa più chiaro quando smetto di spingere per un momento?",
+        "challenge": "Il riposo può sembrare improduttivo anche quando è necessario.",
+        "opportunity": "Una mente più calma può scegliere con più saggezza."
+      },
+      "money": {
+        "theme": "Chiarezza dopo il riposo",
+        "text": "In questa coppia il riposo crea spazio per la chiarezza, soprattutto dove lo sforzo è diventato troppo rumoroso per sentire la verità.",
+        "advice": "Lascia che il sistema nervoso si calmi prima di trattare il primo pensiero come risposta finale.",
+        "journalPrompt": "Che cosa diventa più chiaro quando smetto di spingere per un momento?",
+        "challenge": "Il riposo può sembrare improduttivo anche quando è necessario.",
+        "opportunity": "Una mente più calma può scegliere con più saggezza."
+      },
+      "growth": {
+        "theme": "Chiarezza dopo il riposo",
+        "text": "In questa coppia il riposo crea spazio per la chiarezza, soprattutto dove lo sforzo è diventato troppo rumoroso per sentire la verità.",
+        "advice": "Lascia che il sistema nervoso si calmi prima di trattare il primo pensiero come risposta finale.",
+        "journalPrompt": "Che cosa diventa più chiaro quando smetto di spingere per un momento?",
+        "challenge": "Il riposo può sembrare improduttivo anche quando è necessario.",
+        "opportunity": "Una mente più calma può scegliere con più saggezza."
+      }
+    },
+    "temptation_to_values": {
+      "general": {
+        "theme": "Desiderio misurato dai valori",
+        "text": "L’attrazione della tentazione incontra i valori, chiedendo se il desiderio immediato sostiene la vita che stai cercando di costruire.",
+        "advice": "Fermati abbastanza da chiederti quanto costa questa scelta sul piano emotivo, pratico o spirituale.",
+        "journalPrompt": "Quale valore voglio onorare prima di seguire questo impulso?",
+        "challenge": "Il sollievo immediato può sembrare allineamento quando sei stanco.",
+        "opportunity": "Il desiderio può diventare più pulito quando è guidato dal rispetto di sé."
+      },
+      "love": {
+        "theme": "Desiderio misurato dai valori",
+        "text": "L’attrazione della tentazione incontra i valori, chiedendo se il desiderio immediato sostiene la vita che stai cercando di costruire.",
+        "advice": "Fermati abbastanza da chiederti quanto costa questa scelta sul piano emotivo, pratico o spirituale.",
+        "journalPrompt": "Quale valore voglio onorare prima di seguire questo impulso?",
+        "challenge": "Il sollievo immediato può sembrare allineamento quando sei stanco.",
+        "opportunity": "Il desiderio può diventare più pulito quando è guidato dal rispetto di sé."
+      },
+      "money": {
+        "theme": "Desiderio misurato dai valori",
+        "text": "L’attrazione della tentazione incontra i valori, chiedendo se il desiderio immediato sostiene la vita che stai cercando di costruire.",
+        "advice": "Fermati abbastanza da chiederti quanto costa questa scelta sul piano emotivo, pratico o spirituale.",
+        "journalPrompt": "Quale valore voglio onorare prima di seguire questo impulso?",
+        "challenge": "Il sollievo immediato può sembrare allineamento quando sei stanco.",
+        "opportunity": "Il desiderio può diventare più pulito quando è guidato dal rispetto di sé."
+      },
+      "growth": {
+        "theme": "Desiderio misurato dai valori",
+        "text": "L’attrazione della tentazione incontra i valori, chiedendo se il desiderio immediato sostiene la vita che stai cercando di costruire.",
+        "advice": "Fermati abbastanza da chiederti quanto costa questa scelta sul piano emotivo, pratico o spirituale.",
+        "journalPrompt": "Quale valore voglio onorare prima di seguire questo impulso?",
+        "challenge": "Il sollievo immediato può sembrare allineamento quando sei stanco.",
+        "opportunity": "Il desiderio può diventare più pulito quando è guidato dal rispetto di sé."
+      }
+    },
+    "control_to_boundaries": {
+      "general": {
+        "theme": "Dal controllo a limiti chiari",
+        "text": "Controllo e confini non sono la stessa cosa; questa coppia chiede limiti che proteggano la dignità senza irrigidirsi in forza.",
+        "advice": "Dai un nome a ciò che spetta a te decidere, a ciò che è condiviso e a ciò che appartiene a qualcun altro.",
+        "journalPrompt": "Dove sto confondendo il controllo con la sicurezza?",
+        "challenge": "La paura può far sembrare la forza una protezione.",
+        "opportunity": "Confini sani possono restituire rispetto e spazio per respirare."
+      },
+      "love": {
+        "theme": "Dal controllo a limiti chiari",
+        "text": "Controllo e confini non sono la stessa cosa; questa coppia chiede limiti che proteggano la dignità senza irrigidirsi in forza.",
+        "advice": "Dai un nome a ciò che spetta a te decidere, a ciò che è condiviso e a ciò che appartiene a qualcun altro.",
+        "journalPrompt": "Dove sto confondendo il controllo con la sicurezza?",
+        "challenge": "La paura può far sembrare la forza una protezione.",
+        "opportunity": "Confini sani possono restituire rispetto e spazio per respirare."
+      },
+      "career": {
+        "theme": "Dal controllo a limiti chiari",
+        "text": "Controllo e confini non sono la stessa cosa; questa coppia chiede limiti che proteggano la dignità senza irrigidirsi in forza.",
+        "advice": "Dai un nome a ciò che spetta a te decidere, a ciò che è condiviso e a ciò che appartiene a qualcun altro.",
+        "journalPrompt": "Dove sto confondendo il controllo con la sicurezza?",
+        "challenge": "La paura può far sembrare la forza una protezione.",
+        "opportunity": "Confini sani possono restituire rispetto e spazio per respirare."
+      },
+      "money": {
+        "theme": "Dal controllo a limiti chiari",
+        "text": "Controllo e confini non sono la stessa cosa; questa coppia chiede limiti che proteggano la dignità senza irrigidirsi in forza.",
+        "advice": "Dai un nome a ciò che spetta a te decidere, a ciò che è condiviso e a ciò che appartiene a qualcun altro.",
+        "journalPrompt": "Dove sto confondendo il controllo con la sicurezza?",
+        "challenge": "La paura può far sembrare la forza una protezione.",
+        "opportunity": "Confini sani possono restituire rispetto e spazio per respirare."
+      },
+      "growth": {
+        "theme": "Dal controllo a limiti chiari",
+        "text": "Controllo e confini non sono la stessa cosa; questa coppia chiede limiti che proteggano la dignità senza irrigidirsi in forza.",
+        "advice": "Dai un nome a ciò che spetta a te decidere, a ciò che è condiviso e a ciò che appartiene a qualcun altro.",
+        "journalPrompt": "Dove sto confondendo il controllo con la sicurezza?",
+        "challenge": "La paura può far sembrare la forza una protezione.",
+        "opportunity": "Confini sani possono restituire rispetto e spazio per respirare."
+      }
+    },
+    "awakening_to_responsibility": {
+      "general": {
+        "theme": "Rispondere alla chiamata con maturità",
+        "text": "Una realizzazione diventa significativa quando è seguita da responsabilità.",
+        "advice": "Lascia che l’intuizione cambi un comportamento concreto, non solo il tuo umore.",
+        "journalPrompt": "Quale responsabilità nasce naturalmente da ciò che ora comprendo?",
+        "challenge": "Il risveglio può restare astratto se non tocca la vita quotidiana.",
+        "opportunity": "L’intuizione può maturare in un’azione affidabile."
+      },
+      "career": {
+        "theme": "Rispondere alla chiamata con maturità",
+        "text": "Una realizzazione diventa significativa quando è seguita da responsabilità.",
+        "advice": "Lascia che l’intuizione cambi un comportamento concreto, non solo il tuo umore.",
+        "journalPrompt": "Quale responsabilità nasce naturalmente da ciò che ora comprendo?",
+        "challenge": "Il risveglio può restare astratto se non tocca la vita quotidiana.",
+        "opportunity": "L’intuizione può maturare in un’azione affidabile."
+      },
+      "growth": {
+        "theme": "Rispondere alla chiamata con maturità",
+        "text": "Una realizzazione diventa significativa quando è seguita da responsabilità.",
+        "advice": "Lascia che l’intuizione cambi un comportamento concreto, non solo il tuo umore.",
+        "journalPrompt": "Quale responsabilità nasce naturalmente da ciò che ora comprendo?",
+        "challenge": "Il risveglio può restare astratto se non tocca la vita quotidiana.",
+        "opportunity": "L’intuizione può maturare in un’azione affidabile."
+      }
+    },
+    "celebration_to_stability": {
+      "general": {
+        "theme": "Gioia che mette radici",
+        "text": "La celebrazione incontra la stabilità, suggerendo che un buon momento può essere onorato dandogli una base duratura.",
+        "advice": "Goditi la luce, poi chiediti che cosa la aiuterebbe a restare sana e radicata.",
+        "journalPrompt": "Come posso sostenere questo buon momento senza cercare di possederlo?",
+        "challenge": "L’entusiasmo può saltare la cura pratica che mantiene le cose stabili.",
+        "opportunity": "La gioia può diventare parte di un ritmo sostenibile."
+      },
+      "love": {
+        "theme": "Gioia che mette radici",
+        "text": "La celebrazione incontra la stabilità, suggerendo che un buon momento può essere onorato dandogli una base duratura.",
+        "advice": "Goditi la luce, poi chiediti che cosa la aiuterebbe a restare sana e radicata.",
+        "journalPrompt": "Come posso sostenere questo buon momento senza cercare di possederlo?",
+        "challenge": "L’entusiasmo può saltare la cura pratica che mantiene le cose stabili.",
+        "opportunity": "La gioia può diventare parte di un ritmo sostenibile."
+      },
+      "career": {
+        "theme": "Gioia che mette radici",
+        "text": "La celebrazione incontra la stabilità, suggerendo che un buon momento può essere onorato dandogli una base duratura.",
+        "advice": "Goditi la luce, poi chiediti che cosa la aiuterebbe a restare sana e radicata.",
+        "journalPrompt": "Come posso sostenere questo buon momento senza cercare di possederlo?",
+        "challenge": "L’entusiasmo può saltare la cura pratica che mantiene le cose stabili.",
+        "opportunity": "La gioia può diventare parte di un ritmo sostenibile."
+      },
+      "money": {
+        "theme": "Gioia che mette radici",
+        "text": "La celebrazione incontra la stabilità, suggerendo che un buon momento può essere onorato dandogli una base duratura.",
+        "advice": "Goditi la luce, poi chiediti che cosa la aiuterebbe a restare sana e radicata.",
+        "journalPrompt": "Come posso sostenere questo buon momento senza cercare di possederlo?",
+        "challenge": "L’entusiasmo può saltare la cura pratica che mantiene le cose stabili.",
+        "opportunity": "La gioia può diventare parte di un ritmo sostenibile."
+      },
+      "growth": {
+        "theme": "Gioia che mette radici",
+        "text": "La celebrazione incontra la stabilità, suggerendo che un buon momento può essere onorato dandogli una base duratura.",
+        "advice": "Goditi la luce, poi chiediti che cosa la aiuterebbe a restare sana e radicata.",
+        "journalPrompt": "Come posso sostenere questo buon momento senza cercare di possederlo?",
+        "challenge": "L’entusiasmo può saltare la cura pratica che mantiene le cose stabili.",
+        "opportunity": "La gioia può diventare parte di un ritmo sostenibile."
+      }
+    },
+    "teamwork_to_mastery": {
+      "general": {
+        "theme": "Lavoro condiviso, abilità raffinata",
+        "text": "Collaborazione e maestria appaiono insieme, mostrando che l’abilità può crescere attraverso contributo rispettoso e feedback.",
+        "advice": "Lascia che lo sforzo condiviso affini il mestiere invece di minacciare il tuo valore individuale.",
+        "journalPrompt": "Che cosa può insegnarmi la collaborazione che non posso imparare da solo?",
+        "challenge": "Orgoglio o insicurezza possono resistere a un feedback utile.",
+        "opportunity": "Lavorare con altri può approfondire la competenza."
+      },
+      "career": {
+        "theme": "Lavoro condiviso, abilità raffinata",
+        "text": "Collaborazione e maestria appaiono insieme, mostrando che l’abilità può crescere attraverso contributo rispettoso e feedback.",
+        "advice": "Lascia che lo sforzo condiviso affini il mestiere invece di minacciare il tuo valore individuale.",
+        "journalPrompt": "Che cosa può insegnarmi la collaborazione che non posso imparare da solo?",
+        "challenge": "Orgoglio o insicurezza possono resistere a un feedback utile.",
+        "opportunity": "Lavorare con altri può approfondire la competenza."
+      },
+      "growth": {
+        "theme": "Lavoro condiviso, abilità raffinata",
+        "text": "Collaborazione e maestria appaiono insieme, mostrando che l’abilità può crescere attraverso contributo rispettoso e feedback.",
+        "advice": "Lascia che lo sforzo condiviso affini il mestiere invece di minacciare il tuo valore individuale.",
+        "journalPrompt": "Che cosa può insegnarmi la collaborazione che non posso imparare da solo?",
+        "challenge": "Orgoglio o insicurezza possono resistere a un feedback utile.",
+        "opportunity": "Lavorare con altri può approfondire la competenza."
+      }
+    },
+    "curiosity_to_learning": {
+      "general": {
+        "theme": "La curiosità che diventa conoscenza",
+        "text": "La curiosità punta verso l’apprendimento, suggerendo che le domande non sono una debolezza ma una porta verso maggiore abilità.",
+        "advice": "Scegli una fonte, un mentore o una pratica che trasformi l’interesse in comprensione.",
+        "journalPrompt": "Quale domanda merita studio invece di una risposta rapida?",
+        "challenge": "Voler sapere tutto può rimandare l’inizio con una sola lezione.",
+        "opportunity": "La mente del principiante può diventare competenza reale."
+      },
+      "career": {
+        "theme": "La curiosità che diventa conoscenza",
+        "text": "La curiosità punta verso l’apprendimento, suggerendo che le domande non sono una debolezza ma una porta verso maggiore abilità.",
+        "advice": "Scegli una fonte, un mentore o una pratica che trasformi l’interesse in comprensione.",
+        "journalPrompt": "Quale domanda merita studio invece di una risposta rapida?",
+        "challenge": "Voler sapere tutto può rimandare l’inizio con una sola lezione.",
+        "opportunity": "La mente del principiante può diventare competenza reale."
+      },
+      "money": {
+        "theme": "La curiosità che diventa conoscenza",
+        "text": "La curiosità punta verso l’apprendimento, suggerendo che le domande non sono una debolezza ma una porta verso maggiore abilità.",
+        "advice": "Scegli una fonte, un mentore o una pratica che trasformi l’interesse in comprensione.",
+        "journalPrompt": "Quale domanda merita studio invece di una risposta rapida?",
+        "challenge": "Voler sapere tutto può rimandare l’inizio con una sola lezione.",
+        "opportunity": "La mente del principiante può diventare competenza reale."
+      },
+      "growth": {
+        "theme": "La curiosità che diventa conoscenza",
+        "text": "La curiosità punta verso l’apprendimento, suggerendo che le domande non sono una debolezza ma una porta verso maggiore abilità.",
+        "advice": "Scegli una fonte, un mentore o una pratica che trasformi l’interesse in comprensione.",
+        "journalPrompt": "Quale domanda merita studio invece di una risposta rapida?",
+        "challenge": "Voler sapere tutto può rimandare l’inizio con una sola lezione.",
+        "opportunity": "La mente del principiante può diventare competenza reale."
+      }
+    },
+    "movement_to_integration": {
+      "general": {
+        "theme": "Lasciare che il movimento si assesti",
+        "text": "Dopo il movimento, l’integrazione chiede di assorbire ciò che è cambiato invece di correre subito alla cosa successiva.",
+        "advice": "Fai spazio per stabilizzare il guadagno, la lezione o il cambiamento prima di espanderti di nuovo.",
+        "journalPrompt": "Che cosa è cambiato, e come posso integrarlo nella vita quotidiana?",
+        "challenge": "Lo slancio può diventare evitamento della riflessione.",
+        "opportunity": "Il cambiamento integrato diventa più affidabile."
+      },
+      "career": {
+        "theme": "Lasciare che il movimento si assesti",
+        "text": "Dopo il movimento, l’integrazione chiede di assorbire ciò che è cambiato invece di correre subito alla cosa successiva.",
+        "advice": "Fai spazio per stabilizzare il guadagno, la lezione o il cambiamento prima di espanderti di nuovo.",
+        "journalPrompt": "Che cosa è cambiato, e come posso integrarlo nella vita quotidiana?",
+        "challenge": "Lo slancio può diventare evitamento della riflessione.",
+        "opportunity": "Il cambiamento integrato diventa più affidabile."
+      },
+      "money": {
+        "theme": "Lasciare che il movimento si assesti",
+        "text": "Dopo il movimento, l’integrazione chiede di assorbire ciò che è cambiato invece di correre subito alla cosa successiva.",
+        "advice": "Fai spazio per stabilizzare il guadagno, la lezione o il cambiamento prima di espanderti di nuovo.",
+        "journalPrompt": "Che cosa è cambiato, e come posso integrarlo nella vita quotidiana?",
+        "challenge": "Lo slancio può diventare evitamento della riflessione.",
+        "opportunity": "Il cambiamento integrato diventa più affidabile."
+      },
+      "growth": {
+        "theme": "Lasciare che il movimento si assesti",
+        "text": "Dopo il movimento, l’integrazione chiede di assorbire ciò che è cambiato invece di correre subito alla cosa successiva.",
+        "advice": "Fai spazio per stabilizzare il guadagno, la lezione o il cambiamento prima di espanderti di nuovo.",
+        "journalPrompt": "Che cosa è cambiato, e come posso integrarlo nella vita quotidiana?",
+        "challenge": "Lo slancio può diventare evitamento della riflessione.",
+        "opportunity": "Il cambiamento integrato diventa più affidabile."
+      }
+    },
+    "scarcity_to_generosity": {
+      "general": {
+        "theme": "La paura della mancanza incontra il sostegno",
+        "text": "La scarsità si ammorbidisce quando diventano possibili sostegno, scambio o ricezione.",
+        "advice": "Nota dove la paura chiede cura pratica e dove l’aiuto può essere accolto senza vergogna.",
+        "journalPrompt": "Quale tipo di sostegno mi aiuterebbe a rispondere alla scarsità con più stabilità?",
+        "challenge": "La paura può far sembrare il ricevere insicuro o immeritato.",
+        "opportunity": "Uno scambio sano può mettere in discussione la storia della mancanza."
+      },
+      "money": {
+        "theme": "La paura della mancanza incontra il sostegno",
+        "text": "La scarsità si ammorbidisce quando diventano possibili sostegno, scambio o ricezione.",
+        "advice": "Nota dove la paura chiede cura pratica e dove l’aiuto può essere accolto senza vergogna.",
+        "journalPrompt": "Quale tipo di sostegno mi aiuterebbe a rispondere alla scarsità con più stabilità?",
+        "challenge": "La paura può far sembrare il ricevere insicuro o immeritato.",
+        "opportunity": "Uno scambio sano può mettere in discussione la storia della mancanza."
+      },
+      "love": {
+        "theme": "La paura della mancanza incontra il sostegno",
+        "text": "La scarsità si ammorbidisce quando diventano possibili sostegno, scambio o ricezione.",
+        "advice": "Nota dove la paura chiede cura pratica e dove l’aiuto può essere accolto senza vergogna.",
+        "journalPrompt": "Quale tipo di sostegno mi aiuterebbe a rispondere alla scarsità con più stabilità?",
+        "challenge": "La paura può far sembrare il ricevere insicuro o immeritato.",
+        "opportunity": "Uno scambio sano può mettere in discussione la storia della mancanza."
+      },
+      "growth": {
+        "theme": "La paura della mancanza incontra il sostegno",
+        "text": "La scarsità si ammorbidisce quando diventano possibili sostegno, scambio o ricezione.",
+        "advice": "Nota dove la paura chiede cura pratica e dove l’aiuto può essere accolto senza vergogna.",
+        "journalPrompt": "Quale tipo di sostegno mi aiuterebbe a rispondere alla scarsità con più stabilità?",
+        "challenge": "La paura può far sembrare il ricevere insicuro o immeritato.",
+        "opportunity": "Uno scambio sano può mettere in discussione la storia della mancanza."
+      }
+    },
+    "guarded_heart_to_openness": {
+      "general": {
+        "theme": "Ammorbidire la protezione",
+        "text": "Il cuore protetto non ha torto; questa coppia chiede semplicemente se la protezione è pronta ad ammorbidirsi dove la sicurezza è reale.",
+        "advice": "Apriti per gradi e lascia che la fiducia si costruisca attraverso la coerenza, non attraverso la pressione.",
+        "journalPrompt": "Dove posso ammorbidirmi un poco senza tradire il mio bisogno di sicurezza?",
+        "challenge": "Un vecchio dolore può far sembrare pericolosa ogni apertura.",
+        "opportunity": "Una vulnerabilità misurata può invitare una connessione autentica."
+      },
+      "love": {
+        "theme": "Ammorbidire la protezione",
+        "text": "Il cuore protetto non ha torto; questa coppia chiede semplicemente se la protezione è pronta ad ammorbidirsi dove la sicurezza è reale.",
+        "advice": "Apriti per gradi e lascia che la fiducia si costruisca attraverso la coerenza, non attraverso la pressione.",
+        "journalPrompt": "Dove posso ammorbidirmi un poco senza tradire il mio bisogno di sicurezza?",
+        "challenge": "Un vecchio dolore può far sembrare pericolosa ogni apertura.",
+        "opportunity": "Una vulnerabilità misurata può invitare una connessione autentica."
+      },
+      "growth": {
+        "theme": "Ammorbidire la protezione",
+        "text": "Il cuore protetto non ha torto; questa coppia chiede semplicemente se la protezione è pronta ad ammorbidirsi dove la sicurezza è reale.",
+        "advice": "Apriti per gradi e lascia che la fiducia si costruisca attraverso la coerenza, non attraverso la pressione.",
+        "journalPrompt": "Dove posso ammorbidirmi un poco senza tradire il mio bisogno di sicurezza?",
+        "challenge": "Un vecchio dolore può far sembrare pericolosa ogni apertura.",
+        "opportunity": "Una vulnerabilità misurata può invitare una connessione autentica."
+      }
+    },
+    "blocked_truth_to_clear_conversation": {
+      "general": {
+        "theme": "La conversazione che si chiarisce",
+        "text": "Una verità bloccata si muove verso un’espressione più chiara, suggerendo che ciò che è stato indiretto può aver bisogno di un canale più onesto.",
+        "advice": "Parla in modo semplice e gentile; chiedi chiarezza invece di indovinare in silenzio.",
+        "journalPrompt": "Che cosa va detto o chiesto in modo più pulito?",
+        "challenge": "La paura della reazione può mantenere la verità ingarbugliata.",
+        "opportunity": "Una conversazione chiara può ridurre fatica emotiva inutile."
+      },
+      "love": {
+        "theme": "La conversazione che si chiarisce",
+        "text": "Una verità bloccata si muove verso un’espressione più chiara, suggerendo che ciò che è stato indiretto può aver bisogno di un canale più onesto.",
+        "advice": "Parla in modo semplice e gentile; chiedi chiarezza invece di indovinare in silenzio.",
+        "journalPrompt": "Che cosa va detto o chiesto in modo più pulito?",
+        "challenge": "La paura della reazione può mantenere la verità ingarbugliata.",
+        "opportunity": "Una conversazione chiara può ridurre fatica emotiva inutile."
+      },
+      "career": {
+        "theme": "La conversazione che si chiarisce",
+        "text": "Una verità bloccata si muove verso un’espressione più chiara, suggerendo che ciò che è stato indiretto può aver bisogno di un canale più onesto.",
+        "advice": "Parla in modo semplice e gentile; chiedi chiarezza invece di indovinare in silenzio.",
+        "journalPrompt": "Che cosa va detto o chiesto in modo più pulito?",
+        "challenge": "La paura della reazione può mantenere la verità ingarbugliata.",
+        "opportunity": "Una conversazione chiara può ridurre fatica emotiva inutile."
+      },
+      "growth": {
+        "theme": "La conversazione che si chiarisce",
+        "text": "Una verità bloccata si muove verso un’espressione più chiara, suggerendo che ciò che è stato indiretto può aver bisogno di un canale più onesto.",
+        "advice": "Parla in modo semplice e gentile; chiedi chiarezza invece di indovinare in silenzio.",
+        "journalPrompt": "Che cosa va detto o chiesto in modo più pulito?",
+        "challenge": "La paura della reazione può mantenere la verità ingarbugliata.",
+        "opportunity": "Una conversazione chiara può ridurre fatica emotiva inutile."
+      }
+    },
+    "burnout_to_recovery": {
+      "general": {
+        "theme": "Energia che ritorna attraverso la cura",
+        "text": "L’esaurimento incontra il recupero, ricordando che il ristoro fa parte del cammino, non è una deviazione.",
+        "advice": "Riduci le richieste dove possibile e scegli una forma di cura ripetibile, non eroica.",
+        "journalPrompt": "Di che cosa ha bisogno la mia energia prima di poter tornare onestamente?",
+        "challenge": "L’abitudine a spingere può resistere al riposo.",
+        "opportunity": "Il recupero può ricostruire un rapporto più vero con lo sforzo."
+      },
+      "career": {
+        "theme": "Energia che ritorna attraverso la cura",
+        "text": "L’esaurimento incontra il recupero, ricordando che il ristoro fa parte del cammino, non è una deviazione.",
+        "advice": "Riduci le richieste dove possibile e scegli una forma di cura ripetibile, non eroica.",
+        "journalPrompt": "Di che cosa ha bisogno la mia energia prima di poter tornare onestamente?",
+        "challenge": "L’abitudine a spingere può resistere al riposo.",
+        "opportunity": "Il recupero può ricostruire un rapporto più vero con lo sforzo."
+      },
+      "money": {
+        "theme": "Energia che ritorna attraverso la cura",
+        "text": "L’esaurimento incontra il recupero, ricordando che il ristoro fa parte del cammino, non è una deviazione.",
+        "advice": "Riduci le richieste dove possibile e scegli una forma di cura ripetibile, non eroica.",
+        "journalPrompt": "Di che cosa ha bisogno la mia energia prima di poter tornare onestamente?",
+        "challenge": "L’abitudine a spingere può resistere al riposo.",
+        "opportunity": "Il recupero può ricostruire un rapporto più vero con lo sforzo."
+      },
+      "growth": {
+        "theme": "Energia che ritorna attraverso la cura",
+        "text": "L’esaurimento incontra il recupero, ricordando che il ristoro fa parte del cammino, non è una deviazione.",
+        "advice": "Riduci le richieste dove possibile e scegli una forma di cura ripetibile, non eroica.",
+        "journalPrompt": "Di che cosa ha bisogno la mia energia prima di poter tornare onestamente?",
+        "challenge": "L’abitudine a spingere può resistere al riposo.",
+        "opportunity": "Il recupero può ricostruire un rapporto più vero con lo sforzo."
+      }
+    },
+    "independence_to_connection": {
+      "general": {
+        "theme": "Identità che incontra relazione",
+        "text": "Indipendenza e connessione appaiono insieme, suggerendo che la vicinanza non deve cancellare il senso di sé.",
+        "advice": "Lascia entrare il sostegno senza consegnare il tuo centro.",
+        "journalPrompt": "Come posso restare me stesso mentre permetto più connessione?",
+        "challenge": "L’autoprotezione può chiamare indipendenza l’isolamento.",
+        "opportunity": "Un sé sicuro può relazionarsi con più libertà."
+      },
+      "love": {
+        "theme": "Identità che incontra relazione",
+        "text": "Indipendenza e connessione appaiono insieme, suggerendo che la vicinanza non deve cancellare il senso di sé.",
+        "advice": "Lascia entrare il sostegno senza consegnare il tuo centro.",
+        "journalPrompt": "Come posso restare me stesso mentre permetto più connessione?",
+        "challenge": "L’autoprotezione può chiamare indipendenza l’isolamento.",
+        "opportunity": "Un sé sicuro può relazionarsi con più libertà."
+      },
+      "career": {
+        "theme": "Identità che incontra relazione",
+        "text": "Indipendenza e connessione appaiono insieme, suggerendo che la vicinanza non deve cancellare il senso di sé.",
+        "advice": "Lascia entrare il sostegno senza consegnare il tuo centro.",
+        "journalPrompt": "Come posso restare me stesso mentre permetto più connessione?",
+        "challenge": "L’autoprotezione può chiamare indipendenza l’isolamento.",
+        "opportunity": "Un sé sicuro può relazionarsi con più libertà."
+      },
+      "growth": {
+        "theme": "Identità che incontra relazione",
+        "text": "Indipendenza e connessione appaiono insieme, suggerendo che la vicinanza non deve cancellare il senso di sé.",
+        "advice": "Lascia entrare il sostegno senza consegnare il tuo centro.",
+        "journalPrompt": "Come posso restare me stesso mentre permetto più connessione?",
+        "challenge": "L’autoprotezione può chiamare indipendenza l’isolamento.",
+        "opportunity": "Un sé sicuro può relazionarsi con più libertà."
+      }
+    },
+    "security_to_change": {
+      "general": {
+        "theme": "Abbastanza sicuri per cambiare",
+        "text": "La stabilità incontra il cambiamento, suggerendo che la sicurezza può essere il terreno da cui il movimento diventa possibile.",
+        "advice": "Conserva ciò che ti sostiene davvero mentre permetti alle parti pronte di evolvere.",
+        "journalPrompt": "Quale fondazione stabile può aiutarmi ad attraversare il cambiamento con meno paura?",
+        "challenge": "La comodità può resistere a una crescita necessaria.",
+        "opportunity": "Il cambiamento può essere meno caotico quando è radicato in ciò che è stabile."
+      },
+      "love": {
+        "theme": "Abbastanza sicuri per cambiare",
+        "text": "La stabilità incontra il cambiamento, suggerendo che la sicurezza può essere il terreno da cui il movimento diventa possibile.",
+        "advice": "Conserva ciò che ti sostiene davvero mentre permetti alle parti pronte di evolvere.",
+        "journalPrompt": "Quale fondazione stabile può aiutarmi ad attraversare il cambiamento con meno paura?",
+        "challenge": "La comodità può resistere a una crescita necessaria.",
+        "opportunity": "Il cambiamento può essere meno caotico quando è radicato in ciò che è stabile."
+      },
+      "career": {
+        "theme": "Abbastanza sicuri per cambiare",
+        "text": "La stabilità incontra il cambiamento, suggerendo che la sicurezza può essere il terreno da cui il movimento diventa possibile.",
+        "advice": "Conserva ciò che ti sostiene davvero mentre permetti alle parti pronte di evolvere.",
+        "journalPrompt": "Quale fondazione stabile può aiutarmi ad attraversare il cambiamento con meno paura?",
+        "challenge": "La comodità può resistere a una crescita necessaria.",
+        "opportunity": "Il cambiamento può essere meno caotico quando è radicato in ciò che è stabile."
+      },
+      "money": {
+        "theme": "Abbastanza sicuri per cambiare",
+        "text": "La stabilità incontra il cambiamento, suggerendo che la sicurezza può essere il terreno da cui il movimento diventa possibile.",
+        "advice": "Conserva ciò che ti sostiene davvero mentre permetti alle parti pronte di evolvere.",
+        "journalPrompt": "Quale fondazione stabile può aiutarmi ad attraversare il cambiamento con meno paura?",
+        "challenge": "La comodità può resistere a una crescita necessaria.",
+        "opportunity": "Il cambiamento può essere meno caotico quando è radicato in ciò che è stabile."
+      },
+      "growth": {
+        "theme": "Abbastanza sicuri per cambiare",
+        "text": "La stabilità incontra il cambiamento, suggerendo che la sicurezza può essere il terreno da cui il movimento diventa possibile.",
+        "advice": "Conserva ciò che ti sostiene davvero mentre permetti alle parti pronte di evolvere.",
+        "journalPrompt": "Quale fondazione stabile può aiutarmi ad attraversare il cambiamento con meno paura?",
+        "challenge": "La comodità può resistere a una crescita necessaria.",
+        "opportunity": "Il cambiamento può essere meno caotico quando è radicato in ciò che è stabile."
+      }
+    },
+    "tradition_to_questioning": {
+      "general": {
+        "theme": "Saggezza che può essere interrogata",
+        "text": "Qui la tradizione incontra il dubbio, invitando a rispettare la guida senza rinunciare alla propria autorità interiore.",
+        "advice": "Chiediti quale regola ereditata ti nutre ancora e quale è diventata troppo stretta.",
+        "journalPrompt": "Quale convinzione sono pronto a esaminare con onestà e compassione?",
+        "challenge": "Il bisogno di appartenenza può far sembrare sleale ogni domanda.",
+        "opportunity": "Una verità più personale può crescere da una saggezza esaminata."
+      },
+      "love": {
+        "theme": "Saggezza che può essere interrogata",
+        "text": "Qui la tradizione incontra il dubbio, invitando a rispettare la guida senza rinunciare alla propria autorità interiore.",
+        "advice": "Chiediti quale regola ereditata ti nutre ancora e quale è diventata troppo stretta.",
+        "journalPrompt": "Quale convinzione sono pronto a esaminare con onestà e compassione?",
+        "challenge": "Il bisogno di appartenenza può far sembrare sleale ogni domanda.",
+        "opportunity": "Una verità più personale può crescere da una saggezza esaminata."
+      },
+      "career": {
+        "theme": "Saggezza che può essere interrogata",
+        "text": "Qui la tradizione incontra il dubbio, invitando a rispettare la guida senza rinunciare alla propria autorità interiore.",
+        "advice": "Chiediti quale regola ereditata ti nutre ancora e quale è diventata troppo stretta.",
+        "journalPrompt": "Quale convinzione sono pronto a esaminare con onestà e compassione?",
+        "challenge": "Il bisogno di appartenenza può far sembrare sleale ogni domanda.",
+        "opportunity": "Una verità più personale può crescere da una saggezza esaminata."
+      },
+      "money": {
+        "theme": "Saggezza che può essere interrogata",
+        "text": "Qui la tradizione incontra il dubbio, invitando a rispettare la guida senza rinunciare alla propria autorità interiore.",
+        "advice": "Chiediti quale regola ereditata ti nutre ancora e quale è diventata troppo stretta.",
+        "journalPrompt": "Quale convinzione sono pronto a esaminare con onestà e compassione?",
+        "challenge": "Il bisogno di appartenenza può far sembrare sleale ogni domanda.",
+        "opportunity": "Una verità più personale può crescere da una saggezza esaminata."
+      },
+      "growth": {
+        "theme": "Saggezza che può essere interrogata",
+        "text": "Qui la tradizione incontra il dubbio, invitando a rispettare la guida senza rinunciare alla propria autorità interiore.",
+        "advice": "Chiediti quale regola ereditata ti nutre ancora e quale è diventata troppo stretta.",
+        "journalPrompt": "Quale convinzione sono pronto a esaminare con onestà e compassione?",
+        "challenge": "Il bisogno di appartenenza può far sembrare sleale ogni domanda.",
+        "opportunity": "Una verità più personale può crescere da una saggezza esaminata."
+      }
+    },
+    "manifestation_to_practical_step": {
+      "general": {
+        "theme": "Intenzione resa pratica",
+        "text": "L’intenzione diventa più forte quando viene radicata in un passo concreto.",
+        "advice": "Usa ciò che hai già tra le mani e dai al desiderio una forma semplice.",
+        "journalPrompt": "Quale passo pratico renderebbe più onesta la mia intenzione?",
+        "challenge": "Le grandi visioni possono evitare l’umiltà dei piccoli inizi.",
+        "opportunity": "L’azione radicata può trasformare la possibilità in partecipazione."
+      },
+      "career": {
+        "theme": "Intenzione resa pratica",
+        "text": "L’intenzione diventa più forte quando viene radicata in un passo concreto.",
+        "advice": "Usa ciò che hai già tra le mani e dai al desiderio una forma semplice.",
+        "journalPrompt": "Quale passo pratico renderebbe più onesta la mia intenzione?",
+        "challenge": "Le grandi visioni possono evitare l’umiltà dei piccoli inizi.",
+        "opportunity": "L’azione radicata può trasformare la possibilità in partecipazione."
+      },
+      "money": {
+        "theme": "Intenzione resa pratica",
+        "text": "L’intenzione diventa più forte quando viene radicata in un passo concreto.",
+        "advice": "Usa ciò che hai già tra le mani e dai al desiderio una forma semplice.",
+        "journalPrompt": "Quale passo pratico renderebbe più onesta la mia intenzione?",
+        "challenge": "Le grandi visioni possono evitare l’umiltà dei piccoli inizi.",
+        "opportunity": "L’azione radicata può trasformare la possibilità in partecipazione."
+      },
+      "growth": {
+        "theme": "Intenzione resa pratica",
+        "text": "L’intenzione diventa più forte quando viene radicata in un passo concreto.",
+        "advice": "Usa ciò che hai già tra le mani e dai al desiderio una forma semplice.",
+        "journalPrompt": "Quale passo pratico renderebbe più onesta la mia intenzione?",
+        "challenge": "Le grandi visioni possono evitare l’umiltà dei piccoli inizi.",
+        "opportunity": "L’azione radicata può trasformare la possibilità in partecipazione."
+      }
+    },
+    "imagination_to_choice": {
+      "general": {
+        "theme": "Possibilità e discernimento",
+        "text": "L’immaginazione apre opzioni, mentre la scelta chiede quale possibilità meriti la tua energia reale.",
+        "advice": "Lascia che il sogno ti ispiri, poi scegli secondo capacità, valori e tempi.",
+        "journalPrompt": "Quale possibilità diventa più forte quando la confronto con la realtà?",
+        "challenge": "Troppi sentieri immaginati possono rimandare l’impegno.",
+        "opportunity": "Il discernimento può proteggere il sogno che conta davvero."
+      },
+      "love": {
+        "theme": "Possibilità e discernimento",
+        "text": "L’immaginazione apre opzioni, mentre la scelta chiede quale possibilità meriti la tua energia reale.",
+        "advice": "Lascia che il sogno ti ispiri, poi scegli secondo capacità, valori e tempi.",
+        "journalPrompt": "Quale possibilità diventa più forte quando la confronto con la realtà?",
+        "challenge": "Troppi sentieri immaginati possono rimandare l’impegno.",
+        "opportunity": "Il discernimento può proteggere il sogno che conta davvero."
+      },
+      "career": {
+        "theme": "Possibilità e discernimento",
+        "text": "L’immaginazione apre opzioni, mentre la scelta chiede quale possibilità meriti la tua energia reale.",
+        "advice": "Lascia che il sogno ti ispiri, poi scegli secondo capacità, valori e tempi.",
+        "journalPrompt": "Quale possibilità diventa più forte quando la confronto con la realtà?",
+        "challenge": "Troppi sentieri immaginati possono rimandare l’impegno.",
+        "opportunity": "Il discernimento può proteggere il sogno che conta davvero."
+      },
+      "money": {
+        "theme": "Possibilità e discernimento",
+        "text": "L’immaginazione apre opzioni, mentre la scelta chiede quale possibilità meriti la tua energia reale.",
+        "advice": "Lascia che il sogno ti ispiri, poi scegli secondo capacità, valori e tempi.",
+        "journalPrompt": "Quale possibilità diventa più forte quando la confronto con la realtà?",
+        "challenge": "Troppi sentieri immaginati possono rimandare l’impegno.",
+        "opportunity": "Il discernimento può proteggere il sogno che conta davvero."
+      },
+      "growth": {
+        "theme": "Possibilità e discernimento",
+        "text": "L’immaginazione apre opzioni, mentre la scelta chiede quale possibilità meriti la tua energia reale.",
+        "advice": "Lascia che il sogno ti ispiri, poi scegli secondo capacità, valori e tempi.",
+        "journalPrompt": "Quale possibilità diventa più forte quando la confronto con la realtà?",
+        "challenge": "Troppi sentieri immaginati possono rimandare l’impegno.",
+        "opportunity": "Il discernimento può proteggere il sogno che conta davvero."
+      }
+    },
+    "fairness_to_compassion": {
+      "general": {
+        "theme": "Verità con misericordia",
+        "text": "L’equità è accostata alla compassione, chiedendo un’onestà che non dimentichi l’umanità.",
+        "advice": "Tieni insieme responsabilità e tenerezza; nessuna delle due deve cancellare l’altra.",
+        "journalPrompt": "Dove posso essere sincero senza diventare duro?",
+        "challenge": "Il bisogno di giustizia può irrigidirsi in punizione.",
+        "opportunity": "La compassione può rendere la verità più facile da integrare."
+      },
+      "love": {
+        "theme": "Verità con misericordia",
+        "text": "L’equità è accostata alla compassione, chiedendo un’onestà che non dimentichi l’umanità.",
+        "advice": "Tieni insieme responsabilità e tenerezza; nessuna delle due deve cancellare l’altra.",
+        "journalPrompt": "Dove posso essere sincero senza diventare duro?",
+        "challenge": "Il bisogno di giustizia può irrigidirsi in punizione.",
+        "opportunity": "La compassione può rendere la verità più facile da integrare."
+      },
+      "career": {
+        "theme": "Verità con misericordia",
+        "text": "L’equità è accostata alla compassione, chiedendo un’onestà che non dimentichi l’umanità.",
+        "advice": "Tieni insieme responsabilità e tenerezza; nessuna delle due deve cancellare l’altra.",
+        "journalPrompt": "Dove posso essere sincero senza diventare duro?",
+        "challenge": "Il bisogno di giustizia può irrigidirsi in punizione.",
+        "opportunity": "La compassione può rendere la verità più facile da integrare."
+      },
+      "growth": {
+        "theme": "Verità con misericordia",
+        "text": "L’equità è accostata alla compassione, chiedendo un’onestà che non dimentichi l’umanità.",
+        "advice": "Tieni insieme responsabilità e tenerezza; nessuna delle due deve cancellare l’altra.",
+        "journalPrompt": "Dove posso essere sincero senza diventare duro?",
+        "challenge": "Il bisogno di giustizia può irrigidirsi in punizione.",
+        "opportunity": "La compassione può rendere la verità più facile da integrare."
+      }
+    },
+    "intuition_to_action": {
+      "general": {
+        "theme": "Il segnale interiore diventa un passo",
+        "text": "L’intuizione chiede di diventare azione, non attraverso l’impulso, ma tramite un gesto che onori ciò che sai in silenzio.",
+        "advice": "Scegli una piccola azione che metta alla prova la guida senza forzare l’intero esito.",
+        "journalPrompt": "Quale azione risponderebbe con rispetto a ciò che la mia intuizione continua a mostrarmi?",
+        "challenge": "Aspettare la certezza perfetta può zittire un segnale utile.",
+        "opportunity": "Il sapere interiore può diventare partecipazione radicata."
+      },
+      "love": {
+        "theme": "Il segnale interiore diventa un passo",
+        "text": "L’intuizione chiede di diventare azione, non attraverso l’impulso, ma tramite un gesto che onori ciò che sai in silenzio.",
+        "advice": "Scegli una piccola azione che metta alla prova la guida senza forzare l’intero esito.",
+        "journalPrompt": "Quale azione risponderebbe con rispetto a ciò che la mia intuizione continua a mostrarmi?",
+        "challenge": "Aspettare la certezza perfetta può zittire un segnale utile.",
+        "opportunity": "Il sapere interiore può diventare partecipazione radicata."
+      },
+      "career": {
+        "theme": "Il segnale interiore diventa un passo",
+        "text": "L’intuizione chiede di diventare azione, non attraverso l’impulso, ma tramite un gesto che onori ciò che sai in silenzio.",
+        "advice": "Scegli una piccola azione che metta alla prova la guida senza forzare l’intero esito.",
+        "journalPrompt": "Quale azione risponderebbe con rispetto a ciò che la mia intuizione continua a mostrarmi?",
+        "challenge": "Aspettare la certezza perfetta può zittire un segnale utile.",
+        "opportunity": "Il sapere interiore può diventare partecipazione radicata."
+      },
+      "money": {
+        "theme": "Il segnale interiore diventa un passo",
+        "text": "L’intuizione chiede di diventare azione, non attraverso l’impulso, ma tramite un gesto che onori ciò che sai in silenzio.",
+        "advice": "Scegli una piccola azione che metta alla prova la guida senza forzare l’intero esito.",
+        "journalPrompt": "Quale azione risponderebbe con rispetto a ciò che la mia intuizione continua a mostrarmi?",
+        "challenge": "Aspettare la certezza perfetta può zittire un segnale utile.",
+        "opportunity": "Il sapere interiore può diventare partecipazione radicata."
+      },
+      "growth": {
+        "theme": "Il segnale interiore diventa un passo",
+        "text": "L’intuizione chiede di diventare azione, non attraverso l’impulso, ma tramite un gesto che onori ciò che sai in silenzio.",
+        "advice": "Scegli una piccola azione che metta alla prova la guida senza forzare l’intero esito.",
+        "journalPrompt": "Quale azione risponderebbe con rispetto a ciò che la mia intuizione continua a mostrarmi?",
+        "challenge": "Aspettare la certezza perfetta può zittire un segnale utile.",
+        "opportunity": "Il sapere interiore può diventare partecipazione radicata."
+      }
+    },
+    "conflict_to_boundaries": {
+      "general": {
+        "theme": "Il conflitto chiarisce i limiti",
+        "text": "Il conflitto può rivelare dove servono confini, soprattutto se la stessa tensione continua a tornare.",
+        "advice": "Nomina il limite con chiarezza prima che il risentimento diventi l’unico linguaggio disponibile.",
+        "journalPrompt": "Quale confine renderebbe questo conflitto meno ripetitivo?",
+        "challenge": "Evitare il disagio può permettere allo schema di continuare.",
+        "opportunity": "Un limite rispettoso può proteggere la pace."
+      },
+      "love": {
+        "theme": "Il conflitto chiarisce i limiti",
+        "text": "Il conflitto può rivelare dove servono confini, soprattutto se la stessa tensione continua a tornare.",
+        "advice": "Nomina il limite con chiarezza prima che il risentimento diventi l’unico linguaggio disponibile.",
+        "journalPrompt": "Quale confine renderebbe questo conflitto meno ripetitivo?",
+        "challenge": "Evitare il disagio può permettere allo schema di continuare.",
+        "opportunity": "Un limite rispettoso può proteggere la pace."
+      },
+      "career": {
+        "theme": "Il conflitto chiarisce i limiti",
+        "text": "Il conflitto può rivelare dove servono confini, soprattutto se la stessa tensione continua a tornare.",
+        "advice": "Nomina il limite con chiarezza prima che il risentimento diventi l’unico linguaggio disponibile.",
+        "journalPrompt": "Quale confine renderebbe questo conflitto meno ripetitivo?",
+        "challenge": "Evitare il disagio può permettere allo schema di continuare.",
+        "opportunity": "Un limite rispettoso può proteggere la pace."
+      },
+      "growth": {
+        "theme": "Il conflitto chiarisce i limiti",
+        "text": "Il conflitto può rivelare dove servono confini, soprattutto se la stessa tensione continua a tornare.",
+        "advice": "Nomina il limite con chiarezza prima che il risentimento diventi l’unico linguaggio disponibile.",
+        "journalPrompt": "Quale confine renderebbe questo conflitto meno ripetitivo?",
+        "challenge": "Evitare il disagio può permettere allo schema di continuare.",
+        "opportunity": "Un limite rispettoso può proteggere la pace."
+      }
+    },
+    "anxiety_to_support": {
+      "general": {
+        "theme": "La preoccupazione cerca sostegno",
+        "text": "Qui l’ansia incontra il sostegno, ricordando che la preoccupazione non deve essere elaborata da soli.",
+        "advice": "Condividi la preoccupazione con una persona affidabile o inseriscila in un piano concreto, invece di lasciarla risuonare in privato.",
+        "journalPrompt": "Quale sostegno renderebbe questa preoccupazione meno isolante?",
+        "challenge": "L’ansia può convincerti di dover risolvere tutto da solo.",
+        "opportunity": "Il sostegno può trasformare il pensiero a spirale in stabilità condivisa."
+      },
+      "love": {
+        "theme": "La preoccupazione cerca sostegno",
+        "text": "Qui l’ansia incontra il sostegno, ricordando che la preoccupazione non deve essere elaborata da soli.",
+        "advice": "Condividi la preoccupazione con una persona affidabile o inseriscila in un piano concreto, invece di lasciarla risuonare in privato.",
+        "journalPrompt": "Quale sostegno renderebbe questa preoccupazione meno isolante?",
+        "challenge": "L’ansia può convincerti di dover risolvere tutto da solo.",
+        "opportunity": "Il sostegno può trasformare il pensiero a spirale in stabilità condivisa."
+      },
+      "career": {
+        "theme": "La preoccupazione cerca sostegno",
+        "text": "Qui l’ansia incontra il sostegno, ricordando che la preoccupazione non deve essere elaborata da soli.",
+        "advice": "Condividi la preoccupazione con una persona affidabile o inseriscila in un piano concreto, invece di lasciarla risuonare in privato.",
+        "journalPrompt": "Quale sostegno renderebbe questa preoccupazione meno isolante?",
+        "challenge": "L’ansia può convincerti di dover risolvere tutto da solo.",
+        "opportunity": "Il sostegno può trasformare il pensiero a spirale in stabilità condivisa."
+      },
+      "money": {
+        "theme": "La preoccupazione cerca sostegno",
+        "text": "Qui l’ansia incontra il sostegno, ricordando che la preoccupazione non deve essere elaborata da soli.",
+        "advice": "Condividi la preoccupazione con una persona affidabile o inseriscila in un piano concreto, invece di lasciarla risuonare in privato.",
+        "journalPrompt": "Quale sostegno renderebbe questa preoccupazione meno isolante?",
+        "challenge": "L’ansia può convincerti di dover risolvere tutto da solo.",
+        "opportunity": "Il sostegno può trasformare il pensiero a spirale in stabilità condivisa."
+      },
+      "growth": {
+        "theme": "La preoccupazione cerca sostegno",
+        "text": "Qui l’ansia incontra il sostegno, ricordando che la preoccupazione non deve essere elaborata da soli.",
+        "advice": "Condividi la preoccupazione con una persona affidabile o inseriscila in un piano concreto, invece di lasciarla risuonare in privato.",
+        "journalPrompt": "Quale sostegno renderebbe questa preoccupazione meno isolante?",
+        "challenge": "L’ansia può convincerti di dover risolvere tutto da solo.",
+        "opportunity": "Il sostegno può trasformare il pensiero a spirale in stabilità condivisa."
+      }
+    }
+  }
+}

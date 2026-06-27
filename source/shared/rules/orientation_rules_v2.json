@@ -1,0 +1,477 @@
+{
+  "schemaVersion": 2,
+  "kind": "orientationRuleSet",
+  "description": "Shared, non-localized orientation pattern matchers for Asterveil Tarot v2 readings.",
+  "rules": [
+    {
+      "id": "single_upright_message",
+      "kind": "orientation_pattern",
+      "priority": 20,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "one_card",
+        "pickup_card"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 1,
+      "orientationPattern": [
+        "upright"
+      ],
+      "positions": [
+        "message",
+        "situation"
+      ]
+    },
+    {
+      "id": "single_reversed_reflection",
+      "kind": "orientation_pattern",
+      "priority": 30,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "one_card",
+        "pickup_card"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 1,
+      "orientationPattern": [
+        "reversed"
+      ],
+      "positions": [
+        "message",
+        "situation"
+      ]
+    },
+    {
+      "id": "all_upright_clear_flow",
+      "kind": "orientation_pattern",
+      "priority": 35,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "orientationPattern": [
+        "upright",
+        "upright",
+        "upright"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "all_reversed_inner_process",
+      "kind": "orientation_pattern",
+      "priority": 65,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "orientationPattern": [
+        "reversed",
+        "reversed",
+        "reversed"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "past_reversed_present_upright",
+      "kind": "orientation_pattern",
+      "priority": 52,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "orientationPattern": [
+        "reversed",
+        "upright",
+        "any"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "present_reversed_future_upright",
+      "kind": "orientation_pattern",
+      "priority": 54,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "orientationPattern": [
+        "any",
+        "reversed",
+        "upright"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "future_reversed_attention_needed",
+      "kind": "orientation_pattern",
+      "priority": 56,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "orientationPattern": [
+        "any",
+        "any",
+        "reversed"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "past_upright_present_reversed",
+      "kind": "orientation_pattern",
+      "priority": 48,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "orientationPattern": [
+        "upright",
+        "reversed",
+        "any"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "two_reversed_one_upright",
+      "kind": "orientation_pattern",
+      "priority": 44,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "minReversedCount": 2,
+      "maxReversedCount": 2,
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "one_reversed_two_upright",
+      "kind": "orientation_pattern",
+      "priority": 42,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "minReversedCount": 1,
+      "maxReversedCount": 1,
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "reversed_to_upright_to_upright",
+      "kind": "orientation_pattern",
+      "priority": 46,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "orientationPattern": [
+        "reversed",
+        "upright",
+        "upright"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "upright_to_reversed_to_upright",
+      "kind": "orientation_pattern",
+      "priority": 46,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "orientationPattern": [
+        "upright",
+        "reversed",
+        "upright"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "upright_upright_reversed",
+      "kind": "orientation_pattern",
+      "priority": 46,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "orientationPattern": [
+        "upright",
+        "upright",
+        "reversed"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "pair_both_reversed",
+      "kind": "orientation_pattern",
+      "priority": 38,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 2,
+      "orientationPattern": [
+        "reversed",
+        "reversed"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "pair_reversed_to_upright",
+      "kind": "orientation_pattern",
+      "priority": 40,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 2,
+      "orientationPattern": [
+        "reversed",
+        "upright"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "pair_upright_to_reversed",
+      "kind": "orientation_pattern",
+      "priority": 40,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 2,
+      "orientationPattern": [
+        "upright",
+        "reversed"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "alternating_orientations",
+      "kind": "orientation_pattern",
+      "priority": 34,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "cardCount": 3,
+      "orientationPattern": [
+        "upright",
+        "reversed",
+        "upright"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    },
+    {
+      "id": "no_reversals_gentle_confirmation",
+      "kind": "orientation_pattern",
+      "priority": 28,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "one_card",
+        "pickup_card",
+        "three_cards"
+      ],
+      "matchScope": "orientation_sequence",
+      "maxReversedCount": 0,
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ]
+    }
+  ]
+}

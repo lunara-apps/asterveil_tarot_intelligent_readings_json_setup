@@ -1,0 +1,726 @@
+{
+  "schemaVersion": 2,
+  "kind": "triadRuleSet",
+  "description": "Shared, non-localized three-card pattern matchers for Asterveil Tarot v2 readings.",
+  "rules": [
+    {
+      "id": "emotional_recovery_to_new_start",
+      "kind": "triad",
+      "priority": 110,
+      "readingTypes": [
+        "general",
+        "love",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "loss",
+        "healing",
+        "new_beginning"
+      ]
+    },
+    {
+      "id": "major_arcana_threshold",
+      "kind": "triad",
+      "priority": 95,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "minMajorCount": 2
+    },
+    {
+      "id": "all_major_arcana_deep_cycle",
+      "kind": "triad",
+      "priority": 125,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "minMajorCount": 3
+    },
+    {
+      "id": "cups_emotional_story",
+      "kind": "triad",
+      "priority": 72,
+      "readingTypes": [
+        "general",
+        "love",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredSuitCount": {
+        "cups": 2
+      }
+    },
+    {
+      "id": "pentacles_grounding_story",
+      "kind": "triad",
+      "priority": 72,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredSuitCount": {
+        "pentacles": 2
+      }
+    },
+    {
+      "id": "swords_clarity_story",
+      "kind": "triad",
+      "priority": 72,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredSuitCount": {
+        "swords": 2
+      }
+    },
+    {
+      "id": "wands_momentum_story",
+      "kind": "triad",
+      "priority": 72,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredSuitCount": {
+        "wands": 2
+      }
+    },
+    {
+      "id": "conflict_clarity_choice",
+      "kind": "triad",
+      "priority": 98,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "conflict",
+        "clarity",
+        "choice"
+      ]
+    },
+    {
+      "id": "confusion_truth_action",
+      "kind": "triad",
+      "priority": 96,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "confusion",
+        "truth"
+      ],
+      "optionalTagsAny": [
+        "initiative",
+        "movement",
+        "focused_action",
+        "decision"
+      ]
+    },
+    {
+      "id": "burden_release_renewal",
+      "kind": "triad",
+      "priority": 99,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "burden",
+        "release",
+        "renewal"
+      ]
+    },
+    {
+      "id": "attachment_awareness_release",
+      "kind": "triad",
+      "priority": 101,
+      "readingTypes": [
+        "general",
+        "love",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "attachment",
+        "awareness",
+        "release"
+      ]
+    },
+    {
+      "id": "waiting_perspective_movement",
+      "kind": "triad",
+      "priority": 88,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "waiting",
+        "perspective"
+      ],
+      "optionalTagsAny": [
+        "movement",
+        "initiative",
+        "progress"
+      ]
+    },
+    {
+      "id": "structure_pressure_resilience",
+      "kind": "triad",
+      "priority": 86,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "pressure",
+        "resilience"
+      ],
+      "optionalTagsAny": [
+        "structure",
+        "discipline",
+        "boundaries"
+      ]
+    },
+    {
+      "id": "patience_effort_reward",
+      "kind": "triad",
+      "priority": 86,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "patience"
+      ],
+      "optionalTagsAny": [
+        "dedication",
+        "craft",
+        "harvest",
+        "recognition",
+        "success"
+      ]
+    },
+    {
+      "id": "partnership_boundaries_harmony",
+      "kind": "triad",
+      "priority": 85,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "partnership",
+        "boundaries"
+      ],
+      "optionalTagsAny": [
+        "harmony",
+        "agreement",
+        "mutuality"
+      ]
+    },
+    {
+      "id": "uncertainty_intuition_inner_wisdom",
+      "kind": "triad",
+      "priority": 88,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "uncertainty",
+        "intuition"
+      ],
+      "optionalTagsAny": [
+        "inner_wisdom",
+        "subtle_truth",
+        "guidance"
+      ]
+    },
+    {
+      "id": "ending_release_new_beginning",
+      "kind": "triad",
+      "priority": 102,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "ending",
+        "release",
+        "new_beginning"
+      ]
+    },
+    {
+      "id": "stagnation_choice_action",
+      "kind": "triad",
+      "priority": 87,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "stagnation",
+        "choice"
+      ],
+      "optionalTagsAny": [
+        "initiative",
+        "movement",
+        "decision"
+      ]
+    },
+    {
+      "id": "stability_change_integration",
+      "kind": "triad",
+      "priority": 82,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "stability",
+        "change"
+      ],
+      "optionalTagsAny": [
+        "integration",
+        "balance",
+        "transition"
+      ]
+    },
+    {
+      "id": "scarcity_security_generosity",
+      "kind": "triad",
+      "priority": 86,
+      "readingTypes": [
+        "general",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "scarcity"
+      ],
+      "optionalTagsAny": [
+        "security",
+        "generosity",
+        "support",
+        "exchange"
+      ]
+    },
+    {
+      "id": "overthinking_truth_grounding",
+      "kind": "triad",
+      "priority": 87,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "overthinking"
+      ],
+      "optionalTagsAny": [
+        "truth",
+        "grounding",
+        "practical_step"
+      ]
+    },
+    {
+      "id": "all_reversed_inward_work",
+      "kind": "triad",
+      "priority": 118,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "minReversedCount": 3
+    },
+    {
+      "id": "mixed_orientation_integration",
+      "kind": "triad",
+      "priority": 70,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "minReversedCount": 1,
+      "maxReversedCount": 2
+    },
+    {
+      "id": "upright_flow_outward_momentum",
+      "kind": "triad",
+      "priority": 68,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "maxReversedCount": 0
+    },
+    {
+      "id": "many_court_cards_relationships",
+      "kind": "triad",
+      "priority": 83,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "minCourtCount": 2
+    },
+    {
+      "id": "aces_new_cycle",
+      "kind": "triad",
+      "priority": 84,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "minAceCount": 2
+    },
+    {
+      "id": "tens_completion_threshold",
+      "kind": "triad",
+      "priority": 84,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "minRankCount": {
+        "ten": 2
+      }
+    },
+    {
+      "id": "truth_healing_stability",
+      "kind": "triad",
+      "priority": 90,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        "past",
+        "present",
+        "future"
+      ],
+      "triadPattern": "past_present_future",
+      "requiredTagsAcrossReading": [
+        "truth",
+        "healing",
+        "stability"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 2,
+  "locale": "en",
+  "kind": "readingTemplates",
+  "description": "English v2 fallback and synthesis templates for local, non-AI reading generation.",
+  "shared": {
+    "safetyClosing": {
+      "general": "For reflection and entertainment only. This is not medical, legal, financial, or professional advice.",
+      "love": "For reflection and entertainment only. This reading can support emotional awareness, but it cannot decide for another person or replace direct communication.",
+      "career": "For reflection and entertainment only. This is not professional, legal, or career advice.",
+      "money": "For reflection and entertainment only. This is not financial advice, investment advice, or a prediction about money.",
+      "growth": "For reflection and entertainment only. Let the message support self-awareness, not self-judgment."
+    },
+    "fieldLabels": {
+      "theme": "Theme",
+      "challenge": "Challenge",
+      "opportunity": "Opportunity",
+      "advice": "Advice",
+      "journalPrompt": "Reflection"
+    },
+    "orientationWords": {
+      "upright": "upright",
+      "reversed": "reversed"
+    },
+    "ruleJoiners": {
+      "connectionIntro": "The connection between the cards:",
+      "triadIntro": "As a whole:",
+      "orientationIntro": "Orientation pattern:",
+      "fallbackIntro": "A gentle synthesis:"
+    }
+  },
+  "readings": {
+    "one_card": {
+      "supportedReadingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "templates": {
+        "general": {
+          "opening": "This one-card reading gathers the message into a single reflective point.",
+          "cardLine": "For your {readingTypeName} reading, {cardName} {orientationPhrase} suggests: {positionMeaning}",
+          "synthesisLine": "The core theme is {theme}. {ruleText}",
+          "adviceLine": "Gentle advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "{cardName} invites you to notice what is most alive in this moment and choose one honest next step."
+        },
+        "love": {
+          "opening": "This one-card reading focuses softly on the emotional field.",
+          "cardLine": "For your love reading, {cardName} {orientationPhrase} suggests: {positionMeaning}",
+          "synthesisLine": "The heart theme is {theme}. {ruleText}",
+          "adviceLine": "Gentle advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "{cardName} invites emotional honesty, mutual respect, and a pace that protects the heart."
+        },
+        "career": {
+          "opening": "This one-card reading brings a grounded lens to work, direction, or ambition.",
+          "cardLine": "For your career reading, {cardName} {orientationPhrase} suggests: {positionMeaning}",
+          "synthesisLine": "The practical theme is {theme}. {ruleText}",
+          "adviceLine": "Grounded advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "{cardName} asks what practical step, boundary, or skill would support your direction now."
+        },
+        "money": {
+          "opening": "This one-card reading reflects on resources, habits, values, and stability.",
+          "cardLine": "For your money reading, {cardName} {orientationPhrase} suggests: {positionMeaning}",
+          "synthesisLine": "The resource theme is {theme}. {ruleText}",
+          "adviceLine": "Grounded advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "{cardName} asks for practical awareness around resources, without turning the reading into financial prediction."
+        },
+        "growth": {
+          "opening": "This one-card reading offers a quiet mirror for personal growth.",
+          "cardLine": "For your growth reading, {cardName} {orientationPhrase} suggests: {positionMeaning}",
+          "synthesisLine": "The inner theme is {theme}. {ruleText}",
+          "adviceLine": "Compassionate advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "{cardName} invites self-awareness, patience, and one small act of inner honesty."
+        }
+      }
+    },
+    "pickup_card": {
+      "supportedReadingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "templates": {
+        "general": {
+          "opening": "You chose the card that wanted your attention now.",
+          "cardLine": "{cardName} {orientationPhrase} brings this message: {positionMeaning}",
+          "synthesisLine": "{ruleText}",
+          "adviceLine": "Gentle advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "Let this card be a small lantern: notice one feeling, one truth, and one possible next step."
+        },
+        "love": {
+          "opening": "You chose a card for the heart’s current weather.",
+          "cardLine": "{cardName} {orientationPhrase} brings this love message: {positionMeaning}",
+          "synthesisLine": "{ruleText}",
+          "adviceLine": "Gentle advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "Let this card support emotional honesty without forcing certainty or another person’s response."
+        },
+        "career": {
+          "opening": "You chose a card for your work path or direction.",
+          "cardLine": "{cardName} {orientationPhrase} brings this career message: {positionMeaning}",
+          "synthesisLine": "{ruleText}",
+          "adviceLine": "Grounded advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "Let this card point toward one practical adjustment in focus, timing, skill, or boundaries."
+        },
+        "money": {
+          "opening": "You chose a card for resources, stability, and practical awareness.",
+          "cardLine": "{cardName} {orientationPhrase} brings this resource message: {positionMeaning}",
+          "synthesisLine": "{ruleText}",
+          "adviceLine": "Grounded advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "Let this card guide reflection around habits and values, not predictions or investment decisions."
+        },
+        "growth": {
+          "opening": "You chose a card for inner growth and self-understanding.",
+          "cardLine": "{cardName} {orientationPhrase} brings this growth message: {positionMeaning}",
+          "synthesisLine": "{ruleText}",
+          "adviceLine": "Compassionate advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "Let this card show one place where patience, honesty, or self-kindness can help."
+        }
+      }
+    },
+    "three_cards": {
+      "supportedReadingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "templates": {
+        "general": {
+          "opening": "This spread moves through past, present, and future, showing how the energy may be unfolding.",
+          "positionLine": "{positionName}: {cardName} {orientationPhrase} suggests: {positionMeaning}",
+          "combinationLine": "{fromPositionName} to {toPositionName}: {ruleText}",
+          "triadLine": "As a whole: {ruleText}",
+          "orientationLine": "Orientation pattern: {ruleText}",
+          "adviceLine": "Gentle advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "Together, the cards invite you to trace what is being released, what is active now, and what can be approached with more awareness."
+        },
+        "love": {
+          "opening": "This spread looks at the emotional path from past influence, to present pattern, to possible direction.",
+          "positionLine": "{positionName}: {cardName} {orientationPhrase} suggests: {positionMeaning}",
+          "combinationLine": "{fromPositionName} to {toPositionName}: {ruleText}",
+          "triadLine": "As a whole: {ruleText}",
+          "orientationLine": "Orientation pattern: {ruleText}",
+          "adviceLine": "Gentle advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "Together, the cards ask for emotional honesty, mutual respect, and care for what is spoken and unspoken."
+        },
+        "career": {
+          "opening": "This spread reflects on work, direction, pressure, and practical growth over time.",
+          "positionLine": "{positionName}: {cardName} {orientationPhrase} suggests: {positionMeaning}",
+          "combinationLine": "{fromPositionName} to {toPositionName}: {ruleText}",
+          "triadLine": "As a whole: {ruleText}",
+          "orientationLine": "Orientation pattern: {ruleText}",
+          "adviceLine": "Grounded advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "Together, the cards ask what has shaped your direction, what needs focus now, and what practical step can support the path ahead."
+        },
+        "money": {
+          "opening": "This spread reflects on resources, habits, values, and stability through a practical lens.",
+          "positionLine": "{positionName}: {cardName} {orientationPhrase} suggests: {positionMeaning}",
+          "combinationLine": "{fromPositionName} to {toPositionName}: {ruleText}",
+          "triadLine": "As a whole: {ruleText}",
+          "orientationLine": "Orientation pattern: {ruleText}",
+          "adviceLine": "Grounded advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "Together, the cards ask for resource awareness, steady habits, and choices aligned with security and values—not financial prediction."
+        },
+        "growth": {
+          "opening": "This spread follows an inner movement from what shaped you, to what is active now, to what may support growth.",
+          "positionLine": "{positionName}: {cardName} {orientationPhrase} suggests: {positionMeaning}",
+          "combinationLine": "{fromPositionName} to {toPositionName}: {ruleText}",
+          "triadLine": "As a whole: {ruleText}",
+          "orientationLine": "Orientation pattern: {ruleText}",
+          "adviceLine": "Compassionate advice: {advice}",
+          "journalPromptLine": "Reflection: {journalPrompt}",
+          "fallbackNoRule": "Together, the cards invite self-awareness without self-judgment: what can be understood, softened, and practiced now?"
+        }
+      }
+    }
+  }
+}

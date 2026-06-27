@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 2,
+  "locale": "it",
+  "kind": "orientationRuleTexts",
+  "description": "Testi italiani localizzati v2 per le regole sensibili all’orientamento delle carte.",
+  "ruleTexts": {
+    "single_upright_message": {
+      "general": {
+        "theme": "Energia disponibile",
+        "text": "La carta è diritta, quindi il suo messaggio può essere più facile da incontrare direttamente nella situazione esterna.",
+        "advice": "Lavora con la carta in modo semplice: quale qualità ti chiede di notare, praticare o ricevere?",
+        "journalPrompt": "Dove è già visibile nella mia vita l’energia di questa carta?",
+        "challenge": "Anche un messaggio chiaro può essere trascurato se sembra troppo semplice.",
+        "opportunity": "Una riflessione diretta può portare a un prossimo passo radicato."
+      },
+      "love": {
+        "theme": "Energia disponibile",
+        "text": "La carta è diritta, quindi il suo messaggio può essere più facile da incontrare direttamente nella situazione esterna.",
+        "advice": "Lavora con la carta in modo semplice: quale qualità ti chiede di notare, praticare o ricevere?",
+        "journalPrompt": "Dove è già visibile nella mia vita l’energia di questa carta?",
+        "challenge": "Anche un messaggio chiaro può essere trascurato se sembra troppo semplice.",
+        "opportunity": "Una riflessione diretta può portare a un prossimo passo radicato."
+      },
+      "career": {
+        "theme": "Energia disponibile",
+        "text": "La carta è diritta, quindi il suo messaggio può essere più facile da incontrare direttamente nella situazione esterna.",
+        "advice": "Lavora con la carta in modo semplice: quale qualità ti chiede di notare, praticare o ricevere?",
+        "journalPrompt": "Dove è già visibile nella mia vita l’energia di questa carta?",
+        "challenge": "Anche un messaggio chiaro può essere trascurato se sembra troppo semplice.",
+        "opportunity": "Una riflessione diretta può portare a un prossimo passo radicato."
+      },
+      "money": {
+        "theme": "Energia disponibile",
+        "text": "La carta è diritta, quindi il suo messaggio può essere più facile da incontrare direttamente nella situazione esterna.",
+        "advice": "Lavora con la carta in modo semplice: quale qualità ti chiede di notare, praticare o ricevere?",
+        "journalPrompt": "Dove è già visibile nella mia vita l’energia di questa carta?",
+        "challenge": "Anche un messaggio chiaro può essere trascurato se sembra troppo semplice.",
+        "opportunity": "Una riflessione diretta può portare a un prossimo passo radicato."
+      },
+      "growth": {
+        "theme": "Energia disponibile",
+        "text": "La carta è diritta, quindi il suo messaggio può essere più facile da incontrare direttamente nella situazione esterna.",
+        "advice": "Lavora con la carta in modo semplice: quale qualità ti chiede di notare, praticare o ricevere?",
+        "journalPrompt": "Dove è già visibile nella mia vita l’energia di questa carta?",
+        "challenge": "Anche un messaggio chiaro può essere trascurato se sembra troppo semplice.",
+        "opportunity": "Una riflessione diretta può portare a un prossimo passo radicato."
+      }
+    },
+    "single_reversed_reflection": {
+      "general": {
+        "theme": "Energia rivolta all’interno",
+        "text": "La carta è rovesciata, quindi il suo messaggio può essere interno, ritardato, bloccato o bisognoso di un’attenzione più gentile.",
+        "advice": "Leggi il rovescio come un invito ad aggiustare e ascoltare, non come un verdetto negativo.",
+        "journalPrompt": "Dove questa energia chiede cura, onestà o rilascio dentro di me?",
+        "challenge": "Potresti essere tentato di trattare ritardo o blocco come fallimento.",
+        "opportunity": "Il lavoro interiore può rendere più chiaro il passo esterno."
+      },
+      "love": {
+        "theme": "Energia rivolta all’interno",
+        "text": "La carta è rovesciata, quindi il suo messaggio può essere interno, ritardato, bloccato o bisognoso di un’attenzione più gentile.",
+        "advice": "Leggi il rovescio come un invito ad aggiustare e ascoltare, non come un verdetto negativo.",
+        "journalPrompt": "Dove questa energia chiede cura, onestà o rilascio dentro di me?",
+        "challenge": "Potresti essere tentato di trattare ritardo o blocco come fallimento.",
+        "opportunity": "Il lavoro interiore può rendere più chiaro il passo esterno."
+      },
+      "career": {
+        "theme": "Energia rivolta all’interno",
+        "text": "La carta è rovesciata, quindi il suo messaggio può essere interno, ritardato, bloccato o bisognoso di un’attenzione più gentile.",
+        "advice": "Leggi il rovescio come un invito ad aggiustare e ascoltare, non come un verdetto negativo.",
+        "journalPrompt": "Dove questa energia chiede cura, onestà o rilascio dentro di me?",
+        "challenge": "Potresti essere tentato di trattare ritardo o blocco come fallimento.",
+        "opportunity": "Il lavoro interiore può rendere più chiaro il passo esterno."
+      },
+      "money": {
+        "theme": "Energia rivolta all’interno",
+        "text": "La carta è rovesciata, quindi il suo messaggio può essere interno, ritardato, bloccato o bisognoso di un’attenzione più gentile.",
+        "advice": "Leggi il rovescio come un invito ad aggiustare e ascoltare, non come un verdetto negativo.",
+        "journalPrompt": "Dove questa energia chiede cura, onestà o rilascio dentro di me?",
+        "challenge": "Potresti essere tentato di trattare ritardo o blocco come fallimento.",
+        "opportunity": "Il lavoro interiore può rendere più chiaro il passo esterno."
+      },
+      "growth": {
+        "theme": "Energia rivolta all’interno",
+        "text": "La carta è rovesciata, quindi il suo messaggio può essere interno, ritardato, bloccato o bisognoso di un’attenzione più gentile.",
+        "advice": "Leggi il rovescio come un invito ad aggiustare e ascoltare, non come un verdetto negativo.",
+        "journalPrompt": "Dove questa energia chiede cura, onestà o rilascio dentro di me?",
+        "challenge": "Potresti essere tentato di trattare ritardo o blocco come fallimento.",
+        "opportunity": "Il lavoro interiore può rendere più chiaro il passo esterno."
+      }
+    },
+    "all_upright_clear_flow": {
+      "general": {
+        "theme": "Flusso esterno chiaro",
+        "text": "Tutte e tre le carte sono diritte, dando alla lettura una sensazione di chiarezza, visibilità e movimento disponibile.",
+        "advice": "Lascia che il messaggio sia semplice senza renderlo superficiale; scegli un’azione consapevole che onori il flusso.",
+        "journalPrompt": "Che cosa sembra pronto a passare dalla riflessione alla pratica?",
+        "challenge": "L’energia fluida può tentarti a muoverti più velocemente della consapevolezza.",
+        "opportunity": "Il percorso può essere più facile da incontrare quando resti presente."
+      },
+      "love": {
+        "theme": "Flusso esterno chiaro",
+        "text": "Tutte e tre le carte sono diritte, dando alla lettura una sensazione di chiarezza, visibilità e movimento disponibile.",
+        "advice": "Lascia che il messaggio sia semplice senza renderlo superficiale; scegli un’azione consapevole che onori il flusso.",
+        "journalPrompt": "Che cosa sembra pronto a passare dalla riflessione alla pratica?",
+        "challenge": "L’energia fluida può tentarti a muoverti più velocemente della consapevolezza.",
+        "opportunity": "Il percorso può essere più facile da incontrare quando resti presente."
+      },
+      "career": {
+        "theme": "Flusso esterno chiaro",
+        "text": "Tutte e tre le carte sono diritte, dando alla lettura una sensazione di chiarezza, visibilità e movimento disponibile.",
+        "advice": "Lascia che il messaggio sia semplice senza renderlo superficiale; scegli un’azione consapevole che onori il flusso.",
+        "journalPrompt": "Che cosa sembra pronto a passare dalla riflessione alla pratica?",
+        "challenge": "L’energia fluida può tentarti a muoverti più velocemente della consapevolezza.",
+        "opportunity": "Il percorso può essere più facile da incontrare quando resti presente."
+      },
+      "money": {
+        "theme": "Flusso esterno chiaro",
+        "text": "Tutte e tre le carte sono diritte, dando alla lettura una sensazione di chiarezza, visibilità e movimento disponibile.",
+        "advice": "Lascia che il messaggio sia semplice senza renderlo superficiale; scegli un’azione consapevole che onori il flusso.",
+        "journalPrompt": "Che cosa sembra pronto a passare dalla riflessione alla pratica?",
+        "challenge": "L’energia fluida può tentarti a muoverti più velocemente della consapevolezza.",
+        "opportunity": "Il percorso può essere più facile da incontrare quando resti presente."
+      },
+      "growth": {
+        "theme": "Flusso esterno chiaro",
+        "text": "Tutte e tre le carte sono diritte, dando alla lettura una sensazione di chiarezza, visibilità e movimento disponibile.",
+        "advice": "Lascia che il messaggio sia semplice senza renderlo superficiale; scegli un’azione consapevole che onori il flusso.",
+        "journalPrompt": "Che cosa sembra pronto a passare dalla riflessione alla pratica?",
+        "challenge": "L’energia fluida può tentarti a muoverti più velocemente della consapevolezza.",
+        "opportunity": "Il percorso può essere più facile da incontrare quando resti presente."
+      }
+    },
+    "all_reversed_inner_process": {
+      "general": {
+        "theme": "La stanza interiore",
+        "text": "Tutte e tre le carte sono rovesciate, volgendo la stesa verso materiale interiore nascosto, ritardato, tenero o non concluso.",
+        "advice": "Rallenta e chiediti che cosa ha bisogno di riparazione, riposo, onestà o integrazione prima di diventare azione esterna.",
+        "journalPrompt": "Che cosa non è pronto a muoversi verso l’esterno perché ha ancora bisogno di cura interiore?",
+        "challenge": "La lettura può sembrare pesante se i rovesci vengono trattati come cattivi segni.",
+        "opportunity": "Un profondo aggiustamento interiore può diventare una liberazione silenziosa."
+      },
+      "love": {
+        "theme": "La stanza interiore",
+        "text": "Tutte e tre le carte sono rovesciate, volgendo la stesa verso materiale interiore nascosto, ritardato, tenero o non concluso.",
+        "advice": "Rallenta e chiediti che cosa ha bisogno di riparazione, riposo, onestà o integrazione prima di diventare azione esterna.",
+        "journalPrompt": "Che cosa non è pronto a muoversi verso l’esterno perché ha ancora bisogno di cura interiore?",
+        "challenge": "La lettura può sembrare pesante se i rovesci vengono trattati come cattivi segni.",
+        "opportunity": "Un profondo aggiustamento interiore può diventare una liberazione silenziosa."
+      },
+      "career": {
+        "theme": "La stanza interiore",
+        "text": "Tutte e tre le carte sono rovesciate, volgendo la stesa verso materiale interiore nascosto, ritardato, tenero o non concluso.",
+        "advice": "Rallenta e chiediti che cosa ha bisogno di riparazione, riposo, onestà o integrazione prima di diventare azione esterna.",
+        "journalPrompt": "Che cosa non è pronto a muoversi verso l’esterno perché ha ancora bisogno di cura interiore?",
+        "challenge": "La lettura può sembrare pesante se i rovesci vengono trattati come cattivi segni.",
+        "opportunity": "Un profondo aggiustamento interiore può diventare una liberazione silenziosa."
+      },
+      "money": {
+        "theme": "La stanza interiore",
+        "text": "Tutte e tre le carte sono rovesciate, volgendo la stesa verso materiale interiore nascosto, ritardato, tenero o non concluso.",
+        "advice": "Rallenta e chiediti che cosa ha bisogno di riparazione, riposo, onestà o integrazione prima di diventare azione esterna.",
+        "journalPrompt": "Che cosa non è pronto a muoversi verso l’esterno perché ha ancora bisogno di cura interiore?",
+        "challenge": "La lettura può sembrare pesante se i rovesci vengono trattati come cattivi segni.",
+        "opportunity": "Un profondo aggiustamento interiore può diventare una liberazione silenziosa."
+      },
+      "growth": {
+        "theme": "La stanza interiore",
+        "text": "Tutte e tre le carte sono rovesciate, volgendo la stesa verso materiale interiore nascosto, ritardato, tenero o non concluso.",
+        "advice": "Rallenta e chiediti che cosa ha bisogno di riparazione, riposo, onestà o integrazione prima di diventare azione esterna.",
+        "journalPrompt": "Che cosa non è pronto a muoversi verso l’esterno perché ha ancora bisogno di cura interiore?",
+        "challenge": "La lettura può sembrare pesante se i rovesci vengono trattati come cattivi segni.",
+        "opportunity": "Un profondo aggiustamento interiore può diventare una liberazione silenziosa."
+      }
+    },
+    "past_reversed_present_upright": {
+      "general": {
+        "theme": "Blocco passato, apertura presente",
+        "text": "Una carta passata rovesciata seguita da una carta presente diritta suggerisce che un blocco passato può allentarsi nel momento attuale.",
+        "advice": "Nota ciò che ora è più disponibile di prima e non lasciare che i vecchi tempi definiscano il presente.",
+        "journalPrompt": "Quale vecchio blocco non è più potente come un tempo?",
+        "challenge": "La memoria può insistere che nulla sia cambiato.",
+        "opportunity": "Il presente può diventare una porta fuori da un vecchio schema."
+      },
+      "love": {
+        "theme": "Blocco passato, apertura presente",
+        "text": "Una carta passata rovesciata seguita da una carta presente diritta suggerisce che un blocco passato può allentarsi nel momento attuale.",
+        "advice": "Nota ciò che ora è più disponibile di prima e non lasciare che i vecchi tempi definiscano il presente.",
+        "journalPrompt": "Quale vecchio blocco non è più potente come un tempo?",
+        "challenge": "La memoria può insistere che nulla sia cambiato.",
+        "opportunity": "Il presente può diventare una porta fuori da un vecchio schema."
+      },
+      "career": {
+        "theme": "Blocco passato, apertura presente",
+        "text": "Una carta passata rovesciata seguita da una carta presente diritta suggerisce che un blocco passato può allentarsi nel momento attuale.",
+        "advice": "Nota ciò che ora è più disponibile di prima e non lasciare che i vecchi tempi definiscano il presente.",
+        "journalPrompt": "Quale vecchio blocco non è più potente come un tempo?",
+        "challenge": "La memoria può insistere che nulla sia cambiato.",
+        "opportunity": "Il presente può diventare una porta fuori da un vecchio schema."
+      },
+      "money": {
+        "theme": "Blocco passato, apertura presente",
+        "text": "Una carta passata rovesciata seguita da una carta presente diritta suggerisce che un blocco passato può allentarsi nel momento attuale.",
+        "advice": "Nota ciò che ora è più disponibile di prima e non lasciare che i vecchi tempi definiscano il presente.",
+        "journalPrompt": "Quale vecchio blocco non è più potente come un tempo?",
+        "challenge": "La memoria può insistere che nulla sia cambiato.",
+        "opportunity": "Il presente può diventare una porta fuori da un vecchio schema."
+      },
+      "growth": {
+        "theme": "Blocco passato, apertura presente",
+        "text": "Una carta passata rovesciata seguita da una carta presente diritta suggerisce che un blocco passato può allentarsi nel momento attuale.",
+        "advice": "Nota ciò che ora è più disponibile di prima e non lasciare che i vecchi tempi definiscano il presente.",
+        "journalPrompt": "Quale vecchio blocco non è più potente come un tempo?",
+        "challenge": "La memoria può insistere che nulla sia cambiato.",
+        "opportunity": "Il presente può diventare una porta fuori da un vecchio schema."
+      }
+    },
+    "present_reversed_future_upright": {
+      "general": {
+        "theme": "Tensione attuale, apertura futura",
+        "text": "Una carta presente rovesciata con una carta futura diritta suggerisce che il blocco attuale può diventare lavorabile se viene incontrato con onestà.",
+        "advice": "Dai attenzione all’attrito presente; il futuro si apre attraverso integrazione, non negazione.",
+        "journalPrompt": "Che cosa ha bisogno di cura ora perché il prossimo passo possa diventare più libero?",
+        "challenge": "Può essere forte la tentazione di saltare il disagio presente.",
+        "opportunity": "Un’attenzione accurata ora può rendere più pulito il movimento successivo."
+      },
+      "love": {
+        "theme": "Tensione attuale, apertura futura",
+        "text": "Una carta presente rovesciata con una carta futura diritta suggerisce che il blocco attuale può diventare lavorabile se viene incontrato con onestà.",
+        "advice": "Dai attenzione all’attrito presente; il futuro si apre attraverso integrazione, non negazione.",
+        "journalPrompt": "Che cosa ha bisogno di cura ora perché il prossimo passo possa diventare più libero?",
+        "challenge": "Può essere forte la tentazione di saltare il disagio presente.",
+        "opportunity": "Un’attenzione accurata ora può rendere più pulito il movimento successivo."
+      },
+      "career": {
+        "theme": "Tensione attuale, apertura futura",
+        "text": "Una carta presente rovesciata con una carta futura diritta suggerisce che il blocco attuale può diventare lavorabile se viene incontrato con onestà.",
+        "advice": "Dai attenzione all’attrito presente; il futuro si apre attraverso integrazione, non negazione.",
+        "journalPrompt": "Che cosa ha bisogno di cura ora perché il prossimo passo possa diventare più libero?",
+        "challenge": "Può essere forte la tentazione di saltare il disagio presente.",
+        "opportunity": "Un’attenzione accurata ora può rendere più pulito il movimento successivo."
+      },
+      "money": {
+        "theme": "Tensione attuale, apertura futura",
+        "text": "Una carta presente rovesciata con una carta futura diritta suggerisce che il blocco attuale può diventare lavorabile se viene incontrato con onestà.",
+        "advice": "Dai attenzione all’attrito presente; il futuro si apre attraverso integrazione, non negazione.",
+        "journalPrompt": "Che cosa ha bisogno di cura ora perché il prossimo passo possa diventare più libero?",
+        "challenge": "Può essere forte la tentazione di saltare il disagio presente.",
+        "opportunity": "Un’attenzione accurata ora può rendere più pulito il movimento successivo."
+      },
+      "growth": {
+        "theme": "Tensione attuale, apertura futura",
+        "text": "Una carta presente rovesciata con una carta futura diritta suggerisce che il blocco attuale può diventare lavorabile se viene incontrato con onestà.",
+        "advice": "Dai attenzione all’attrito presente; il futuro si apre attraverso integrazione, non negazione.",
+        "journalPrompt": "Che cosa ha bisogno di cura ora perché il prossimo passo possa diventare più libero?",
+        "challenge": "Può essere forte la tentazione di saltare il disagio presente.",
+        "opportunity": "Un’attenzione accurata ora può rendere più pulito il movimento successivo."
+      }
+    },
+    "future_reversed_attention_needed": {
+      "general": {
+        "theme": "Un’energia futura che chiede cura",
+        "text": "Una carta futura rovesciata non predice fallimento; evidenzia un’energia che può aver bisogno di attenzione prima di esprimersi bene.",
+        "advice": "Chiedi quale preparazione, confine, riparazione o radicamento aiuterebbe quell’energia futura a dispiegarsi più chiaramente.",
+        "journalPrompt": "Che cosa posso curare ora perché questo possibile futuro sembri meno bloccato?",
+        "challenge": "Potresti leggere la cautela come certezza.",
+        "opportunity": "La consapevolezza di adesso può cambiare il modo in cui il percorso viene incontrato."
+      },
+      "love": {
+        "theme": "Un’energia futura che chiede cura",
+        "text": "Una carta futura rovesciata non predice fallimento; evidenzia un’energia che può aver bisogno di attenzione prima di esprimersi bene.",
+        "advice": "Chiedi quale preparazione, confine, riparazione o radicamento aiuterebbe quell’energia futura a dispiegarsi più chiaramente.",
+        "journalPrompt": "Che cosa posso curare ora perché questo possibile futuro sembri meno bloccato?",
+        "challenge": "Potresti leggere la cautela come certezza.",
+        "opportunity": "La consapevolezza di adesso può cambiare il modo in cui il percorso viene incontrato."
+      },
+      "career": {
+        "theme": "Un’energia futura che chiede cura",
+        "text": "Una carta futura rovesciata non predice fallimento; evidenzia un’energia che può aver bisogno di attenzione prima di esprimersi bene.",
+        "advice": "Chiedi quale preparazione, confine, riparazione o radicamento aiuterebbe quell’energia futura a dispiegarsi più chiaramente.",
+        "journalPrompt": "Che cosa posso curare ora perché questo possibile futuro sembri meno bloccato?",
+        "challenge": "Potresti leggere la cautela come certezza.",
+        "opportunity": "La consapevolezza di adesso può cambiare il modo in cui il percorso viene incontrato."
+      },
+      "money": {
+        "theme": "Un’energia futura che chiede cura",
+        "text": "Una carta futura rovesciata non predice fallimento; evidenzia un’energia che può aver bisogno di attenzione prima di esprimersi bene.",
+        "advice": "Chiedi quale preparazione, confine, riparazione o radicamento aiuterebbe quell’energia futura a dispiegarsi più chiaramente.",
+        "journalPrompt": "Che cosa posso curare ora perché questo possibile futuro sembri meno bloccato?",
+        "challenge": "Potresti leggere la cautela come certezza.",
+        "opportunity": "La consapevolezza di adesso può cambiare il modo in cui il percorso viene incontrato."
+      },
+      "growth": {
+        "theme": "Un’energia futura che chiede cura",
+        "text": "Una carta futura rovesciata non predice fallimento; evidenzia un’energia che può aver bisogno di attenzione prima di esprimersi bene.",
+        "advice": "Chiedi quale preparazione, confine, riparazione o radicamento aiuterebbe quell’energia futura a dispiegarsi più chiaramente.",
+        "journalPrompt": "Che cosa posso curare ora perché questo possibile futuro sembri meno bloccato?",
+        "challenge": "Potresti leggere la cautela come certezza.",
+        "opportunity": "La consapevolezza di adesso può cambiare il modo in cui il percorso viene incontrato."
+      }
+    },
+    "past_upright_present_reversed": {
+      "general": {
+        "theme": "Una complicazione presente",
+        "text": "Un passato diritto seguito da un presente rovesciato suggerisce che qualcosa un tempo chiaro può ora richiedere revisione, aggiustamento o rinnovata onestà.",
+        "advice": "Non presumere che il vecchio metodo funzioni ancora; chiedi che cosa è cambiato nell’energia attuale.",
+        "journalPrompt": "Che cosa funzionava prima e ora richiede un approccio diverso?",
+        "challenge": "La nostalgia può rendere più difficile vedere chiaramente il presente.",
+        "opportunity": "Un aggiustamento tempestivo può proteggere ciò che conta ancora."
+      },
+      "love": {
+        "theme": "Una complicazione presente",
+        "text": "Un passato diritto seguito da un presente rovesciato suggerisce che qualcosa un tempo chiaro può ora richiedere revisione, aggiustamento o rinnovata onestà.",
+        "advice": "Non presumere che il vecchio metodo funzioni ancora; chiedi che cosa è cambiato nell’energia attuale.",
+        "journalPrompt": "Che cosa funzionava prima e ora richiede un approccio diverso?",
+        "challenge": "La nostalgia può rendere più difficile vedere chiaramente il presente.",
+        "opportunity": "Un aggiustamento tempestivo può proteggere ciò che conta ancora."
+      },
+      "career": {
+        "theme": "Una complicazione presente",
+        "text": "Un passato diritto seguito da un presente rovesciato suggerisce che qualcosa un tempo chiaro può ora richiedere revisione, aggiustamento o rinnovata onestà.",
+        "advice": "Non presumere che il vecchio metodo funzioni ancora; chiedi che cosa è cambiato nell’energia attuale.",
+        "journalPrompt": "Che cosa funzionava prima e ora richiede un approccio diverso?",
+        "challenge": "La nostalgia può rendere più difficile vedere chiaramente il presente.",
+        "opportunity": "Un aggiustamento tempestivo può proteggere ciò che conta ancora."
+      },
+      "money": {
+        "theme": "Una complicazione presente",
+        "text": "Un passato diritto seguito da un presente rovesciato suggerisce che qualcosa un tempo chiaro può ora richiedere revisione, aggiustamento o rinnovata onestà.",
+        "advice": "Non presumere che il vecchio metodo funzioni ancora; chiedi che cosa è cambiato nell’energia attuale.",
+        "journalPrompt": "Che cosa funzionava prima e ora richiede un approccio diverso?",
+        "challenge": "La nostalgia può rendere più difficile vedere chiaramente il presente.",
+        "opportunity": "Un aggiustamento tempestivo può proteggere ciò che conta ancora."
+      },
+      "growth": {
+        "theme": "Una complicazione presente",
+        "text": "Un passato diritto seguito da un presente rovesciato suggerisce che qualcosa un tempo chiaro può ora richiedere revisione, aggiustamento o rinnovata onestà.",
+        "advice": "Non presumere che il vecchio metodo funzioni ancora; chiedi che cosa è cambiato nell’energia attuale.",
+        "journalPrompt": "Che cosa funzionava prima e ora richiede un approccio diverso?",
+        "challenge": "La nostalgia può rendere più difficile vedere chiaramente il presente.",
+        "opportunity": "Un aggiustamento tempestivo può proteggere ciò che conta ancora."
+      }
+    },
+    "two_reversed_one_upright": {
+      "general": {
+        "theme": "Una luce nel lavoro interiore",
+        "text": "Due carte rovesciate e una diritta suggeriscono che gran parte della lettura è interiore, ma una energia può essere già disponibile come sostegno.",
+        "advice": "Trova la carta diritta e lascia che diventi la maniglia per lavorare con il materiale più tenero.",
+        "journalPrompt": "Quale parte di questa lettura sembra abbastanza disponibile da sostenere il resto?",
+        "challenge": "Le carte rovesciate possono attirare tutta la tua attenzione.",
+        "opportunity": "Una risorsa chiara può aiutare a sbloccare i punti bloccati."
+      },
+      "love": {
+        "theme": "Una luce nel lavoro interiore",
+        "text": "Due carte rovesciate e una diritta suggeriscono che gran parte della lettura è interiore, ma una energia può essere già disponibile come sostegno.",
+        "advice": "Trova la carta diritta e lascia che diventi la maniglia per lavorare con il materiale più tenero.",
+        "journalPrompt": "Quale parte di questa lettura sembra abbastanza disponibile da sostenere il resto?",
+        "challenge": "Le carte rovesciate possono attirare tutta la tua attenzione.",
+        "opportunity": "Una risorsa chiara può aiutare a sbloccare i punti bloccati."
+      },
+      "career": {
+        "theme": "Una luce nel lavoro interiore",
+        "text": "Due carte rovesciate e una diritta suggeriscono che gran parte della lettura è interiore, ma una energia può essere già disponibile come sostegno.",
+        "advice": "Trova la carta diritta e lascia che diventi la maniglia per lavorare con il materiale più tenero.",
+        "journalPrompt": "Quale parte di questa lettura sembra abbastanza disponibile da sostenere il resto?",
+        "challenge": "Le carte rovesciate possono attirare tutta la tua attenzione.",
+        "opportunity": "Una risorsa chiara può aiutare a sbloccare i punti bloccati."
+      },
+      "money": {
+        "theme": "Una luce nel lavoro interiore",
+        "text": "Due carte rovesciate e una diritta suggeriscono che gran parte della lettura è interiore, ma una energia può essere già disponibile come sostegno.",
+        "advice": "Trova la carta diritta e lascia che diventi la maniglia per lavorare con il materiale più tenero.",
+        "journalPrompt": "Quale parte di questa lettura sembra abbastanza disponibile da sostenere il resto?",
+        "challenge": "Le carte rovesciate possono attirare tutta la tua attenzione.",
+        "opportunity": "Una risorsa chiara può aiutare a sbloccare i punti bloccati."
+      },
+      "growth": {
+        "theme": "Una luce nel lavoro interiore",
+        "text": "Due carte rovesciate e una diritta suggeriscono che gran parte della lettura è interiore, ma una energia può essere già disponibile come sostegno.",
+        "advice": "Trova la carta diritta e lascia che diventi la maniglia per lavorare con il materiale più tenero.",
+        "journalPrompt": "Quale parte di questa lettura sembra abbastanza disponibile da sostenere il resto?",
+        "challenge": "Le carte rovesciate possono attirare tutta la tua attenzione.",
+        "opportunity": "Una risorsa chiara può aiutare a sbloccare i punti bloccati."
+      }
+    },
+    "one_reversed_two_upright": {
+      "general": {
+        "theme": "Un punto tenero in una stesa fluida",
+        "text": "Una carta rovesciata tra due carte diritte suggerisce un percorso per lo più disponibile con un’area che chiede cura extra.",
+        "advice": "Non lasciare che un punto tenero annulli l’intera lettura; lascia che mostri dove serve rifinire.",
+        "journalPrompt": "Quale parte del percorso scorre, e quale parte chiede gentilezza?",
+        "challenge": "Un singolo blocco può sembrare più grande di quanto sia.",
+        "opportunity": "Una cura mirata può sostenere tutta la stesa."
+      },
+      "love": {
+        "theme": "Un punto tenero in una stesa fluida",
+        "text": "Una carta rovesciata tra due carte diritte suggerisce un percorso per lo più disponibile con un’area che chiede cura extra.",
+        "advice": "Non lasciare che un punto tenero annulli l’intera lettura; lascia che mostri dove serve rifinire.",
+        "journalPrompt": "Quale parte del percorso scorre, e quale parte chiede gentilezza?",
+        "challenge": "Un singolo blocco può sembrare più grande di quanto sia.",
+        "opportunity": "Una cura mirata può sostenere tutta la stesa."
+      },
+      "career": {
+        "theme": "Un punto tenero in una stesa fluida",
+        "text": "Una carta rovesciata tra due carte diritte suggerisce un percorso per lo più disponibile con un’area che chiede cura extra.",
+        "advice": "Non lasciare che un punto tenero annulli l’intera lettura; lascia che mostri dove serve rifinire.",
+        "journalPrompt": "Quale parte del percorso scorre, e quale parte chiede gentilezza?",
+        "challenge": "Un singolo blocco può sembrare più grande di quanto sia.",
+        "opportunity": "Una cura mirata può sostenere tutta la stesa."
+      },
+      "money": {
+        "theme": "Un punto tenero in una stesa fluida",
+        "text": "Una carta rovesciata tra due carte diritte suggerisce un percorso per lo più disponibile con un’area che chiede cura extra.",
+        "advice": "Non lasciare che un punto tenero annulli l’intera lettura; lascia che mostri dove serve rifinire.",
+        "journalPrompt": "Quale parte del percorso scorre, e quale parte chiede gentilezza?",
+        "challenge": "Un singolo blocco può sembrare più grande di quanto sia.",
+        "opportunity": "Una cura mirata può sostenere tutta la stesa."
+      },
+      "growth": {
+        "theme": "Un punto tenero in una stesa fluida",
+        "text": "Una carta rovesciata tra due carte diritte suggerisce un percorso per lo più disponibile con un’area che chiede cura extra.",
+        "advice": "Non lasciare che un punto tenero annulli l’intera lettura; lascia che mostri dove serve rifinire.",
+        "journalPrompt": "Quale parte del percorso scorre, e quale parte chiede gentilezza?",
+        "challenge": "Un singolo blocco può sembrare più grande di quanto sia.",
+        "opportunity": "Una cura mirata può sostenere tutta la stesa."
+      }
+    },
+    "reversed_to_upright_to_upright": {
+      "general": {
+        "theme": "Sblocco verso il movimento",
+        "text": "La stesa inizia rovesciata e poi diventa diritta, suggerendo un movimento da un blocco interiore verso un coinvolgimento più chiaro.",
+        "advice": "Onora la difficoltà iniziale, poi nota come le carte successive invitano alla partecipazione.",
+        "journalPrompt": "Che cosa mi aiuta a muovermi dalla resistenza interna verso un’azione disponibile?",
+        "challenge": "Il primo blocco può colorare tutta la storia.",
+        "opportunity": "Il percorso può alleggerirsi man mano che l’energia viene elaborata."
+      },
+      "love": {
+        "theme": "Sblocco verso il movimento",
+        "text": "La stesa inizia rovesciata e poi diventa diritta, suggerendo un movimento da un blocco interiore verso un coinvolgimento più chiaro.",
+        "advice": "Onora la difficoltà iniziale, poi nota come le carte successive invitano alla partecipazione.",
+        "journalPrompt": "Che cosa mi aiuta a muovermi dalla resistenza interna verso un’azione disponibile?",
+        "challenge": "Il primo blocco può colorare tutta la storia.",
+        "opportunity": "Il percorso può alleggerirsi man mano che l’energia viene elaborata."
+      },
+      "career": {
+        "theme": "Sblocco verso il movimento",
+        "text": "La stesa inizia rovesciata e poi diventa diritta, suggerendo un movimento da un blocco interiore verso un coinvolgimento più chiaro.",
+        "advice": "Onora la difficoltà iniziale, poi nota come le carte successive invitano alla partecipazione.",
+        "journalPrompt": "Che cosa mi aiuta a muovermi dalla resistenza interna verso un’azione disponibile?",
+        "challenge": "Il primo blocco può colorare tutta la storia.",
+        "opportunity": "Il percorso può alleggerirsi man mano che l’energia viene elaborata."
+      },
+      "money": {
+        "theme": "Sblocco verso il movimento",
+        "text": "La stesa inizia rovesciata e poi diventa diritta, suggerendo un movimento da un blocco interiore verso un coinvolgimento più chiaro.",
+        "advice": "Onora la difficoltà iniziale, poi nota come le carte successive invitano alla partecipazione.",
+        "journalPrompt": "Che cosa mi aiuta a muovermi dalla resistenza interna verso un’azione disponibile?",
+        "challenge": "Il primo blocco può colorare tutta la storia.",
+        "opportunity": "Il percorso può alleggerirsi man mano che l’energia viene elaborata."
+      },
+      "growth": {
+        "theme": "Sblocco verso il movimento",
+        "text": "La stesa inizia rovesciata e poi diventa diritta, suggerendo un movimento da un blocco interiore verso un coinvolgimento più chiaro.",
+        "advice": "Onora la difficoltà iniziale, poi nota come le carte successive invitano alla partecipazione.",
+        "journalPrompt": "Che cosa mi aiuta a muovermi dalla resistenza interna verso un’azione disponibile?",
+        "challenge": "Il primo blocco può colorare tutta la storia.",
+        "opportunity": "Il percorso può alleggerirsi man mano che l’energia viene elaborata."
+      }
+    },
+    "upright_to_reversed_to_upright": {
+      "general": {
+        "theme": "Il centro chiede attenzione",
+        "text": "Uno schema diritta-rovesciata-diritta suggerisce che il centro della lettura contiene il principale punto di aggiustamento.",
+        "advice": "Tratta la carta presente come un cardine: che cosa deve essere compreso, ammorbidito o corretto ora?",
+        "journalPrompt": "Quale aggiustamento presente aiuterebbe tutta la storia a scorrere meglio?",
+        "challenge": "L’inizio e il futuro possono distrarre dal lavoro attuale.",
+        "opportunity": "Prendersi cura del centro può allineare il percorso."
+      },
+      "love": {
+        "theme": "Il centro chiede attenzione",
+        "text": "Uno schema diritta-rovesciata-diritta suggerisce che il centro della lettura contiene il principale punto di aggiustamento.",
+        "advice": "Tratta la carta presente come un cardine: che cosa deve essere compreso, ammorbidito o corretto ora?",
+        "journalPrompt": "Quale aggiustamento presente aiuterebbe tutta la storia a scorrere meglio?",
+        "challenge": "L’inizio e il futuro possono distrarre dal lavoro attuale.",
+        "opportunity": "Prendersi cura del centro può allineare il percorso."
+      },
+      "career": {
+        "theme": "Il centro chiede attenzione",
+        "text": "Uno schema diritta-rovesciata-diritta suggerisce che il centro della lettura contiene il principale punto di aggiustamento.",
+        "advice": "Tratta la carta presente come un cardine: che cosa deve essere compreso, ammorbidito o corretto ora?",
+        "journalPrompt": "Quale aggiustamento presente aiuterebbe tutta la storia a scorrere meglio?",
+        "challenge": "L’inizio e il futuro possono distrarre dal lavoro attuale.",
+        "opportunity": "Prendersi cura del centro può allineare il percorso."
+      },
+      "money": {
+        "theme": "Il centro chiede attenzione",
+        "text": "Uno schema diritta-rovesciata-diritta suggerisce che il centro della lettura contiene il principale punto di aggiustamento.",
+        "advice": "Tratta la carta presente come un cardine: che cosa deve essere compreso, ammorbidito o corretto ora?",
+        "journalPrompt": "Quale aggiustamento presente aiuterebbe tutta la storia a scorrere meglio?",
+        "challenge": "L’inizio e il futuro possono distrarre dal lavoro attuale.",
+        "opportunity": "Prendersi cura del centro può allineare il percorso."
+      },
+      "growth": {
+        "theme": "Il centro chiede attenzione",
+        "text": "Uno schema diritta-rovesciata-diritta suggerisce che il centro della lettura contiene il principale punto di aggiustamento.",
+        "advice": "Tratta la carta presente come un cardine: che cosa deve essere compreso, ammorbidito o corretto ora?",
+        "journalPrompt": "Quale aggiustamento presente aiuterebbe tutta la storia a scorrere meglio?",
+        "challenge": "L’inizio e il futuro possono distrarre dal lavoro attuale.",
+        "opportunity": "Prendersi cura del centro può allineare il percorso."
+      }
+    },
+    "upright_upright_reversed": {
+      "general": {
+        "theme": "Una cautela sul margine",
+        "text": "Due carte diritte seguite da una futura rovesciata suggeriscono che il percorso ha energia disponibile, ma la prossima espressione può richiedere preparazione.",
+        "advice": "Lascia continuare lo slancio, rafforzando l’area che potrebbe bloccarsi o sbilanciarsi.",
+        "journalPrompt": "A quale complicazione futura posso prepararmi con calma consapevolezza?",
+        "challenge": "Il flusso iniziale può far sembrare inutile la preparazione.",
+        "opportunity": "Una cautela gentile può proteggere i progressi già fatti."
+      },
+      "love": {
+        "theme": "Una cautela sul margine",
+        "text": "Due carte diritte seguite da una futura rovesciata suggeriscono che il percorso ha energia disponibile, ma la prossima espressione può richiedere preparazione.",
+        "advice": "Lascia continuare lo slancio, rafforzando l’area che potrebbe bloccarsi o sbilanciarsi.",
+        "journalPrompt": "A quale complicazione futura posso prepararmi con calma consapevolezza?",
+        "challenge": "Il flusso iniziale può far sembrare inutile la preparazione.",
+        "opportunity": "Una cautela gentile può proteggere i progressi già fatti."
+      },
+      "career": {
+        "theme": "Una cautela sul margine",
+        "text": "Due carte diritte seguite da una futura rovesciata suggeriscono che il percorso ha energia disponibile, ma la prossima espressione può richiedere preparazione.",
+        "advice": "Lascia continuare lo slancio, rafforzando l’area che potrebbe bloccarsi o sbilanciarsi.",
+        "journalPrompt": "A quale complicazione futura posso prepararmi con calma consapevolezza?",
+        "challenge": "Il flusso iniziale può far sembrare inutile la preparazione.",
+        "opportunity": "Una cautela gentile può proteggere i progressi già fatti."
+      },
+      "money": {
+        "theme": "Una cautela sul margine",
+        "text": "Due carte diritte seguite da una futura rovesciata suggeriscono che il percorso ha energia disponibile, ma la prossima espressione può richiedere preparazione.",
+        "advice": "Lascia continuare lo slancio, rafforzando l’area che potrebbe bloccarsi o sbilanciarsi.",
+        "journalPrompt": "A quale complicazione futura posso prepararmi con calma consapevolezza?",
+        "challenge": "Il flusso iniziale può far sembrare inutile la preparazione.",
+        "opportunity": "Una cautela gentile può proteggere i progressi già fatti."
+      },
+      "growth": {
+        "theme": "Una cautela sul margine",
+        "text": "Due carte diritte seguite da una futura rovesciata suggeriscono che il percorso ha energia disponibile, ma la prossima espressione può richiedere preparazione.",
+        "advice": "Lascia continuare lo slancio, rafforzando l’area che potrebbe bloccarsi o sbilanciarsi.",
+        "journalPrompt": "A quale complicazione futura posso prepararmi con calma consapevolezza?",
+        "challenge": "Il flusso iniziale può far sembrare inutile la preparazione.",
+        "opportunity": "Una cautela gentile può proteggere i progressi già fatti."
+      }
+    },
+    "pair_both_reversed": {
+      "general": {
+        "theme": "Un nodo privato",
+        "text": "Quando una coppia abbinata è entrambe rovesciata, la connessione tra le carte può essere privata, ritardata, bloccata o chiedere riparazione.",
+        "advice": "Leggi la coppia come un nodo da allentare, non come una sentenza da accettare.",
+        "journalPrompt": "Di che cosa ha bisogno questa coppia prima che la sua energia possa muoversi con onestà?",
+        "challenge": "Il doppio rovescio può sembrare stallo.",
+        "opportunity": "Un aggiustamento accurato può sbloccare la relazione tra le carte."
+      },
+      "love": {
+        "theme": "Un nodo privato",
+        "text": "Quando una coppia abbinata è entrambe rovesciata, la connessione tra le carte può essere privata, ritardata, bloccata o chiedere riparazione.",
+        "advice": "Leggi la coppia come un nodo da allentare, non come una sentenza da accettare.",
+        "journalPrompt": "Di che cosa ha bisogno questa coppia prima che la sua energia possa muoversi con onestà?",
+        "challenge": "Il doppio rovescio può sembrare stallo.",
+        "opportunity": "Un aggiustamento accurato può sbloccare la relazione tra le carte."
+      },
+      "career": {
+        "theme": "Un nodo privato",
+        "text": "Quando una coppia abbinata è entrambe rovesciata, la connessione tra le carte può essere privata, ritardata, bloccata o chiedere riparazione.",
+        "advice": "Leggi la coppia come un nodo da allentare, non come una sentenza da accettare.",
+        "journalPrompt": "Di che cosa ha bisogno questa coppia prima che la sua energia possa muoversi con onestà?",
+        "challenge": "Il doppio rovescio può sembrare stallo.",
+        "opportunity": "Un aggiustamento accurato può sbloccare la relazione tra le carte."
+      },
+      "money": {
+        "theme": "Un nodo privato",
+        "text": "Quando una coppia abbinata è entrambe rovesciata, la connessione tra le carte può essere privata, ritardata, bloccata o chiedere riparazione.",
+        "advice": "Leggi la coppia come un nodo da allentare, non come una sentenza da accettare.",
+        "journalPrompt": "Di che cosa ha bisogno questa coppia prima che la sua energia possa muoversi con onestà?",
+        "challenge": "Il doppio rovescio può sembrare stallo.",
+        "opportunity": "Un aggiustamento accurato può sbloccare la relazione tra le carte."
+      },
+      "growth": {
+        "theme": "Un nodo privato",
+        "text": "Quando una coppia abbinata è entrambe rovesciata, la connessione tra le carte può essere privata, ritardata, bloccata o chiedere riparazione.",
+        "advice": "Leggi la coppia come un nodo da allentare, non come una sentenza da accettare.",
+        "journalPrompt": "Di che cosa ha bisogno questa coppia prima che la sua energia possa muoversi con onestà?",
+        "challenge": "Il doppio rovescio può sembrare stallo.",
+        "opportunity": "Un aggiustamento accurato può sbloccare la relazione tra le carte."
+      }
+    },
+    "pair_reversed_to_upright": {
+      "general": {
+        "theme": "Dal nascosto al disponibile",
+        "text": "Una carta rovesciata che si muove verso una carta diritta suggerisce un passaggio dal lavoro interiore a un’espressione più chiara.",
+        "advice": "Chiedi che cosa la prima carta deve rilasciare o integrare perché la seconda possa essere vissuta più pienamente.",
+        "journalPrompt": "Quale lavoro nascosto sostiene l’energia più chiara che segue?",
+        "challenge": "La transizione può sfuggire se ti concentri solo sul blocco.",
+        "opportunity": "Un punto bloccato può diventare la fonte del movimento."
+      },
+      "love": {
+        "theme": "Dal nascosto al disponibile",
+        "text": "Una carta rovesciata che si muove verso una carta diritta suggerisce un passaggio dal lavoro interiore a un’espressione più chiara.",
+        "advice": "Chiedi che cosa la prima carta deve rilasciare o integrare perché la seconda possa essere vissuta più pienamente.",
+        "journalPrompt": "Quale lavoro nascosto sostiene l’energia più chiara che segue?",
+        "challenge": "La transizione può sfuggire se ti concentri solo sul blocco.",
+        "opportunity": "Un punto bloccato può diventare la fonte del movimento."
+      },
+      "career": {
+        "theme": "Dal nascosto al disponibile",
+        "text": "Una carta rovesciata che si muove verso una carta diritta suggerisce un passaggio dal lavoro interiore a un’espressione più chiara.",
+        "advice": "Chiedi che cosa la prima carta deve rilasciare o integrare perché la seconda possa essere vissuta più pienamente.",
+        "journalPrompt": "Quale lavoro nascosto sostiene l’energia più chiara che segue?",
+        "challenge": "La transizione può sfuggire se ti concentri solo sul blocco.",
+        "opportunity": "Un punto bloccato può diventare la fonte del movimento."
+      },
+      "money": {
+        "theme": "Dal nascosto al disponibile",
+        "text": "Una carta rovesciata che si muove verso una carta diritta suggerisce un passaggio dal lavoro interiore a un’espressione più chiara.",
+        "advice": "Chiedi che cosa la prima carta deve rilasciare o integrare perché la seconda possa essere vissuta più pienamente.",
+        "journalPrompt": "Quale lavoro nascosto sostiene l’energia più chiara che segue?",
+        "challenge": "La transizione può sfuggire se ti concentri solo sul blocco.",
+        "opportunity": "Un punto bloccato può diventare la fonte del movimento."
+      },
+      "growth": {
+        "theme": "Dal nascosto al disponibile",
+        "text": "Una carta rovesciata che si muove verso una carta diritta suggerisce un passaggio dal lavoro interiore a un’espressione più chiara.",
+        "advice": "Chiedi che cosa la prima carta deve rilasciare o integrare perché la seconda possa essere vissuta più pienamente.",
+        "journalPrompt": "Quale lavoro nascosto sostiene l’energia più chiara che segue?",
+        "challenge": "La transizione può sfuggire se ti concentri solo sul blocco.",
+        "opportunity": "Un punto bloccato può diventare la fonte del movimento."
+      }
+    },
+    "pair_upright_to_reversed": {
+      "general": {
+        "theme": "Un’energia chiara da rifinire",
+        "text": "Una carta diritta che si muove verso una rovesciata suggerisce che l’energia disponibile può aver bisogno di aggiustamento prima di continuare.",
+        "advice": "Non abbandonare il dono della prima carta; rifinisci il modo in cui viene portato avanti.",
+        "journalPrompt": "Quale buona energia ha bisogno di tempi, confini o radicamento migliori?",
+        "challenge": "Un rovescio successivo può creare scoraggiamento.",
+        "opportunity": "Il rifinire può preservare ciò che è prezioso."
+      },
+      "love": {
+        "theme": "Un’energia chiara da rifinire",
+        "text": "Una carta diritta che si muove verso una rovesciata suggerisce che l’energia disponibile può aver bisogno di aggiustamento prima di continuare.",
+        "advice": "Non abbandonare il dono della prima carta; rifinisci il modo in cui viene portato avanti.",
+        "journalPrompt": "Quale buona energia ha bisogno di tempi, confini o radicamento migliori?",
+        "challenge": "Un rovescio successivo può creare scoraggiamento.",
+        "opportunity": "Il rifinire può preservare ciò che è prezioso."
+      },
+      "career": {
+        "theme": "Un’energia chiara da rifinire",
+        "text": "Una carta diritta che si muove verso una rovesciata suggerisce che l’energia disponibile può aver bisogno di aggiustamento prima di continuare.",
+        "advice": "Non abbandonare il dono della prima carta; rifinisci il modo in cui viene portato avanti.",
+        "journalPrompt": "Quale buona energia ha bisogno di tempi, confini o radicamento migliori?",
+        "challenge": "Un rovescio successivo può creare scoraggiamento.",
+        "opportunity": "Il rifinire può preservare ciò che è prezioso."
+      },
+      "money": {
+        "theme": "Un’energia chiara da rifinire",
+        "text": "Una carta diritta che si muove verso una rovesciata suggerisce che l’energia disponibile può aver bisogno di aggiustamento prima di continuare.",
+        "advice": "Non abbandonare il dono della prima carta; rifinisci il modo in cui viene portato avanti.",
+        "journalPrompt": "Quale buona energia ha bisogno di tempi, confini o radicamento migliori?",
+        "challenge": "Un rovescio successivo può creare scoraggiamento.",
+        "opportunity": "Il rifinire può preservare ciò che è prezioso."
+      },
+      "growth": {
+        "theme": "Un’energia chiara da rifinire",
+        "text": "Una carta diritta che si muove verso una rovesciata suggerisce che l’energia disponibile può aver bisogno di aggiustamento prima di continuare.",
+        "advice": "Non abbandonare il dono della prima carta; rifinisci il modo in cui viene portato avanti.",
+        "journalPrompt": "Quale buona energia ha bisogno di tempi, confini o radicamento migliori?",
+        "challenge": "Un rovescio successivo può creare scoraggiamento.",
+        "opportunity": "Il rifinire può preservare ciò che è prezioso."
+      }
+    },
+    "alternating_orientations": {
+      "general": {
+        "theme": "Flusso, pausa, flusso",
+        "text": "Lo schema alternato mostra movimento interrotto dalla riflessione, come se il percorso ti chiedesse di fermarti al centro prima di continuare.",
+        "advice": "Fidati del ritmo: azione, aggiustamento, azione può essere più saggio della velocità costante.",
+        "journalPrompt": "Dove una pausa migliora il movimento invece di fermarlo?",
+        "challenge": "La pausa può sembrare contraddizione.",
+        "opportunity": "Il ritmo può rendere il progresso più sostenibile."
+      },
+      "love": {
+        "theme": "Flusso, pausa, flusso",
+        "text": "Lo schema alternato mostra movimento interrotto dalla riflessione, come se il percorso ti chiedesse di fermarti al centro prima di continuare.",
+        "advice": "Fidati del ritmo: azione, aggiustamento, azione può essere più saggio della velocità costante.",
+        "journalPrompt": "Dove una pausa migliora il movimento invece di fermarlo?",
+        "challenge": "La pausa può sembrare contraddizione.",
+        "opportunity": "Il ritmo può rendere il progresso più sostenibile."
+      },
+      "career": {
+        "theme": "Flusso, pausa, flusso",
+        "text": "Lo schema alternato mostra movimento interrotto dalla riflessione, come se il percorso ti chiedesse di fermarti al centro prima di continuare.",
+        "advice": "Fidati del ritmo: azione, aggiustamento, azione può essere più saggio della velocità costante.",
+        "journalPrompt": "Dove una pausa migliora il movimento invece di fermarlo?",
+        "challenge": "La pausa può sembrare contraddizione.",
+        "opportunity": "Il ritmo può rendere il progresso più sostenibile."
+      },
+      "money": {
+        "theme": "Flusso, pausa, flusso",
+        "text": "Lo schema alternato mostra movimento interrotto dalla riflessione, come se il percorso ti chiedesse di fermarti al centro prima di continuare.",
+        "advice": "Fidati del ritmo: azione, aggiustamento, azione può essere più saggio della velocità costante.",
+        "journalPrompt": "Dove una pausa migliora il movimento invece di fermarlo?",
+        "challenge": "La pausa può sembrare contraddizione.",
+        "opportunity": "Il ritmo può rendere il progresso più sostenibile."
+      },
+      "growth": {
+        "theme": "Flusso, pausa, flusso",
+        "text": "Lo schema alternato mostra movimento interrotto dalla riflessione, come se il percorso ti chiedesse di fermarti al centro prima di continuare.",
+        "advice": "Fidati del ritmo: azione, aggiustamento, azione può essere più saggio della velocità costante.",
+        "journalPrompt": "Dove una pausa migliora il movimento invece di fermarlo?",
+        "challenge": "La pausa può sembrare contraddizione.",
+        "opportunity": "Il ritmo può rendere il progresso più sostenibile."
+      }
+    },
+    "no_reversals_gentle_confirmation": {
+      "general": {
+        "theme": "Messaggio semplice",
+        "text": "Senza rovesci presenti, la lettura può offrire il suo messaggio in modo relativamente diretto e accessibile.",
+        "advice": "Inizia dai significati diritti, poi lascia che l’intuizione aggiunga sfumature senza complicare troppo il messaggio.",
+        "journalPrompt": "Qual è il messaggio più semplice e onesto qui?",
+        "challenge": "La semplicità può essere scambiata per mancanza di profondità.",
+        "opportunity": "Un messaggio chiaro può essere più facile da integrare."
+      },
+      "love": {
+        "theme": "Messaggio semplice",
+        "text": "Senza rovesci presenti, la lettura può offrire il suo messaggio in modo relativamente diretto e accessibile.",
+        "advice": "Inizia dai significati diritti, poi lascia che l’intuizione aggiunga sfumature senza complicare troppo il messaggio.",
+        "journalPrompt": "Qual è il messaggio più semplice e onesto qui?",
+        "challenge": "La semplicità può essere scambiata per mancanza di profondità.",
+        "opportunity": "Un messaggio chiaro può essere più facile da integrare."
+      },
+      "career": {
+        "theme": "Messaggio semplice",
+        "text": "Senza rovesci presenti, la lettura può offrire il suo messaggio in modo relativamente diretto e accessibile.",
+        "advice": "Inizia dai significati diritti, poi lascia che l’intuizione aggiunga sfumature senza complicare troppo il messaggio.",
+        "journalPrompt": "Qual è il messaggio più semplice e onesto qui?",
+        "challenge": "La semplicità può essere scambiata per mancanza di profondità.",
+        "opportunity": "Un messaggio chiaro può essere più facile da integrare."
+      },
+      "money": {
+        "theme": "Messaggio semplice",
+        "text": "Senza rovesci presenti, la lettura può offrire il suo messaggio in modo relativamente diretto e accessibile.",
+        "advice": "Inizia dai significati diritti, poi lascia che l’intuizione aggiunga sfumature senza complicare troppo il messaggio.",
+        "journalPrompt": "Qual è il messaggio più semplice e onesto qui?",
+        "challenge": "La semplicità può essere scambiata per mancanza di profondità.",
+        "opportunity": "Un messaggio chiaro può essere più facile da integrare."
+      },
+      "growth": {
+        "theme": "Messaggio semplice",
+        "text": "Senza rovesci presenti, la lettura può offrire il suo messaggio in modo relativamente diretto e accessibile.",
+        "advice": "Inizia dai significati diritti, poi lascia che l’intuizione aggiunga sfumature senza complicare troppo il messaggio.",
+        "journalPrompt": "Qual è il messaggio più semplice e onesto qui?",
+        "challenge": "La semplicità può essere scambiata per mancanza di profondità.",
+        "opportunity": "Un messaggio chiaro può essere più facile da integrare."
+      }
+    }
+  }
+}

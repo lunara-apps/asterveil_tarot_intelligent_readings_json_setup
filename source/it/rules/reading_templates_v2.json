@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 2,
+  "locale": "it",
+  "kind": "readingTemplates",
+  "description": "Template italiani v2 di fallback e sintesi per generare letture locali, senza IA.",
+  "shared": {
+    "safetyClosing": {
+      "general": "Solo per riflessione e intrattenimento. Non è un consiglio medico, legale, finanziario o professionale.",
+      "love": "Solo per riflessione e intrattenimento. Questa lettura può sostenere la consapevolezza emotiva, ma non può decidere per un’altra persona né sostituire una comunicazione diretta.",
+      "career": "Solo per riflessione e intrattenimento. Non è un consiglio professionale, legale o di carriera.",
+      "money": "Solo per riflessione e intrattenimento. Non è consulenza finanziaria, consiglio di investimento o previsione sul denaro.",
+      "growth": "Solo per riflessione e intrattenimento. Lascia che il messaggio sostenga la consapevolezza di sé, non il giudizio verso di te."
+    },
+    "fieldLabels": {
+      "theme": "Tema",
+      "challenge": "Sfida",
+      "opportunity": "Opportunità",
+      "advice": "Consiglio",
+      "journalPrompt": "Riflessione"
+    },
+    "orientationWords": {
+      "upright": "diritta",
+      "reversed": "rovesciata"
+    },
+    "ruleJoiners": {
+      "connectionIntro": "La connessione tra le carte:",
+      "triadIntro": "Nel suo insieme:",
+      "orientationIntro": "Schema di orientamento:",
+      "fallbackIntro": "Una sintesi gentile:"
+    }
+  },
+  "readings": {
+    "one_card": {
+      "supportedReadingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "templates": {
+        "general": {
+          "opening": "Questa lettura a una carta raccoglie il messaggio in un unico punto di riflessione.",
+          "cardLine": "Per la tua lettura {readingTypeName}, {cardName} {orientationPhrase} suggerisce: {positionMeaning}",
+          "synthesisLine": "Il tema centrale è {theme}. {ruleText}",
+          "adviceLine": "Consiglio gentile: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "{cardName} ti invita a notare ciò che è più vivo in questo momento e a scegliere un prossimo passo onesto."
+        },
+        "love": {
+          "opening": "Questa lettura a una carta si concentra con delicatezza sul campo emotivo.",
+          "cardLine": "Per la tua lettura sull’amore, {cardName} {orientationPhrase} suggerisce: {positionMeaning}",
+          "synthesisLine": "Il tema del cuore è {theme}. {ruleText}",
+          "adviceLine": "Consiglio gentile: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "{cardName} invita a onestà emotiva, rispetto reciproco e a un ritmo che protegge il cuore."
+        },
+        "career": {
+          "opening": "Questa lettura a una carta porta uno sguardo radicato su lavoro, direzione o ambizione.",
+          "cardLine": "Per la tua lettura sulla carriera, {cardName} {orientationPhrase} suggerisce: {positionMeaning}",
+          "synthesisLine": "Il tema pratico è {theme}. {ruleText}",
+          "adviceLine": "Consiglio radicato: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "{cardName} chiede quale passo pratico, confine o abilità potrebbe sostenere ora la tua direzione."
+        },
+        "money": {
+          "opening": "Questa lettura a una carta riflette su risorse, abitudini, valori e stabilità.",
+          "cardLine": "Per la tua lettura sul denaro, {cardName} {orientationPhrase} suggerisce: {positionMeaning}",
+          "synthesisLine": "Il tema delle risorse è {theme}. {ruleText}",
+          "adviceLine": "Consiglio radicato: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "{cardName} chiede consapevolezza pratica sulle risorse, senza trasformare la lettura in una previsione finanziaria."
+        },
+        "growth": {
+          "opening": "Questa lettura a una carta offre uno specchio silenzioso per la crescita personale.",
+          "cardLine": "Per la tua lettura sulla crescita, {cardName} {orientationPhrase} suggerisce: {positionMeaning}",
+          "synthesisLine": "Il tema interiore è {theme}. {ruleText}",
+          "adviceLine": "Consiglio compassionevole: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "{cardName} invita a consapevolezza di sé, pazienza e a un piccolo gesto di onestà interiore."
+        }
+      }
+    },
+    "pickup_card": {
+      "supportedReadingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "templates": {
+        "general": {
+          "opening": "Hai scelto la carta che voleva la tua attenzione adesso.",
+          "cardLine": "{cardName} {orientationPhrase} porta questo messaggio: {positionMeaning}",
+          "synthesisLine": "{ruleText}",
+          "adviceLine": "Consiglio gentile: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "Lascia che questa carta sia una piccola lanterna: nota un sentimento, una verità e un possibile prossimo passo."
+        },
+        "love": {
+          "opening": "Hai scelto una carta per il clima attuale del cuore.",
+          "cardLine": "{cardName} {orientationPhrase} porta questo messaggio d’amore: {positionMeaning}",
+          "synthesisLine": "{ruleText}",
+          "adviceLine": "Consiglio gentile: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "Lascia che questa carta sostenga l’onestà emotiva senza forzare certezza o la risposta di un’altra persona."
+        },
+        "career": {
+          "opening": "Hai scelto una carta per il tuo percorso di lavoro o la tua direzione.",
+          "cardLine": "{cardName} {orientationPhrase} porta questo messaggio sulla carriera: {positionMeaning}",
+          "synthesisLine": "{ruleText}",
+          "adviceLine": "Consiglio radicato: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "Lascia che questa carta indichi un aggiustamento pratico nella concentrazione, nei tempi, nelle abilità o nei confini."
+        },
+        "money": {
+          "opening": "Hai scelto una carta per risorse, stabilità e consapevolezza pratica.",
+          "cardLine": "{cardName} {orientationPhrase} porta questo messaggio sulle risorse: {positionMeaning}",
+          "synthesisLine": "{ruleText}",
+          "adviceLine": "Consiglio radicato: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "Lascia che questa carta guidi la riflessione su abitudini e valori, non su previsioni o decisioni di investimento."
+        },
+        "growth": {
+          "opening": "Hai scelto una carta per la crescita interiore e la comprensione di te.",
+          "cardLine": "{cardName} {orientationPhrase} porta questo messaggio di crescita: {positionMeaning}",
+          "synthesisLine": "{ruleText}",
+          "adviceLine": "Consiglio compassionevole: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "Lascia che questa carta mostri un punto in cui pazienza, onestà o gentilezza verso te stesso possono aiutare."
+        }
+      }
+    },
+    "three_cards": {
+      "supportedReadingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "templates": {
+        "general": {
+          "opening": "Questa stesa attraversa passato, presente e futuro, mostrando come l’energia può dispiegarsi.",
+          "positionLine": "{positionName}: {cardName} {orientationPhrase} suggerisce: {positionMeaning}",
+          "combinationLine": "Da {fromPositionName} a {toPositionName}: {ruleText}",
+          "triadLine": "Nel suo insieme: {ruleText}",
+          "orientationLine": "Schema di orientamento: {ruleText}",
+          "adviceLine": "Consiglio gentile: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "Insieme, le carte ti invitano a seguire ciò che viene rilasciato, ciò che è attivo ora e ciò che può essere avvicinato con più consapevolezza."
+        },
+        "love": {
+          "opening": "Questa stesa osserva il percorso emotivo dall’influenza passata, al modello presente, fino a una possibile direzione.",
+          "positionLine": "{positionName}: {cardName} {orientationPhrase} suggerisce: {positionMeaning}",
+          "combinationLine": "Da {fromPositionName} a {toPositionName}: {ruleText}",
+          "triadLine": "Nel suo insieme: {ruleText}",
+          "orientationLine": "Schema di orientamento: {ruleText}",
+          "adviceLine": "Consiglio gentile: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "Insieme, le carte chiedono onestà emotiva, rispetto reciproco e cura per ciò che viene detto e non detto."
+        },
+        "career": {
+          "opening": "Questa stesa riflette su lavoro, direzione, pressione e crescita pratica nel tempo.",
+          "positionLine": "{positionName}: {cardName} {orientationPhrase} suggerisce: {positionMeaning}",
+          "combinationLine": "Da {fromPositionName} a {toPositionName}: {ruleText}",
+          "triadLine": "Nel suo insieme: {ruleText}",
+          "orientationLine": "Schema di orientamento: {ruleText}",
+          "adviceLine": "Consiglio radicato: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "Insieme, le carte chiedono che cosa ha formato la tua direzione, cosa ha bisogno di concentrazione ora e quale passo pratico può sostenere il cammino davanti a te."
+        },
+        "money": {
+          "opening": "Questa stesa riflette su risorse, abitudini, valori e stabilità con uno sguardo pratico.",
+          "positionLine": "{positionName}: {cardName} {orientationPhrase} suggerisce: {positionMeaning}",
+          "combinationLine": "Da {fromPositionName} a {toPositionName}: {ruleText}",
+          "triadLine": "Nel suo insieme: {ruleText}",
+          "orientationLine": "Schema di orientamento: {ruleText}",
+          "adviceLine": "Consiglio radicato: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "Insieme, le carte chiedono consapevolezza delle risorse, abitudini stabili e scelte allineate a sicurezza e valori, non previsioni finanziarie."
+        },
+        "growth": {
+          "opening": "Questa stesa segue un movimento interiore da ciò che ti ha formato, a ciò che è attivo ora, fino a ciò che può sostenere la crescita.",
+          "positionLine": "{positionName}: {cardName} {orientationPhrase} suggerisce: {positionMeaning}",
+          "combinationLine": "Da {fromPositionName} a {toPositionName}: {ruleText}",
+          "triadLine": "Nel suo insieme: {ruleText}",
+          "orientationLine": "Schema di orientamento: {ruleText}",
+          "adviceLine": "Consiglio compassionevole: {advice}",
+          "journalPromptLine": "Riflessione: {journalPrompt}",
+          "fallbackNoRule": "Insieme, le carte invitano alla consapevolezza di sé senza giudizio: che cosa può essere compreso, ammorbidito e praticato ora?"
+        }
+      }
+    }
+  }
+}

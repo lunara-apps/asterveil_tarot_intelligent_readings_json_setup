@@ -1,0 +1,2228 @@
+{
+  "schemaVersion": 2,
+  "kind": "combinationRuleSet",
+  "description": "Shared, non-localized pair-rule matchers for Asterveil Tarot v2 readings. Localized text lives in source/<locale>/rules/combination_rule_texts_v2.json.",
+  "rules": [
+    {
+      "id": "loss_to_healing",
+      "kind": "combination",
+      "priority": 100,
+      "readingTypes": [
+        "general",
+        "love",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "loss",
+        "regret",
+        "grief",
+        "healing_needed"
+      ],
+      "toTagsAny": [
+        "healing",
+        "renewal",
+        "hope",
+        "recovery"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "loss_to_new_beginning",
+      "kind": "combination",
+      "priority": 96,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "loss",
+        "regret",
+        "grief",
+        "disappointment"
+      ],
+      "toTagsAny": [
+        "new_beginning",
+        "fresh_start",
+        "opportunity",
+        "creative_beginning"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "conflict_to_clarity",
+      "kind": "combination",
+      "priority": 92,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "conflict",
+        "friction",
+        "argument",
+        "competition",
+        "tension"
+      ],
+      "toTagsAny": [
+        "clarity",
+        "truth",
+        "clear_perception",
+        "breakthrough"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "confusion_to_truth",
+      "kind": "combination",
+      "priority": 94,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "confusion",
+        "uncertainty",
+        "illusion",
+        "mixed_signals",
+        "blocked_clarity"
+      ],
+      "toTagsAny": [
+        "truth",
+        "clarity",
+        "truth_revealed",
+        "clear_perception"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "burden_to_release",
+      "kind": "combination",
+      "priority": 95,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "burden",
+        "carrying_too_much",
+        "pressure",
+        "overload",
+        "exhaustion"
+      ],
+      "toTagsAny": [
+        "release",
+        "burden_release",
+        "relief",
+        "recovery",
+        "rest"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "attachment_to_liberation",
+      "kind": "combination",
+      "priority": 97,
+      "readingTypes": [
+        "general",
+        "love",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "attachment",
+        "unhealthy_attachment",
+        "temptation",
+        "holding_on",
+        "control"
+      ],
+      "toTagsAny": [
+        "liberation",
+        "freedom",
+        "self_liberation",
+        "release",
+        "loosening_grip"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "stagnation_to_movement",
+      "kind": "combination",
+      "priority": 88,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "stagnation",
+        "stuckness",
+        "apathy",
+        "stalling",
+        "delay"
+      ],
+      "toTagsAny": [
+        "movement",
+        "momentum",
+        "progress",
+        "swift_change",
+        "initiative"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "patience_to_growth",
+      "kind": "combination",
+      "priority": 82,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "patience",
+        "waiting",
+        "slow_progress",
+        "moderation"
+      ],
+      "toTagsAny": [
+        "growth",
+        "harvest",
+        "long_term_growth",
+        "material_growth",
+        "prosperity"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "choice_to_alignment",
+      "kind": "combination",
+      "priority": 90,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "choice",
+        "choices",
+        "decision",
+        "difficult_choice"
+      ],
+      "toTagsAny": [
+        "alignment",
+        "values",
+        "integrity",
+        "wholeness"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "intuition_to_uncertainty",
+      "kind": "combination",
+      "priority": 78,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "intuition",
+        "inner_wisdom",
+        "subtle_truth",
+        "inner_guidance"
+      ],
+      "toTagsAny": [
+        "uncertainty",
+        "confusion",
+        "temporary_cloud",
+        "mixed_signals"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "uncertainty_to_inner_wisdom",
+      "kind": "combination",
+      "priority": 80,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "uncertainty",
+        "confusion",
+        "illusion",
+        "clouded_judgment"
+      ],
+      "toTagsAny": [
+        "inner_wisdom",
+        "intuition",
+        "guidance",
+        "subtle_truth"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "structure_to_stability",
+      "kind": "combination",
+      "priority": 84,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "structure",
+        "discipline",
+        "boundaries",
+        "responsibility"
+      ],
+      "toTagsAny": [
+        "stability",
+        "security",
+        "foundation_needs_care",
+        "long_term_security"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "solitude_to_inner_guidance",
+      "kind": "combination",
+      "priority": 76,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "solitude",
+        "introspection",
+        "reflection",
+        "searching"
+      ],
+      "toTagsAny": [
+        "inner_guidance",
+        "wisdom",
+        "guidance",
+        "clarity"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "hope_to_renewal",
+      "kind": "combination",
+      "priority": 83,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "hope",
+        "returning_hope",
+        "faith",
+        "soft_recovery"
+      ],
+      "toTagsAny": [
+        "renewal",
+        "recovery",
+        "dawn_after_ending",
+        "healing"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "ending_to_transformation",
+      "kind": "combination",
+      "priority": 93,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "ending",
+        "finality",
+        "completion",
+        "closure"
+      ],
+      "toTagsAny": [
+        "transformation",
+        "transition",
+        "renewal",
+        "turning_point"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "planning_to_action",
+      "kind": "combination",
+      "priority": 85,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "planning",
+        "vision",
+        "foresight",
+        "strategy"
+      ],
+      "toTagsAny": [
+        "initiative",
+        "bold_action",
+        "focused_action",
+        "movement",
+        "progress"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "effort_to_reward",
+      "kind": "combination",
+      "priority": 82,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "effort",
+        "dedication",
+        "craft",
+        "practice",
+        "persistence"
+      ],
+      "toTagsAny": [
+        "reward",
+        "harvest",
+        "recognition",
+        "achievement",
+        "success"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "generosity_to_boundaries",
+      "kind": "combination",
+      "priority": 86,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "generosity",
+        "exchange",
+        "kindness",
+        "support"
+      ],
+      "toTagsAny": [
+        "boundaries",
+        "self_respect",
+        "discernment",
+        "protection"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "emotional_opening_to_discernment",
+      "kind": "combination",
+      "priority": 84,
+      "readingTypes": [
+        "general",
+        "love",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "emotional_opening",
+        "vulnerability",
+        "love",
+        "openness"
+      ],
+      "toTagsAny": [
+        "discernment",
+        "truth",
+        "clear_perception",
+        "boundaries"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "ambition_to_discipline",
+      "kind": "combination",
+      "priority": 82,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "ambition",
+        "enterprise",
+        "vision",
+        "personal_power"
+      ],
+      "toTagsAny": [
+        "discipline",
+        "structure",
+        "responsibility",
+        "self_mastery"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "fear_to_courage",
+      "kind": "combination",
+      "priority": 90,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "fear",
+        "anxiety",
+        "self_doubt",
+        "hidden_fear"
+      ],
+      "toTagsAny": [
+        "courage",
+        "inner_strength",
+        "confidence",
+        "standing_ground"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "shadow_to_awareness",
+      "kind": "combination",
+      "priority": 89,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "shadow",
+        "shadow_work",
+        "temptation",
+        "self_deception",
+        "illusion"
+      ],
+      "toTagsAny": [
+        "awareness",
+        "truth",
+        "clarity",
+        "reckoning"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "waiting_to_perspective",
+      "kind": "combination",
+      "priority": 74,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "waiting",
+        "pause",
+        "delay",
+        "surrender"
+      ],
+      "toTagsAny": [
+        "perspective",
+        "new_perspective",
+        "clarity",
+        "wisdom"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "material_stress_to_grounding",
+      "kind": "combination",
+      "priority": 91,
+      "readingTypes": [
+        "money",
+        "general",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "financial_strain",
+        "material_insecurity",
+        "debt_pressure",
+        "scarcity",
+        "worry"
+      ],
+      "toTagsAny": [
+        "grounding",
+        "stability",
+        "practical_step",
+        "security",
+        "support"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "love_choice_to_honesty",
+      "kind": "combination",
+      "priority": 89,
+      "readingTypes": [
+        "love",
+        "general",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "love",
+        "choice",
+        "partnership",
+        "union"
+      ],
+      "toTagsAny": [
+        "truth",
+        "honesty",
+        "emotional_truth",
+        "clear_perception"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "career_pressure_to_resilience",
+      "kind": "combination",
+      "priority": 86,
+      "readingTypes": [
+        "career",
+        "general",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "pressure",
+        "burden",
+        "competition",
+        "challenge",
+        "fatigue"
+      ],
+      "toTagsAny": [
+        "resilience",
+        "persistence",
+        "standing_ground",
+        "inner_strength"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "overwhelm_to_priorities",
+      "kind": "combination",
+      "priority": 87,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "overwhelm",
+        "overload",
+        "juggling",
+        "mental_overwhelm"
+      ],
+      "toTagsAny": [
+        "priorities",
+        "balance",
+        "structure",
+        "clarity"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "imbalance_to_harmony",
+      "kind": "combination",
+      "priority": 80,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "imbalance",
+        "disharmony",
+        "work_home_imbalance",
+        "unequal_exchange"
+      ],
+      "toTagsAny": [
+        "harmony",
+        "balance",
+        "peace",
+        "moderation"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "heartbreak_to_truth",
+      "kind": "combination",
+      "priority": 88,
+      "readingTypes": [
+        "general",
+        "love",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "heartbreak",
+        "sorrow",
+        "painful_clarity",
+        "old_wound"
+      ],
+      "toTagsAny": [
+        "truth",
+        "clarity",
+        "healing_heartbreak",
+        "releasing_pain"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "disappointment_to_perspective",
+      "kind": "combination",
+      "priority": 76,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "disappointment",
+        "regret",
+        "dissatisfaction",
+        "discontent"
+      ],
+      "toTagsAny": [
+        "perspective",
+        "gratitude",
+        "reassessment",
+        "new_perspective"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "rest_to_clarity",
+      "kind": "combination",
+      "priority": 79,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "rest",
+        "recovery",
+        "forced_rest",
+        "pause"
+      ],
+      "toTagsAny": [
+        "clarity",
+        "truth",
+        "mental_focus",
+        "clear_perception"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "temptation_to_values",
+      "kind": "combination",
+      "priority": 83,
+      "readingTypes": [
+        "general",
+        "love",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "temptation",
+        "impulse",
+        "overindulgence",
+        "surface_pleasure"
+      ],
+      "toTagsAny": [
+        "values",
+        "alignment",
+        "ethics",
+        "self_respect"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "control_to_boundaries",
+      "kind": "combination",
+      "priority": 82,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "control",
+        "domination",
+        "rigidity",
+        "mood_control"
+      ],
+      "toTagsAny": [
+        "boundaries",
+        "self_respect",
+        "protection",
+        "fairness"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "awakening_to_responsibility",
+      "kind": "combination",
+      "priority": 77,
+      "readingTypes": [
+        "general",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "awakening",
+        "calling",
+        "reckoning",
+        "truth_revealed"
+      ],
+      "toTagsAny": [
+        "responsibility",
+        "accountability",
+        "discipline",
+        "structure"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "celebration_to_stability",
+      "kind": "combination",
+      "priority": 75,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "celebration",
+        "joy",
+        "success",
+        "milestone"
+      ],
+      "toTagsAny": [
+        "stability",
+        "home",
+        "security",
+        "foundation_needs_care"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "teamwork_to_mastery",
+      "kind": "combination",
+      "priority": 80,
+      "readingTypes": [
+        "general",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "teamwork",
+        "collaboration",
+        "community",
+        "agreement"
+      ],
+      "toTagsAny": [
+        "mastery",
+        "craft",
+        "skill",
+        "achievement"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "curiosity_to_learning",
+      "kind": "combination",
+      "priority": 70,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "curiosity",
+        "student",
+        "discovery",
+        "questions"
+      ],
+      "toTagsAny": [
+        "learning",
+        "study",
+        "wisdom",
+        "skill"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "movement_to_integration",
+      "kind": "combination",
+      "priority": 74,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "movement",
+        "momentum",
+        "swift_change",
+        "progress"
+      ],
+      "toTagsAny": [
+        "integration",
+        "balance",
+        "moderation",
+        "wholeness"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "scarcity_to_generosity",
+      "kind": "combination",
+      "priority": 78,
+      "readingTypes": [
+        "general",
+        "money",
+        "love",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "scarcity",
+        "lack",
+        "scarcity_fear",
+        "material_insecurity"
+      ],
+      "toTagsAny": [
+        "generosity",
+        "support",
+        "exchange",
+        "learning_to_receive"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "guarded_heart_to_openness",
+      "kind": "combination",
+      "priority": 81,
+      "readingTypes": [
+        "general",
+        "love",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "guarded_heart",
+        "guardedness",
+        "self_protection",
+        "withdrawal"
+      ],
+      "toTagsAny": [
+        "openness",
+        "emotional_opening",
+        "vulnerability",
+        "connection"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "blocked_truth_to_clear_conversation",
+      "kind": "combination",
+      "priority": 85,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "blocked_truth",
+        "miscommunication",
+        "unclear_signals",
+        "mixed_messages"
+      ],
+      "toTagsAny": [
+        "clarity",
+        "truth",
+        "directness",
+        "confession"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "burnout_to_recovery",
+      "kind": "combination",
+      "priority": 90,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "burnout",
+        "exhaustion",
+        "fatigue",
+        "self_neglect"
+      ],
+      "toTagsAny": [
+        "recovery",
+        "rest",
+        "self_care_needed",
+        "healing"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "independence_to_connection",
+      "kind": "combination",
+      "priority": 72,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "independence",
+        "self_sufficiency",
+        "self_mastery",
+        "private_victory"
+      ],
+      "toTagsAny": [
+        "connection",
+        "partnership",
+        "community",
+        "support"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "security_to_change",
+      "kind": "combination",
+      "priority": 72,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "security",
+        "stability",
+        "home",
+        "foundation_needs_care"
+      ],
+      "toTagsAny": [
+        "change",
+        "transition",
+        "movement",
+        "turning_point"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "tradition_to_questioning",
+      "kind": "combination",
+      "priority": 74,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "tradition",
+        "beliefs",
+        "guidance",
+        "community"
+      ],
+      "toTagsAny": [
+        "questioning_beliefs",
+        "rebellion",
+        "values",
+        "inner_wisdom"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "manifestation_to_practical_step",
+      "kind": "combination",
+      "priority": 80,
+      "readingTypes": [
+        "general",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "manifestation",
+        "willpower",
+        "vision",
+        "agency"
+      ],
+      "toTagsAny": [
+        "practical_step",
+        "grounding",
+        "structure",
+        "focused_action"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "imagination_to_choice",
+      "kind": "combination",
+      "priority": 75,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "imagination",
+        "fantasy",
+        "possibility",
+        "dreams"
+      ],
+      "toTagsAny": [
+        "choice",
+        "decision",
+        "discernment",
+        "clarity"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "fairness_to_compassion",
+      "kind": "combination",
+      "priority": 73,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "fairness",
+        "justice",
+        "accountability",
+        "truth"
+      ],
+      "toTagsAny": [
+        "compassion",
+        "kindness",
+        "forgiveness",
+        "softness"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "intuition_to_action",
+      "kind": "combination",
+      "priority": 77,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "intuition",
+        "inner_wisdom",
+        "subtle_truth",
+        "guidance"
+      ],
+      "toTagsAny": [
+        "initiative",
+        "movement",
+        "focused_action",
+        "bold_action"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "conflict_to_boundaries",
+      "kind": "combination",
+      "priority": 82,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "conflict",
+        "friction",
+        "argument",
+        "choosing_battles"
+      ],
+      "toTagsAny": [
+        "boundaries",
+        "protection",
+        "self_respect",
+        "standing_ground"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    },
+    {
+      "id": "anxiety_to_support",
+      "kind": "combination",
+      "priority": 89,
+      "readingTypes": [
+        "general",
+        "love",
+        "career",
+        "money",
+        "growth"
+      ],
+      "spreads": [
+        "three_cards"
+      ],
+      "positions": [
+        {
+          "from": "past",
+          "to": "present"
+        },
+        {
+          "from": "present",
+          "to": "future"
+        }
+      ],
+      "matchScope": "ordered_pair",
+      "fromTagsAny": [
+        "anxiety",
+        "worry",
+        "night_thoughts",
+        "mental_anguish"
+      ],
+      "toTagsAny": [
+        "support",
+        "seeking_help",
+        "finding_support",
+        "community"
+      ],
+      "orientationPattern": "any",
+      "excludedTagsAcrossPair": [
+        "death_prediction",
+        "financial_guarantee",
+        "medical_diagnosis"
+      ]
+    }
+  ]
+}

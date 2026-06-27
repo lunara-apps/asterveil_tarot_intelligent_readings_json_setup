@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 2,
+  "locale": "es",
+  "kind": "orientationRuleTexts",
+  "description": "Textos localizados en español latinoamericano para reglas v2 sensibles a la orientación de las cartas.",
+  "ruleTexts": {
+    "single_upright_message": {
+      "general": {
+        "theme": "Energía disponible",
+        "text": "La carta está derecha, así que su mensaje puede ser más fácil de encontrar directamente en la situación externa.",
+        "advice": "Trabaja con la carta de forma sencilla: ¿qué cualidad te pide notar, practicar o recibir?",
+        "journalPrompt": "¿Dónde ya es visible la energía de esta carta en mi vida?",
+        "challenge": "Un mensaje claro todavía puede pasarse por alto si parece demasiado simple.",
+        "opportunity": "La reflexión directa puede llevar a un próximo paso concreto."
+      },
+      "love": {
+        "theme": "Energía disponible",
+        "text": "La carta está derecha, así que su mensaje puede ser más fácil de encontrar directamente en la situación externa.",
+        "advice": "Trabaja con la carta de forma sencilla: ¿qué cualidad te pide notar, practicar o recibir?",
+        "journalPrompt": "¿Dónde ya es visible la energía de esta carta en mi vida?",
+        "challenge": "Un mensaje claro todavía puede pasarse por alto si parece demasiado simple.",
+        "opportunity": "La reflexión directa puede llevar a un próximo paso concreto."
+      },
+      "career": {
+        "theme": "Energía disponible",
+        "text": "La carta está derecha, así que su mensaje puede ser más fácil de encontrar directamente en la situación externa.",
+        "advice": "Trabaja con la carta de forma sencilla: ¿qué cualidad te pide notar, practicar o recibir?",
+        "journalPrompt": "¿Dónde ya es visible la energía de esta carta en mi vida?",
+        "challenge": "Un mensaje claro todavía puede pasarse por alto si parece demasiado simple.",
+        "opportunity": "La reflexión directa puede llevar a un próximo paso concreto."
+      },
+      "money": {
+        "theme": "Energía disponible",
+        "text": "La carta está derecha, así que su mensaje puede ser más fácil de encontrar directamente en la situación externa.",
+        "advice": "Trabaja con la carta de forma sencilla: ¿qué cualidad te pide notar, practicar o recibir?",
+        "journalPrompt": "¿Dónde ya es visible la energía de esta carta en mi vida?",
+        "challenge": "Un mensaje claro todavía puede pasarse por alto si parece demasiado simple.",
+        "opportunity": "La reflexión directa puede llevar a un próximo paso concreto."
+      },
+      "growth": {
+        "theme": "Energía disponible",
+        "text": "La carta está derecha, así que su mensaje puede ser más fácil de encontrar directamente en la situación externa.",
+        "advice": "Trabaja con la carta de forma sencilla: ¿qué cualidad te pide notar, practicar o recibir?",
+        "journalPrompt": "¿Dónde ya es visible la energía de esta carta en mi vida?",
+        "challenge": "Un mensaje claro todavía puede pasarse por alto si parece demasiado simple.",
+        "opportunity": "La reflexión directa puede llevar a un próximo paso concreto."
+      }
+    },
+    "single_reversed_reflection": {
+      "general": {
+        "theme": "Energía vuelta hacia adentro",
+        "text": "La carta está invertida, así que su mensaje puede ser interno, retrasado, bloqueado o estar pidiendo una atención más suave.",
+        "advice": "Lee la inversión como una invitación a ajustar y escuchar, no como un veredicto negativo.",
+        "journalPrompt": "¿Dónde esta energía pide cuidado, honestidad o liberación dentro de mí?",
+        "challenge": "Puedes sentir la tentación de tratar la demora o el bloqueo como fracaso.",
+        "opportunity": "El trabajo interior puede aclarar el paso exterior."
+      },
+      "love": {
+        "theme": "Energía vuelta hacia adentro",
+        "text": "La carta está invertida, así que su mensaje puede ser interno, retrasado, bloqueado o estar pidiendo una atención más suave.",
+        "advice": "Lee la inversión como una invitación a ajustar y escuchar, no como un veredicto negativo.",
+        "journalPrompt": "¿Dónde esta energía pide cuidado, honestidad o liberación dentro de mí?",
+        "challenge": "Puedes sentir la tentación de tratar la demora o el bloqueo como fracaso.",
+        "opportunity": "El trabajo interior puede aclarar el paso exterior."
+      },
+      "career": {
+        "theme": "Energía vuelta hacia adentro",
+        "text": "La carta está invertida, así que su mensaje puede ser interno, retrasado, bloqueado o estar pidiendo una atención más suave.",
+        "advice": "Lee la inversión como una invitación a ajustar y escuchar, no como un veredicto negativo.",
+        "journalPrompt": "¿Dónde esta energía pide cuidado, honestidad o liberación dentro de mí?",
+        "challenge": "Puedes sentir la tentación de tratar la demora o el bloqueo como fracaso.",
+        "opportunity": "El trabajo interior puede aclarar el paso exterior."
+      },
+      "money": {
+        "theme": "Energía vuelta hacia adentro",
+        "text": "La carta está invertida, así que su mensaje puede ser interno, retrasado, bloqueado o estar pidiendo una atención más suave.",
+        "advice": "Lee la inversión como una invitación a ajustar y escuchar, no como un veredicto negativo.",
+        "journalPrompt": "¿Dónde esta energía pide cuidado, honestidad o liberación dentro de mí?",
+        "challenge": "Puedes sentir la tentación de tratar la demora o el bloqueo como fracaso.",
+        "opportunity": "El trabajo interior puede aclarar el paso exterior."
+      },
+      "growth": {
+        "theme": "Energía vuelta hacia adentro",
+        "text": "La carta está invertida, así que su mensaje puede ser interno, retrasado, bloqueado o estar pidiendo una atención más suave.",
+        "advice": "Lee la inversión como una invitación a ajustar y escuchar, no como un veredicto negativo.",
+        "journalPrompt": "¿Dónde esta energía pide cuidado, honestidad o liberación dentro de mí?",
+        "challenge": "Puedes sentir la tentación de tratar la demora o el bloqueo como fracaso.",
+        "opportunity": "El trabajo interior puede aclarar el paso exterior."
+      }
+    },
+    "all_upright_clear_flow": {
+      "general": {
+        "theme": "Flujo exterior claro",
+        "text": "Las tres cartas están derechas, dando a la lectura una sensación de franqueza, visibilidad y movimiento disponible.",
+        "advice": "Deja que el mensaje sea simple sin hacerlo superficial; elige una acción consciente que honre el flujo.",
+        "journalPrompt": "¿Qué se siente listo para pasar de la reflexión a la práctica?",
+        "challenge": "La energía que fluye puede tentarte a moverte más rápido que tu conciencia.",
+        "opportunity": "El camino puede ser más fácil de abordar cuando permaneces presente."
+      },
+      "love": {
+        "theme": "Flujo exterior claro",
+        "text": "Las tres cartas están derechas, dando a la lectura una sensación de franqueza, visibilidad y movimiento disponible.",
+        "advice": "Deja que el mensaje sea simple sin hacerlo superficial; elige una acción consciente que honre el flujo.",
+        "journalPrompt": "¿Qué se siente listo para pasar de la reflexión a la práctica?",
+        "challenge": "La energía que fluye puede tentarte a moverte más rápido que tu conciencia.",
+        "opportunity": "El camino puede ser más fácil de abordar cuando permaneces presente."
+      },
+      "career": {
+        "theme": "Flujo exterior claro",
+        "text": "Las tres cartas están derechas, dando a la lectura una sensación de franqueza, visibilidad y movimiento disponible.",
+        "advice": "Deja que el mensaje sea simple sin hacerlo superficial; elige una acción consciente que honre el flujo.",
+        "journalPrompt": "¿Qué se siente listo para pasar de la reflexión a la práctica?",
+        "challenge": "La energía que fluye puede tentarte a moverte más rápido que tu conciencia.",
+        "opportunity": "El camino puede ser más fácil de abordar cuando permaneces presente."
+      },
+      "money": {
+        "theme": "Flujo exterior claro",
+        "text": "Las tres cartas están derechas, dando a la lectura una sensación de franqueza, visibilidad y movimiento disponible.",
+        "advice": "Deja que el mensaje sea simple sin hacerlo superficial; elige una acción consciente que honre el flujo.",
+        "journalPrompt": "¿Qué se siente listo para pasar de la reflexión a la práctica?",
+        "challenge": "La energía que fluye puede tentarte a moverte más rápido que tu conciencia.",
+        "opportunity": "El camino puede ser más fácil de abordar cuando permaneces presente."
+      },
+      "growth": {
+        "theme": "Flujo exterior claro",
+        "text": "Las tres cartas están derechas, dando a la lectura una sensación de franqueza, visibilidad y movimiento disponible.",
+        "advice": "Deja que el mensaje sea simple sin hacerlo superficial; elige una acción consciente que honre el flujo.",
+        "journalPrompt": "¿Qué se siente listo para pasar de la reflexión a la práctica?",
+        "challenge": "La energía que fluye puede tentarte a moverte más rápido que tu conciencia.",
+        "opportunity": "El camino puede ser más fácil de abordar cuando permaneces presente."
+      }
+    },
+    "all_reversed_inner_process": {
+      "general": {
+        "theme": "La cámara interior",
+        "text": "Las tres cartas están invertidas, orientando la tirada hacia material interno oculto, retrasado, sensible o inconcluso.",
+        "advice": "Ve más despacio y pregunta qué necesita reparación, descanso, honestidad o integración antes de volverse acción exterior.",
+        "journalPrompt": "¿Qué no está listo para moverse hacia afuera porque todavía necesita cuidado interior?",
+        "challenge": "La lectura puede sentirse pesada si las inversiones se tratan como malas señales.",
+        "opportunity": "Un ajuste interior profundo puede volverse liberación silenciosa."
+      },
+      "love": {
+        "theme": "La cámara interior",
+        "text": "Las tres cartas están invertidas, orientando la tirada hacia material interno oculto, retrasado, sensible o inconcluso.",
+        "advice": "Ve más despacio y pregunta qué necesita reparación, descanso, honestidad o integración antes de volverse acción exterior.",
+        "journalPrompt": "¿Qué no está listo para moverse hacia afuera porque todavía necesita cuidado interior?",
+        "challenge": "La lectura puede sentirse pesada si las inversiones se tratan como malas señales.",
+        "opportunity": "Un ajuste interior profundo puede volverse liberación silenciosa."
+      },
+      "career": {
+        "theme": "La cámara interior",
+        "text": "Las tres cartas están invertidas, orientando la tirada hacia material interno oculto, retrasado, sensible o inconcluso.",
+        "advice": "Ve más despacio y pregunta qué necesita reparación, descanso, honestidad o integración antes de volverse acción exterior.",
+        "journalPrompt": "¿Qué no está listo para moverse hacia afuera porque todavía necesita cuidado interior?",
+        "challenge": "La lectura puede sentirse pesada si las inversiones se tratan como malas señales.",
+        "opportunity": "Un ajuste interior profundo puede volverse liberación silenciosa."
+      },
+      "money": {
+        "theme": "La cámara interior",
+        "text": "Las tres cartas están invertidas, orientando la tirada hacia material interno oculto, retrasado, sensible o inconcluso.",
+        "advice": "Ve más despacio y pregunta qué necesita reparación, descanso, honestidad o integración antes de volverse acción exterior.",
+        "journalPrompt": "¿Qué no está listo para moverse hacia afuera porque todavía necesita cuidado interior?",
+        "challenge": "La lectura puede sentirse pesada si las inversiones se tratan como malas señales.",
+        "opportunity": "Un ajuste interior profundo puede volverse liberación silenciosa."
+      },
+      "growth": {
+        "theme": "La cámara interior",
+        "text": "Las tres cartas están invertidas, orientando la tirada hacia material interno oculto, retrasado, sensible o inconcluso.",
+        "advice": "Ve más despacio y pregunta qué necesita reparación, descanso, honestidad o integración antes de volverse acción exterior.",
+        "journalPrompt": "¿Qué no está listo para moverse hacia afuera porque todavía necesita cuidado interior?",
+        "challenge": "La lectura puede sentirse pesada si las inversiones se tratan como malas señales.",
+        "opportunity": "Un ajuste interior profundo puede volverse liberación silenciosa."
+      }
+    },
+    "past_reversed_present_upright": {
+      "general": {
+        "theme": "Bloqueo pasado, apertura presente",
+        "text": "Una carta pasada invertida seguida de una carta presente derecha sugiere que un bloqueo antiguo puede estar aflojándose en el momento actual.",
+        "advice": "Observa qué está más disponible ahora que antes y no dejes que los tiempos antiguos definan el presente.",
+        "journalPrompt": "¿Qué bloqueo antiguo ya no tiene tanta fuerza como antes?",
+        "challenge": "La memoria puede insistir en que nada cambió.",
+        "opportunity": "El presente puede volverse una puerta de salida de un patrón antiguo."
+      },
+      "love": {
+        "theme": "Bloqueo pasado, apertura presente",
+        "text": "Una carta pasada invertida seguida de una carta presente derecha sugiere que un bloqueo antiguo puede estar aflojándose en el momento actual.",
+        "advice": "Observa qué está más disponible ahora que antes y no dejes que los tiempos antiguos definan el presente.",
+        "journalPrompt": "¿Qué bloqueo antiguo ya no tiene tanta fuerza como antes?",
+        "challenge": "La memoria puede insistir en que nada cambió.",
+        "opportunity": "El presente puede volverse una puerta de salida de un patrón antiguo."
+      },
+      "career": {
+        "theme": "Bloqueo pasado, apertura presente",
+        "text": "Una carta pasada invertida seguida de una carta presente derecha sugiere que un bloqueo antiguo puede estar aflojándose en el momento actual.",
+        "advice": "Observa qué está más disponible ahora que antes y no dejes que los tiempos antiguos definan el presente.",
+        "journalPrompt": "¿Qué bloqueo antiguo ya no tiene tanta fuerza como antes?",
+        "challenge": "La memoria puede insistir en que nada cambió.",
+        "opportunity": "El presente puede volverse una puerta de salida de un patrón antiguo."
+      },
+      "money": {
+        "theme": "Bloqueo pasado, apertura presente",
+        "text": "Una carta pasada invertida seguida de una carta presente derecha sugiere que un bloqueo antiguo puede estar aflojándose en el momento actual.",
+        "advice": "Observa qué está más disponible ahora que antes y no dejes que los tiempos antiguos definan el presente.",
+        "journalPrompt": "¿Qué bloqueo antiguo ya no tiene tanta fuerza como antes?",
+        "challenge": "La memoria puede insistir en que nada cambió.",
+        "opportunity": "El presente puede volverse una puerta de salida de un patrón antiguo."
+      },
+      "growth": {
+        "theme": "Bloqueo pasado, apertura presente",
+        "text": "Una carta pasada invertida seguida de una carta presente derecha sugiere que un bloqueo antiguo puede estar aflojándose en el momento actual.",
+        "advice": "Observa qué está más disponible ahora que antes y no dejes que los tiempos antiguos definan el presente.",
+        "journalPrompt": "¿Qué bloqueo antiguo ya no tiene tanta fuerza como antes?",
+        "challenge": "La memoria puede insistir en que nada cambió.",
+        "opportunity": "El presente puede volverse una puerta de salida de un patrón antiguo."
+      }
+    },
+    "present_reversed_future_upright": {
+      "general": {
+        "theme": "Tensión actual, apertura futura",
+        "text": "Una carta presente invertida con una carta futura derecha sugiere que el bloqueo actual puede volverse trabajable si se encuentra con honestidad.",
+        "advice": "Presta atención a la fricción presente; el futuro se abre mediante integración, no negación.",
+        "journalPrompt": "¿Qué necesita cuidado ahora para que el siguiente paso pueda volverse más libre?",
+        "challenge": "Puede ser tentador saltarse la incomodidad presente.",
+        "opportunity": "La atención cuidadosa ahora puede hacer más limpio el movimiento posterior."
+      },
+      "love": {
+        "theme": "Tensión actual, apertura futura",
+        "text": "Una carta presente invertida con una carta futura derecha sugiere que el bloqueo actual puede volverse trabajable si se encuentra con honestidad.",
+        "advice": "Presta atención a la fricción presente; el futuro se abre mediante integración, no negación.",
+        "journalPrompt": "¿Qué necesita cuidado ahora para que el siguiente paso pueda volverse más libre?",
+        "challenge": "Puede ser tentador saltarse la incomodidad presente.",
+        "opportunity": "La atención cuidadosa ahora puede hacer más limpio el movimiento posterior."
+      },
+      "career": {
+        "theme": "Tensión actual, apertura futura",
+        "text": "Una carta presente invertida con una carta futura derecha sugiere que el bloqueo actual puede volverse trabajable si se encuentra con honestidad.",
+        "advice": "Presta atención a la fricción presente; el futuro se abre mediante integración, no negación.",
+        "journalPrompt": "¿Qué necesita cuidado ahora para que el siguiente paso pueda volverse más libre?",
+        "challenge": "Puede ser tentador saltarse la incomodidad presente.",
+        "opportunity": "La atención cuidadosa ahora puede hacer más limpio el movimiento posterior."
+      },
+      "money": {
+        "theme": "Tensión actual, apertura futura",
+        "text": "Una carta presente invertida con una carta futura derecha sugiere que el bloqueo actual puede volverse trabajable si se encuentra con honestidad.",
+        "advice": "Presta atención a la fricción presente; el futuro se abre mediante integración, no negación.",
+        "journalPrompt": "¿Qué necesita cuidado ahora para que el siguiente paso pueda volverse más libre?",
+        "challenge": "Puede ser tentador saltarse la incomodidad presente.",
+        "opportunity": "La atención cuidadosa ahora puede hacer más limpio el movimiento posterior."
+      },
+      "growth": {
+        "theme": "Tensión actual, apertura futura",
+        "text": "Una carta presente invertida con una carta futura derecha sugiere que el bloqueo actual puede volverse trabajable si se encuentra con honestidad.",
+        "advice": "Presta atención a la fricción presente; el futuro se abre mediante integración, no negación.",
+        "journalPrompt": "¿Qué necesita cuidado ahora para que el siguiente paso pueda volverse más libre?",
+        "challenge": "Puede ser tentador saltarse la incomodidad presente.",
+        "opportunity": "La atención cuidadosa ahora puede hacer más limpio el movimiento posterior."
+      }
+    },
+    "future_reversed_attention_needed": {
+      "general": {
+        "theme": "Una energía futura que pide cuidado",
+        "text": "Una carta futura invertida no predice fracaso; señala una energía que puede necesitar atención antes de expresarse bien.",
+        "advice": "Pregunta qué preparación, límite, reparación o arraigo ayudaría a que esa energía futura se despliegue con más limpieza.",
+        "journalPrompt": "¿Qué puedo cuidar ahora para que este posible futuro se sienta menos bloqueado?",
+        "challenge": "Puedes leer la cautela como certeza.",
+        "opportunity": "La conciencia de ahora puede cambiar la forma de encontrar el camino."
+      },
+      "love": {
+        "theme": "Una energía futura que pide cuidado",
+        "text": "Una carta futura invertida no predice fracaso; señala una energía que puede necesitar atención antes de expresarse bien.",
+        "advice": "Pregunta qué preparación, límite, reparación o arraigo ayudaría a que esa energía futura se despliegue con más limpieza.",
+        "journalPrompt": "¿Qué puedo cuidar ahora para que este posible futuro se sienta menos bloqueado?",
+        "challenge": "Puedes leer la cautela como certeza.",
+        "opportunity": "La conciencia de ahora puede cambiar la forma de encontrar el camino."
+      },
+      "career": {
+        "theme": "Una energía futura que pide cuidado",
+        "text": "Una carta futura invertida no predice fracaso; señala una energía que puede necesitar atención antes de expresarse bien.",
+        "advice": "Pregunta qué preparación, límite, reparación o arraigo ayudaría a que esa energía futura se despliegue con más limpieza.",
+        "journalPrompt": "¿Qué puedo cuidar ahora para que este posible futuro se sienta menos bloqueado?",
+        "challenge": "Puedes leer la cautela como certeza.",
+        "opportunity": "La conciencia de ahora puede cambiar la forma de encontrar el camino."
+      },
+      "money": {
+        "theme": "Una energía futura que pide cuidado",
+        "text": "Una carta futura invertida no predice fracaso; señala una energía que puede necesitar atención antes de expresarse bien.",
+        "advice": "Pregunta qué preparación, límite, reparación o arraigo ayudaría a que esa energía futura se despliegue con más limpieza.",
+        "journalPrompt": "¿Qué puedo cuidar ahora para que este posible futuro se sienta menos bloqueado?",
+        "challenge": "Puedes leer la cautela como certeza.",
+        "opportunity": "La conciencia de ahora puede cambiar la forma de encontrar el camino."
+      },
+      "growth": {
+        "theme": "Una energía futura que pide cuidado",
+        "text": "Una carta futura invertida no predice fracaso; señala una energía que puede necesitar atención antes de expresarse bien.",
+        "advice": "Pregunta qué preparación, límite, reparación o arraigo ayudaría a que esa energía futura se despliegue con más limpieza.",
+        "journalPrompt": "¿Qué puedo cuidar ahora para que este posible futuro se sienta menos bloqueado?",
+        "challenge": "Puedes leer la cautela como certeza.",
+        "opportunity": "La conciencia de ahora puede cambiar la forma de encontrar el camino."
+      }
+    },
+    "past_upright_present_reversed": {
+      "general": {
+        "theme": "Una complicación presente",
+        "text": "Un pasado derecho seguido de un presente invertido sugiere que algo que antes era claro puede necesitar revisión, ajuste u honestidad renovada.",
+        "advice": "No asumas que el método antiguo todavía encaja; pregunta qué cambió en la energía actual.",
+        "journalPrompt": "¿Qué solía funcionar y ahora necesita otro enfoque?",
+        "challenge": "La nostalgia puede hacer que el presente sea más difícil de ver con claridad.",
+        "opportunity": "Un ajuste oportuno puede proteger lo que todavía importa."
+      },
+      "love": {
+        "theme": "Una complicación presente",
+        "text": "Un pasado derecho seguido de un presente invertido sugiere que algo que antes era claro puede necesitar revisión, ajuste u honestidad renovada.",
+        "advice": "No asumas que el método antiguo todavía encaja; pregunta qué cambió en la energía actual.",
+        "journalPrompt": "¿Qué solía funcionar y ahora necesita otro enfoque?",
+        "challenge": "La nostalgia puede hacer que el presente sea más difícil de ver con claridad.",
+        "opportunity": "Un ajuste oportuno puede proteger lo que todavía importa."
+      },
+      "career": {
+        "theme": "Una complicación presente",
+        "text": "Un pasado derecho seguido de un presente invertido sugiere que algo que antes era claro puede necesitar revisión, ajuste u honestidad renovada.",
+        "advice": "No asumas que el método antiguo todavía encaja; pregunta qué cambió en la energía actual.",
+        "journalPrompt": "¿Qué solía funcionar y ahora necesita otro enfoque?",
+        "challenge": "La nostalgia puede hacer que el presente sea más difícil de ver con claridad.",
+        "opportunity": "Un ajuste oportuno puede proteger lo que todavía importa."
+      },
+      "money": {
+        "theme": "Una complicación presente",
+        "text": "Un pasado derecho seguido de un presente invertido sugiere que algo que antes era claro puede necesitar revisión, ajuste u honestidad renovada.",
+        "advice": "No asumas que el método antiguo todavía encaja; pregunta qué cambió en la energía actual.",
+        "journalPrompt": "¿Qué solía funcionar y ahora necesita otro enfoque?",
+        "challenge": "La nostalgia puede hacer que el presente sea más difícil de ver con claridad.",
+        "opportunity": "Un ajuste oportuno puede proteger lo que todavía importa."
+      },
+      "growth": {
+        "theme": "Una complicación presente",
+        "text": "Un pasado derecho seguido de un presente invertido sugiere que algo que antes era claro puede necesitar revisión, ajuste u honestidad renovada.",
+        "advice": "No asumas que el método antiguo todavía encaja; pregunta qué cambió en la energía actual.",
+        "journalPrompt": "¿Qué solía funcionar y ahora necesita otro enfoque?",
+        "challenge": "La nostalgia puede hacer que el presente sea más difícil de ver con claridad.",
+        "opportunity": "Un ajuste oportuno puede proteger lo que todavía importa."
+      }
+    },
+    "two_reversed_one_upright": {
+      "general": {
+        "theme": "Una luz dentro del trabajo interior",
+        "text": "Dos cartas invertidas y una derecha sugieren que gran parte de la lectura es interna, pero una energía ya puede estar disponible como apoyo.",
+        "advice": "Encuentra la carta derecha y deja que se convierta en el punto de apoyo para trabajar con el material más sensible.",
+        "journalPrompt": "¿Qué parte de esta lectura se siente lo bastante disponible como para apoyar el resto?",
+        "challenge": "Las cartas invertidas pueden atraer toda tu atención.",
+        "opportunity": "Un recurso claro puede ayudar a desbloquear los lugares cerrados."
+      },
+      "love": {
+        "theme": "Una luz dentro del trabajo interior",
+        "text": "Dos cartas invertidas y una derecha sugieren que gran parte de la lectura es interna, pero una energía ya puede estar disponible como apoyo.",
+        "advice": "Encuentra la carta derecha y deja que se convierta en el punto de apoyo para trabajar con el material más sensible.",
+        "journalPrompt": "¿Qué parte de esta lectura se siente lo bastante disponible como para apoyar el resto?",
+        "challenge": "Las cartas invertidas pueden atraer toda tu atención.",
+        "opportunity": "Un recurso claro puede ayudar a desbloquear los lugares cerrados."
+      },
+      "career": {
+        "theme": "Una luz dentro del trabajo interior",
+        "text": "Dos cartas invertidas y una derecha sugieren que gran parte de la lectura es interna, pero una energía ya puede estar disponible como apoyo.",
+        "advice": "Encuentra la carta derecha y deja que se convierta en el punto de apoyo para trabajar con el material más sensible.",
+        "journalPrompt": "¿Qué parte de esta lectura se siente lo bastante disponible como para apoyar el resto?",
+        "challenge": "Las cartas invertidas pueden atraer toda tu atención.",
+        "opportunity": "Un recurso claro puede ayudar a desbloquear los lugares cerrados."
+      },
+      "money": {
+        "theme": "Una luz dentro del trabajo interior",
+        "text": "Dos cartas invertidas y una derecha sugieren que gran parte de la lectura es interna, pero una energía ya puede estar disponible como apoyo.",
+        "advice": "Encuentra la carta derecha y deja que se convierta en el punto de apoyo para trabajar con el material más sensible.",
+        "journalPrompt": "¿Qué parte de esta lectura se siente lo bastante disponible como para apoyar el resto?",
+        "challenge": "Las cartas invertidas pueden atraer toda tu atención.",
+        "opportunity": "Un recurso claro puede ayudar a desbloquear los lugares cerrados."
+      },
+      "growth": {
+        "theme": "Una luz dentro del trabajo interior",
+        "text": "Dos cartas invertidas y una derecha sugieren que gran parte de la lectura es interna, pero una energía ya puede estar disponible como apoyo.",
+        "advice": "Encuentra la carta derecha y deja que se convierta en el punto de apoyo para trabajar con el material más sensible.",
+        "journalPrompt": "¿Qué parte de esta lectura se siente lo bastante disponible como para apoyar el resto?",
+        "challenge": "Las cartas invertidas pueden atraer toda tu atención.",
+        "opportunity": "Un recurso claro puede ayudar a desbloquear los lugares cerrados."
+      }
+    },
+    "one_reversed_two_upright": {
+      "general": {
+        "theme": "Un punto sensible en una tirada fluida",
+        "text": "Una carta invertida entre dos derechas sugiere un camino mayormente disponible con un área que necesita cuidado extra.",
+        "advice": "No dejes que un punto sensible cancele toda la lectura; deja que muestre dónde se necesita refinamiento.",
+        "journalPrompt": "¿Qué parte del camino fluye, y qué parte pide suavidad?",
+        "challenge": "Un solo bloqueo puede sentirse más grande de lo que es.",
+        "opportunity": "El cuidado enfocado puede apoyar toda la tirada."
+      },
+      "love": {
+        "theme": "Un punto sensible en una tirada fluida",
+        "text": "Una carta invertida entre dos derechas sugiere un camino mayormente disponible con un área que necesita cuidado extra.",
+        "advice": "No dejes que un punto sensible cancele toda la lectura; deja que muestre dónde se necesita refinamiento.",
+        "journalPrompt": "¿Qué parte del camino fluye, y qué parte pide suavidad?",
+        "challenge": "Un solo bloqueo puede sentirse más grande de lo que es.",
+        "opportunity": "El cuidado enfocado puede apoyar toda la tirada."
+      },
+      "career": {
+        "theme": "Un punto sensible en una tirada fluida",
+        "text": "Una carta invertida entre dos derechas sugiere un camino mayormente disponible con un área que necesita cuidado extra.",
+        "advice": "No dejes que un punto sensible cancele toda la lectura; deja que muestre dónde se necesita refinamiento.",
+        "journalPrompt": "¿Qué parte del camino fluye, y qué parte pide suavidad?",
+        "challenge": "Un solo bloqueo puede sentirse más grande de lo que es.",
+        "opportunity": "El cuidado enfocado puede apoyar toda la tirada."
+      },
+      "money": {
+        "theme": "Un punto sensible en una tirada fluida",
+        "text": "Una carta invertida entre dos derechas sugiere un camino mayormente disponible con un área que necesita cuidado extra.",
+        "advice": "No dejes que un punto sensible cancele toda la lectura; deja que muestre dónde se necesita refinamiento.",
+        "journalPrompt": "¿Qué parte del camino fluye, y qué parte pide suavidad?",
+        "challenge": "Un solo bloqueo puede sentirse más grande de lo que es.",
+        "opportunity": "El cuidado enfocado puede apoyar toda la tirada."
+      },
+      "growth": {
+        "theme": "Un punto sensible en una tirada fluida",
+        "text": "Una carta invertida entre dos derechas sugiere un camino mayormente disponible con un área que necesita cuidado extra.",
+        "advice": "No dejes que un punto sensible cancele toda la lectura; deja que muestre dónde se necesita refinamiento.",
+        "journalPrompt": "¿Qué parte del camino fluye, y qué parte pide suavidad?",
+        "challenge": "Un solo bloqueo puede sentirse más grande de lo que es.",
+        "opportunity": "El cuidado enfocado puede apoyar toda la tirada."
+      }
+    },
+    "reversed_to_upright_to_upright": {
+      "general": {
+        "theme": "Del desbloqueo al movimiento",
+        "text": "La tirada empieza invertida y luego se endereza, sugiriendo un movimiento desde un bloqueo interior hacia una participación más clara.",
+        "advice": "Honra la dificultad inicial y luego observa cómo las cartas posteriores invitan a participar.",
+        "journalPrompt": "¿Qué me ayuda a pasar de la resistencia interna a la acción disponible?",
+        "challenge": "El primer bloqueo puede teñir toda la historia.",
+        "opportunity": "El camino puede volverse más ligero a medida que se trabaja con la energía."
+      },
+      "love": {
+        "theme": "Del desbloqueo al movimiento",
+        "text": "La tirada empieza invertida y luego se endereza, sugiriendo un movimiento desde un bloqueo interior hacia una participación más clara.",
+        "advice": "Honra la dificultad inicial y luego observa cómo las cartas posteriores invitan a participar.",
+        "journalPrompt": "¿Qué me ayuda a pasar de la resistencia interna a la acción disponible?",
+        "challenge": "El primer bloqueo puede teñir toda la historia.",
+        "opportunity": "El camino puede volverse más ligero a medida que se trabaja con la energía."
+      },
+      "career": {
+        "theme": "Del desbloqueo al movimiento",
+        "text": "La tirada empieza invertida y luego se endereza, sugiriendo un movimiento desde un bloqueo interior hacia una participación más clara.",
+        "advice": "Honra la dificultad inicial y luego observa cómo las cartas posteriores invitan a participar.",
+        "journalPrompt": "¿Qué me ayuda a pasar de la resistencia interna a la acción disponible?",
+        "challenge": "El primer bloqueo puede teñir toda la historia.",
+        "opportunity": "El camino puede volverse más ligero a medida que se trabaja con la energía."
+      },
+      "money": {
+        "theme": "Del desbloqueo al movimiento",
+        "text": "La tirada empieza invertida y luego se endereza, sugiriendo un movimiento desde un bloqueo interior hacia una participación más clara.",
+        "advice": "Honra la dificultad inicial y luego observa cómo las cartas posteriores invitan a participar.",
+        "journalPrompt": "¿Qué me ayuda a pasar de la resistencia interna a la acción disponible?",
+        "challenge": "El primer bloqueo puede teñir toda la historia.",
+        "opportunity": "El camino puede volverse más ligero a medida que se trabaja con la energía."
+      },
+      "growth": {
+        "theme": "Del desbloqueo al movimiento",
+        "text": "La tirada empieza invertida y luego se endereza, sugiriendo un movimiento desde un bloqueo interior hacia una participación más clara.",
+        "advice": "Honra la dificultad inicial y luego observa cómo las cartas posteriores invitan a participar.",
+        "journalPrompt": "¿Qué me ayuda a pasar de la resistencia interna a la acción disponible?",
+        "challenge": "El primer bloqueo puede teñir toda la historia.",
+        "opportunity": "El camino puede volverse más ligero a medida que se trabaja con la energía."
+      }
+    },
+    "upright_to_reversed_to_upright": {
+      "general": {
+        "theme": "El centro pide atención",
+        "text": "Un patrón derecha-invertida-derecha sugiere que el centro de la lectura contiene el principal punto de ajuste.",
+        "advice": "Trata la carta presente como la bisagra: ¿qué necesita entenderse, suavizarse o corregirse ahora?",
+        "journalPrompt": "¿Qué ajuste presente ayudaría a que toda la historia fluya mejor?",
+        "challenge": "El inicio y el futuro pueden distraer del trabajo actual.",
+        "opportunity": "Cuidar el centro puede alinear el camino."
+      },
+      "love": {
+        "theme": "El centro pide atención",
+        "text": "Un patrón derecha-invertida-derecha sugiere que el centro de la lectura contiene el principal punto de ajuste.",
+        "advice": "Trata la carta presente como la bisagra: ¿qué necesita entenderse, suavizarse o corregirse ahora?",
+        "journalPrompt": "¿Qué ajuste presente ayudaría a que toda la historia fluya mejor?",
+        "challenge": "El inicio y el futuro pueden distraer del trabajo actual.",
+        "opportunity": "Cuidar el centro puede alinear el camino."
+      },
+      "career": {
+        "theme": "El centro pide atención",
+        "text": "Un patrón derecha-invertida-derecha sugiere que el centro de la lectura contiene el principal punto de ajuste.",
+        "advice": "Trata la carta presente como la bisagra: ¿qué necesita entenderse, suavizarse o corregirse ahora?",
+        "journalPrompt": "¿Qué ajuste presente ayudaría a que toda la historia fluya mejor?",
+        "challenge": "El inicio y el futuro pueden distraer del trabajo actual.",
+        "opportunity": "Cuidar el centro puede alinear el camino."
+      },
+      "money": {
+        "theme": "El centro pide atención",
+        "text": "Un patrón derecha-invertida-derecha sugiere que el centro de la lectura contiene el principal punto de ajuste.",
+        "advice": "Trata la carta presente como la bisagra: ¿qué necesita entenderse, suavizarse o corregirse ahora?",
+        "journalPrompt": "¿Qué ajuste presente ayudaría a que toda la historia fluya mejor?",
+        "challenge": "El inicio y el futuro pueden distraer del trabajo actual.",
+        "opportunity": "Cuidar el centro puede alinear el camino."
+      },
+      "growth": {
+        "theme": "El centro pide atención",
+        "text": "Un patrón derecha-invertida-derecha sugiere que el centro de la lectura contiene el principal punto de ajuste.",
+        "advice": "Trata la carta presente como la bisagra: ¿qué necesita entenderse, suavizarse o corregirse ahora?",
+        "journalPrompt": "¿Qué ajuste presente ayudaría a que toda la historia fluya mejor?",
+        "challenge": "El inicio y el futuro pueden distraer del trabajo actual.",
+        "opportunity": "Cuidar el centro puede alinear el camino."
+      }
+    },
+    "upright_upright_reversed": {
+      "general": {
+        "theme": "Una cautela en el borde",
+        "text": "Dos cartas derechas seguidas de una futura invertida sugieren que el camino tiene energía disponible, pero su próxima expresión puede necesitar preparación.",
+        "advice": "Permite que el impulso continúe mientras fortaleces el área que podría bloquearse o desequilibrarse.",
+        "journalPrompt": "¿Para qué complicación futura puedo prepararme con conciencia tranquila?",
+        "challenge": "El flujo inicial puede hacer que la preparación parezca innecesaria.",
+        "opportunity": "Una cautela suave puede proteger el progreso ya logrado."
+      },
+      "love": {
+        "theme": "Una cautela en el borde",
+        "text": "Dos cartas derechas seguidas de una futura invertida sugieren que el camino tiene energía disponible, pero su próxima expresión puede necesitar preparación.",
+        "advice": "Permite que el impulso continúe mientras fortaleces el área que podría bloquearse o desequilibrarse.",
+        "journalPrompt": "¿Para qué complicación futura puedo prepararme con conciencia tranquila?",
+        "challenge": "El flujo inicial puede hacer que la preparación parezca innecesaria.",
+        "opportunity": "Una cautela suave puede proteger el progreso ya logrado."
+      },
+      "career": {
+        "theme": "Una cautela en el borde",
+        "text": "Dos cartas derechas seguidas de una futura invertida sugieren que el camino tiene energía disponible, pero su próxima expresión puede necesitar preparación.",
+        "advice": "Permite que el impulso continúe mientras fortaleces el área que podría bloquearse o desequilibrarse.",
+        "journalPrompt": "¿Para qué complicación futura puedo prepararme con conciencia tranquila?",
+        "challenge": "El flujo inicial puede hacer que la preparación parezca innecesaria.",
+        "opportunity": "Una cautela suave puede proteger el progreso ya logrado."
+      },
+      "money": {
+        "theme": "Una cautela en el borde",
+        "text": "Dos cartas derechas seguidas de una futura invertida sugieren que el camino tiene energía disponible, pero su próxima expresión puede necesitar preparación.",
+        "advice": "Permite que el impulso continúe mientras fortaleces el área que podría bloquearse o desequilibrarse.",
+        "journalPrompt": "¿Para qué complicación futura puedo prepararme con conciencia tranquila?",
+        "challenge": "El flujo inicial puede hacer que la preparación parezca innecesaria.",
+        "opportunity": "Una cautela suave puede proteger el progreso ya logrado."
+      },
+      "growth": {
+        "theme": "Una cautela en el borde",
+        "text": "Dos cartas derechas seguidas de una futura invertida sugieren que el camino tiene energía disponible, pero su próxima expresión puede necesitar preparación.",
+        "advice": "Permite que el impulso continúe mientras fortaleces el área que podría bloquearse o desequilibrarse.",
+        "journalPrompt": "¿Para qué complicación futura puedo prepararme con conciencia tranquila?",
+        "challenge": "El flujo inicial puede hacer que la preparación parezca innecesaria.",
+        "opportunity": "Una cautela suave puede proteger el progreso ya logrado."
+      }
+    },
+    "pair_both_reversed": {
+      "general": {
+        "theme": "Un nudo privado",
+        "text": "Cuando una pareja de cartas está ambas invertidas, la conexión entre ellas puede ser privada, retrasada, bloqueada o estar pidiendo reparación.",
+        "advice": "Lee la pareja como un nudo que puede aflojarse, no como una sentencia que aceptar.",
+        "journalPrompt": "¿Qué necesita esta pareja antes de que su energía pueda moverse con honestidad?",
+        "challenge": "La doble inversión puede sentirse como estancamiento.",
+        "opportunity": "Un ajuste cuidadoso puede desbloquear la relación entre las cartas."
+      },
+      "love": {
+        "theme": "Un nudo privado",
+        "text": "Cuando una pareja de cartas está ambas invertidas, la conexión entre ellas puede ser privada, retrasada, bloqueada o estar pidiendo reparación.",
+        "advice": "Lee la pareja como un nudo que puede aflojarse, no como una sentencia que aceptar.",
+        "journalPrompt": "¿Qué necesita esta pareja antes de que su energía pueda moverse con honestidad?",
+        "challenge": "La doble inversión puede sentirse como estancamiento.",
+        "opportunity": "Un ajuste cuidadoso puede desbloquear la relación entre las cartas."
+      },
+      "career": {
+        "theme": "Un nudo privado",
+        "text": "Cuando una pareja de cartas está ambas invertidas, la conexión entre ellas puede ser privada, retrasada, bloqueada o estar pidiendo reparación.",
+        "advice": "Lee la pareja como un nudo que puede aflojarse, no como una sentencia que aceptar.",
+        "journalPrompt": "¿Qué necesita esta pareja antes de que su energía pueda moverse con honestidad?",
+        "challenge": "La doble inversión puede sentirse como estancamiento.",
+        "opportunity": "Un ajuste cuidadoso puede desbloquear la relación entre las cartas."
+      },
+      "money": {
+        "theme": "Un nudo privado",
+        "text": "Cuando una pareja de cartas está ambas invertidas, la conexión entre ellas puede ser privada, retrasada, bloqueada o estar pidiendo reparación.",
+        "advice": "Lee la pareja como un nudo que puede aflojarse, no como una sentencia que aceptar.",
+        "journalPrompt": "¿Qué necesita esta pareja antes de que su energía pueda moverse con honestidad?",
+        "challenge": "La doble inversión puede sentirse como estancamiento.",
+        "opportunity": "Un ajuste cuidadoso puede desbloquear la relación entre las cartas."
+      },
+      "growth": {
+        "theme": "Un nudo privado",
+        "text": "Cuando una pareja de cartas está ambas invertidas, la conexión entre ellas puede ser privada, retrasada, bloqueada o estar pidiendo reparación.",
+        "advice": "Lee la pareja como un nudo que puede aflojarse, no como una sentencia que aceptar.",
+        "journalPrompt": "¿Qué necesita esta pareja antes de que su energía pueda moverse con honestidad?",
+        "challenge": "La doble inversión puede sentirse como estancamiento.",
+        "opportunity": "Un ajuste cuidadoso puede desbloquear la relación entre las cartas."
+      }
+    },
+    "pair_reversed_to_upright": {
+      "general": {
+        "theme": "De lo oculto a lo disponible",
+        "text": "Una carta invertida que se mueve hacia una carta derecha sugiere un cambio desde trabajo interior hacia una expresión más clara.",
+        "advice": "Pregunta qué debe soltar o integrar la primera carta para que la segunda pueda vivirse con más plenitud.",
+        "journalPrompt": "¿Qué trabajo oculto sostiene la energía más clara que sigue?",
+        "challenge": "La transición puede pasar desapercibida si te enfocas solo en el bloqueo.",
+        "opportunity": "Un lugar bloqueado puede convertirse en fuente de movimiento."
+      },
+      "love": {
+        "theme": "De lo oculto a lo disponible",
+        "text": "Una carta invertida que se mueve hacia una carta derecha sugiere un cambio desde trabajo interior hacia una expresión más clara.",
+        "advice": "Pregunta qué debe soltar o integrar la primera carta para que la segunda pueda vivirse con más plenitud.",
+        "journalPrompt": "¿Qué trabajo oculto sostiene la energía más clara que sigue?",
+        "challenge": "La transición puede pasar desapercibida si te enfocas solo en el bloqueo.",
+        "opportunity": "Un lugar bloqueado puede convertirse en fuente de movimiento."
+      },
+      "career": {
+        "theme": "De lo oculto a lo disponible",
+        "text": "Una carta invertida que se mueve hacia una carta derecha sugiere un cambio desde trabajo interior hacia una expresión más clara.",
+        "advice": "Pregunta qué debe soltar o integrar la primera carta para que la segunda pueda vivirse con más plenitud.",
+        "journalPrompt": "¿Qué trabajo oculto sostiene la energía más clara que sigue?",
+        "challenge": "La transición puede pasar desapercibida si te enfocas solo en el bloqueo.",
+        "opportunity": "Un lugar bloqueado puede convertirse en fuente de movimiento."
+      },
+      "money": {
+        "theme": "De lo oculto a lo disponible",
+        "text": "Una carta invertida que se mueve hacia una carta derecha sugiere un cambio desde trabajo interior hacia una expresión más clara.",
+        "advice": "Pregunta qué debe soltar o integrar la primera carta para que la segunda pueda vivirse con más plenitud.",
+        "journalPrompt": "¿Qué trabajo oculto sostiene la energía más clara que sigue?",
+        "challenge": "La transición puede pasar desapercibida si te enfocas solo en el bloqueo.",
+        "opportunity": "Un lugar bloqueado puede convertirse en fuente de movimiento."
+      },
+      "growth": {
+        "theme": "De lo oculto a lo disponible",
+        "text": "Una carta invertida que se mueve hacia una carta derecha sugiere un cambio desde trabajo interior hacia una expresión más clara.",
+        "advice": "Pregunta qué debe soltar o integrar la primera carta para que la segunda pueda vivirse con más plenitud.",
+        "journalPrompt": "¿Qué trabajo oculto sostiene la energía más clara que sigue?",
+        "challenge": "La transición puede pasar desapercibida si te enfocas solo en el bloqueo.",
+        "opportunity": "Un lugar bloqueado puede convertirse en fuente de movimiento."
+      }
+    },
+    "pair_upright_to_reversed": {
+      "general": {
+        "theme": "Una energía clara que necesita refinamiento",
+        "text": "Una carta derecha que se mueve hacia una invertida sugiere que una energía disponible puede necesitar ajuste antes de continuar.",
+        "advice": "No abandones el regalo de la primera carta; refina cómo se está llevando hacia adelante.",
+        "journalPrompt": "¿Qué buena energía necesita mejor tiempo, límites o arraigo?",
+        "challenge": "Una inversión posterior puede generar desánimo.",
+        "opportunity": "El refinamiento puede preservar lo valioso."
+      },
+      "love": {
+        "theme": "Una energía clara que necesita refinamiento",
+        "text": "Una carta derecha que se mueve hacia una invertida sugiere que una energía disponible puede necesitar ajuste antes de continuar.",
+        "advice": "No abandones el regalo de la primera carta; refina cómo se está llevando hacia adelante.",
+        "journalPrompt": "¿Qué buena energía necesita mejor tiempo, límites o arraigo?",
+        "challenge": "Una inversión posterior puede generar desánimo.",
+        "opportunity": "El refinamiento puede preservar lo valioso."
+      },
+      "career": {
+        "theme": "Una energía clara que necesita refinamiento",
+        "text": "Una carta derecha que se mueve hacia una invertida sugiere que una energía disponible puede necesitar ajuste antes de continuar.",
+        "advice": "No abandones el regalo de la primera carta; refina cómo se está llevando hacia adelante.",
+        "journalPrompt": "¿Qué buena energía necesita mejor tiempo, límites o arraigo?",
+        "challenge": "Una inversión posterior puede generar desánimo.",
+        "opportunity": "El refinamiento puede preservar lo valioso."
+      },
+      "money": {
+        "theme": "Una energía clara que necesita refinamiento",
+        "text": "Una carta derecha que se mueve hacia una invertida sugiere que una energía disponible puede necesitar ajuste antes de continuar.",
+        "advice": "No abandones el regalo de la primera carta; refina cómo se está llevando hacia adelante.",
+        "journalPrompt": "¿Qué buena energía necesita mejor tiempo, límites o arraigo?",
+        "challenge": "Una inversión posterior puede generar desánimo.",
+        "opportunity": "El refinamiento puede preservar lo valioso."
+      },
+      "growth": {
+        "theme": "Una energía clara que necesita refinamiento",
+        "text": "Una carta derecha que se mueve hacia una invertida sugiere que una energía disponible puede necesitar ajuste antes de continuar.",
+        "advice": "No abandones el regalo de la primera carta; refina cómo se está llevando hacia adelante.",
+        "journalPrompt": "¿Qué buena energía necesita mejor tiempo, límites o arraigo?",
+        "challenge": "Una inversión posterior puede generar desánimo.",
+        "opportunity": "El refinamiento puede preservar lo valioso."
+      }
+    },
+    "alternating_orientations": {
+      "general": {
+        "theme": "Fluir, pausar, fluir",
+        "text": "El patrón alternado muestra movimiento interrumpido por reflexión, como si el camino te pidiera pausar en medio antes de continuar.",
+        "advice": "Confía en el ritmo: acción, ajuste, acción puede ser más sabio que velocidad constante.",
+        "journalPrompt": "¿Dónde una pausa mejora el movimiento en lugar de detenerlo?",
+        "challenge": "La pausa puede sentirse como contradicción.",
+        "opportunity": "El ritmo puede hacer que el progreso sea más sostenible."
+      },
+      "love": {
+        "theme": "Fluir, pausar, fluir",
+        "text": "El patrón alternado muestra movimiento interrumpido por reflexión, como si el camino te pidiera pausar en medio antes de continuar.",
+        "advice": "Confía en el ritmo: acción, ajuste, acción puede ser más sabio que velocidad constante.",
+        "journalPrompt": "¿Dónde una pausa mejora el movimiento en lugar de detenerlo?",
+        "challenge": "La pausa puede sentirse como contradicción.",
+        "opportunity": "El ritmo puede hacer que el progreso sea más sostenible."
+      },
+      "career": {
+        "theme": "Fluir, pausar, fluir",
+        "text": "El patrón alternado muestra movimiento interrumpido por reflexión, como si el camino te pidiera pausar en medio antes de continuar.",
+        "advice": "Confía en el ritmo: acción, ajuste, acción puede ser más sabio que velocidad constante.",
+        "journalPrompt": "¿Dónde una pausa mejora el movimiento en lugar de detenerlo?",
+        "challenge": "La pausa puede sentirse como contradicción.",
+        "opportunity": "El ritmo puede hacer que el progreso sea más sostenible."
+      },
+      "money": {
+        "theme": "Fluir, pausar, fluir",
+        "text": "El patrón alternado muestra movimiento interrumpido por reflexión, como si el camino te pidiera pausar en medio antes de continuar.",
+        "advice": "Confía en el ritmo: acción, ajuste, acción puede ser más sabio que velocidad constante.",
+        "journalPrompt": "¿Dónde una pausa mejora el movimiento en lugar de detenerlo?",
+        "challenge": "La pausa puede sentirse como contradicción.",
+        "opportunity": "El ritmo puede hacer que el progreso sea más sostenible."
+      },
+      "growth": {
+        "theme": "Fluir, pausar, fluir",
+        "text": "El patrón alternado muestra movimiento interrumpido por reflexión, como si el camino te pidiera pausar en medio antes de continuar.",
+        "advice": "Confía en el ritmo: acción, ajuste, acción puede ser más sabio que velocidad constante.",
+        "journalPrompt": "¿Dónde una pausa mejora el movimiento en lugar de detenerlo?",
+        "challenge": "La pausa puede sentirse como contradicción.",
+        "opportunity": "El ritmo puede hacer que el progreso sea más sostenible."
+      }
+    },
+    "no_reversals_gentle_confirmation": {
+      "general": {
+        "theme": "Mensaje directo",
+        "text": "Sin cartas invertidas presentes, la lectura puede estar ofreciendo su mensaje de una forma relativamente directa y accesible.",
+        "advice": "Empieza con los significados derechos y luego deja que tu intuición agregue matices sin complicar de más el mensaje.",
+        "journalPrompt": "¿Cuál es el mensaje honesto más simple aquí?",
+        "challenge": "La simplicidad puede confundirse con falta de profundidad.",
+        "opportunity": "Un mensaje claro puede ser más fácil de integrar."
+      },
+      "love": {
+        "theme": "Mensaje directo",
+        "text": "Sin cartas invertidas presentes, la lectura puede estar ofreciendo su mensaje de una forma relativamente directa y accesible.",
+        "advice": "Empieza con los significados derechos y luego deja que tu intuición agregue matices sin complicar de más el mensaje.",
+        "journalPrompt": "¿Cuál es el mensaje honesto más simple aquí?",
+        "challenge": "La simplicidad puede confundirse con falta de profundidad.",
+        "opportunity": "Un mensaje claro puede ser más fácil de integrar."
+      },
+      "career": {
+        "theme": "Mensaje directo",
+        "text": "Sin cartas invertidas presentes, la lectura puede estar ofreciendo su mensaje de una forma relativamente directa y accesible.",
+        "advice": "Empieza con los significados derechos y luego deja que tu intuición agregue matices sin complicar de más el mensaje.",
+        "journalPrompt": "¿Cuál es el mensaje honesto más simple aquí?",
+        "challenge": "La simplicidad puede confundirse con falta de profundidad.",
+        "opportunity": "Un mensaje claro puede ser más fácil de integrar."
+      },
+      "money": {
+        "theme": "Mensaje directo",
+        "text": "Sin cartas invertidas presentes, la lectura puede estar ofreciendo su mensaje de una forma relativamente directa y accesible.",
+        "advice": "Empieza con los significados derechos y luego deja que tu intuición agregue matices sin complicar de más el mensaje.",
+        "journalPrompt": "¿Cuál es el mensaje honesto más simple aquí?",
+        "challenge": "La simplicidad puede confundirse con falta de profundidad.",
+        "opportunity": "Un mensaje claro puede ser más fácil de integrar."
+      },
+      "growth": {
+        "theme": "Mensaje directo",
+        "text": "Sin cartas invertidas presentes, la lectura puede estar ofreciendo su mensaje de una forma relativamente directa y accesible.",
+        "advice": "Empieza con los significados derechos y luego deja que tu intuición agregue matices sin complicar de más el mensaje.",
+        "journalPrompt": "¿Cuál es el mensaje honesto más simple aquí?",
+        "challenge": "La simplicidad puede confundirse con falta de profundidad.",
+        "opportunity": "Un mensaje claro puede ser más fácil de integrar."
+      }
+    }
+  }
+}

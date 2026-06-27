@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 2,
+  "locale": "en",
+  "kind": "orientationRuleTexts",
+  "description": "English localized v2 texts for orientation-aware rules.",
+  "ruleTexts": {
+    "single_upright_message": {
+      "general": {
+        "theme": "Available energy",
+        "text": "The card is upright, so its message may be easier to meet directly in the outer situation.",
+        "advice": "Work with the card plainly: what quality is it asking you to notice, practice, or receive?",
+        "journalPrompt": "Where is this card's energy already visible in my life?",
+        "challenge": "A clear message can still be overlooked if it feels too simple.",
+        "opportunity": "Direct reflection can lead to a grounded next step."
+      },
+      "love": {
+        "theme": "Available energy",
+        "text": "The card is upright, so its message may be easier to meet directly in the outer situation.",
+        "advice": "Work with the card plainly: what quality is it asking you to notice, practice, or receive?",
+        "journalPrompt": "Where is this card's energy already visible in my life?",
+        "challenge": "A clear message can still be overlooked if it feels too simple.",
+        "opportunity": "Direct reflection can lead to a grounded next step."
+      },
+      "career": {
+        "theme": "Available energy",
+        "text": "The card is upright, so its message may be easier to meet directly in the outer situation.",
+        "advice": "Work with the card plainly: what quality is it asking you to notice, practice, or receive?",
+        "journalPrompt": "Where is this card's energy already visible in my life?",
+        "challenge": "A clear message can still be overlooked if it feels too simple.",
+        "opportunity": "Direct reflection can lead to a grounded next step."
+      },
+      "money": {
+        "theme": "Available energy",
+        "text": "The card is upright, so its message may be easier to meet directly in the outer situation.",
+        "advice": "Work with the card plainly: what quality is it asking you to notice, practice, or receive?",
+        "journalPrompt": "Where is this card's energy already visible in my life?",
+        "challenge": "A clear message can still be overlooked if it feels too simple.",
+        "opportunity": "Direct reflection can lead to a grounded next step."
+      },
+      "growth": {
+        "theme": "Available energy",
+        "text": "The card is upright, so its message may be easier to meet directly in the outer situation.",
+        "advice": "Work with the card plainly: what quality is it asking you to notice, practice, or receive?",
+        "journalPrompt": "Where is this card's energy already visible in my life?",
+        "challenge": "A clear message can still be overlooked if it feels too simple.",
+        "opportunity": "Direct reflection can lead to a grounded next step."
+      }
+    },
+    "single_reversed_reflection": {
+      "general": {
+        "theme": "Energy turned inward",
+        "text": "The card is reversed, so its message may be internal, delayed, blocked, or asking for gentler attention.",
+        "advice": "Read the reversal as an invitation to adjust and listen, not as a negative verdict.",
+        "journalPrompt": "Where is this energy asking for care, honesty, or release inside me?",
+        "challenge": "You may be tempted to treat delay or blockage as failure.",
+        "opportunity": "Inner work can make the outer step clearer."
+      },
+      "love": {
+        "theme": "Energy turned inward",
+        "text": "The card is reversed, so its message may be internal, delayed, blocked, or asking for gentler attention.",
+        "advice": "Read the reversal as an invitation to adjust and listen, not as a negative verdict.",
+        "journalPrompt": "Where is this energy asking for care, honesty, or release inside me?",
+        "challenge": "You may be tempted to treat delay or blockage as failure.",
+        "opportunity": "Inner work can make the outer step clearer."
+      },
+      "career": {
+        "theme": "Energy turned inward",
+        "text": "The card is reversed, so its message may be internal, delayed, blocked, or asking for gentler attention.",
+        "advice": "Read the reversal as an invitation to adjust and listen, not as a negative verdict.",
+        "journalPrompt": "Where is this energy asking for care, honesty, or release inside me?",
+        "challenge": "You may be tempted to treat delay or blockage as failure.",
+        "opportunity": "Inner work can make the outer step clearer."
+      },
+      "money": {
+        "theme": "Energy turned inward",
+        "text": "The card is reversed, so its message may be internal, delayed, blocked, or asking for gentler attention.",
+        "advice": "Read the reversal as an invitation to adjust and listen, not as a negative verdict.",
+        "journalPrompt": "Where is this energy asking for care, honesty, or release inside me?",
+        "challenge": "You may be tempted to treat delay or blockage as failure.",
+        "opportunity": "Inner work can make the outer step clearer."
+      },
+      "growth": {
+        "theme": "Energy turned inward",
+        "text": "The card is reversed, so its message may be internal, delayed, blocked, or asking for gentler attention.",
+        "advice": "Read the reversal as an invitation to adjust and listen, not as a negative verdict.",
+        "journalPrompt": "Where is this energy asking for care, honesty, or release inside me?",
+        "challenge": "You may be tempted to treat delay or blockage as failure.",
+        "opportunity": "Inner work can make the outer step clearer."
+      }
+    },
+    "all_upright_clear_flow": {
+      "general": {
+        "theme": "Clear outward flow",
+        "text": "All three cards are upright, giving the reading a feeling of directness, visibility, and available movement.",
+        "advice": "Let the message be simple without making it shallow; choose one conscious action that honors the flow.",
+        "journalPrompt": "What feels ready to move from reflection into practice?",
+        "challenge": "Flowing energy may tempt you to move faster than awareness.",
+        "opportunity": "The path may be easier to engage when you stay present."
+      },
+      "love": {
+        "theme": "Clear outward flow",
+        "text": "All three cards are upright, giving the reading a feeling of directness, visibility, and available movement.",
+        "advice": "Let the message be simple without making it shallow; choose one conscious action that honors the flow.",
+        "journalPrompt": "What feels ready to move from reflection into practice?",
+        "challenge": "Flowing energy may tempt you to move faster than awareness.",
+        "opportunity": "The path may be easier to engage when you stay present."
+      },
+      "career": {
+        "theme": "Clear outward flow",
+        "text": "All three cards are upright, giving the reading a feeling of directness, visibility, and available movement.",
+        "advice": "Let the message be simple without making it shallow; choose one conscious action that honors the flow.",
+        "journalPrompt": "What feels ready to move from reflection into practice?",
+        "challenge": "Flowing energy may tempt you to move faster than awareness.",
+        "opportunity": "The path may be easier to engage when you stay present."
+      },
+      "money": {
+        "theme": "Clear outward flow",
+        "text": "All three cards are upright, giving the reading a feeling of directness, visibility, and available movement.",
+        "advice": "Let the message be simple without making it shallow; choose one conscious action that honors the flow.",
+        "journalPrompt": "What feels ready to move from reflection into practice?",
+        "challenge": "Flowing energy may tempt you to move faster than awareness.",
+        "opportunity": "The path may be easier to engage when you stay present."
+      },
+      "growth": {
+        "theme": "Clear outward flow",
+        "text": "All three cards are upright, giving the reading a feeling of directness, visibility, and available movement.",
+        "advice": "Let the message be simple without making it shallow; choose one conscious action that honors the flow.",
+        "journalPrompt": "What feels ready to move from reflection into practice?",
+        "challenge": "Flowing energy may tempt you to move faster than awareness.",
+        "opportunity": "The path may be easier to engage when you stay present."
+      }
+    },
+    "all_reversed_inner_process": {
+      "general": {
+        "theme": "The inward chamber",
+        "text": "All three cards are reversed, turning the spread toward hidden, delayed, tender, or unfinished inner material.",
+        "advice": "Slow down and ask what needs repair, rest, honesty, or integration before it becomes outward action.",
+        "journalPrompt": "What is not ready to move outward because it still needs inner care?",
+        "challenge": "The reading may feel heavy if reversals are treated as bad signs.",
+        "opportunity": "Deep inner adjustment can become quiet liberation."
+      },
+      "love": {
+        "theme": "The inward chamber",
+        "text": "All three cards are reversed, turning the spread toward hidden, delayed, tender, or unfinished inner material.",
+        "advice": "Slow down and ask what needs repair, rest, honesty, or integration before it becomes outward action.",
+        "journalPrompt": "What is not ready to move outward because it still needs inner care?",
+        "challenge": "The reading may feel heavy if reversals are treated as bad signs.",
+        "opportunity": "Deep inner adjustment can become quiet liberation."
+      },
+      "career": {
+        "theme": "The inward chamber",
+        "text": "All three cards are reversed, turning the spread toward hidden, delayed, tender, or unfinished inner material.",
+        "advice": "Slow down and ask what needs repair, rest, honesty, or integration before it becomes outward action.",
+        "journalPrompt": "What is not ready to move outward because it still needs inner care?",
+        "challenge": "The reading may feel heavy if reversals are treated as bad signs.",
+        "opportunity": "Deep inner adjustment can become quiet liberation."
+      },
+      "money": {
+        "theme": "The inward chamber",
+        "text": "All three cards are reversed, turning the spread toward hidden, delayed, tender, or unfinished inner material.",
+        "advice": "Slow down and ask what needs repair, rest, honesty, or integration before it becomes outward action.",
+        "journalPrompt": "What is not ready to move outward because it still needs inner care?",
+        "challenge": "The reading may feel heavy if reversals are treated as bad signs.",
+        "opportunity": "Deep inner adjustment can become quiet liberation."
+      },
+      "growth": {
+        "theme": "The inward chamber",
+        "text": "All three cards are reversed, turning the spread toward hidden, delayed, tender, or unfinished inner material.",
+        "advice": "Slow down and ask what needs repair, rest, honesty, or integration before it becomes outward action.",
+        "journalPrompt": "What is not ready to move outward because it still needs inner care?",
+        "challenge": "The reading may feel heavy if reversals are treated as bad signs.",
+        "opportunity": "Deep inner adjustment can become quiet liberation."
+      }
+    },
+    "past_reversed_present_upright": {
+      "general": {
+        "theme": "Past blockage, present opening",
+        "text": "A reversed past card followed by an upright present card suggests that a past blockage may be loosening in the current moment.",
+        "advice": "Notice what is more available now than it used to be, and do not let old timing define the present.",
+        "journalPrompt": "What old blockage is no longer as powerful as it once was?",
+        "challenge": "Memory may insist nothing has changed.",
+        "opportunity": "The present can become a doorway out of an old pattern."
+      },
+      "love": {
+        "theme": "Past blockage, present opening",
+        "text": "A reversed past card followed by an upright present card suggests that a past blockage may be loosening in the current moment.",
+        "advice": "Notice what is more available now than it used to be, and do not let old timing define the present.",
+        "journalPrompt": "What old blockage is no longer as powerful as it once was?",
+        "challenge": "Memory may insist nothing has changed.",
+        "opportunity": "The present can become a doorway out of an old pattern."
+      },
+      "career": {
+        "theme": "Past blockage, present opening",
+        "text": "A reversed past card followed by an upright present card suggests that a past blockage may be loosening in the current moment.",
+        "advice": "Notice what is more available now than it used to be, and do not let old timing define the present.",
+        "journalPrompt": "What old blockage is no longer as powerful as it once was?",
+        "challenge": "Memory may insist nothing has changed.",
+        "opportunity": "The present can become a doorway out of an old pattern."
+      },
+      "money": {
+        "theme": "Past blockage, present opening",
+        "text": "A reversed past card followed by an upright present card suggests that a past blockage may be loosening in the current moment.",
+        "advice": "Notice what is more available now than it used to be, and do not let old timing define the present.",
+        "journalPrompt": "What old blockage is no longer as powerful as it once was?",
+        "challenge": "Memory may insist nothing has changed.",
+        "opportunity": "The present can become a doorway out of an old pattern."
+      },
+      "growth": {
+        "theme": "Past blockage, present opening",
+        "text": "A reversed past card followed by an upright present card suggests that a past blockage may be loosening in the current moment.",
+        "advice": "Notice what is more available now than it used to be, and do not let old timing define the present.",
+        "journalPrompt": "What old blockage is no longer as powerful as it once was?",
+        "challenge": "Memory may insist nothing has changed.",
+        "opportunity": "The present can become a doorway out of an old pattern."
+      }
+    },
+    "present_reversed_future_upright": {
+      "general": {
+        "theme": "Current tension, future opening",
+        "text": "A reversed present card with an upright future card suggests that the current blockage may become workable if it is met honestly.",
+        "advice": "Give attention to the present friction; the future opens through integration, not denial.",
+        "journalPrompt": "What needs care now so the next step can become freer?",
+        "challenge": "It may be tempting to skip over the present discomfort.",
+        "opportunity": "Careful attention now can make later movement cleaner."
+      },
+      "love": {
+        "theme": "Current tension, future opening",
+        "text": "A reversed present card with an upright future card suggests that the current blockage may become workable if it is met honestly.",
+        "advice": "Give attention to the present friction; the future opens through integration, not denial.",
+        "journalPrompt": "What needs care now so the next step can become freer?",
+        "challenge": "It may be tempting to skip over the present discomfort.",
+        "opportunity": "Careful attention now can make later movement cleaner."
+      },
+      "career": {
+        "theme": "Current tension, future opening",
+        "text": "A reversed present card with an upright future card suggests that the current blockage may become workable if it is met honestly.",
+        "advice": "Give attention to the present friction; the future opens through integration, not denial.",
+        "journalPrompt": "What needs care now so the next step can become freer?",
+        "challenge": "It may be tempting to skip over the present discomfort.",
+        "opportunity": "Careful attention now can make later movement cleaner."
+      },
+      "money": {
+        "theme": "Current tension, future opening",
+        "text": "A reversed present card with an upright future card suggests that the current blockage may become workable if it is met honestly.",
+        "advice": "Give attention to the present friction; the future opens through integration, not denial.",
+        "journalPrompt": "What needs care now so the next step can become freer?",
+        "challenge": "It may be tempting to skip over the present discomfort.",
+        "opportunity": "Careful attention now can make later movement cleaner."
+      },
+      "growth": {
+        "theme": "Current tension, future opening",
+        "text": "A reversed present card with an upright future card suggests that the current blockage may become workable if it is met honestly.",
+        "advice": "Give attention to the present friction; the future opens through integration, not denial.",
+        "journalPrompt": "What needs care now so the next step can become freer?",
+        "challenge": "It may be tempting to skip over the present discomfort.",
+        "opportunity": "Careful attention now can make later movement cleaner."
+      }
+    },
+    "future_reversed_attention_needed": {
+      "general": {
+        "theme": "A future energy asking for care",
+        "text": "A reversed future card does not predict failure; it highlights an energy that may need attention before it can express well.",
+        "advice": "Ask what preparation, boundary, repair, or grounding would help that future energy unfold more cleanly.",
+        "journalPrompt": "What can I tend now so this possible future feels less blocked?",
+        "challenge": "You may read caution as certainty.",
+        "opportunity": "Awareness now can change how the path is met."
+      },
+      "love": {
+        "theme": "A future energy asking for care",
+        "text": "A reversed future card does not predict failure; it highlights an energy that may need attention before it can express well.",
+        "advice": "Ask what preparation, boundary, repair, or grounding would help that future energy unfold more cleanly.",
+        "journalPrompt": "What can I tend now so this possible future feels less blocked?",
+        "challenge": "You may read caution as certainty.",
+        "opportunity": "Awareness now can change how the path is met."
+      },
+      "career": {
+        "theme": "A future energy asking for care",
+        "text": "A reversed future card does not predict failure; it highlights an energy that may need attention before it can express well.",
+        "advice": "Ask what preparation, boundary, repair, or grounding would help that future energy unfold more cleanly.",
+        "journalPrompt": "What can I tend now so this possible future feels less blocked?",
+        "challenge": "You may read caution as certainty.",
+        "opportunity": "Awareness now can change how the path is met."
+      },
+      "money": {
+        "theme": "A future energy asking for care",
+        "text": "A reversed future card does not predict failure; it highlights an energy that may need attention before it can express well.",
+        "advice": "Ask what preparation, boundary, repair, or grounding would help that future energy unfold more cleanly.",
+        "journalPrompt": "What can I tend now so this possible future feels less blocked?",
+        "challenge": "You may read caution as certainty.",
+        "opportunity": "Awareness now can change how the path is met."
+      },
+      "growth": {
+        "theme": "A future energy asking for care",
+        "text": "A reversed future card does not predict failure; it highlights an energy that may need attention before it can express well.",
+        "advice": "Ask what preparation, boundary, repair, or grounding would help that future energy unfold more cleanly.",
+        "journalPrompt": "What can I tend now so this possible future feels less blocked?",
+        "challenge": "You may read caution as certainty.",
+        "opportunity": "Awareness now can change how the path is met."
+      }
+    },
+    "past_upright_present_reversed": {
+      "general": {
+        "theme": "A present complication",
+        "text": "An upright past followed by a reversed present suggests that something once clear may now need review, adjustment, or renewed honesty.",
+        "advice": "Do not assume the old method still fits; ask what has changed in the current energy.",
+        "journalPrompt": "What used to work that now needs a different approach?",
+        "challenge": "Nostalgia may make the present harder to see clearly.",
+        "opportunity": "A timely adjustment can protect what still matters."
+      },
+      "love": {
+        "theme": "A present complication",
+        "text": "An upright past followed by a reversed present suggests that something once clear may now need review, adjustment, or renewed honesty.",
+        "advice": "Do not assume the old method still fits; ask what has changed in the current energy.",
+        "journalPrompt": "What used to work that now needs a different approach?",
+        "challenge": "Nostalgia may make the present harder to see clearly.",
+        "opportunity": "A timely adjustment can protect what still matters."
+      },
+      "career": {
+        "theme": "A present complication",
+        "text": "An upright past followed by a reversed present suggests that something once clear may now need review, adjustment, or renewed honesty.",
+        "advice": "Do not assume the old method still fits; ask what has changed in the current energy.",
+        "journalPrompt": "What used to work that now needs a different approach?",
+        "challenge": "Nostalgia may make the present harder to see clearly.",
+        "opportunity": "A timely adjustment can protect what still matters."
+      },
+      "money": {
+        "theme": "A present complication",
+        "text": "An upright past followed by a reversed present suggests that something once clear may now need review, adjustment, or renewed honesty.",
+        "advice": "Do not assume the old method still fits; ask what has changed in the current energy.",
+        "journalPrompt": "What used to work that now needs a different approach?",
+        "challenge": "Nostalgia may make the present harder to see clearly.",
+        "opportunity": "A timely adjustment can protect what still matters."
+      },
+      "growth": {
+        "theme": "A present complication",
+        "text": "An upright past followed by a reversed present suggests that something once clear may now need review, adjustment, or renewed honesty.",
+        "advice": "Do not assume the old method still fits; ask what has changed in the current energy.",
+        "journalPrompt": "What used to work that now needs a different approach?",
+        "challenge": "Nostalgia may make the present harder to see clearly.",
+        "opportunity": "A timely adjustment can protect what still matters."
+      }
+    },
+    "two_reversed_one_upright": {
+      "general": {
+        "theme": "One light in the inward work",
+        "text": "Two reversed cards and one upright card suggest that much of the reading is inward, but one energy may already be available as support.",
+        "advice": "Find the upright card and let it become the handle for working with the more tender material.",
+        "journalPrompt": "Which part of this reading feels available enough to support the rest?",
+        "challenge": "The reversed cards may draw all your attention.",
+        "opportunity": "One clear resource can help unlock the blocked places."
+      },
+      "love": {
+        "theme": "One light in the inward work",
+        "text": "Two reversed cards and one upright card suggest that much of the reading is inward, but one energy may already be available as support.",
+        "advice": "Find the upright card and let it become the handle for working with the more tender material.",
+        "journalPrompt": "Which part of this reading feels available enough to support the rest?",
+        "challenge": "The reversed cards may draw all your attention.",
+        "opportunity": "One clear resource can help unlock the blocked places."
+      },
+      "career": {
+        "theme": "One light in the inward work",
+        "text": "Two reversed cards and one upright card suggest that much of the reading is inward, but one energy may already be available as support.",
+        "advice": "Find the upright card and let it become the handle for working with the more tender material.",
+        "journalPrompt": "Which part of this reading feels available enough to support the rest?",
+        "challenge": "The reversed cards may draw all your attention.",
+        "opportunity": "One clear resource can help unlock the blocked places."
+      },
+      "money": {
+        "theme": "One light in the inward work",
+        "text": "Two reversed cards and one upright card suggest that much of the reading is inward, but one energy may already be available as support.",
+        "advice": "Find the upright card and let it become the handle for working with the more tender material.",
+        "journalPrompt": "Which part of this reading feels available enough to support the rest?",
+        "challenge": "The reversed cards may draw all your attention.",
+        "opportunity": "One clear resource can help unlock the blocked places."
+      },
+      "growth": {
+        "theme": "One light in the inward work",
+        "text": "Two reversed cards and one upright card suggest that much of the reading is inward, but one energy may already be available as support.",
+        "advice": "Find the upright card and let it become the handle for working with the more tender material.",
+        "journalPrompt": "Which part of this reading feels available enough to support the rest?",
+        "challenge": "The reversed cards may draw all your attention.",
+        "opportunity": "One clear resource can help unlock the blocked places."
+      }
+    },
+    "one_reversed_two_upright": {
+      "general": {
+        "theme": "One tender point in a flowing spread",
+        "text": "One reversed card among two upright cards suggests a mostly available path with one area needing extra care.",
+        "advice": "Do not let one tender point cancel the whole reading; let it show where refinement is needed.",
+        "journalPrompt": "Which part of the path is flowing, and which part asks for gentleness?",
+        "challenge": "A single blockage may feel larger than it is.",
+        "opportunity": "Focused care can support the whole spread."
+      },
+      "love": {
+        "theme": "One tender point in a flowing spread",
+        "text": "One reversed card among two upright cards suggests a mostly available path with one area needing extra care.",
+        "advice": "Do not let one tender point cancel the whole reading; let it show where refinement is needed.",
+        "journalPrompt": "Which part of the path is flowing, and which part asks for gentleness?",
+        "challenge": "A single blockage may feel larger than it is.",
+        "opportunity": "Focused care can support the whole spread."
+      },
+      "career": {
+        "theme": "One tender point in a flowing spread",
+        "text": "One reversed card among two upright cards suggests a mostly available path with one area needing extra care.",
+        "advice": "Do not let one tender point cancel the whole reading; let it show where refinement is needed.",
+        "journalPrompt": "Which part of the path is flowing, and which part asks for gentleness?",
+        "challenge": "A single blockage may feel larger than it is.",
+        "opportunity": "Focused care can support the whole spread."
+      },
+      "money": {
+        "theme": "One tender point in a flowing spread",
+        "text": "One reversed card among two upright cards suggests a mostly available path with one area needing extra care.",
+        "advice": "Do not let one tender point cancel the whole reading; let it show where refinement is needed.",
+        "journalPrompt": "Which part of the path is flowing, and which part asks for gentleness?",
+        "challenge": "A single blockage may feel larger than it is.",
+        "opportunity": "Focused care can support the whole spread."
+      },
+      "growth": {
+        "theme": "One tender point in a flowing spread",
+        "text": "One reversed card among two upright cards suggests a mostly available path with one area needing extra care.",
+        "advice": "Do not let one tender point cancel the whole reading; let it show where refinement is needed.",
+        "journalPrompt": "Which part of the path is flowing, and which part asks for gentleness?",
+        "challenge": "A single blockage may feel larger than it is.",
+        "opportunity": "Focused care can support the whole spread."
+      }
+    },
+    "reversed_to_upright_to_upright": {
+      "general": {
+        "theme": "Unblocking into movement",
+        "text": "The spread begins reversed and then turns upright, suggesting a movement from inward blockage toward clearer engagement.",
+        "advice": "Honor the starting difficulty, then notice how the later cards invite participation.",
+        "journalPrompt": "What helps me move from internal resistance toward available action?",
+        "challenge": "The first blockage may color the whole story.",
+        "opportunity": "The path can become lighter as the energy is worked with."
+      },
+      "love": {
+        "theme": "Unblocking into movement",
+        "text": "The spread begins reversed and then turns upright, suggesting a movement from inward blockage toward clearer engagement.",
+        "advice": "Honor the starting difficulty, then notice how the later cards invite participation.",
+        "journalPrompt": "What helps me move from internal resistance toward available action?",
+        "challenge": "The first blockage may color the whole story.",
+        "opportunity": "The path can become lighter as the energy is worked with."
+      },
+      "career": {
+        "theme": "Unblocking into movement",
+        "text": "The spread begins reversed and then turns upright, suggesting a movement from inward blockage toward clearer engagement.",
+        "advice": "Honor the starting difficulty, then notice how the later cards invite participation.",
+        "journalPrompt": "What helps me move from internal resistance toward available action?",
+        "challenge": "The first blockage may color the whole story.",
+        "opportunity": "The path can become lighter as the energy is worked with."
+      },
+      "money": {
+        "theme": "Unblocking into movement",
+        "text": "The spread begins reversed and then turns upright, suggesting a movement from inward blockage toward clearer engagement.",
+        "advice": "Honor the starting difficulty, then notice how the later cards invite participation.",
+        "journalPrompt": "What helps me move from internal resistance toward available action?",
+        "challenge": "The first blockage may color the whole story.",
+        "opportunity": "The path can become lighter as the energy is worked with."
+      },
+      "growth": {
+        "theme": "Unblocking into movement",
+        "text": "The spread begins reversed and then turns upright, suggesting a movement from inward blockage toward clearer engagement.",
+        "advice": "Honor the starting difficulty, then notice how the later cards invite participation.",
+        "journalPrompt": "What helps me move from internal resistance toward available action?",
+        "challenge": "The first blockage may color the whole story.",
+        "opportunity": "The path can become lighter as the energy is worked with."
+      }
+    },
+    "upright_to_reversed_to_upright": {
+      "general": {
+        "theme": "The middle asks for attention",
+        "text": "An upright-reversed-upright pattern suggests that the center of the reading holds the main adjustment point.",
+        "advice": "Treat the present card as the hinge: what needs to be understood, softened, or corrected now?",
+        "journalPrompt": "What present adjustment would help the whole story flow better?",
+        "challenge": "The beginning and future may distract from the current work.",
+        "opportunity": "Caring for the middle can align the path."
+      },
+      "love": {
+        "theme": "The middle asks for attention",
+        "text": "An upright-reversed-upright pattern suggests that the center of the reading holds the main adjustment point.",
+        "advice": "Treat the present card as the hinge: what needs to be understood, softened, or corrected now?",
+        "journalPrompt": "What present adjustment would help the whole story flow better?",
+        "challenge": "The beginning and future may distract from the current work.",
+        "opportunity": "Caring for the middle can align the path."
+      },
+      "career": {
+        "theme": "The middle asks for attention",
+        "text": "An upright-reversed-upright pattern suggests that the center of the reading holds the main adjustment point.",
+        "advice": "Treat the present card as the hinge: what needs to be understood, softened, or corrected now?",
+        "journalPrompt": "What present adjustment would help the whole story flow better?",
+        "challenge": "The beginning and future may distract from the current work.",
+        "opportunity": "Caring for the middle can align the path."
+      },
+      "money": {
+        "theme": "The middle asks for attention",
+        "text": "An upright-reversed-upright pattern suggests that the center of the reading holds the main adjustment point.",
+        "advice": "Treat the present card as the hinge: what needs to be understood, softened, or corrected now?",
+        "journalPrompt": "What present adjustment would help the whole story flow better?",
+        "challenge": "The beginning and future may distract from the current work.",
+        "opportunity": "Caring for the middle can align the path."
+      },
+      "growth": {
+        "theme": "The middle asks for attention",
+        "text": "An upright-reversed-upright pattern suggests that the center of the reading holds the main adjustment point.",
+        "advice": "Treat the present card as the hinge: what needs to be understood, softened, or corrected now?",
+        "journalPrompt": "What present adjustment would help the whole story flow better?",
+        "challenge": "The beginning and future may distract from the current work.",
+        "opportunity": "Caring for the middle can align the path."
+      }
+    },
+    "upright_upright_reversed": {
+      "general": {
+        "theme": "A caution at the edge",
+        "text": "Two upright cards followed by a reversed future card suggest that the path has available energy, but its next expression may need preparation.",
+        "advice": "Let momentum continue, while strengthening the area that could become blocked or unbalanced.",
+        "journalPrompt": "What future complication can I prepare for with calm awareness?",
+        "challenge": "Early flow may make preparation seem unnecessary.",
+        "opportunity": "Gentle caution can protect the progress already made."
+      },
+      "love": {
+        "theme": "A caution at the edge",
+        "text": "Two upright cards followed by a reversed future card suggest that the path has available energy, but its next expression may need preparation.",
+        "advice": "Let momentum continue, while strengthening the area that could become blocked or unbalanced.",
+        "journalPrompt": "What future complication can I prepare for with calm awareness?",
+        "challenge": "Early flow may make preparation seem unnecessary.",
+        "opportunity": "Gentle caution can protect the progress already made."
+      },
+      "career": {
+        "theme": "A caution at the edge",
+        "text": "Two upright cards followed by a reversed future card suggest that the path has available energy, but its next expression may need preparation.",
+        "advice": "Let momentum continue, while strengthening the area that could become blocked or unbalanced.",
+        "journalPrompt": "What future complication can I prepare for with calm awareness?",
+        "challenge": "Early flow may make preparation seem unnecessary.",
+        "opportunity": "Gentle caution can protect the progress already made."
+      },
+      "money": {
+        "theme": "A caution at the edge",
+        "text": "Two upright cards followed by a reversed future card suggest that the path has available energy, but its next expression may need preparation.",
+        "advice": "Let momentum continue, while strengthening the area that could become blocked or unbalanced.",
+        "journalPrompt": "What future complication can I prepare for with calm awareness?",
+        "challenge": "Early flow may make preparation seem unnecessary.",
+        "opportunity": "Gentle caution can protect the progress already made."
+      },
+      "growth": {
+        "theme": "A caution at the edge",
+        "text": "Two upright cards followed by a reversed future card suggest that the path has available energy, but its next expression may need preparation.",
+        "advice": "Let momentum continue, while strengthening the area that could become blocked or unbalanced.",
+        "journalPrompt": "What future complication can I prepare for with calm awareness?",
+        "challenge": "Early flow may make preparation seem unnecessary.",
+        "opportunity": "Gentle caution can protect the progress already made."
+      }
+    },
+    "pair_both_reversed": {
+      "general": {
+        "theme": "A private knot",
+        "text": "When a matched pair is both reversed, the connection between them may be private, delayed, blocked, or asking for repair.",
+        "advice": "Read the pair as a knot to loosen, not as a sentence to accept.",
+        "journalPrompt": "What does this pair need before its energy can move honestly?",
+        "challenge": "Double reversal may feel like stuckness.",
+        "opportunity": "A careful adjustment can unlock the relationship between the cards."
+      },
+      "love": {
+        "theme": "A private knot",
+        "text": "When a matched pair is both reversed, the connection between them may be private, delayed, blocked, or asking for repair.",
+        "advice": "Read the pair as a knot to loosen, not as a sentence to accept.",
+        "journalPrompt": "What does this pair need before its energy can move honestly?",
+        "challenge": "Double reversal may feel like stuckness.",
+        "opportunity": "A careful adjustment can unlock the relationship between the cards."
+      },
+      "career": {
+        "theme": "A private knot",
+        "text": "When a matched pair is both reversed, the connection between them may be private, delayed, blocked, or asking for repair.",
+        "advice": "Read the pair as a knot to loosen, not as a sentence to accept.",
+        "journalPrompt": "What does this pair need before its energy can move honestly?",
+        "challenge": "Double reversal may feel like stuckness.",
+        "opportunity": "A careful adjustment can unlock the relationship between the cards."
+      },
+      "money": {
+        "theme": "A private knot",
+        "text": "When a matched pair is both reversed, the connection between them may be private, delayed, blocked, or asking for repair.",
+        "advice": "Read the pair as a knot to loosen, not as a sentence to accept.",
+        "journalPrompt": "What does this pair need before its energy can move honestly?",
+        "challenge": "Double reversal may feel like stuckness.",
+        "opportunity": "A careful adjustment can unlock the relationship between the cards."
+      },
+      "growth": {
+        "theme": "A private knot",
+        "text": "When a matched pair is both reversed, the connection between them may be private, delayed, blocked, or asking for repair.",
+        "advice": "Read the pair as a knot to loosen, not as a sentence to accept.",
+        "journalPrompt": "What does this pair need before its energy can move honestly?",
+        "challenge": "Double reversal may feel like stuckness.",
+        "opportunity": "A careful adjustment can unlock the relationship between the cards."
+      }
+    },
+    "pair_reversed_to_upright": {
+      "general": {
+        "theme": "From hidden to available",
+        "text": "A reversed card moving into an upright card suggests a shift from inner work toward clearer expression.",
+        "advice": "Ask what the first card must release or integrate so the second card can be lived more fully.",
+        "journalPrompt": "What hidden work supports the clearer energy that follows?",
+        "challenge": "The transition may be missed if you focus only on the blockage.",
+        "opportunity": "A blocked place can become the source of movement."
+      },
+      "love": {
+        "theme": "From hidden to available",
+        "text": "A reversed card moving into an upright card suggests a shift from inner work toward clearer expression.",
+        "advice": "Ask what the first card must release or integrate so the second card can be lived more fully.",
+        "journalPrompt": "What hidden work supports the clearer energy that follows?",
+        "challenge": "The transition may be missed if you focus only on the blockage.",
+        "opportunity": "A blocked place can become the source of movement."
+      },
+      "career": {
+        "theme": "From hidden to available",
+        "text": "A reversed card moving into an upright card suggests a shift from inner work toward clearer expression.",
+        "advice": "Ask what the first card must release or integrate so the second card can be lived more fully.",
+        "journalPrompt": "What hidden work supports the clearer energy that follows?",
+        "challenge": "The transition may be missed if you focus only on the blockage.",
+        "opportunity": "A blocked place can become the source of movement."
+      },
+      "money": {
+        "theme": "From hidden to available",
+        "text": "A reversed card moving into an upright card suggests a shift from inner work toward clearer expression.",
+        "advice": "Ask what the first card must release or integrate so the second card can be lived more fully.",
+        "journalPrompt": "What hidden work supports the clearer energy that follows?",
+        "challenge": "The transition may be missed if you focus only on the blockage.",
+        "opportunity": "A blocked place can become the source of movement."
+      },
+      "growth": {
+        "theme": "From hidden to available",
+        "text": "A reversed card moving into an upright card suggests a shift from inner work toward clearer expression.",
+        "advice": "Ask what the first card must release or integrate so the second card can be lived more fully.",
+        "journalPrompt": "What hidden work supports the clearer energy that follows?",
+        "challenge": "The transition may be missed if you focus only on the blockage.",
+        "opportunity": "A blocked place can become the source of movement."
+      }
+    },
+    "pair_upright_to_reversed": {
+      "general": {
+        "theme": "A clear energy needing refinement",
+        "text": "An upright card moving into a reversed card suggests that available energy may need adjustment before it continues.",
+        "advice": "Do not abandon the first card's gift; refine how it is being carried forward.",
+        "journalPrompt": "What good energy needs better timing, boundaries, or grounding?",
+        "challenge": "A later reversal may create discouragement.",
+        "opportunity": "Refinement can preserve what is valuable."
+      },
+      "love": {
+        "theme": "A clear energy needing refinement",
+        "text": "An upright card moving into a reversed card suggests that available energy may need adjustment before it continues.",
+        "advice": "Do not abandon the first card's gift; refine how it is being carried forward.",
+        "journalPrompt": "What good energy needs better timing, boundaries, or grounding?",
+        "challenge": "A later reversal may create discouragement.",
+        "opportunity": "Refinement can preserve what is valuable."
+      },
+      "career": {
+        "theme": "A clear energy needing refinement",
+        "text": "An upright card moving into a reversed card suggests that available energy may need adjustment before it continues.",
+        "advice": "Do not abandon the first card's gift; refine how it is being carried forward.",
+        "journalPrompt": "What good energy needs better timing, boundaries, or grounding?",
+        "challenge": "A later reversal may create discouragement.",
+        "opportunity": "Refinement can preserve what is valuable."
+      },
+      "money": {
+        "theme": "A clear energy needing refinement",
+        "text": "An upright card moving into a reversed card suggests that available energy may need adjustment before it continues.",
+        "advice": "Do not abandon the first card's gift; refine how it is being carried forward.",
+        "journalPrompt": "What good energy needs better timing, boundaries, or grounding?",
+        "challenge": "A later reversal may create discouragement.",
+        "opportunity": "Refinement can preserve what is valuable."
+      },
+      "growth": {
+        "theme": "A clear energy needing refinement",
+        "text": "An upright card moving into a reversed card suggests that available energy may need adjustment before it continues.",
+        "advice": "Do not abandon the first card's gift; refine how it is being carried forward.",
+        "journalPrompt": "What good energy needs better timing, boundaries, or grounding?",
+        "challenge": "A later reversal may create discouragement.",
+        "opportunity": "Refinement can preserve what is valuable."
+      }
+    },
+    "alternating_orientations": {
+      "general": {
+        "theme": "Flow, pause, flow",
+        "text": "The alternating pattern shows movement interrupted by reflection, as if the path is asking you to pause in the middle before continuing.",
+        "advice": "Trust the rhythm: action, adjustment, action can be wiser than constant speed.",
+        "journalPrompt": "Where does a pause improve the movement rather than stop it?",
+        "challenge": "The pause may feel like contradiction.",
+        "opportunity": "Rhythm can make progress more sustainable."
+      },
+      "love": {
+        "theme": "Flow, pause, flow",
+        "text": "The alternating pattern shows movement interrupted by reflection, as if the path is asking you to pause in the middle before continuing.",
+        "advice": "Trust the rhythm: action, adjustment, action can be wiser than constant speed.",
+        "journalPrompt": "Where does a pause improve the movement rather than stop it?",
+        "challenge": "The pause may feel like contradiction.",
+        "opportunity": "Rhythm can make progress more sustainable."
+      },
+      "career": {
+        "theme": "Flow, pause, flow",
+        "text": "The alternating pattern shows movement interrupted by reflection, as if the path is asking you to pause in the middle before continuing.",
+        "advice": "Trust the rhythm: action, adjustment, action can be wiser than constant speed.",
+        "journalPrompt": "Where does a pause improve the movement rather than stop it?",
+        "challenge": "The pause may feel like contradiction.",
+        "opportunity": "Rhythm can make progress more sustainable."
+      },
+      "money": {
+        "theme": "Flow, pause, flow",
+        "text": "The alternating pattern shows movement interrupted by reflection, as if the path is asking you to pause in the middle before continuing.",
+        "advice": "Trust the rhythm: action, adjustment, action can be wiser than constant speed.",
+        "journalPrompt": "Where does a pause improve the movement rather than stop it?",
+        "challenge": "The pause may feel like contradiction.",
+        "opportunity": "Rhythm can make progress more sustainable."
+      },
+      "growth": {
+        "theme": "Flow, pause, flow",
+        "text": "The alternating pattern shows movement interrupted by reflection, as if the path is asking you to pause in the middle before continuing.",
+        "advice": "Trust the rhythm: action, adjustment, action can be wiser than constant speed.",
+        "journalPrompt": "Where does a pause improve the movement rather than stop it?",
+        "challenge": "The pause may feel like contradiction.",
+        "opportunity": "Rhythm can make progress more sustainable."
+      }
+    },
+    "no_reversals_gentle_confirmation": {
+      "general": {
+        "theme": "Plain message",
+        "text": "With no reversals present, the reading may be offering its message in a relatively direct and approachable way.",
+        "advice": "Begin with the upright meanings, then let your intuition add nuance without overcomplicating the message.",
+        "journalPrompt": "What is the simplest honest message here?",
+        "challenge": "Simplicity may be mistaken for lack of depth.",
+        "opportunity": "A clear message can be easier to integrate."
+      },
+      "love": {
+        "theme": "Plain message",
+        "text": "With no reversals present, the reading may be offering its message in a relatively direct and approachable way.",
+        "advice": "Begin with the upright meanings, then let your intuition add nuance without overcomplicating the message.",
+        "journalPrompt": "What is the simplest honest message here?",
+        "challenge": "Simplicity may be mistaken for lack of depth.",
+        "opportunity": "A clear message can be easier to integrate."
+      },
+      "career": {
+        "theme": "Plain message",
+        "text": "With no reversals present, the reading may be offering its message in a relatively direct and approachable way.",
+        "advice": "Begin with the upright meanings, then let your intuition add nuance without overcomplicating the message.",
+        "journalPrompt": "What is the simplest honest message here?",
+        "challenge": "Simplicity may be mistaken for lack of depth.",
+        "opportunity": "A clear message can be easier to integrate."
+      },
+      "money": {
+        "theme": "Plain message",
+        "text": "With no reversals present, the reading may be offering its message in a relatively direct and approachable way.",
+        "advice": "Begin with the upright meanings, then let your intuition add nuance without overcomplicating the message.",
+        "journalPrompt": "What is the simplest honest message here?",
+        "challenge": "Simplicity may be mistaken for lack of depth.",
+        "opportunity": "A clear message can be easier to integrate."
+      },
+      "growth": {
+        "theme": "Plain message",
+        "text": "With no reversals present, the reading may be offering its message in a relatively direct and approachable way.",
+        "advice": "Begin with the upright meanings, then let your intuition add nuance without overcomplicating the message.",
+        "journalPrompt": "What is the simplest honest message here?",
+        "challenge": "Simplicity may be mistaken for lack of depth.",
+        "opportunity": "A clear message can be easier to integrate."
+      }
+    }
+  }
+}

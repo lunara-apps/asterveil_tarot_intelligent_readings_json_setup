@@ -1,0 +1,1080 @@
+{
+  "schemaVersion": 2,
+  "locale": "it",
+  "kind": "triadRuleTexts",
+  "description": "Testi italiani localizzati v2 per le regole triadiche. Gli ID devono corrispondere a shared/triad_rules_v2.json.",
+  "ruleTexts": {
+    "emotional_recovery_to_new_start": {
+      "general": {
+        "theme": "Un cuore che si volge al rinnovamento",
+        "text": "Nel suo insieme, la stesa traccia un percorso dal peso emotivo attraverso la guarigione, verso un inizio che può essere affrontato con più dolcezza di prima.",
+        "advice": "Lascia che il nuovo capitolo erediti la saggezza della guarigione, non la paura della ferita.",
+        "journalPrompt": "Quale parte di me è pronta a ricominciare con più tenerezza?",
+        "challenge": "Il passato può chiedere ancora di essere portato come prova che ci tenevi.",
+        "opportunity": "Il rinnovamento può crescere proprio dal luogo che un tempo era più tenero."
+      },
+      "love": {
+        "theme": "Un cuore che si volge al rinnovamento",
+        "text": "Nel suo insieme, la stesa traccia un percorso dal peso emotivo attraverso la guarigione, verso un inizio che può essere affrontato con più dolcezza di prima.",
+        "advice": "Lascia che il nuovo capitolo erediti la saggezza della guarigione, non la paura della ferita.",
+        "journalPrompt": "Quale parte di me è pronta a ricominciare con più tenerezza?",
+        "challenge": "Il passato può chiedere ancora di essere portato come prova che ci tenevi.",
+        "opportunity": "Il rinnovamento può crescere proprio dal luogo che un tempo era più tenero."
+      },
+      "growth": {
+        "theme": "Un cuore che si volge al rinnovamento",
+        "text": "Nel suo insieme, la stesa traccia un percorso dal peso emotivo attraverso la guarigione, verso un inizio che può essere affrontato con più dolcezza di prima.",
+        "advice": "Lascia che il nuovo capitolo erediti la saggezza della guarigione, non la paura della ferita.",
+        "journalPrompt": "Quale parte di me è pronta a ricominciare con più tenerezza?",
+        "challenge": "Il passato può chiedere ancora di essere portato come prova che ci tenevi.",
+        "opportunity": "Il rinnovamento può crescere proprio dal luogo che un tempo era più tenero."
+      }
+    },
+    "major_arcana_threshold": {
+      "general": {
+        "theme": "Una lezione di vita più ampia",
+        "text": "Con più carte degli Arcani Maggiori, questa lettura indica un modello più profondo sotto i dettagli quotidiani.",
+        "advice": "Cerca la lezione archetipica: che cosa questa stagione sta cercando di insegnare, iniziare, liberare o maturare?",
+        "journalPrompt": "Quale schema più grande chiede la mia attenzione sotto la domanda immediata?",
+        "challenge": "Il messaggio può sembrare troppo grande se provi a risolverlo tutto insieme.",
+        "opportunity": "Una prospettiva più ampia può rendere più significativo il prossimo passo pratico."
+      },
+      "love": {
+        "theme": "Una lezione di vita più ampia",
+        "text": "Con più carte degli Arcani Maggiori, questa lettura indica un modello più profondo sotto i dettagli quotidiani.",
+        "advice": "Cerca la lezione archetipica: che cosa questa stagione sta cercando di insegnare, iniziare, liberare o maturare?",
+        "journalPrompt": "Quale schema più grande chiede la mia attenzione sotto la domanda immediata?",
+        "challenge": "Il messaggio può sembrare troppo grande se provi a risolverlo tutto insieme.",
+        "opportunity": "Una prospettiva più ampia può rendere più significativo il prossimo passo pratico."
+      },
+      "career": {
+        "theme": "Una lezione di vita più ampia",
+        "text": "Con più carte degli Arcani Maggiori, questa lettura indica un modello più profondo sotto i dettagli quotidiani.",
+        "advice": "Cerca la lezione archetipica: che cosa questa stagione sta cercando di insegnare, iniziare, liberare o maturare?",
+        "journalPrompt": "Quale schema più grande chiede la mia attenzione sotto la domanda immediata?",
+        "challenge": "Il messaggio può sembrare troppo grande se provi a risolverlo tutto insieme.",
+        "opportunity": "Una prospettiva più ampia può rendere più significativo il prossimo passo pratico."
+      },
+      "money": {
+        "theme": "Una lezione di vita più ampia",
+        "text": "Con più carte degli Arcani Maggiori, questa lettura indica un modello più profondo sotto i dettagli quotidiani.",
+        "advice": "Cerca la lezione archetipica: che cosa questa stagione sta cercando di insegnare, iniziare, liberare o maturare?",
+        "journalPrompt": "Quale schema più grande chiede la mia attenzione sotto la domanda immediata?",
+        "challenge": "Il messaggio può sembrare troppo grande se provi a risolverlo tutto insieme.",
+        "opportunity": "Una prospettiva più ampia può rendere più significativo il prossimo passo pratico."
+      },
+      "growth": {
+        "theme": "Una lezione di vita più ampia",
+        "text": "Con più carte degli Arcani Maggiori, questa lettura indica un modello più profondo sotto i dettagli quotidiani.",
+        "advice": "Cerca la lezione archetipica: che cosa questa stagione sta cercando di insegnare, iniziare, liberare o maturare?",
+        "journalPrompt": "Quale schema più grande chiede la mia attenzione sotto la domanda immediata?",
+        "challenge": "Il messaggio può sembrare troppo grande se provi a risolverlo tutto insieme.",
+        "opportunity": "Una prospettiva più ampia può rendere più significativo il prossimo passo pratico."
+      }
+    },
+    "all_major_arcana_deep_cycle": {
+      "general": {
+        "theme": "Una soglia archetipica",
+        "text": "Tutte e tre le carte appartengono agli Arcani Maggiori, dando alla stesa il senso di una soglia, di un’iniziazione interiore o di un ciclo di vita significativo.",
+        "advice": "Tratta questa lettura come uno specchio del movimento più ampio dell’anima, poi scegli per oggi una risposta concreta.",
+        "journalPrompt": "Quale soglia sto attraversando, e che cosa mi aiuterebbe ad attraversarla con integrità?",
+        "challenge": "Il simbolismo grande può diventare travolgente se non viene radicato.",
+        "opportunity": "Un tema profondo può essere onorato attraverso un gesto semplice e consapevole."
+      },
+      "love": {
+        "theme": "Una soglia archetipica",
+        "text": "Tutte e tre le carte appartengono agli Arcani Maggiori, dando alla stesa il senso di una soglia, di un’iniziazione interiore o di un ciclo di vita significativo.",
+        "advice": "Tratta questa lettura come uno specchio del movimento più ampio dell’anima, poi scegli per oggi una risposta concreta.",
+        "journalPrompt": "Quale soglia sto attraversando, e che cosa mi aiuterebbe ad attraversarla con integrità?",
+        "challenge": "Il simbolismo grande può diventare travolgente se non viene radicato.",
+        "opportunity": "Un tema profondo può essere onorato attraverso un gesto semplice e consapevole."
+      },
+      "career": {
+        "theme": "Una soglia archetipica",
+        "text": "Tutte e tre le carte appartengono agli Arcani Maggiori, dando alla stesa il senso di una soglia, di un’iniziazione interiore o di un ciclo di vita significativo.",
+        "advice": "Tratta questa lettura come uno specchio del movimento più ampio dell’anima, poi scegli per oggi una risposta concreta.",
+        "journalPrompt": "Quale soglia sto attraversando, e che cosa mi aiuterebbe ad attraversarla con integrità?",
+        "challenge": "Il simbolismo grande può diventare travolgente se non viene radicato.",
+        "opportunity": "Un tema profondo può essere onorato attraverso un gesto semplice e consapevole."
+      },
+      "money": {
+        "theme": "Una soglia archetipica",
+        "text": "Tutte e tre le carte appartengono agli Arcani Maggiori, dando alla stesa il senso di una soglia, di un’iniziazione interiore o di un ciclo di vita significativo.",
+        "advice": "Tratta questa lettura come uno specchio del movimento più ampio dell’anima, poi scegli per oggi una risposta concreta.",
+        "journalPrompt": "Quale soglia sto attraversando, e che cosa mi aiuterebbe ad attraversarla con integrità?",
+        "challenge": "Il simbolismo grande può diventare travolgente se non viene radicato.",
+        "opportunity": "Un tema profondo può essere onorato attraverso un gesto semplice e consapevole."
+      },
+      "growth": {
+        "theme": "Una soglia archetipica",
+        "text": "Tutte e tre le carte appartengono agli Arcani Maggiori, dando alla stesa il senso di una soglia, di un’iniziazione interiore o di un ciclo di vita significativo.",
+        "advice": "Tratta questa lettura come uno specchio del movimento più ampio dell’anima, poi scegli per oggi una risposta concreta.",
+        "journalPrompt": "Quale soglia sto attraversando, e che cosa mi aiuterebbe ad attraversarla con integrità?",
+        "challenge": "Il simbolismo grande può diventare travolgente se non viene radicato.",
+        "opportunity": "Un tema profondo può essere onorato attraverso un gesto semplice e consapevole."
+      }
+    },
+    "cups_emotional_story": {
+      "general": {
+        "theme": "La corrente emotiva",
+        "text": "Due o più carte di Coppe rendono la stesa particolarmente sensibile a sentimento, connessione, memoria e verità emotiva.",
+        "advice": "Lascia che la lettura parli al cuore, mantenendo presenti cura e confini.",
+        "journalPrompt": "Quale corrente emotiva sta influenzando le mie scelte più di quanto pensassi?",
+        "challenge": "Il sentire può confondersi se non viene nominato.",
+        "opportunity": "L’onestà emotiva può diventare una fonte di saggezza."
+      },
+      "love": {
+        "theme": "La corrente emotiva",
+        "text": "Due o più carte di Coppe rendono la stesa particolarmente sensibile a sentimento, connessione, memoria e verità emotiva.",
+        "advice": "Lascia che la lettura parli al cuore, mantenendo presenti cura e confini.",
+        "journalPrompt": "Quale corrente emotiva sta influenzando le mie scelte più di quanto pensassi?",
+        "challenge": "Il sentire può confondersi se non viene nominato.",
+        "opportunity": "L’onestà emotiva può diventare una fonte di saggezza."
+      },
+      "growth": {
+        "theme": "La corrente emotiva",
+        "text": "Due o più carte di Coppe rendono la stesa particolarmente sensibile a sentimento, connessione, memoria e verità emotiva.",
+        "advice": "Lascia che la lettura parli al cuore, mantenendo presenti cura e confini.",
+        "journalPrompt": "Quale corrente emotiva sta influenzando le mie scelte più di quanto pensassi?",
+        "challenge": "Il sentire può confondersi se non viene nominato.",
+        "opportunity": "L’onestà emotiva può diventare una fonte di saggezza."
+      }
+    },
+    "pentacles_grounding_story": {
+      "general": {
+        "theme": "La fondazione pratica",
+        "text": "I Pentacoli sono in evidenza, quindi la lettura sottolinea risorse, abitudini, corpo, lavoro, stabilità e ciò che può essere costruito nel tempo.",
+        "advice": "Traduci il messaggio in una routine pratica, un confine, un budget o un prossimo passo.",
+        "journalPrompt": "Quale fondazione ha bisogno di cura prima che il resto possa sentirsi stabile?",
+        "challenge": "Le questioni pratiche possono sembrare pesanti se affrontate solo attraverso la pressione.",
+        "opportunity": "Piccole scelte radicate possono restituire fiducia."
+      },
+      "career": {
+        "theme": "La fondazione pratica",
+        "text": "I Pentacoli sono in evidenza, quindi la lettura sottolinea risorse, abitudini, corpo, lavoro, stabilità e ciò che può essere costruito nel tempo.",
+        "advice": "Traduci il messaggio in una routine pratica, un confine, un budget o un prossimo passo.",
+        "journalPrompt": "Quale fondazione ha bisogno di cura prima che il resto possa sentirsi stabile?",
+        "challenge": "Le questioni pratiche possono sembrare pesanti se affrontate solo attraverso la pressione.",
+        "opportunity": "Piccole scelte radicate possono restituire fiducia."
+      },
+      "money": {
+        "theme": "La fondazione pratica",
+        "text": "I Pentacoli sono in evidenza, quindi la lettura sottolinea risorse, abitudini, corpo, lavoro, stabilità e ciò che può essere costruito nel tempo.",
+        "advice": "Traduci il messaggio in una routine pratica, un confine, un budget o un prossimo passo.",
+        "journalPrompt": "Quale fondazione ha bisogno di cura prima che il resto possa sentirsi stabile?",
+        "challenge": "Le questioni pratiche possono sembrare pesanti se affrontate solo attraverso la pressione.",
+        "opportunity": "Piccole scelte radicate possono restituire fiducia."
+      },
+      "growth": {
+        "theme": "La fondazione pratica",
+        "text": "I Pentacoli sono in evidenza, quindi la lettura sottolinea risorse, abitudini, corpo, lavoro, stabilità e ciò che può essere costruito nel tempo.",
+        "advice": "Traduci il messaggio in una routine pratica, un confine, un budget o un prossimo passo.",
+        "journalPrompt": "Quale fondazione ha bisogno di cura prima che il resto possa sentirsi stabile?",
+        "challenge": "Le questioni pratiche possono sembrare pesanti se affrontate solo attraverso la pressione.",
+        "opportunity": "Piccole scelte radicate possono restituire fiducia."
+      }
+    },
+    "swords_clarity_story": {
+      "general": {
+        "theme": "La mente che cerca verità",
+        "text": "Le Spade modellano la stesa, portando attenzione a pensieri, linguaggio, scelte e bisogno di comprensione pulita.",
+        "advice": "Usa l’onestà con cura; la chiarezza dovrebbe creare libertà, non durezza inutile.",
+        "journalPrompt": "Quale pensiero, conversazione o decisione ha bisogno di più verità e meno rumore?",
+        "challenge": "L’analisi può diventare uno scudo contro il sentire.",
+        "opportunity": "Parole chiare possono aprire un sentiero più pacifico."
+      },
+      "love": {
+        "theme": "La mente che cerca verità",
+        "text": "Le Spade modellano la stesa, portando attenzione a pensieri, linguaggio, scelte e bisogno di comprensione pulita.",
+        "advice": "Usa l’onestà con cura; la chiarezza dovrebbe creare libertà, non durezza inutile.",
+        "journalPrompt": "Quale pensiero, conversazione o decisione ha bisogno di più verità e meno rumore?",
+        "challenge": "L’analisi può diventare uno scudo contro il sentire.",
+        "opportunity": "Parole chiare possono aprire un sentiero più pacifico."
+      },
+      "career": {
+        "theme": "La mente che cerca verità",
+        "text": "Le Spade modellano la stesa, portando attenzione a pensieri, linguaggio, scelte e bisogno di comprensione pulita.",
+        "advice": "Usa l’onestà con cura; la chiarezza dovrebbe creare libertà, non durezza inutile.",
+        "journalPrompt": "Quale pensiero, conversazione o decisione ha bisogno di più verità e meno rumore?",
+        "challenge": "L’analisi può diventare uno scudo contro il sentire.",
+        "opportunity": "Parole chiare possono aprire un sentiero più pacifico."
+      },
+      "money": {
+        "theme": "La mente che cerca verità",
+        "text": "Le Spade modellano la stesa, portando attenzione a pensieri, linguaggio, scelte e bisogno di comprensione pulita.",
+        "advice": "Usa l’onestà con cura; la chiarezza dovrebbe creare libertà, non durezza inutile.",
+        "journalPrompt": "Quale pensiero, conversazione o decisione ha bisogno di più verità e meno rumore?",
+        "challenge": "L’analisi può diventare uno scudo contro il sentire.",
+        "opportunity": "Parole chiare possono aprire un sentiero più pacifico."
+      },
+      "growth": {
+        "theme": "La mente che cerca verità",
+        "text": "Le Spade modellano la stesa, portando attenzione a pensieri, linguaggio, scelte e bisogno di comprensione pulita.",
+        "advice": "Usa l’onestà con cura; la chiarezza dovrebbe creare libertà, non durezza inutile.",
+        "journalPrompt": "Quale pensiero, conversazione o decisione ha bisogno di più verità e meno rumore?",
+        "challenge": "L’analisi può diventare uno scudo contro il sentire.",
+        "opportunity": "Parole chiare possono aprire un sentiero più pacifico."
+      }
+    },
+    "wands_momentum_story": {
+      "general": {
+        "theme": "Fuoco e movimento",
+        "text": "I Bastoni sono forti nella stesa, evidenziando desiderio, energia, coraggio, creatività e la domanda su dove la tua forza vitale voglia muoversi.",
+        "advice": "Dai direzione al fuoco, così diventa azione invece che irrequietezza.",
+        "journalPrompt": "Dove l’energia chiede di muoversi, creare o difendere ciò che conta?",
+        "challenge": "L’intensità può disperdersi se non riceve un percorso radicato.",
+        "opportunity": "Uno slancio intenzionale può restituire vitalità."
+      },
+      "love": {
+        "theme": "Fuoco e movimento",
+        "text": "I Bastoni sono forti nella stesa, evidenziando desiderio, energia, coraggio, creatività e la domanda su dove la tua forza vitale voglia muoversi.",
+        "advice": "Dai direzione al fuoco, così diventa azione invece che irrequietezza.",
+        "journalPrompt": "Dove l’energia chiede di muoversi, creare o difendere ciò che conta?",
+        "challenge": "L’intensità può disperdersi se non riceve un percorso radicato.",
+        "opportunity": "Uno slancio intenzionale può restituire vitalità."
+      },
+      "career": {
+        "theme": "Fuoco e movimento",
+        "text": "I Bastoni sono forti nella stesa, evidenziando desiderio, energia, coraggio, creatività e la domanda su dove la tua forza vitale voglia muoversi.",
+        "advice": "Dai direzione al fuoco, così diventa azione invece che irrequietezza.",
+        "journalPrompt": "Dove l’energia chiede di muoversi, creare o difendere ciò che conta?",
+        "challenge": "L’intensità può disperdersi se non riceve un percorso radicato.",
+        "opportunity": "Uno slancio intenzionale può restituire vitalità."
+      },
+      "money": {
+        "theme": "Fuoco e movimento",
+        "text": "I Bastoni sono forti nella stesa, evidenziando desiderio, energia, coraggio, creatività e la domanda su dove la tua forza vitale voglia muoversi.",
+        "advice": "Dai direzione al fuoco, così diventa azione invece che irrequietezza.",
+        "journalPrompt": "Dove l’energia chiede di muoversi, creare o difendere ciò che conta?",
+        "challenge": "L’intensità può disperdersi se non riceve un percorso radicato.",
+        "opportunity": "Uno slancio intenzionale può restituire vitalità."
+      },
+      "growth": {
+        "theme": "Fuoco e movimento",
+        "text": "I Bastoni sono forti nella stesa, evidenziando desiderio, energia, coraggio, creatività e la domanda su dove la tua forza vitale voglia muoversi.",
+        "advice": "Dai direzione al fuoco, così diventa azione invece che irrequietezza.",
+        "journalPrompt": "Dove l’energia chiede di muoversi, creare o difendere ciò che conta?",
+        "challenge": "L’intensità può disperdersi se non riceve un percorso radicato.",
+        "opportunity": "Uno slancio intenzionale può restituire vitalità."
+      }
+    },
+    "conflict_clarity_choice": {
+      "general": {
+        "theme": "Una decisione dopo la tensione",
+        "text": "Conflitto, chiarezza e scelta formano una triade che chiede una decisione più pulita dopo un periodo di attrito.",
+        "advice": "Lascia che la decisione risponda alla verità della situazione, non solo al disagio della discussione.",
+        "journalPrompt": "Quale scelta diventa chiara quando smetto di reagire al conflitto?",
+        "challenge": "L’urgenza di fuggire dalla tensione può affrettare la decisione.",
+        "opportunity": "Una scelta calma può chiudere uno schema ripetitivo."
+      },
+      "love": {
+        "theme": "Una decisione dopo la tensione",
+        "text": "Conflitto, chiarezza e scelta formano una triade che chiede una decisione più pulita dopo un periodo di attrito.",
+        "advice": "Lascia che la decisione risponda alla verità della situazione, non solo al disagio della discussione.",
+        "journalPrompt": "Quale scelta diventa chiara quando smetto di reagire al conflitto?",
+        "challenge": "L’urgenza di fuggire dalla tensione può affrettare la decisione.",
+        "opportunity": "Una scelta calma può chiudere uno schema ripetitivo."
+      },
+      "career": {
+        "theme": "Una decisione dopo la tensione",
+        "text": "Conflitto, chiarezza e scelta formano una triade che chiede una decisione più pulita dopo un periodo di attrito.",
+        "advice": "Lascia che la decisione risponda alla verità della situazione, non solo al disagio della discussione.",
+        "journalPrompt": "Quale scelta diventa chiara quando smetto di reagire al conflitto?",
+        "challenge": "L’urgenza di fuggire dalla tensione può affrettare la decisione.",
+        "opportunity": "Una scelta calma può chiudere uno schema ripetitivo."
+      },
+      "growth": {
+        "theme": "Una decisione dopo la tensione",
+        "text": "Conflitto, chiarezza e scelta formano una triade che chiede una decisione più pulita dopo un periodo di attrito.",
+        "advice": "Lascia che la decisione risponda alla verità della situazione, non solo al disagio della discussione.",
+        "journalPrompt": "Quale scelta diventa chiara quando smetto di reagire al conflitto?",
+        "challenge": "L’urgenza di fuggire dalla tensione può affrettare la decisione.",
+        "opportunity": "Una scelta calma può chiudere uno schema ripetitivo."
+      }
+    },
+    "confusion_truth_action": {
+      "general": {
+        "theme": "Dall’incertezza alla risposta",
+        "text": "La stesa mostra la confusione che incontra la verità, con l’invito a lasciare che informazioni più chiare guidino la risposta.",
+        "advice": "Non agire dalla nebbia; agisci dal fatto, dal valore e dal prossimo passo concreto.",
+        "journalPrompt": "Che cosa cambia quando separo ciò che è vero da ciò che non è chiaro?",
+        "challenge": "La pressione può far sembrare completa un’informazione parziale.",
+        "opportunity": "La verità può diventare un movimento più calmo."
+      },
+      "love": {
+        "theme": "Dall’incertezza alla risposta",
+        "text": "La stesa mostra la confusione che incontra la verità, con l’invito a lasciare che informazioni più chiare guidino la risposta.",
+        "advice": "Non agire dalla nebbia; agisci dal fatto, dal valore e dal prossimo passo concreto.",
+        "journalPrompt": "Che cosa cambia quando separo ciò che è vero da ciò che non è chiaro?",
+        "challenge": "La pressione può far sembrare completa un’informazione parziale.",
+        "opportunity": "La verità può diventare un movimento più calmo."
+      },
+      "career": {
+        "theme": "Dall’incertezza alla risposta",
+        "text": "La stesa mostra la confusione che incontra la verità, con l’invito a lasciare che informazioni più chiare guidino la risposta.",
+        "advice": "Non agire dalla nebbia; agisci dal fatto, dal valore e dal prossimo passo concreto.",
+        "journalPrompt": "Che cosa cambia quando separo ciò che è vero da ciò che non è chiaro?",
+        "challenge": "La pressione può far sembrare completa un’informazione parziale.",
+        "opportunity": "La verità può diventare un movimento più calmo."
+      },
+      "money": {
+        "theme": "Dall’incertezza alla risposta",
+        "text": "La stesa mostra la confusione che incontra la verità, con l’invito a lasciare che informazioni più chiare guidino la risposta.",
+        "advice": "Non agire dalla nebbia; agisci dal fatto, dal valore e dal prossimo passo concreto.",
+        "journalPrompt": "Che cosa cambia quando separo ciò che è vero da ciò che non è chiaro?",
+        "challenge": "La pressione può far sembrare completa un’informazione parziale.",
+        "opportunity": "La verità può diventare un movimento più calmo."
+      },
+      "growth": {
+        "theme": "Dall’incertezza alla risposta",
+        "text": "La stesa mostra la confusione che incontra la verità, con l’invito a lasciare che informazioni più chiare guidino la risposta.",
+        "advice": "Non agire dalla nebbia; agisci dal fatto, dal valore e dal prossimo passo concreto.",
+        "journalPrompt": "Che cosa cambia quando separo ciò che è vero da ciò che non è chiaro?",
+        "challenge": "La pressione può far sembrare completa un’informazione parziale.",
+        "opportunity": "La verità può diventare un movimento più calmo."
+      }
+    },
+    "burden_release_renewal": {
+      "general": {
+        "theme": "Il carico, il lasciare andare, la luce",
+        "text": "Questa triade descrive un peso che diventa più leggero attraverso il rilascio, creando spazio per il rinnovamento.",
+        "advice": "Scegli ciò che può essere deposto con responsabilità e lascia che l’energia liberata torni lentamente.",
+        "journalPrompt": "Quale peso mi ha insegnato abbastanza, e quale spazio si apre se lo lascio andare?",
+        "challenge": "Il dovere può farti portare ciò che non serve più all’insieme.",
+        "opportunity": "Il rinnovamento può iniziare come sollievo."
+      },
+      "career": {
+        "theme": "Il carico, il lasciare andare, la luce",
+        "text": "Questa triade descrive un peso che diventa più leggero attraverso il rilascio, creando spazio per il rinnovamento.",
+        "advice": "Scegli ciò che può essere deposto con responsabilità e lascia che l’energia liberata torni lentamente.",
+        "journalPrompt": "Quale peso mi ha insegnato abbastanza, e quale spazio si apre se lo lascio andare?",
+        "challenge": "Il dovere può farti portare ciò che non serve più all’insieme.",
+        "opportunity": "Il rinnovamento può iniziare come sollievo."
+      },
+      "money": {
+        "theme": "Il carico, il lasciare andare, la luce",
+        "text": "Questa triade descrive un peso che diventa più leggero attraverso il rilascio, creando spazio per il rinnovamento.",
+        "advice": "Scegli ciò che può essere deposto con responsabilità e lascia che l’energia liberata torni lentamente.",
+        "journalPrompt": "Quale peso mi ha insegnato abbastanza, e quale spazio si apre se lo lascio andare?",
+        "challenge": "Il dovere può farti portare ciò che non serve più all’insieme.",
+        "opportunity": "Il rinnovamento può iniziare come sollievo."
+      },
+      "growth": {
+        "theme": "Il carico, il lasciare andare, la luce",
+        "text": "Questa triade descrive un peso che diventa più leggero attraverso il rilascio, creando spazio per il rinnovamento.",
+        "advice": "Scegli ciò che può essere deposto con responsabilità e lascia che l’energia liberata torni lentamente.",
+        "journalPrompt": "Quale peso mi ha insegnato abbastanza, e quale spazio si apre se lo lascio andare?",
+        "challenge": "Il dovere può farti portare ciò che non serve più all’insieme.",
+        "opportunity": "Il rinnovamento può iniziare come sollievo."
+      }
+    },
+    "attachment_awareness_release": {
+      "general": {
+        "theme": "Sciogliere dolcemente uno schema",
+        "text": "Attaccamento, consapevolezza e rilascio descrivono uno schema che diventa abbastanza visibile da allentarsi.",
+        "advice": "Incontra lo schema con onestà e senza vergogna; la consapevolezza è la porta, non la punizione.",
+        "journalPrompt": "Che cosa sono pronto a vedere con sufficiente chiarezza da poterlo allentare?",
+        "challenge": "La vergogna può rendere l’attaccamento più nascosto.",
+        "opportunity": "Il rilascio consapevole può restituirti scelta."
+      },
+      "love": {
+        "theme": "Sciogliere dolcemente uno schema",
+        "text": "Attaccamento, consapevolezza e rilascio descrivono uno schema che diventa abbastanza visibile da allentarsi.",
+        "advice": "Incontra lo schema con onestà e senza vergogna; la consapevolezza è la porta, non la punizione.",
+        "journalPrompt": "Che cosa sono pronto a vedere con sufficiente chiarezza da poterlo allentare?",
+        "challenge": "La vergogna può rendere l’attaccamento più nascosto.",
+        "opportunity": "Il rilascio consapevole può restituirti scelta."
+      },
+      "money": {
+        "theme": "Sciogliere dolcemente uno schema",
+        "text": "Attaccamento, consapevolezza e rilascio descrivono uno schema che diventa abbastanza visibile da allentarsi.",
+        "advice": "Incontra lo schema con onestà e senza vergogna; la consapevolezza è la porta, non la punizione.",
+        "journalPrompt": "Che cosa sono pronto a vedere con sufficiente chiarezza da poterlo allentare?",
+        "challenge": "La vergogna può rendere l’attaccamento più nascosto.",
+        "opportunity": "Il rilascio consapevole può restituirti scelta."
+      },
+      "growth": {
+        "theme": "Sciogliere dolcemente uno schema",
+        "text": "Attaccamento, consapevolezza e rilascio descrivono uno schema che diventa abbastanza visibile da allentarsi.",
+        "advice": "Incontra lo schema con onestà e senza vergogna; la consapevolezza è la porta, non la punizione.",
+        "journalPrompt": "Che cosa sono pronto a vedere con sufficiente chiarezza da poterlo allentare?",
+        "challenge": "La vergogna può rendere l’attaccamento più nascosto.",
+        "opportunity": "Il rilascio consapevole può restituirti scelta."
+      }
+    },
+    "waiting_perspective_movement": {
+      "general": {
+        "theme": "La pausa diventa un sentiero",
+        "text": "Attesa e prospettiva modellano la stesa, suggerendo che la pausa può preparare un movimento più consapevole.",
+        "advice": "Usa il ritardo per rifinire la direzione, poi muoviti quando il passo è abbastanza pulito da essere preso.",
+        "journalPrompt": "Che cosa mi ha mostrato l’attesa su tempi, desiderio o prontezza?",
+        "challenge": "L’attesa può diventare passiva se non si trasforma mai in scelta.",
+        "opportunity": "La prospettiva può rendere il movimento più saggio."
+      },
+      "love": {
+        "theme": "La pausa diventa un sentiero",
+        "text": "Attesa e prospettiva modellano la stesa, suggerendo che la pausa può preparare un movimento più consapevole.",
+        "advice": "Usa il ritardo per rifinire la direzione, poi muoviti quando il passo è abbastanza pulito da essere preso.",
+        "journalPrompt": "Che cosa mi ha mostrato l’attesa su tempi, desiderio o prontezza?",
+        "challenge": "L’attesa può diventare passiva se non si trasforma mai in scelta.",
+        "opportunity": "La prospettiva può rendere il movimento più saggio."
+      },
+      "career": {
+        "theme": "La pausa diventa un sentiero",
+        "text": "Attesa e prospettiva modellano la stesa, suggerendo che la pausa può preparare un movimento più consapevole.",
+        "advice": "Usa il ritardo per rifinire la direzione, poi muoviti quando il passo è abbastanza pulito da essere preso.",
+        "journalPrompt": "Che cosa mi ha mostrato l’attesa su tempi, desiderio o prontezza?",
+        "challenge": "L’attesa può diventare passiva se non si trasforma mai in scelta.",
+        "opportunity": "La prospettiva può rendere il movimento più saggio."
+      },
+      "money": {
+        "theme": "La pausa diventa un sentiero",
+        "text": "Attesa e prospettiva modellano la stesa, suggerendo che la pausa può preparare un movimento più consapevole.",
+        "advice": "Usa il ritardo per rifinire la direzione, poi muoviti quando il passo è abbastanza pulito da essere preso.",
+        "journalPrompt": "Che cosa mi ha mostrato l’attesa su tempi, desiderio o prontezza?",
+        "challenge": "L’attesa può diventare passiva se non si trasforma mai in scelta.",
+        "opportunity": "La prospettiva può rendere il movimento più saggio."
+      },
+      "growth": {
+        "theme": "La pausa diventa un sentiero",
+        "text": "Attesa e prospettiva modellano la stesa, suggerendo che la pausa può preparare un movimento più consapevole.",
+        "advice": "Usa il ritardo per rifinire la direzione, poi muoviti quando il passo è abbastanza pulito da essere preso.",
+        "journalPrompt": "Che cosa mi ha mostrato l’attesa su tempi, desiderio o prontezza?",
+        "challenge": "L’attesa può diventare passiva se non si trasforma mai in scelta.",
+        "opportunity": "La prospettiva può rendere il movimento più saggio."
+      }
+    },
+    "structure_pressure_resilience": {
+      "general": {
+        "theme": "Forza sostenibile",
+        "text": "Pressione e resilienza sono presenti, chiedendo una forza strutturata invece che tesa.",
+        "advice": "Sostieni la tua resistenza con confini, recupero e organizzazione pratica.",
+        "journalPrompt": "Quale sistema mi aiuterebbe a restare resiliente senza bruciarmi?",
+        "challenge": "L’orgoglio può resistere al supporto di cui la resilienza ha bisogno.",
+        "opportunity": "Una struttura più stabile può proteggere la tua energia."
+      },
+      "career": {
+        "theme": "Forza sostenibile",
+        "text": "Pressione e resilienza sono presenti, chiedendo una forza strutturata invece che tesa.",
+        "advice": "Sostieni la tua resistenza con confini, recupero e organizzazione pratica.",
+        "journalPrompt": "Quale sistema mi aiuterebbe a restare resiliente senza bruciarmi?",
+        "challenge": "L’orgoglio può resistere al supporto di cui la resilienza ha bisogno.",
+        "opportunity": "Una struttura più stabile può proteggere la tua energia."
+      },
+      "money": {
+        "theme": "Forza sostenibile",
+        "text": "Pressione e resilienza sono presenti, chiedendo una forza strutturata invece che tesa.",
+        "advice": "Sostieni la tua resistenza con confini, recupero e organizzazione pratica.",
+        "journalPrompt": "Quale sistema mi aiuterebbe a restare resiliente senza bruciarmi?",
+        "challenge": "L’orgoglio può resistere al supporto di cui la resilienza ha bisogno.",
+        "opportunity": "Una struttura più stabile può proteggere la tua energia."
+      },
+      "growth": {
+        "theme": "Forza sostenibile",
+        "text": "Pressione e resilienza sono presenti, chiedendo una forza strutturata invece che tesa.",
+        "advice": "Sostieni la tua resistenza con confini, recupero e organizzazione pratica.",
+        "journalPrompt": "Quale sistema mi aiuterebbe a restare resiliente senza bruciarmi?",
+        "challenge": "L’orgoglio può resistere al supporto di cui la resilienza ha bisogno.",
+        "opportunity": "Una struttura più stabile può proteggere la tua energia."
+      }
+    },
+    "patience_effort_reward": {
+      "general": {
+        "theme": "Il raccolto lento",
+        "text": "Pazienza e impegno creano il senso di un raccolto lento, in cui il significato cresce attraverso ripetizione e cura.",
+        "advice": "Misura il progresso con coerenza e qualità, non solo con la ricompensa immediata.",
+        "journalPrompt": "Che cosa sono disposto a curare anche prima che sia pienamente visibile?",
+        "challenge": "L’impazienza può deformare il valore del processo.",
+        "opportunity": "Risultati affidabili possono crescere da una pratica costante."
+      },
+      "career": {
+        "theme": "Il raccolto lento",
+        "text": "Pazienza e impegno creano il senso di un raccolto lento, in cui il significato cresce attraverso ripetizione e cura.",
+        "advice": "Misura il progresso con coerenza e qualità, non solo con la ricompensa immediata.",
+        "journalPrompt": "Che cosa sono disposto a curare anche prima che sia pienamente visibile?",
+        "challenge": "L’impazienza può deformare il valore del processo.",
+        "opportunity": "Risultati affidabili possono crescere da una pratica costante."
+      },
+      "money": {
+        "theme": "Il raccolto lento",
+        "text": "Pazienza e impegno creano il senso di un raccolto lento, in cui il significato cresce attraverso ripetizione e cura.",
+        "advice": "Misura il progresso con coerenza e qualità, non solo con la ricompensa immediata.",
+        "journalPrompt": "Che cosa sono disposto a curare anche prima che sia pienamente visibile?",
+        "challenge": "L’impazienza può deformare il valore del processo.",
+        "opportunity": "Risultati affidabili possono crescere da una pratica costante."
+      },
+      "growth": {
+        "theme": "Il raccolto lento",
+        "text": "Pazienza e impegno creano il senso di un raccolto lento, in cui il significato cresce attraverso ripetizione e cura.",
+        "advice": "Misura il progresso con coerenza e qualità, non solo con la ricompensa immediata.",
+        "journalPrompt": "Che cosa sono disposto a curare anche prima che sia pienamente visibile?",
+        "challenge": "L’impazienza può deformare il valore del processo.",
+        "opportunity": "Risultati affidabili possono crescere da una pratica costante."
+      }
+    },
+    "partnership_boundaries_harmony": {
+      "general": {
+        "theme": "Connessione con margini chiari",
+        "text": "Partnership e confini appaiono insieme, suggerendo che l’armonia dipende da rispetto, chiarezza e responsabilità reciproca.",
+        "advice": "Lascia che vicinanza e limiti si sostengano a vicenda; entrambi possono essere espressioni di cura.",
+        "journalPrompt": "Quale confine renderebbe questo scambio più reciproco?",
+        "challenge": "Evitare i limiti può creare uno squilibrio silenzioso.",
+        "opportunity": "Una struttura rispettosa può approfondire la fiducia."
+      },
+      "love": {
+        "theme": "Connessione con margini chiari",
+        "text": "Partnership e confini appaiono insieme, suggerendo che l’armonia dipende da rispetto, chiarezza e responsabilità reciproca.",
+        "advice": "Lascia che vicinanza e limiti si sostengano a vicenda; entrambi possono essere espressioni di cura.",
+        "journalPrompt": "Quale confine renderebbe questo scambio più reciproco?",
+        "challenge": "Evitare i limiti può creare uno squilibrio silenzioso.",
+        "opportunity": "Una struttura rispettosa può approfondire la fiducia."
+      },
+      "career": {
+        "theme": "Connessione con margini chiari",
+        "text": "Partnership e confini appaiono insieme, suggerendo che l’armonia dipende da rispetto, chiarezza e responsabilità reciproca.",
+        "advice": "Lascia che vicinanza e limiti si sostengano a vicenda; entrambi possono essere espressioni di cura.",
+        "journalPrompt": "Quale confine renderebbe questo scambio più reciproco?",
+        "challenge": "Evitare i limiti può creare uno squilibrio silenzioso.",
+        "opportunity": "Una struttura rispettosa può approfondire la fiducia."
+      },
+      "money": {
+        "theme": "Connessione con margini chiari",
+        "text": "Partnership e confini appaiono insieme, suggerendo che l’armonia dipende da rispetto, chiarezza e responsabilità reciproca.",
+        "advice": "Lascia che vicinanza e limiti si sostengano a vicenda; entrambi possono essere espressioni di cura.",
+        "journalPrompt": "Quale confine renderebbe questo scambio più reciproco?",
+        "challenge": "Evitare i limiti può creare uno squilibrio silenzioso.",
+        "opportunity": "Una struttura rispettosa può approfondire la fiducia."
+      },
+      "growth": {
+        "theme": "Connessione con margini chiari",
+        "text": "Partnership e confini appaiono insieme, suggerendo che l’armonia dipende da rispetto, chiarezza e responsabilità reciproca.",
+        "advice": "Lascia che vicinanza e limiti si sostengano a vicenda; entrambi possono essere espressioni di cura.",
+        "journalPrompt": "Quale confine renderebbe questo scambio più reciproco?",
+        "challenge": "Evitare i limiti può creare uno squilibrio silenzioso.",
+        "opportunity": "Una struttura rispettosa può approfondire la fiducia."
+      }
+    },
+    "uncertainty_intuition_inner_wisdom": {
+      "general": {
+        "theme": "Ascoltare attraverso la foschia",
+        "text": "Incertezza e intuizione rendono questa stesa una chiamata ad ascoltare lentamente, senza forzare una certezza prematura.",
+        "advice": "Lascia che il sapere interiore guidi le domande mentre le prove pratiche guidano i tempi.",
+        "journalPrompt": "Che cosa nota la mia intuizione mentre la mia paura continua a discutere?",
+        "challenge": "L’ansia può imitare l’intuizione se al corpo non viene dato tempo di calmarsi.",
+        "opportunity": "L’ascolto silenzioso può rivelare la prossima domanda pulita."
+      },
+      "love": {
+        "theme": "Ascoltare attraverso la foschia",
+        "text": "Incertezza e intuizione rendono questa stesa una chiamata ad ascoltare lentamente, senza forzare una certezza prematura.",
+        "advice": "Lascia che il sapere interiore guidi le domande mentre le prove pratiche guidano i tempi.",
+        "journalPrompt": "Che cosa nota la mia intuizione mentre la mia paura continua a discutere?",
+        "challenge": "L’ansia può imitare l’intuizione se al corpo non viene dato tempo di calmarsi.",
+        "opportunity": "L’ascolto silenzioso può rivelare la prossima domanda pulita."
+      },
+      "career": {
+        "theme": "Ascoltare attraverso la foschia",
+        "text": "Incertezza e intuizione rendono questa stesa una chiamata ad ascoltare lentamente, senza forzare una certezza prematura.",
+        "advice": "Lascia che il sapere interiore guidi le domande mentre le prove pratiche guidano i tempi.",
+        "journalPrompt": "Che cosa nota la mia intuizione mentre la mia paura continua a discutere?",
+        "challenge": "L’ansia può imitare l’intuizione se al corpo non viene dato tempo di calmarsi.",
+        "opportunity": "L’ascolto silenzioso può rivelare la prossima domanda pulita."
+      },
+      "money": {
+        "theme": "Ascoltare attraverso la foschia",
+        "text": "Incertezza e intuizione rendono questa stesa una chiamata ad ascoltare lentamente, senza forzare una certezza prematura.",
+        "advice": "Lascia che il sapere interiore guidi le domande mentre le prove pratiche guidano i tempi.",
+        "journalPrompt": "Che cosa nota la mia intuizione mentre la mia paura continua a discutere?",
+        "challenge": "L’ansia può imitare l’intuizione se al corpo non viene dato tempo di calmarsi.",
+        "opportunity": "L’ascolto silenzioso può rivelare la prossima domanda pulita."
+      },
+      "growth": {
+        "theme": "Ascoltare attraverso la foschia",
+        "text": "Incertezza e intuizione rendono questa stesa una chiamata ad ascoltare lentamente, senza forzare una certezza prematura.",
+        "advice": "Lascia che il sapere interiore guidi le domande mentre le prove pratiche guidano i tempi.",
+        "journalPrompt": "Che cosa nota la mia intuizione mentre la mia paura continua a discutere?",
+        "challenge": "L’ansia può imitare l’intuizione se al corpo non viene dato tempo di calmarsi.",
+        "opportunity": "L’ascolto silenzioso può rivelare la prossima domanda pulita."
+      }
+    },
+    "ending_release_new_beginning": {
+      "general": {
+        "theme": "Chiudere una porta con cura",
+        "text": "La stesa forma un passaggio dalla fine, attraverso il rilascio, verso un nuovo inizio.",
+        "advice": "Lascia che la fine sia onorata prima di chiedere all’inizio di portare tutta la tua speranza.",
+        "journalPrompt": "Che cosa ha bisogno di un addio rispettoso prima che io possa iniziare in modo pulito?",
+        "challenge": "Affrettare l’inizio può lasciare dentro di esso vecchi pesi.",
+        "opportunity": "Un inizio più pulito può crescere da un rilascio più pulito."
+      },
+      "love": {
+        "theme": "Chiudere una porta con cura",
+        "text": "La stesa forma un passaggio dalla fine, attraverso il rilascio, verso un nuovo inizio.",
+        "advice": "Lascia che la fine sia onorata prima di chiedere all’inizio di portare tutta la tua speranza.",
+        "journalPrompt": "Che cosa ha bisogno di un addio rispettoso prima che io possa iniziare in modo pulito?",
+        "challenge": "Affrettare l’inizio può lasciare dentro di esso vecchi pesi.",
+        "opportunity": "Un inizio più pulito può crescere da un rilascio più pulito."
+      },
+      "career": {
+        "theme": "Chiudere una porta con cura",
+        "text": "La stesa forma un passaggio dalla fine, attraverso il rilascio, verso un nuovo inizio.",
+        "advice": "Lascia che la fine sia onorata prima di chiedere all’inizio di portare tutta la tua speranza.",
+        "journalPrompt": "Che cosa ha bisogno di un addio rispettoso prima che io possa iniziare in modo pulito?",
+        "challenge": "Affrettare l’inizio può lasciare dentro di esso vecchi pesi.",
+        "opportunity": "Un inizio più pulito può crescere da un rilascio più pulito."
+      },
+      "money": {
+        "theme": "Chiudere una porta con cura",
+        "text": "La stesa forma un passaggio dalla fine, attraverso il rilascio, verso un nuovo inizio.",
+        "advice": "Lascia che la fine sia onorata prima di chiedere all’inizio di portare tutta la tua speranza.",
+        "journalPrompt": "Che cosa ha bisogno di un addio rispettoso prima che io possa iniziare in modo pulito?",
+        "challenge": "Affrettare l’inizio può lasciare dentro di esso vecchi pesi.",
+        "opportunity": "Un inizio più pulito può crescere da un rilascio più pulito."
+      },
+      "growth": {
+        "theme": "Chiudere una porta con cura",
+        "text": "La stesa forma un passaggio dalla fine, attraverso il rilascio, verso un nuovo inizio.",
+        "advice": "Lascia che la fine sia onorata prima di chiedere all’inizio di portare tutta la tua speranza.",
+        "journalPrompt": "Che cosa ha bisogno di un addio rispettoso prima che io possa iniziare in modo pulito?",
+        "challenge": "Affrettare l’inizio può lasciare dentro di esso vecchi pesi.",
+        "opportunity": "Un inizio più pulito può crescere da un rilascio più pulito."
+      }
+    },
+    "stagnation_choice_action": {
+      "general": {
+        "theme": "La scelta che sblocca l’energia",
+        "text": "Stagnazione e scelta suggeriscono che l’energia può muoversi quando una decisione rimandata viene affrontata con onestà.",
+        "advice": "Scegli il prossimo passo fedele, non la risposta perfetta per tutta la vita.",
+        "journalPrompt": "Quale decisione ho rimandato perché non può essere presa perfettamente?",
+        "challenge": "L’attesa può sembrare neutra mentre prosciuga energia in silenzio.",
+        "opportunity": "Una scelta modesta può restituire movimento."
+      },
+      "love": {
+        "theme": "La scelta che sblocca l’energia",
+        "text": "Stagnazione e scelta suggeriscono che l’energia può muoversi quando una decisione rimandata viene affrontata con onestà.",
+        "advice": "Scegli il prossimo passo fedele, non la risposta perfetta per tutta la vita.",
+        "journalPrompt": "Quale decisione ho rimandato perché non può essere presa perfettamente?",
+        "challenge": "L’attesa può sembrare neutra mentre prosciuga energia in silenzio.",
+        "opportunity": "Una scelta modesta può restituire movimento."
+      },
+      "career": {
+        "theme": "La scelta che sblocca l’energia",
+        "text": "Stagnazione e scelta suggeriscono che l’energia può muoversi quando una decisione rimandata viene affrontata con onestà.",
+        "advice": "Scegli il prossimo passo fedele, non la risposta perfetta per tutta la vita.",
+        "journalPrompt": "Quale decisione ho rimandato perché non può essere presa perfettamente?",
+        "challenge": "L’attesa può sembrare neutra mentre prosciuga energia in silenzio.",
+        "opportunity": "Una scelta modesta può restituire movimento."
+      },
+      "money": {
+        "theme": "La scelta che sblocca l’energia",
+        "text": "Stagnazione e scelta suggeriscono che l’energia può muoversi quando una decisione rimandata viene affrontata con onestà.",
+        "advice": "Scegli il prossimo passo fedele, non la risposta perfetta per tutta la vita.",
+        "journalPrompt": "Quale decisione ho rimandato perché non può essere presa perfettamente?",
+        "challenge": "L’attesa può sembrare neutra mentre prosciuga energia in silenzio.",
+        "opportunity": "Una scelta modesta può restituire movimento."
+      },
+      "growth": {
+        "theme": "La scelta che sblocca l’energia",
+        "text": "Stagnazione e scelta suggeriscono che l’energia può muoversi quando una decisione rimandata viene affrontata con onestà.",
+        "advice": "Scegli il prossimo passo fedele, non la risposta perfetta per tutta la vita.",
+        "journalPrompt": "Quale decisione ho rimandato perché non può essere presa perfettamente?",
+        "challenge": "L’attesa può sembrare neutra mentre prosciuga energia in silenzio.",
+        "opportunity": "Una scelta modesta può restituire movimento."
+      }
+    },
+    "stability_change_integration": {
+      "general": {
+        "theme": "Cambiamento sostenuto dalla stabilità",
+        "text": "Stabilità e cambiamento insieme suggeriscono un’evoluzione che ha bisogno sia di radici sia di flessibilità.",
+        "advice": "Mantieni le strutture di sostegno che aiutano ancora e aggiorna quelle che non si adattano più.",
+        "journalPrompt": "Che cosa può restare stabile mentre permetto il cambiamento?",
+        "challenge": "La sicurezza può essere confusa con il non cambiare mai.",
+        "opportunity": "Il cambiamento integrato può sembrare meno caos e più crescita."
+      },
+      "love": {
+        "theme": "Cambiamento sostenuto dalla stabilità",
+        "text": "Stabilità e cambiamento insieme suggeriscono un’evoluzione che ha bisogno sia di radici sia di flessibilità.",
+        "advice": "Mantieni le strutture di sostegno che aiutano ancora e aggiorna quelle che non si adattano più.",
+        "journalPrompt": "Che cosa può restare stabile mentre permetto il cambiamento?",
+        "challenge": "La sicurezza può essere confusa con il non cambiare mai.",
+        "opportunity": "Il cambiamento integrato può sembrare meno caos e più crescita."
+      },
+      "career": {
+        "theme": "Cambiamento sostenuto dalla stabilità",
+        "text": "Stabilità e cambiamento insieme suggeriscono un’evoluzione che ha bisogno sia di radici sia di flessibilità.",
+        "advice": "Mantieni le strutture di sostegno che aiutano ancora e aggiorna quelle che non si adattano più.",
+        "journalPrompt": "Che cosa può restare stabile mentre permetto il cambiamento?",
+        "challenge": "La sicurezza può essere confusa con il non cambiare mai.",
+        "opportunity": "Il cambiamento integrato può sembrare meno caos e più crescita."
+      },
+      "money": {
+        "theme": "Cambiamento sostenuto dalla stabilità",
+        "text": "Stabilità e cambiamento insieme suggeriscono un’evoluzione che ha bisogno sia di radici sia di flessibilità.",
+        "advice": "Mantieni le strutture di sostegno che aiutano ancora e aggiorna quelle che non si adattano più.",
+        "journalPrompt": "Che cosa può restare stabile mentre permetto il cambiamento?",
+        "challenge": "La sicurezza può essere confusa con il non cambiare mai.",
+        "opportunity": "Il cambiamento integrato può sembrare meno caos e più crescita."
+      },
+      "growth": {
+        "theme": "Cambiamento sostenuto dalla stabilità",
+        "text": "Stabilità e cambiamento insieme suggeriscono un’evoluzione che ha bisogno sia di radici sia di flessibilità.",
+        "advice": "Mantieni le strutture di sostegno che aiutano ancora e aggiorna quelle che non si adattano più.",
+        "journalPrompt": "Che cosa può restare stabile mentre permetto il cambiamento?",
+        "challenge": "La sicurezza può essere confusa con il non cambiare mai.",
+        "opportunity": "Il cambiamento integrato può sembrare meno caos e più crescita."
+      }
+    },
+    "scarcity_security_generosity": {
+      "general": {
+        "theme": "Ricostruire fiducia nelle risorse",
+        "text": "La scarsità fa parte della stesa, ma sostegno, sicurezza o scambio possono mostrare come incontrare con più dolcezza la paura delle risorse.",
+        "advice": "Concentrati su consapevolezza, sostegno e abitudini ripetibili invece che su promesse drammatiche o panico.",
+        "journalPrompt": "Che cosa mi aiuterebbe a rapportarmi alle risorse con più stabilità e meno paura?",
+        "challenge": "La paura può restringere il campo delle scelte possibili.",
+        "opportunity": "Un sistema di sostegno radicato può ammorbidire il pensiero di scarsità."
+      },
+      "money": {
+        "theme": "Ricostruire fiducia nelle risorse",
+        "text": "La scarsità fa parte della stesa, ma sostegno, sicurezza o scambio possono mostrare come incontrare con più dolcezza la paura delle risorse.",
+        "advice": "Concentrati su consapevolezza, sostegno e abitudini ripetibili invece che su promesse drammatiche o panico.",
+        "journalPrompt": "Che cosa mi aiuterebbe a rapportarmi alle risorse con più stabilità e meno paura?",
+        "challenge": "La paura può restringere il campo delle scelte possibili.",
+        "opportunity": "Un sistema di sostegno radicato può ammorbidire il pensiero di scarsità."
+      },
+      "growth": {
+        "theme": "Ricostruire fiducia nelle risorse",
+        "text": "La scarsità fa parte della stesa, ma sostegno, sicurezza o scambio possono mostrare come incontrare con più dolcezza la paura delle risorse.",
+        "advice": "Concentrati su consapevolezza, sostegno e abitudini ripetibili invece che su promesse drammatiche o panico.",
+        "journalPrompt": "Che cosa mi aiuterebbe a rapportarmi alle risorse con più stabilità e meno paura?",
+        "challenge": "La paura può restringere il campo delle scelte possibili.",
+        "opportunity": "Un sistema di sostegno radicato può ammorbidire il pensiero di scarsità."
+      }
+    },
+    "overthinking_truth_grounding": {
+      "general": {
+        "theme": "Riportare la mente alla terra",
+        "text": "Il rimuginare appare nella stesa, chiedendo che la verità sia radicata nella realtà vissuta invece che in cicli mentali infiniti.",
+        "advice": "Scrivi i fatti, le emozioni e un prossimo passo pratico.",
+        "journalPrompt": "Quale pensiero continua a girare, e quale azione concreta lo aiuterebbe a posarsi?",
+        "challenge": "Pensare può mascherarsi da progresso quando evita azione o sentimento.",
+        "opportunity": "Un semplice passo radicato può calmare la mente."
+      },
+      "love": {
+        "theme": "Riportare la mente alla terra",
+        "text": "Il rimuginare appare nella stesa, chiedendo che la verità sia radicata nella realtà vissuta invece che in cicli mentali infiniti.",
+        "advice": "Scrivi i fatti, le emozioni e un prossimo passo pratico.",
+        "journalPrompt": "Quale pensiero continua a girare, e quale azione concreta lo aiuterebbe a posarsi?",
+        "challenge": "Pensare può mascherarsi da progresso quando evita azione o sentimento.",
+        "opportunity": "Un semplice passo radicato può calmare la mente."
+      },
+      "career": {
+        "theme": "Riportare la mente alla terra",
+        "text": "Il rimuginare appare nella stesa, chiedendo che la verità sia radicata nella realtà vissuta invece che in cicli mentali infiniti.",
+        "advice": "Scrivi i fatti, le emozioni e un prossimo passo pratico.",
+        "journalPrompt": "Quale pensiero continua a girare, e quale azione concreta lo aiuterebbe a posarsi?",
+        "challenge": "Pensare può mascherarsi da progresso quando evita azione o sentimento.",
+        "opportunity": "Un semplice passo radicato può calmare la mente."
+      },
+      "money": {
+        "theme": "Riportare la mente alla terra",
+        "text": "Il rimuginare appare nella stesa, chiedendo che la verità sia radicata nella realtà vissuta invece che in cicli mentali infiniti.",
+        "advice": "Scrivi i fatti, le emozioni e un prossimo passo pratico.",
+        "journalPrompt": "Quale pensiero continua a girare, e quale azione concreta lo aiuterebbe a posarsi?",
+        "challenge": "Pensare può mascherarsi da progresso quando evita azione o sentimento.",
+        "opportunity": "Un semplice passo radicato può calmare la mente."
+      },
+      "growth": {
+        "theme": "Riportare la mente alla terra",
+        "text": "Il rimuginare appare nella stesa, chiedendo che la verità sia radicata nella realtà vissuta invece che in cicli mentali infiniti.",
+        "advice": "Scrivi i fatti, le emozioni e un prossimo passo pratico.",
+        "journalPrompt": "Quale pensiero continua a girare, e quale azione concreta lo aiuterebbe a posarsi?",
+        "challenge": "Pensare può mascherarsi da progresso quando evita azione o sentimento.",
+        "opportunity": "Un semplice passo radicato può calmare la mente."
+      }
+    },
+    "all_reversed_inward_work": {
+      "general": {
+        "theme": "Lo specchio interiore",
+        "text": "Con tutte e tre le carte rovesciate, la lettura si volge all’interno: l’energia può essere bloccata, privata, ritardata o chiedere integrazione prima di esprimersi.",
+        "advice": "Non trattare il rovescio come un cattivo segno; chiedi dove il messaggio vuole cura, onestà o un aggiustamento gentile dentro di te.",
+        "journalPrompt": "Che cosa si sta volgendo all’interno perché ha bisogno di più sicurezza, chiarezza o pazienza?",
+        "challenge": "Potresti essere tentato di leggere il ritardo come fallimento.",
+        "opportunity": "Un aggiustamento interiore può preparare il movimento esterno."
+      },
+      "love": {
+        "theme": "Lo specchio interiore",
+        "text": "Con tutte e tre le carte rovesciate, la lettura si volge all’interno: l’energia può essere bloccata, privata, ritardata o chiedere integrazione prima di esprimersi.",
+        "advice": "Non trattare il rovescio come un cattivo segno; chiedi dove il messaggio vuole cura, onestà o un aggiustamento gentile dentro di te.",
+        "journalPrompt": "Che cosa si sta volgendo all’interno perché ha bisogno di più sicurezza, chiarezza o pazienza?",
+        "challenge": "Potresti essere tentato di leggere il ritardo come fallimento.",
+        "opportunity": "Un aggiustamento interiore può preparare il movimento esterno."
+      },
+      "career": {
+        "theme": "Lo specchio interiore",
+        "text": "Con tutte e tre le carte rovesciate, la lettura si volge all’interno: l’energia può essere bloccata, privata, ritardata o chiedere integrazione prima di esprimersi.",
+        "advice": "Non trattare il rovescio come un cattivo segno; chiedi dove il messaggio vuole cura, onestà o un aggiustamento gentile dentro di te.",
+        "journalPrompt": "Che cosa si sta volgendo all’interno perché ha bisogno di più sicurezza, chiarezza o pazienza?",
+        "challenge": "Potresti essere tentato di leggere il ritardo come fallimento.",
+        "opportunity": "Un aggiustamento interiore può preparare il movimento esterno."
+      },
+      "money": {
+        "theme": "Lo specchio interiore",
+        "text": "Con tutte e tre le carte rovesciate, la lettura si volge all’interno: l’energia può essere bloccata, privata, ritardata o chiedere integrazione prima di esprimersi.",
+        "advice": "Non trattare il rovescio come un cattivo segno; chiedi dove il messaggio vuole cura, onestà o un aggiustamento gentile dentro di te.",
+        "journalPrompt": "Che cosa si sta volgendo all’interno perché ha bisogno di più sicurezza, chiarezza o pazienza?",
+        "challenge": "Potresti essere tentato di leggere il ritardo come fallimento.",
+        "opportunity": "Un aggiustamento interiore può preparare il movimento esterno."
+      },
+      "growth": {
+        "theme": "Lo specchio interiore",
+        "text": "Con tutte e tre le carte rovesciate, la lettura si volge all’interno: l’energia può essere bloccata, privata, ritardata o chiedere integrazione prima di esprimersi.",
+        "advice": "Non trattare il rovescio come un cattivo segno; chiedi dove il messaggio vuole cura, onestà o un aggiustamento gentile dentro di te.",
+        "journalPrompt": "Che cosa si sta volgendo all’interno perché ha bisogno di più sicurezza, chiarezza o pazienza?",
+        "challenge": "Potresti essere tentato di leggere il ritardo come fallimento.",
+        "opportunity": "Un aggiustamento interiore può preparare il movimento esterno."
+      }
+    },
+    "mixed_orientation_integration": {
+      "general": {
+        "theme": "Lavoro interiore ed esteriore insieme",
+        "text": "La stesa mescola energia diritta e rovesciata, suggerendo che parte del messaggio è pronta a muoversi mentre un’altra parte ha bisogno di riflessione o riparazione.",
+        "advice": "Nota quale carta sembra disponibile e quale appare tenera, bloccata o incompiuta.",
+        "journalPrompt": "Dove l’energia scorre, e dove ha bisogno di più cura prima di muoversi?",
+        "challenge": "Segnali misti possono confondere se ti aspetti un solo tono.",
+        "opportunity": "L’integrazione può rendere la lettura più onesta e sfumata."
+      },
+      "love": {
+        "theme": "Lavoro interiore ed esteriore insieme",
+        "text": "La stesa mescola energia diritta e rovesciata, suggerendo che parte del messaggio è pronta a muoversi mentre un’altra parte ha bisogno di riflessione o riparazione.",
+        "advice": "Nota quale carta sembra disponibile e quale appare tenera, bloccata o incompiuta.",
+        "journalPrompt": "Dove l’energia scorre, e dove ha bisogno di più cura prima di muoversi?",
+        "challenge": "Segnali misti possono confondere se ti aspetti un solo tono.",
+        "opportunity": "L’integrazione può rendere la lettura più onesta e sfumata."
+      },
+      "career": {
+        "theme": "Lavoro interiore ed esteriore insieme",
+        "text": "La stesa mescola energia diritta e rovesciata, suggerendo che parte del messaggio è pronta a muoversi mentre un’altra parte ha bisogno di riflessione o riparazione.",
+        "advice": "Nota quale carta sembra disponibile e quale appare tenera, bloccata o incompiuta.",
+        "journalPrompt": "Dove l’energia scorre, e dove ha bisogno di più cura prima di muoversi?",
+        "challenge": "Segnali misti possono confondere se ti aspetti un solo tono.",
+        "opportunity": "L’integrazione può rendere la lettura più onesta e sfumata."
+      },
+      "money": {
+        "theme": "Lavoro interiore ed esteriore insieme",
+        "text": "La stesa mescola energia diritta e rovesciata, suggerendo che parte del messaggio è pronta a muoversi mentre un’altra parte ha bisogno di riflessione o riparazione.",
+        "advice": "Nota quale carta sembra disponibile e quale appare tenera, bloccata o incompiuta.",
+        "journalPrompt": "Dove l’energia scorre, e dove ha bisogno di più cura prima di muoversi?",
+        "challenge": "Segnali misti possono confondere se ti aspetti un solo tono.",
+        "opportunity": "L’integrazione può rendere la lettura più onesta e sfumata."
+      },
+      "growth": {
+        "theme": "Lavoro interiore ed esteriore insieme",
+        "text": "La stesa mescola energia diritta e rovesciata, suggerendo che parte del messaggio è pronta a muoversi mentre un’altra parte ha bisogno di riflessione o riparazione.",
+        "advice": "Nota quale carta sembra disponibile e quale appare tenera, bloccata o incompiuta.",
+        "journalPrompt": "Dove l’energia scorre, e dove ha bisogno di più cura prima di muoversi?",
+        "challenge": "Segnali misti possono confondere se ti aspetti un solo tono.",
+        "opportunity": "L’integrazione può rendere la lettura più onesta e sfumata."
+      }
+    },
+    "upright_flow_outward_momentum": {
+      "general": {
+        "theme": "Energia che si muove verso l’esterno",
+        "text": "Tutte le carte sono diritte, dando alla stesa un senso di energia disponibile, movimento visibile o un messaggio da incontrare direttamente.",
+        "advice": "Accogli la chiarezza senza affrettarla; anche l’energia che scorre beneficia di un ritmo consapevole.",
+        "journalPrompt": "Che cosa sembra pronto per essere agito o riconosciuto ora?",
+        "challenge": "La facilità può tentarti a saltare la riflessione.",
+        "opportunity": "Un flusso chiaro può sostenere scelte sicure e radicate."
+      },
+      "love": {
+        "theme": "Energia che si muove verso l’esterno",
+        "text": "Tutte le carte sono diritte, dando alla stesa un senso di energia disponibile, movimento visibile o un messaggio da incontrare direttamente.",
+        "advice": "Accogli la chiarezza senza affrettarla; anche l’energia che scorre beneficia di un ritmo consapevole.",
+        "journalPrompt": "Che cosa sembra pronto per essere agito o riconosciuto ora?",
+        "challenge": "La facilità può tentarti a saltare la riflessione.",
+        "opportunity": "Un flusso chiaro può sostenere scelte sicure e radicate."
+      },
+      "career": {
+        "theme": "Energia che si muove verso l’esterno",
+        "text": "Tutte le carte sono diritte, dando alla stesa un senso di energia disponibile, movimento visibile o un messaggio da incontrare direttamente.",
+        "advice": "Accogli la chiarezza senza affrettarla; anche l’energia che scorre beneficia di un ritmo consapevole.",
+        "journalPrompt": "Che cosa sembra pronto per essere agito o riconosciuto ora?",
+        "challenge": "La facilità può tentarti a saltare la riflessione.",
+        "opportunity": "Un flusso chiaro può sostenere scelte sicure e radicate."
+      },
+      "money": {
+        "theme": "Energia che si muove verso l’esterno",
+        "text": "Tutte le carte sono diritte, dando alla stesa un senso di energia disponibile, movimento visibile o un messaggio da incontrare direttamente.",
+        "advice": "Accogli la chiarezza senza affrettarla; anche l’energia che scorre beneficia di un ritmo consapevole.",
+        "journalPrompt": "Che cosa sembra pronto per essere agito o riconosciuto ora?",
+        "challenge": "La facilità può tentarti a saltare la riflessione.",
+        "opportunity": "Un flusso chiaro può sostenere scelte sicure e radicate."
+      },
+      "growth": {
+        "theme": "Energia che si muove verso l’esterno",
+        "text": "Tutte le carte sono diritte, dando alla stesa un senso di energia disponibile, movimento visibile o un messaggio da incontrare direttamente.",
+        "advice": "Accogli la chiarezza senza affrettarla; anche l’energia che scorre beneficia di un ritmo consapevole.",
+        "journalPrompt": "Che cosa sembra pronto per essere agito o riconosciuto ora?",
+        "challenge": "La facilità può tentarti a saltare la riflessione.",
+        "opportunity": "Un flusso chiaro può sostenere scelte sicure e radicate."
+      }
+    },
+    "many_court_cards_relationships": {
+      "general": {
+        "theme": "Persone, ruoli e maturità",
+        "text": "Più carte di corte suggeriscono che personalità, ruoli, stili di comunicazione o livelli di maturità sono centrali nella lettura.",
+        "advice": "Chiediti che cosa ogni ruolo ti sta insegnando: parlare, ascoltare, guidare, proteggere, imparare o prenderti cura.",
+        "journalPrompt": "Quale ruolo mi viene chiesto di incarnare con più consapevolezza?",
+        "challenge": "L’attenzione può scivolare verso il giudicare le persone invece di comprendere le dinamiche.",
+        "opportunity": "Riconoscere i ruoli può migliorare il modo in cui partecipi."
+      },
+      "love": {
+        "theme": "Persone, ruoli e maturità",
+        "text": "Più carte di corte suggeriscono che personalità, ruoli, stili di comunicazione o livelli di maturità sono centrali nella lettura.",
+        "advice": "Chiediti che cosa ogni ruolo ti sta insegnando: parlare, ascoltare, guidare, proteggere, imparare o prenderti cura.",
+        "journalPrompt": "Quale ruolo mi viene chiesto di incarnare con più consapevolezza?",
+        "challenge": "L’attenzione può scivolare verso il giudicare le persone invece di comprendere le dinamiche.",
+        "opportunity": "Riconoscere i ruoli può migliorare il modo in cui partecipi."
+      },
+      "career": {
+        "theme": "Persone, ruoli e maturità",
+        "text": "Più carte di corte suggeriscono che personalità, ruoli, stili di comunicazione o livelli di maturità sono centrali nella lettura.",
+        "advice": "Chiediti che cosa ogni ruolo ti sta insegnando: parlare, ascoltare, guidare, proteggere, imparare o prenderti cura.",
+        "journalPrompt": "Quale ruolo mi viene chiesto di incarnare con più consapevolezza?",
+        "challenge": "L’attenzione può scivolare verso il giudicare le persone invece di comprendere le dinamiche.",
+        "opportunity": "Riconoscere i ruoli può migliorare il modo in cui partecipi."
+      },
+      "growth": {
+        "theme": "Persone, ruoli e maturità",
+        "text": "Più carte di corte suggeriscono che personalità, ruoli, stili di comunicazione o livelli di maturità sono centrali nella lettura.",
+        "advice": "Chiediti che cosa ogni ruolo ti sta insegnando: parlare, ascoltare, guidare, proteggere, imparare o prenderti cura.",
+        "journalPrompt": "Quale ruolo mi viene chiesto di incarnare con più consapevolezza?",
+        "challenge": "L’attenzione può scivolare verso il giudicare le persone invece di comprendere le dinamiche.",
+        "opportunity": "Riconoscere i ruoli può migliorare il modo in cui partecipi."
+      }
+    },
+    "aces_new_cycle": {
+      "general": {
+        "theme": "Semi di un nuovo ciclo",
+        "text": "Più Assi suggeriscono inizi freschi, nuova energia o semi che non hanno ancora preso una forma stabile.",
+        "advice": "Proteggi gli inizi dalla pressione; scegli il seme con abbastanza cura, tempo e struttura per crescere.",
+        "journalPrompt": "Quale nuovo seme merita per primo la mia attenzione?",
+        "challenge": "Troppi inizi possono disperdere l’energia.",
+        "opportunity": "Un nuovo ciclo può essere modellato intenzionalmente fin dall’inizio."
+      },
+      "love": {
+        "theme": "Semi di un nuovo ciclo",
+        "text": "Più Assi suggeriscono inizi freschi, nuova energia o semi che non hanno ancora preso una forma stabile.",
+        "advice": "Proteggi gli inizi dalla pressione; scegli il seme con abbastanza cura, tempo e struttura per crescere.",
+        "journalPrompt": "Quale nuovo seme merita per primo la mia attenzione?",
+        "challenge": "Troppi inizi possono disperdere l’energia.",
+        "opportunity": "Un nuovo ciclo può essere modellato intenzionalmente fin dall’inizio."
+      },
+      "career": {
+        "theme": "Semi di un nuovo ciclo",
+        "text": "Più Assi suggeriscono inizi freschi, nuova energia o semi che non hanno ancora preso una forma stabile.",
+        "advice": "Proteggi gli inizi dalla pressione; scegli il seme con abbastanza cura, tempo e struttura per crescere.",
+        "journalPrompt": "Quale nuovo seme merita per primo la mia attenzione?",
+        "challenge": "Troppi inizi possono disperdere l’energia.",
+        "opportunity": "Un nuovo ciclo può essere modellato intenzionalmente fin dall’inizio."
+      },
+      "money": {
+        "theme": "Semi di un nuovo ciclo",
+        "text": "Più Assi suggeriscono inizi freschi, nuova energia o semi che non hanno ancora preso una forma stabile.",
+        "advice": "Proteggi gli inizi dalla pressione; scegli il seme con abbastanza cura, tempo e struttura per crescere.",
+        "journalPrompt": "Quale nuovo seme merita per primo la mia attenzione?",
+        "challenge": "Troppi inizi possono disperdere l’energia.",
+        "opportunity": "Un nuovo ciclo può essere modellato intenzionalmente fin dall’inizio."
+      },
+      "growth": {
+        "theme": "Semi di un nuovo ciclo",
+        "text": "Più Assi suggeriscono inizi freschi, nuova energia o semi che non hanno ancora preso una forma stabile.",
+        "advice": "Proteggi gli inizi dalla pressione; scegli il seme con abbastanza cura, tempo e struttura per crescere.",
+        "journalPrompt": "Quale nuovo seme merita per primo la mia attenzione?",
+        "challenge": "Troppi inizi possono disperdere l’energia.",
+        "opportunity": "Un nuovo ciclo può essere modellato intenzionalmente fin dall’inizio."
+      }
+    },
+    "tens_completion_threshold": {
+      "general": {
+        "theme": "Compimento e soglia",
+        "text": "Più Dieci danno alla stesa un senso di culminazione, completamento o ciclo che raggiunge il suo margine naturale.",
+        "advice": "Chiediti che cosa ha raggiunto pienezza, che cosa può essere integrato e che cosa non dovrebbe essere portato nel prossimo ciclo senza cambiamenti.",
+        "journalPrompt": "Quale ciclo si sta completando, e quale saggezza dovrebbe venire con me?",
+        "challenge": "Il completamento può essere scambiato per perdita se non sei pronto a lasciare la vecchia forma.",
+        "opportunity": "Un ciclo concluso può diventare una soglia pulita."
+      },
+      "love": {
+        "theme": "Compimento e soglia",
+        "text": "Più Dieci danno alla stesa un senso di culminazione, completamento o ciclo che raggiunge il suo margine naturale.",
+        "advice": "Chiediti che cosa ha raggiunto pienezza, che cosa può essere integrato e che cosa non dovrebbe essere portato nel prossimo ciclo senza cambiamenti.",
+        "journalPrompt": "Quale ciclo si sta completando, e quale saggezza dovrebbe venire con me?",
+        "challenge": "Il completamento può essere scambiato per perdita se non sei pronto a lasciare la vecchia forma.",
+        "opportunity": "Un ciclo concluso può diventare una soglia pulita."
+      },
+      "career": {
+        "theme": "Compimento e soglia",
+        "text": "Più Dieci danno alla stesa un senso di culminazione, completamento o ciclo che raggiunge il suo margine naturale.",
+        "advice": "Chiediti che cosa ha raggiunto pienezza, che cosa può essere integrato e che cosa non dovrebbe essere portato nel prossimo ciclo senza cambiamenti.",
+        "journalPrompt": "Quale ciclo si sta completando, e quale saggezza dovrebbe venire con me?",
+        "challenge": "Il completamento può essere scambiato per perdita se non sei pronto a lasciare la vecchia forma.",
+        "opportunity": "Un ciclo concluso può diventare una soglia pulita."
+      },
+      "money": {
+        "theme": "Compimento e soglia",
+        "text": "Più Dieci danno alla stesa un senso di culminazione, completamento o ciclo che raggiunge il suo margine naturale.",
+        "advice": "Chiediti che cosa ha raggiunto pienezza, che cosa può essere integrato e che cosa non dovrebbe essere portato nel prossimo ciclo senza cambiamenti.",
+        "journalPrompt": "Quale ciclo si sta completando, e quale saggezza dovrebbe venire con me?",
+        "challenge": "Il completamento può essere scambiato per perdita se non sei pronto a lasciare la vecchia forma.",
+        "opportunity": "Un ciclo concluso può diventare una soglia pulita."
+      },
+      "growth": {
+        "theme": "Compimento e soglia",
+        "text": "Più Dieci danno alla stesa un senso di culminazione, completamento o ciclo che raggiunge il suo margine naturale.",
+        "advice": "Chiediti che cosa ha raggiunto pienezza, che cosa può essere integrato e che cosa non dovrebbe essere portato nel prossimo ciclo senza cambiamenti.",
+        "journalPrompt": "Quale ciclo si sta completando, e quale saggezza dovrebbe venire con me?",
+        "challenge": "Il completamento può essere scambiato per perdita se non sei pronto a lasciare la vecchia forma.",
+        "opportunity": "Un ciclo concluso può diventare una soglia pulita."
+      }
+    },
+    "truth_healing_stability": {
+      "general": {
+        "theme": "La verità che diventa stabilità",
+        "text": "Verità, guarigione e stabilità insieme suggeriscono che vedere onestamente può diventare una base più calma se viene trattato con cura.",
+        "advice": "Lascia che la verità semplifichi il cammino, poi sostienila con un’abitudine, un confine o una scelta pratica stabile.",
+        "journalPrompt": "Quale verità mi aiuterebbe a guarire e diventare più stabile se smettessi di evitarla?",
+        "challenge": "La verità può sembrare destabilizzante prima di diventare radicamento.",
+        "opportunity": "La consapevolezza onesta può diventare una base stabile per la crescita."
+      },
+      "love": {
+        "theme": "La verità che diventa stabilità",
+        "text": "Verità, guarigione e stabilità insieme suggeriscono che vedere onestamente può diventare una base più calma se viene trattato con cura.",
+        "advice": "Lascia che la verità semplifichi il cammino, poi sostienila con un’abitudine, un confine o una scelta pratica stabile.",
+        "journalPrompt": "Quale verità mi aiuterebbe a guarire e diventare più stabile se smettessi di evitarla?",
+        "challenge": "La verità può sembrare destabilizzante prima di diventare radicamento.",
+        "opportunity": "La consapevolezza onesta può diventare una base stabile per la crescita."
+      },
+      "career": {
+        "theme": "La verità che diventa stabilità",
+        "text": "Verità, guarigione e stabilità insieme suggeriscono che vedere onestamente può diventare una base più calma se viene trattato con cura.",
+        "advice": "Lascia che la verità semplifichi il cammino, poi sostienila con un’abitudine, un confine o una scelta pratica stabile.",
+        "journalPrompt": "Quale verità mi aiuterebbe a guarire e diventare più stabile se smettessi di evitarla?",
+        "challenge": "La verità può sembrare destabilizzante prima di diventare radicamento.",
+        "opportunity": "La consapevolezza onesta può diventare una base stabile per la crescita."
+      },
+      "money": {
+        "theme": "La verità che diventa stabilità",
+        "text": "Verità, guarigione e stabilità insieme suggeriscono che vedere onestamente può diventare una base più calma se viene trattato con cura.",
+        "advice": "Lascia che la verità semplifichi il cammino, poi sostienila con un’abitudine, un confine o una scelta pratica stabile.",
+        "journalPrompt": "Quale verità mi aiuterebbe a guarire e diventare più stabile se smettessi di evitarla?",
+        "challenge": "La verità può sembrare destabilizzante prima di diventare radicamento.",
+        "opportunity": "La consapevolezza onesta può diventare una base stabile per la crescita."
+      },
+      "growth": {
+        "theme": "La verità che diventa stabilità",
+        "text": "Verità, guarigione e stabilità insieme suggeriscono che vedere onestamente può diventare una base più calma se viene trattato con cura.",
+        "advice": "Lascia che la verità semplifichi il cammino, poi sostienila con un’abitudine, un confine o una scelta pratica stabile.",
+        "journalPrompt": "Quale verità mi aiuterebbe a guarire e diventare più stabile se smettessi di evitarla?",
+        "challenge": "La verità può sembrare destabilizzante prima di diventare radicamento.",
+        "opportunity": "La consapevolezza onesta può diventare una base stabile per la crescita."
+      }
+    }
+  }
+}
