@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "kind": "arcanaSignaturePairs",
+  "description": "Non-localized Major Arcana card data for the Arcana Signature feature. These are the 13 birthday-reachable (personality, soul) combinations: personality values 10-22 reduce to a single-digit soul card. Localized theme/reflection text lives in source/<locale>/personalized_readings/arcana_signature.json keyed by the same ids. 'cards' lists the two visible cards in pair-key order; Flutter matches a reading by the unordered set of the two visible card ids. 'bridgeCards' (Sun signature only) is the traditional 19->10->1 middle card, surfaced as a calculation/bridge note only, never a third position.",
+  "pairs": {
+    "the_magician__wheel_of_fortune": {
+      "cards": ["the_magician", "wheel_of_fortune"]
+    },
+    "the_high_priestess__justice": {
+      "cards": ["the_high_priestess", "justice"]
+    },
+    "the_empress__the_hanged_man": {
+      "cards": ["the_empress", "the_hanged_man"]
+    },
+    "the_emperor__death": {
+      "cards": ["the_emperor", "death"]
+    },
+    "the_hierophant__temperance": {
+      "cards": ["the_hierophant", "temperance"]
+    },
+    "the_lovers__the_devil": {
+      "cards": ["the_lovers", "the_devil"]
+    },
+    "the_chariot__the_tower": {
+      "cards": ["the_chariot", "the_tower"]
+    },
+    "strength__the_star": {
+      "cards": ["strength", "the_star"]
+    },
+    "the_hermit__the_moon": {
+      "cards": ["the_hermit", "the_moon"]
+    },
+    "the_sun__wheel_of_fortune__the_magician": {
+      "cards": ["the_sun", "the_magician"],
+      "bridgeCards": ["wheel_of_fortune"]
+    },
+    "the_high_priestess__judgement": {
+      "cards": ["the_high_priestess", "judgement"]
+    },
+    "the_empress__the_world": {
+      "cards": ["the_empress", "the_world"]
+    },
+    "the_fool__the_emperor": {
+      "cards": ["the_fool", "the_emperor"]
+    }
+  }
+}

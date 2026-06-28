@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "locale": "en",
+  "arcanaSignature": {
+    "id": "arcana_signature",
+    "kind": "birthday_major_arcana_signature",
+    "enabled": true,
+    "title": "Arcana Signature",
+    "subtitle": "A reflective mirror drawn from your birthday",
+    "description": "Arcana Signature is a symbolic reflection built from your date of birth. Using only the Major Arcana, it surfaces two personal archetypes — a Personality Card and a Soul Card — offered as a gentle invitation to notice the themes you may wish to explore. It is a mirror for self-discovery, not a forecast.",
+    "cardSource": "major_arcana_only",
+    "cardCount": 2,
+    "positions": [
+      {
+        "id": "personality_card",
+        "name": "Personality Card",
+        "description": "The outward archetype — the energy you tend to meet the world with, and the themes that may colour how others experience you.",
+        "cardFilter": {
+          "arcana": "major"
+        }
+      },
+      {
+        "id": "soul_card",
+        "name": "Soul Card",
+        "description": "The inward archetype — a quieter underlying current that speaks to what nourishes you and what you may be growing toward.",
+        "cardFilter": {
+          "arcana": "major"
+        }
+      }
+    ],
+    "supportedFocuses": [
+      {
+        "id": "love",
+        "label": "Love",
+        "description": "Read your signature through the lens of connection, closeness, and the heart."
+      },
+      {
+        "id": "work",
+        "label": "Work",
+        "description": "Read your signature through the lens of vocation, effort, and direction."
+      },
+      {
+        "id": "self_growth",
+        "label": "Self-Growth",
+        "description": "Read your signature through the lens of self-awareness, habits, and inner change."
+      },
+      {
+        "id": "healing",
+        "label": "Healing",
+        "description": "Read your signature through the lens of gentleness, rest, and tending to what needs care."
+      },
+      {
+        "id": "creativity",
+        "label": "Creativity",
+        "description": "Read your signature through the lens of imagination, making, and self-expression."
+      }
+    ],
+    "calculation": {
+      "methodId": "mm_dd_yy_yy_reduce_to_major_arcana",
+      "description": "Your two cards are calculated from your birth date, never drawn at random. The month, the day, and the two halves of the year are added together and gently reduced to a Major Arcana value between 1 and 22 — that value is your Personality Card. Reducing it once more to a single digit gives your Soul Card. The same birthday always points to the same signature.",
+      "majorArcanaOnly": true,
+      "calculationRange": {
+        "min": 1,
+        "max": 22
+      },
+      "foolNumber": 0,
+      "foolCalculationValue": 22,
+      "worldNumber": 21,
+      "maps22ToFool": true,
+      "threeCardExceptionPolicy": "collapse_to_two_with_note",
+      "threeCardExceptionNote": "When the calculation reaches 19 (The Sun), the traditional reduction passes through Wheel of Fortune (10) on its way to The Magician (1). Arcana Signature shows two cards — The Sun and The Magician — and keeps Wheel of Fortune as a quiet connecting thread rather than a third card."
+    },
+    "placeholders": [
+      "{personalityCardName}",
+      "{soulCardName}",
+      "{focusLabel}",
+      "{personalityKeywords}",
+      "{soulKeywords}",
+      "{personalitySummary}",
+      "{soulSummary}",
+      "{pairTheme}",
+      "{pairReflection}",
+      "{journalPrompt}"
+    ],
+    "templates": {
+      "default": {
+        "opening": "This is your Arcana Signature — a symbolic reflection drawn from your birthday and offered as a mirror, not a map.",
+        "personalityIntro": "Your Personality Card is {personalityCardName}, the outward archetype you tend to meet the world with. It gathers around themes of {personalityKeywords}. {personalitySummary}",
+        "soulIntro": "Your Soul Card is {soulCardName}, a quieter inner current beneath the surface. It leans toward {soulKeywords}. {soulSummary}",
+        "combinedReflection": "Held together, {personalityCardName} and {soulCardName} sketch a personal pattern — {pairTheme}. {pairReflection}",
+        "focusReflection": "Seen through the lens of {focusLabel}, notice how {personalityCardName} and {soulCardName} might colour this part of your life. Hold it as an invitation to explore rather than a conclusion.",
+        "journalPrompt": "Where do you sense {personalityCardName} in how you meet your days, and where does {soulCardName} quietly ask for your attention?",
+        "closing": "Let your signature be a gentle prompt for self-discovery. These are themes you may explore — a reflective mirror, never a statement about who you must be."
+      },
+      "focuses": {
+        "love": {
+          "focusReflection": "In matters of {focusLabel}, {personalityCardName} suggests how you tend to show up for closeness, while {soulCardName} hints at what your heart quietly needs. Notice where the two meet.",
+          "journalPrompt": "In connection, where does {personalityCardName} lead, and what would it mean to honour {soulCardName} as well?"
+        },
+        "work": {
+          "focusReflection": "In your {focusLabel}, {personalityCardName} colours how you take action and direction, while {soulCardName} speaks to the deeper motivation underneath. Where might they support each other?",
+          "journalPrompt": "What kind of work would let both {personalityCardName} and {soulCardName} feel expressed?"
+        },
+        "self_growth": {
+          "focusReflection": "For {focusLabel}, {personalityCardName} shows a familiar outward pattern, while {soulCardName} points toward what is quietly unfolding within. Growth often lives in the conversation between them.",
+          "journalPrompt": "What small, kind step would let {soulCardName} grow alongside {personalityCardName}?"
+        },
+        "healing": {
+          "focusReflection": "Around {focusLabel}, {personalityCardName} may show how you cope on the surface, while {soulCardName} names what gently needs tending. Let care move at its own pace.",
+          "journalPrompt": "What would tending to {soulCardName} look like today, without rushing {personalityCardName}?"
+        },
+        "creativity": {
+          "focusReflection": "In {focusLabel}, {personalityCardName} shapes how your ideas reach the world, while {soulCardName} feeds the wellspring they rise from. Notice what wants to be made.",
+          "journalPrompt": "What would you create if {personalityCardName} and {soulCardName} worked together freely?"
+        }
+      }
+    },
+    "pairThemes": {
+      "the_magician__wheel_of_fortune": {
+        "theme": "Focused will meeting wider cycles",
+        "reflection": "Here a gift for focused intention meets the larger turning of cycles and timing. It is an invitation to notice where your effort meets the moment — to act with purpose while staying open to change."
+      },
+      "the_high_priestess__justice": {
+        "theme": "Inner knowing and clear balance",
+        "reflection": "Quiet intuition meets a longing for fairness and clarity. This pattern invites you to notice where inner sensing and honest judgement can inform one another rather than compete."
+      },
+      "the_empress__the_hanged_man": {
+        "theme": "Nurturing and the pause that reveals",
+        "reflection": "A nurturing, creative warmth meets a willingness to pause and see differently. You might explore how care and a patient change of perspective can work together."
+      },
+      "the_emperor__death": {
+        "theme": "Structure and honest endings",
+        "reflection": "A love of order and steadiness meets the deep work of release and renewal. Held together, they invite you to notice which structures still serve you and what may be ready to gently transform."
+      },
+      "the_hierophant__temperance": {
+        "theme": "Shared wisdom and patient blending",
+        "reflection": "A respect for tradition and meaning meets a gift for balance and moderation. This pairing is an invitation to explore where learning and gentle, patient blending meet in your life."
+      },
+      "the_lovers__the_devil": {
+        "theme": "Connection and honest attachments",
+        "reflection": "A capacity for meaningful choice and connection meets an honest look at what binds or tempts. Together they invite reflection on where your bonds feel freeing and where they feel heavy."
+      },
+      "the_chariot__the_tower": {
+        "theme": "Drive and sudden change",
+        "reflection": "Determined momentum meets moments that clear away what no longer holds. You might notice how forward drive and unexpected change can together reshape your path."
+      },
+      "strength__the_star": {
+        "theme": "Quiet courage and gentle hope",
+        "reflection": "A patient, gentle courage meets renewal and quiet hope. Together they invite you to explore how steadiness and openness can carry you forward, even through tender seasons."
+      },
+      "the_hermit__the_moon": {
+        "theme": "Inner light and the unknown",
+        "reflection": "A search for understanding through reflection meets dreams, intuition, and what is not yet clear. This pattern invites a patient, curious relationship with mystery."
+      },
+      "the_sun__wheel_of_fortune__the_magician": {
+        "theme": "Warmth, will, and turning seasons",
+        "reflection": "Clarity, warmth, and a sense of vitality meet a gift for focusing intention into action. Together they invite you to notice where your inner light meets your capacity to begin.",
+        "bridgeNote": "In the traditional reduction, this signature passes through Wheel of Fortune (10) on its way from The Sun (19) to The Magician (1). Arcana Signature keeps Wheel of Fortune as a quiet connecting thread — a reminder of changing seasons — rather than a third card."
+      },
+      "the_high_priestess__judgement": {
+        "theme": "Inner knowing and awakening",
+        "reflection": "Quiet inner knowing meets a sense of awakening and honest renewal. Together they invite you to listen inward and notice what may be calling you to rise."
+      },
+      "the_empress__the_world": {
+        "theme": "Nurturing and wholeness",
+        "reflection": "A nurturing, creative warmth meets a sense of completion and belonging. This pairing invites you to explore how tending to yourself and others connects to a feeling of wholeness."
+      },
+      "the_fool__the_emperor": {
+        "theme": "Open beginnings and steady ground",
+        "reflection": "Trust and open-hearted beginning meet structure and steady ground. Together they invite you to notice how a free spirit and a stable foundation can support one another."
+      }
+    },
+    "privacyCopy": {
+      "birthdayHelper": "Your birthday is used only to calculate your two Arcana Signature cards. It stays on your device and is never used to make claims about your future.",
+      "focusHelper": "Choosing a focus is optional. It only shifts the angle of reflection and the journal prompts — it never changes which two cards your birthday calculates.",
+      "localStorageHelper": "Your Arcana Signature is calculated and kept locally on your device. You can clear it at any time."
+    },
+    "safety": {
+      "tone": "reflective_not_predictive",
+      "blockedClaims": [
+        "destiny",
+        "fate",
+        "guaranteed_future",
+        "medical_advice",
+        "psychological_diagnosis",
+        "legal_advice",
+        "financial_advice"
+      ]
+    }
+  }
+}

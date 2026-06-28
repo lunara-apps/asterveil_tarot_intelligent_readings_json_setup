@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "locale": "it",
+  "arcanaSignature": {
+    "id": "arcana_signature",
+    "kind": "birthday_major_arcana_signature",
+    "enabled": true,
+    "title": "Firma degli Arcani",
+    "subtitle": "Uno specchio riflessivo tratto dalla tua data di nascita",
+    "description": "La Firma degli Arcani è una riflessione simbolica costruita a partire dalla tua data di nascita. Usando solo gli Arcani Maggiori, fa emergere due archetipi personali — una Carta della Personalità e una Carta dell'Anima — offerti come un gentile invito a notare i temi che potresti voler esplorare. È uno specchio per la scoperta di sé, non una previsione.",
+    "cardSource": "major_arcana_only",
+    "cardCount": 2,
+    "positions": [
+      {
+        "id": "personality_card",
+        "name": "Carta della Personalità",
+        "description": "L'archetipo esteriore — l'energia con cui tendi a incontrare il mondo e i temi che possono colorare il modo in cui gli altri ti percepiscono.",
+        "cardFilter": {
+          "arcana": "major"
+        }
+      },
+      {
+        "id": "soul_card",
+        "name": "Carta dell'Anima",
+        "description": "L'archetipo interiore — una corrente più silenziosa e profonda che parla di ciò che ti nutre e di ciò verso cui potresti crescere.",
+        "cardFilter": {
+          "arcana": "major"
+        }
+      }
+    ],
+    "supportedFocuses": [
+      {
+        "id": "love",
+        "label": "Amore",
+        "description": "Leggi la tua firma attraverso la lente della connessione, della vicinanza e del cuore."
+      },
+      {
+        "id": "work",
+        "label": "Lavoro",
+        "description": "Leggi la tua firma attraverso la lente della vocazione, dell'impegno e della direzione."
+      },
+      {
+        "id": "self_growth",
+        "label": "Crescita personale",
+        "description": "Leggi la tua firma attraverso la lente della consapevolezza di sé, delle abitudini e del cambiamento interiore."
+      },
+      {
+        "id": "healing",
+        "label": "Guarigione",
+        "description": "Leggi la tua firma attraverso la lente della gentilezza, del riposo e della cura di ciò che ne ha bisogno."
+      },
+      {
+        "id": "creativity",
+        "label": "Creatività",
+        "description": "Leggi la tua firma attraverso la lente dell'immaginazione, del creare e dell'espressione di sé."
+      }
+    ],
+    "calculation": {
+      "methodId": "mm_dd_yy_yy_reduce_to_major_arcana",
+      "description": "Le tue due carte sono calcolate dalla tua data di nascita, mai estratte a caso. Il mese, il giorno e le due metà dell'anno vengono sommati e ridotti con delicatezza a un valore degli Arcani Maggiori tra 1 e 22: quel valore è la tua Carta della Personalità. Riducendolo ancora a una sola cifra si ottiene la tua Carta dell'Anima. La stessa data di nascita indica sempre la stessa firma.",
+      "majorArcanaOnly": true,
+      "calculationRange": {
+        "min": 1,
+        "max": 22
+      },
+      "foolNumber": 0,
+      "foolCalculationValue": 22,
+      "worldNumber": 21,
+      "maps22ToFool": true,
+      "threeCardExceptionPolicy": "collapse_to_two_with_note",
+      "threeCardExceptionNote": "Quando il calcolo raggiunge il 19 (Il Sole), la riduzione tradizionale passa attraverso La Ruota della Fortuna (10) prima di arrivare a Il Mago (1). La Firma degli Arcani mostra due carte — Il Sole e Il Mago — e mantiene La Ruota della Fortuna come un filo che collega in silenzio, non come una terza carta."
+    },
+    "placeholders": [
+      "{personalityCardName}",
+      "{soulCardName}",
+      "{focusLabel}",
+      "{personalityKeywords}",
+      "{soulKeywords}",
+      "{personalitySummary}",
+      "{soulSummary}",
+      "{pairTheme}",
+      "{pairReflection}",
+      "{journalPrompt}"
+    ],
+    "templates": {
+      "default": {
+        "opening": "Questa è la tua Firma degli Arcani — una riflessione simbolica tratta dalla tua data di nascita, offerta come uno specchio, non come una mappa.",
+        "personalityIntro": "La tua Carta della Personalità è {personalityCardName}, l'archetipo esteriore con cui tendi a incontrare il mondo. Si raccoglie attorno a temi di {personalityKeywords}. {personalitySummary}",
+        "soulIntro": "La tua Carta dell'Anima è {soulCardName}, una corrente interiore più silenziosa sotto la superficie. Tende verso {soulKeywords}. {soulSummary}",
+        "combinedReflection": "Insieme, {personalityCardName} e {soulCardName} delineano uno schema personale — {pairTheme}. {pairReflection}",
+        "focusReflection": "Vista attraverso la lente di {focusLabel}, nota come {personalityCardName} e {soulCardName} potrebbero colorare questa parte della tua vita. Accoglila come un invito a esplorare, non come una conclusione.",
+        "journalPrompt": "Dove percepisci {personalityCardName} nel modo in cui affronti le tue giornate, e dove {soulCardName} chiede in silenzio la tua attenzione?",
+        "closing": "Lascia che la tua firma sia un gentile spunto per la scoperta di sé. Questi sono temi che puoi esplorare — uno specchio riflessivo, mai un'affermazione su chi devi essere."
+      },
+      "focuses": {
+        "love": {
+          "focusReflection": "In tema di {focusLabel}, {personalityCardName} suggerisce come tendi a presentarti nella vicinanza, mentre {soulCardName} accenna a ciò di cui il tuo cuore ha silenziosamente bisogno. Nota dove i due si incontrano.",
+          "journalPrompt": "Nella connessione, dove guida {personalityCardName}, e cosa significherebbe onorare anche {soulCardName}?"
+        },
+        "work": {
+          "focusReflection": "Nel tuo {focusLabel}, {personalityCardName} colora il modo in cui agisci e scegli una direzione, mentre {soulCardName} parla della motivazione più profonda che sta sotto. Dove potrebbero sostenersi a vicenda?",
+          "journalPrompt": "Che tipo di lavoro permetterebbe sia a {personalityCardName} sia a {soulCardName} di esprimersi?"
+        },
+        "self_growth": {
+          "focusReflection": "Per la {focusLabel}, {personalityCardName} mostra uno schema esteriore familiare, mentre {soulCardName} indica ciò che si dispiega in silenzio dentro di te. La crescita vive spesso nel dialogo tra i due.",
+          "journalPrompt": "Quale piccolo passo gentile permetterebbe a {soulCardName} di crescere accanto a {personalityCardName}?"
+        },
+        "healing": {
+          "focusReflection": "Intorno alla {focusLabel}, {personalityCardName} può mostrare come affronti le cose in superficie, mentre {soulCardName} nomina ciò che ha bisogno di cure delicate. Lascia che la cura proceda al proprio ritmo.",
+          "journalPrompt": "Come sarebbe prenderti cura di {soulCardName} oggi, senza mettere fretta a {personalityCardName}?"
+        },
+        "creativity": {
+          "focusReflection": "Nella {focusLabel}, {personalityCardName} dà forma al modo in cui le tue idee raggiungono il mondo, mentre {soulCardName} alimenta la sorgente da cui nascono. Nota cosa desidera essere creato.",
+          "journalPrompt": "Cosa creeresti se {personalityCardName} e {soulCardName} lavorassero insieme liberamente?"
+        }
+      }
+    },
+    "pairThemes": {
+      "the_magician__wheel_of_fortune": {
+        "theme": "Volontà focalizzata e cicli più ampi",
+        "reflection": "Qui un talento per l'intenzione focalizzata incontra il più ampio girare dei cicli e dei tempi. È un invito a notare dove il tuo impegno incontra il momento — ad agire con scopo restando aperti al cambiamento."
+      },
+      "the_high_priestess__justice": {
+        "theme": "Sapere interiore ed equilibrio limpido",
+        "reflection": "Un'intuizione silenziosa incontra il desiderio di equità e chiarezza. Questo schema ti invita a notare dove il sentire interiore e il giudizio onesto possono informarsi a vicenda invece di competere."
+      },
+      "the_empress__the_hanged_man": {
+        "theme": "Nutrimento e la pausa che rivela",
+        "reflection": "Un calore nutriente e creativo incontra la disponibilità a fermarsi e a vedere in modo diverso. Potresti esplorare come la cura e un paziente cambio di prospettiva possano lavorare insieme."
+      },
+      "the_emperor__death": {
+        "theme": "Struttura e conclusioni oneste",
+        "reflection": "L'amore per l'ordine e la stabilità incontra il lavoro profondo del lasciare andare e del rinnovamento. Insieme ti invitano a notare quali strutture ti servono ancora e cosa potrebbe essere pronto a trasformarsi con delicatezza."
+      },
+      "the_hierophant__temperance": {
+        "theme": "Saggezza condivisa e mescolanza paziente",
+        "reflection": "Il rispetto per la tradizione e il significato incontra un talento per l'equilibrio e la misura. Questo accostamento è un invito a esplorare dove l'apprendimento e una mescolanza gentile e paziente si incontrano nella tua vita."
+      },
+      "the_lovers__the_devil": {
+        "theme": "Connessione e legami onesti",
+        "reflection": "Una capacità di scelta significativa e di connessione incontra uno sguardo onesto su ciò che lega o tenta. Insieme invitano a riflettere su dove i tuoi legami ti fanno sentire libero e dove invece pesano."
+      },
+      "the_chariot__the_tower": {
+        "theme": "Slancio e cambiamento improvviso",
+        "reflection": "Uno slancio determinato incontra momenti che spazzano via ciò che non regge più. Potresti notare come la spinta in avanti e il cambiamento inatteso possano insieme ridisegnare il tuo cammino."
+      },
+      "strength__the_star": {
+        "theme": "Coraggio silenzioso e speranza gentile",
+        "reflection": "Un coraggio paziente e gentile incontra il rinnovamento e una speranza silenziosa. Insieme ti invitano a esplorare come la costanza e l'apertura possano sostenerti, anche nelle stagioni più delicate."
+      },
+      "the_hermit__the_moon": {
+        "theme": "Luce interiore e l'ignoto",
+        "reflection": "Una ricerca di comprensione attraverso la riflessione incontra i sogni, l'intuizione e ciò che non è ancora chiaro. Questo schema invita a una relazione paziente e curiosa con il mistero."
+      },
+      "the_sun__wheel_of_fortune__the_magician": {
+        "theme": "Calore, volontà e stagioni che girano",
+        "reflection": "Chiarezza, calore e un senso di vitalità incontrano un talento nel concentrare l'intenzione in azione. Insieme ti invitano a notare dove la tua luce interiore incontra la tua capacità di iniziare.",
+        "bridgeNote": "Nella riduzione tradizionale, questa firma passa attraverso La Ruota della Fortuna (10) nel suo percorso da Il Sole (19) a Il Mago (1). La Firma degli Arcani mantiene La Ruota della Fortuna come un filo che collega in silenzio — un richiamo alle stagioni che mutano — non come una terza carta."
+      },
+      "the_high_priestess__judgement": {
+        "theme": "Sapere interiore e risveglio",
+        "reflection": "Un sapere interiore silenzioso incontra un senso di risveglio e di onesto rinnovamento. Insieme ti invitano ad ascoltare dentro di te e a notare cosa potrebbe chiamarti a rialzarti."
+      },
+      "the_empress__the_world": {
+        "theme": "Nutrimento e completezza",
+        "reflection": "Un calore nutriente e creativo incontra un senso di compimento e di appartenenza. Questo accostamento ti invita a esplorare come prenderti cura di te e degli altri si colleghi a un sentimento di completezza."
+      },
+      "the_fool__the_emperor": {
+        "theme": "Inizi aperti e terreno saldo",
+        "reflection": "Fiducia e un inizio dal cuore aperto incontrano la struttura e un terreno saldo. Insieme ti invitano a notare come uno spirito libero e una base stabile possano sostenersi a vicenda."
+      }
+    },
+    "privacyCopy": {
+      "birthdayHelper": "La tua data di nascita è usata solo per calcolare le tue due carte della Firma degli Arcani. Resta sul tuo dispositivo e non viene mai usata per fare affermazioni sul tuo futuro.",
+      "focusHelper": "Scegliere un focus è facoltativo. Cambia solo l'angolazione della riflessione e gli spunti di diario — non modifica mai quali due carte calcola la tua data di nascita.",
+      "localStorageHelper": "La tua Firma degli Arcani è calcolata e conservata localmente sul tuo dispositivo. Puoi cancellarla in qualsiasi momento."
+    },
+    "safety": {
+      "tone": "reflective_not_predictive",
+      "blockedClaims": [
+        "destiny",
+        "fate",
+        "guaranteed_future",
+        "medical_advice",
+        "psychological_diagnosis",
+        "legal_advice",
+        "financial_advice"
+      ]
+    }
+  }
+}

@@ -1,6 +1,7 @@
 {
-  "schemaVersion": 1,
-  "latestContentVersion": "v1-7f774efc3a64",
+  "schemaVersion": 3,
+  "contentSchemaVersion": 3,
+  "latestContentVersion": "v3-33c74eeadfcf",
   "minimumAppVersion": "1.0.0",
   "defaultLocale": "en",
   "availableLocales": [
@@ -8,24 +9,36 @@
     "it",
     "es"
   ],
+  "features": {
+    "arcanaSignature": {
+      "enabled": true,
+      "moduleSchemaVersion": 1,
+      "delivery": "inside_locale_bundle",
+      "bundlePath": "personalizedReadings.arcanaSignature",
+      "requiresContentSchemaVersion": 3
+    }
+  },
   "bundles": {
     "en": {
-      "version": "v1-7f774efc3a64",
-      "url": "bundles/v1-7f774efc3a64/tarot_content_en.json",
-      "sha256": "cf07b42bb354efb15352003da848c6c23e92757dbdc0a47f697d295e5d90b1b9",
-      "sizeBytes": 1032701
+      "version": "v3-33c74eeadfcf",
+      "schemaVersion": 3,
+      "url": "bundles/v3-33c74eeadfcf/tarot_content_en.json",
+      "sha256": "37781cec81abd34a7c5b662ebf590537e35b1cab179e312297a23be17af32348",
+      "sizeBytes": 1386145
     },
     "it": {
-      "version": "v1-7f774efc3a64",
-      "url": "bundles/v1-7f774efc3a64/tarot_content_it.json",
-      "sha256": "5ca835732010534e37efb33ab5895f01b56bc017d596b35db61b763595a1cb69",
-      "sizeBytes": 1403245
+      "version": "v3-33c74eeadfcf",
+      "schemaVersion": 3,
+      "url": "bundles/v3-33c74eeadfcf/tarot_content_it.json",
+      "sha256": "a46de2a924cace6ef37a4c72eeecd91a9a2f6ec2261105ef34d8f2c8e1ca8f18",
+      "sizeBytes": 1784615
     },
     "es": {
-      "version": "v1-7f774efc3a64",
-      "url": "bundles/v1-7f774efc3a64/tarot_content_es.json",
-      "sha256": "15a3660f5b51253b89b9cf623330b73dc261a060a7a6fc59a02d860ebd4c5be2",
-      "sizeBytes": 1552596
+      "version": "v3-33c74eeadfcf",
+      "schemaVersion": 3,
+      "url": "bundles/v3-33c74eeadfcf/tarot_content_es.json",
+      "sha256": "b21a6f10869c2af6ffd9e51c478fad104fb15ec06099bbabd33511d16836f396",
+      "sizeBytes": 1933655
     }
   }
 }

@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""Build Asterveil Tarot schema-v2 content bundles + manifest for GitHub Pages.
+"""Build Asterveil Tarot schema-v3 content bundles + manifest for GitHub Pages.
 
-This script is intentionally a breaking v2 replacement for the old v1 builder.
-It assumes the app is not yet published, so it does not preserve the old top-level
-``combinationRules`` / ``triadRules`` runtime shape.
+This script is intentionally a breaking v3 bump. Schema v3 = the existing v2
+``readingSynthesis`` engine (kept conceptually unchanged: still internally
+``schemaVersion: 2`` with ``*_v2.json`` sources) plus a new ``personalizedReadings``
+module (Arcana Signature). It assumes the app is not yet published, so it does not
+preserve v2 runtime compatibility.
 
 Authoring layout expected by the script::
 
@@ -30,17 +32,23 @@ Authoring layout expected by the script::
     source/<locale>/rules/orientation_rule_texts_v2.json
     source/<locale>/rules/reading_templates_v2.json
 
+    source/shared/personalized_readings/arcana_signature_pairs.json
+    source/shared/personalized_readings/arcana_signature_schema.md
+    source/shared/schema_v3_overview.md
+    source/<locale>/personalized_readings/arcana_signature.json
+
 Runtime output layout::
 
     docs/manifest.json
-    docs/bundles/v2-<hash>/tarot_content_en.json
-    docs/bundles/v2-<hash>/tarot_content_it.json
-    docs/bundles/v2-<hash>/tarot_content_es.json
+    docs/bundles/v3-<hash>/tarot_content_en.json
+    docs/bundles/v3-<hash>/tarot_content_it.json
+    docs/bundles/v3-<hash>/tarot_content_es.json
     docs/pages/<locale>/<reading>.json
 
-Each runtime bundle contains cards, reading types, spread definitions, safety,
-and a fully merged localized ``readingSynthesis`` block. The Flutter app should
-therefore download exactly one bundle per locale from the manifest.
+Each runtime bundle contains cards, reading types, spread definitions, safety, a
+fully merged localized ``readingSynthesis`` block, and a ``personalizedReadings``
+module (Arcana Signature: a birthday-calculated, Major-Arcana-only signature with
+two positions). The Flutter app should download exactly one bundle per locale.
 
 Run locally from the repo root or scripts folder:
 
@@ -65,10 +73,11 @@ import sys
 from pathlib import Path
 from typing import Any
 
-# Breaking schema-v2 bundles.
-VERSION_PREFIX = "v2"
-CONTENT_SCHEMA_VERSION = 2
-MANIFEST_SCHEMA_VERSION = 2
+# Breaking schema-v3 bundles: v2 readingSynthesis + a new personalizedReadings module.
+VERSION_PREFIX = "v3"
+CONTENT_SCHEMA_VERSION = 3
+MANIFEST_SCHEMA_VERSION = 3
+PERSONALIZED_READINGS_SCHEMA_VERSION = 1
 MINIMUM_APP_VERSION = "1.0.0"
 
 # Keep locale IDs stable. Spanish is neutral Latin American Spanish but the
@@ -119,6 +128,148 @@ LOCALIZED_RULE_TEXT_FILES_V2 = {
 GENERATED_VERSION_RE = re.compile(r"v\d+-[0-9a-f]{8,}")
 PLACEHOLDER_RE = re.compile(r"\{[A-Za-z][A-Za-z0-9_]*\}")
 
+# ---------------------------------------------------------------------------
+# Personalized readings (v3): the Arcana Signature module.
+#
+# Shape and rationale are documented in
+#   source/shared/personalized_readings/arcana_signature_schema.md
+# Non-localized pair card data lives once in arcana_signature_pairs.json; the
+# per-locale arcana_signature.json files carry the structure + user-facing text.
+# ---------------------------------------------------------------------------
+PERSONALIZED_DIR_NAME = "personalized_readings"
+PAIRS_FILE = "arcana_signature_pairs.json"
+PERSONALIZED_FILE = "arcana_signature.json"
+
+ARCANA_SIGNATURE_ID = "arcana_signature"
+ARCANA_SIGNATURE_KIND = "birthday_major_arcana_signature"
+ARCANA_SIGNATURE_CARD_SOURCE = "major_arcana_only"
+ARCANA_SIGNATURE_CARD_COUNT = 2
+ARCANA_SIGNATURE_POSITIONS = ["personality_card", "soul_card"]
+ARCANA_SIGNATURE_FOCUSES = ["love", "work", "self_growth", "healing", "creativity"]
+ARCANA_SIGNATURE_TONE = "reflective_not_predictive"
+
+ARCANA_SIGNATURE_PLACEHOLDERS = [
+    "{personalityCardName}",
+    "{soulCardName}",
+    "{focusLabel}",
+    "{personalityKeywords}",
+    "{soulKeywords}",
+    "{personalitySummary}",
+    "{soulSummary}",
+    "{pairTheme}",
+    "{pairReflection}",
+    "{journalPrompt}",
+]
+
+ARCANA_SIGNATURE_BLOCKED_CLAIMS = [
+    "destiny",
+    "fate",
+    "guaranteed_future",
+    "medical_advice",
+    "psychological_diagnosis",
+    "legal_advice",
+    "financial_advice",
+]
+
+ARCANA_SIGNATURE_TEMPLATE_DEFAULT_KEYS = [
+    "opening",
+    "personalityIntro",
+    "soulIntro",
+    "combinedReflection",
+    "focusReflection",
+    "journalPrompt",
+    "closing",
+]
+ARCANA_SIGNATURE_FOCUS_TEMPLATE_KEYS = ["focusReflection", "journalPrompt"]
+
+# Expected non-localized calculation constants for the birthday method. The
+# calculation itself is implemented in Flutter; here it is described + validated.
+ARCANA_SIGNATURE_CALCULATION_CONSTANTS = {
+    "methodId": "mm_dd_yy_yy_reduce_to_major_arcana",
+    "majorArcanaOnly": True,
+    "calculationRange": {"min": 1, "max": 22},
+    "foolNumber": 0,
+    "foolCalculationValue": 22,
+    "worldNumber": 21,
+    "maps22ToFool": True,
+    "threeCardExceptionPolicy": "collapse_to_two_with_note",
+}
+
+# The 13 birthday-reachable Major Arcana signature pairs (personality 10-22 ->
+# soul = digit-reduction). Single-digit personalities (personality == soul) have
+# no entry and render via the combinedReflection template.
+ARCANA_SIGNATURE_EXPECTED_PAIR_IDS = {
+    "the_magician__wheel_of_fortune",
+    "the_high_priestess__justice",
+    "the_empress__the_hanged_man",
+    "the_emperor__death",
+    "the_hierophant__temperance",
+    "the_lovers__the_devil",
+    "the_chariot__the_tower",
+    "strength__the_star",
+    "the_hermit__the_moon",
+    "the_sun__wheel_of_fortune__the_magician",
+    "the_high_priestess__judgement",
+    "the_empress__the_world",
+    "the_fool__the_emperor",
+}
+
+# "name feature" guards. The generic display key "name" on positions is allowed;
+# these target the removed name-numerology / name-resonance feature only.
+NAME_FORBIDDEN_ID_TOKENS = {"name", "nickname", "name_card", "name_resonance"}
+NAME_FORBIDDEN_PLACEHOLDER_RE = re.compile(r"\{name[A-Za-z0-9_]*\}")
+NAME_FORBIDDEN_SUBSTRINGS = [
+    "nickname",
+    "name_card",
+    "name_resonance",
+    "name numerology",
+    "name resonance",
+]
+
+# Deterministic / unsafe wording. Base patterns apply to every locale; the
+# per-locale supplement catches the highest-risk translated equivalents. Authored
+# copy must steer around all of these (use cycles / turning points / an invitation
+# to notice instead of fate / destiny / prediction).
+SAFETY_BANNED_PATTERNS = [
+    r"\bdestin(?:y|ed)\b",
+    r"\bfate(?:d)?\b",
+    r"\bguarantee\w*\b",
+    r"\bwill happen\b",
+    r"\bdefines you\b",
+    r"\bpredict\w*\b",
+    r"\bmedical advice\b",
+    r"\bdiagnos\w*\b",
+    r"\btreatment\b",
+    r"\blegal advice\b",
+    r"\bfinancial advice\b",
+    r"\binvestment advice\b",
+    r"\bpregnan\w*\b",
+    r"\bdeath prediction\b",
+]
+SAFETY_BANNED_PATTERNS_BY_LOCALE = {
+    "it": [
+        r"\bdestin\w*\b",
+        r"\bpredi(?:c\w*|re|zion\w*)\b",
+        r"\bgarant\w*\b",
+        r"\bdiagnos\w*\b",
+        r"\bgravidanz\w*\b",
+        r"\bconsiglio (?:medico|legale|finanziario)\b",
+    ],
+    "es": [
+        r"\bdestin\w*\b",
+        r"\bpred(?:ic\w*|ec\w*)\b",
+        r"\bgarantiz\w*\b",
+        r"\bdiagn[óo]stic\w*\b",
+        r"\bembaraz\w*\b",
+        r"\bconsejo (?:m[ée]dico|legal|financiero)\b",
+    ],
+}
+SAFETY_BANNED_RE = [re.compile(p, re.IGNORECASE) for p in SAFETY_BANNED_PATTERNS]
+SAFETY_BANNED_RE_BY_LOCALE = {
+    loc: [re.compile(p, re.IGNORECASE) for p in pats]
+    for loc, pats in SAFETY_BANNED_PATTERNS_BY_LOCALE.items()
+}
+
 # Resolve repo root. In normal use the script lives at <repo>/scripts/build_bundle.py.
 if os.environ.get("TAROT_CONTENT_ROOT"):
     ROOT = Path(os.environ["TAROT_CONTENT_ROOT"]).resolve()
@@ -159,6 +310,10 @@ def dump_bytes(obj: Any) -> bytes:
 
 def is_number(value: Any) -> bool:
     return isinstance(value, (int, float)) and not isinstance(value, bool)
+
+
+def is_nonempty_str(value: Any) -> bool:
+    return isinstance(value, str) and bool(value.strip())
 
 
 def as_list(value: Any) -> list[Any]:
@@ -247,6 +402,11 @@ def load_shared_rules_v2() -> dict[str, dict[str, Any]]:
     return {key: read_json(shared_dir / filename) for key, filename in SHARED_RULE_FILES_V2.items()}
 
 
+def load_shared_personalized() -> dict[str, Any]:
+    """Load the non-localized Arcana Signature pair card data."""
+    return read_json(ROOT / "source" / "shared" / PERSONALIZED_DIR_NAME / PAIRS_FILE)
+
+
 def load_locale(loc: str) -> dict[str, Any]:
     src = ROOT / "source" / loc
     rules_dir = src / "rules"
@@ -268,6 +428,7 @@ def load_locale(loc: str) -> dict[str, Any]:
         "readingTypes": read_json(src / "reading_types.json"),
         "safety": read_json(src / "safety.json"),
         "localizedRuleTexts": localized_rule_texts,
+        "personalized": read_json(src / PERSONALIZED_DIR_NAME / PERSONALIZED_FILE),
     }
 
 
@@ -647,12 +808,289 @@ def compare_placeholders(reference: Any, localized: Any, label: str, errors: lis
             errors.append(f"{label}{path}: placeholder mismatch, expected {ref_tokens}, got {loc_tokens}")
 
 
-def validate(per_locale: dict[str, dict[str, Any]], shared_rules: dict[str, Any]) -> list[str]:
+def collect_arcana_user_text(arcana: dict[str, Any]) -> list[tuple[str, str]]:
+    """Collect user-facing display strings of the Arcana Signature module.
+
+    Deliberately excludes structural identifiers (ids, kind, methodId, the
+    placeholders list, safety tokens, card filters) so the placeholder / safety
+    scans never flag the module's own machinery (e.g. the blockedClaims token
+    ``psychological_diagnosis`` must not trip the diagnosis pattern).
+    """
+    out: list[tuple[str, str]] = []
+
+    def add(path: str, value: Any) -> None:
+        if isinstance(value, str):
+            out.append((path, value))
+
+    for field in ("title", "subtitle", "description"):
+        add(field, arcana.get(field))
+
+    for index, pos in enumerate(as_list(arcana.get("positions"))):
+        if isinstance(pos, dict):
+            add(f"positions[{index}].name", pos.get("name"))
+            add(f"positions[{index}].description", pos.get("description"))
+
+    for index, foc in enumerate(as_list(arcana.get("supportedFocuses"))):
+        if isinstance(foc, dict):
+            add(f"supportedFocuses[{index}].label", foc.get("label"))
+            add(f"supportedFocuses[{index}].description", foc.get("description"))
+
+    calc = arcana.get("calculation")
+    if isinstance(calc, dict):
+        add("calculation.description", calc.get("description"))
+        add("calculation.threeCardExceptionNote", calc.get("threeCardExceptionNote"))
+
+    templates = arcana.get("templates")
+    if isinstance(templates, dict):
+        default = templates.get("default")
+        if isinstance(default, dict):
+            for key, value in default.items():
+                add(f"templates.default.{key}", value)
+        focuses = templates.get("focuses")
+        if isinstance(focuses, dict):
+            for fkey, fval in focuses.items():
+                if isinstance(fval, dict):
+                    for key, value in fval.items():
+                        add(f"templates.focuses.{fkey}.{key}", value)
+
+    pairs = arcana.get("pairThemes")
+    if isinstance(pairs, dict):
+        for key, entry in pairs.items():
+            if isinstance(entry, dict):
+                for field in ("theme", "reflection", "bridgeNote"):
+                    add(f"pairThemes.{key}.{field}", entry.get(field))
+
+    privacy = arcana.get("privacyCopy")
+    if isinstance(privacy, dict):
+        for key, value in privacy.items():
+            add(f"privacyCopy.{key}", value)
+
+    return out
+
+
+def validate_personalized_readings(
+    per_locale: dict[str, dict[str, Any]],
+    shared_pairs: dict[str, Any],
+    errors: list[str],
+    warnings: list[str],
+) -> None:
+    """Validate the v3 Arcana Signature module (shared pairs + per-locale text)."""
+    # --- shared pair card data ---
+    if shared_pairs.get("schemaVersion") != PERSONALIZED_READINGS_SCHEMA_VERSION:
+        errors.append(f"{PAIRS_FILE}: schemaVersion must be {PERSONALIZED_READINGS_SCHEMA_VERSION}")
+    pairs_map = shared_pairs.get("pairs")
+    if not isinstance(pairs_map, dict):
+        errors.append(f"{PAIRS_FILE}: 'pairs' must be an object keyed by pair id")
+        pairs_map = {}
+
+    major_ids = {
+        card["id"]
+        for card in per_locale[DEFAULT_LOCALE]["cards"]
+        if isinstance(card, dict) and card.get("arcana") == "major" and isinstance(card.get("id"), str)
+    }
+
+    shared_pair_ids = set(pairs_map.keys())
+    missing_pairs = sorted(ARCANA_SIGNATURE_EXPECTED_PAIR_IDS - shared_pair_ids)
+    extra_pairs = sorted(shared_pair_ids - ARCANA_SIGNATURE_EXPECTED_PAIR_IDS)
+    if missing_pairs or extra_pairs:
+        errors.append(f"{PAIRS_FILE}: pair id mismatch: missing={missing_pairs}, extra={extra_pairs}")
+
+    for pid, entry in pairs_map.items():
+        if not isinstance(entry, dict):
+            errors.append(f"{PAIRS_FILE}.{pid}: entry must be an object")
+            continue
+        cards = entry.get("cards")
+        if not isinstance(cards, list) or len(cards) != ARCANA_SIGNATURE_CARD_COUNT:
+            errors.append(f"{PAIRS_FILE}.{pid}.cards: must list exactly {ARCANA_SIGNATURE_CARD_COUNT} card ids")
+            cards = as_list(cards)
+        for cid in cards:
+            if cid not in major_ids:
+                errors.append(f"{PAIRS_FILE}.{pid}.cards: {cid!r} is not an existing Major Arcana id")
+        if len(set(cards)) != len(cards):
+            errors.append(f"{PAIRS_FILE}.{pid}.cards: the two visible cards must be distinct")
+        bridge = entry.get("bridgeCards")
+        if bridge is not None:
+            if not isinstance(bridge, list) or not bridge:
+                errors.append(f"{PAIRS_FILE}.{pid}.bridgeCards: must be a non-empty array when present")
+            else:
+                for cid in bridge:
+                    if cid not in major_ids:
+                        errors.append(f"{PAIRS_FILE}.{pid}.bridgeCards: {cid!r} is not an existing Major Arcana id")
+                    if cid in cards:
+                        errors.append(f"{PAIRS_FILE}.{pid}.bridgeCards: {cid!r} also appears in visible cards")
+
+    # --- per-locale modules ---
+    structural: dict[str, Any] = {}
+    allowed_placeholders = set(ARCANA_SIGNATURE_PLACEHOLDERS)
+
+    for loc in LOCALES:
+        payload = require_object(per_locale[loc].get("personalized"), f"[{loc}] {PERSONALIZED_FILE}", errors)
+        if payload.get("schemaVersion") != PERSONALIZED_READINGS_SCHEMA_VERSION:
+            errors.append(f"[{loc}] {PERSONALIZED_FILE}: schemaVersion must be {PERSONALIZED_READINGS_SCHEMA_VERSION}")
+        if payload.get("locale") != loc:
+            errors.append(f"[{loc}] {PERSONALIZED_FILE}: locale must be {loc!r}, got {payload.get('locale')!r}")
+        arcana = require_object(payload.get("arcanaSignature"), f"[{loc}] {PERSONALIZED_FILE}.arcanaSignature", errors)
+        if not arcana:
+            continue
+
+        if arcana.get("id") != ARCANA_SIGNATURE_ID:
+            errors.append(f"[{loc}] arcanaSignature.id must be {ARCANA_SIGNATURE_ID!r}")
+        if arcana.get("kind") != ARCANA_SIGNATURE_KIND:
+            errors.append(f"[{loc}] arcanaSignature.kind must be {ARCANA_SIGNATURE_KIND!r}")
+        if arcana.get("cardSource") != ARCANA_SIGNATURE_CARD_SOURCE:
+            errors.append(f"[{loc}] arcanaSignature.cardSource must be {ARCANA_SIGNATURE_CARD_SOURCE!r}")
+        if arcana.get("cardCount") != ARCANA_SIGNATURE_CARD_COUNT:
+            errors.append(f"[{loc}] arcanaSignature.cardCount must be {ARCANA_SIGNATURE_CARD_COUNT}")
+        if not isinstance(arcana.get("enabled"), bool):
+            errors.append(f"[{loc}] arcanaSignature.enabled must be a boolean")
+        for field in ("title", "subtitle", "description"):
+            if not is_nonempty_str(arcana.get(field)):
+                errors.append(f"[{loc}] arcanaSignature.{field}: missing non-empty string")
+
+        positions = require_array(arcana.get("positions"), f"[{loc}] arcanaSignature.positions", errors)
+        pos_ids = [p.get("id") for p in positions if isinstance(p, dict)]
+        if pos_ids != ARCANA_SIGNATURE_POSITIONS:
+            errors.append(f"[{loc}] arcanaSignature.positions must be exactly {ARCANA_SIGNATURE_POSITIONS}, got {pos_ids}")
+        for pos in positions:
+            if not isinstance(pos, dict):
+                continue
+            if pos.get("cardFilter") != {"arcana": "major"}:
+                errors.append(f"[{loc}] arcanaSignature.positions.{pos.get('id')}.cardFilter must be {{'arcana': 'major'}}")
+            for field in ("name", "description"):
+                if not is_nonempty_str(pos.get(field)):
+                    errors.append(f"[{loc}] arcanaSignature.positions.{pos.get('id')}.{field}: missing non-empty string")
+
+        focuses = require_array(arcana.get("supportedFocuses"), f"[{loc}] arcanaSignature.supportedFocuses", errors)
+        foc_ids = [f.get("id") for f in focuses if isinstance(f, dict)]
+        if foc_ids != ARCANA_SIGNATURE_FOCUSES:
+            errors.append(f"[{loc}] arcanaSignature.supportedFocuses must be exactly {ARCANA_SIGNATURE_FOCUSES}, got {foc_ids}")
+        for foc in focuses:
+            if not isinstance(foc, dict):
+                continue
+            for field in ("label", "description"):
+                if not is_nonempty_str(foc.get(field)):
+                    errors.append(f"[{loc}] arcanaSignature.supportedFocuses.{foc.get('id')}.{field}: missing non-empty string")
+
+        calc = require_object(arcana.get("calculation"), f"[{loc}] arcanaSignature.calculation", errors)
+        for key, expected in ARCANA_SIGNATURE_CALCULATION_CONSTANTS.items():
+            if calc.get(key) != expected:
+                errors.append(f"[{loc}] arcanaSignature.calculation.{key} must be {expected!r}, got {calc.get(key)!r}")
+        for field in ("description", "threeCardExceptionNote"):
+            if not is_nonempty_str(calc.get(field)):
+                errors.append(f"[{loc}] arcanaSignature.calculation.{field}: missing non-empty string")
+
+        if arcana.get("placeholders") != ARCANA_SIGNATURE_PLACEHOLDERS:
+            errors.append(f"[{loc}] arcanaSignature.placeholders must be exactly {ARCANA_SIGNATURE_PLACEHOLDERS}")
+
+        safety = require_object(arcana.get("safety"), f"[{loc}] arcanaSignature.safety", errors)
+        if safety.get("tone") != ARCANA_SIGNATURE_TONE:
+            errors.append(f"[{loc}] arcanaSignature.safety.tone must be {ARCANA_SIGNATURE_TONE!r}")
+        if safety.get("blockedClaims") != ARCANA_SIGNATURE_BLOCKED_CLAIMS:
+            errors.append(f"[{loc}] arcanaSignature.safety.blockedClaims must be exactly {ARCANA_SIGNATURE_BLOCKED_CLAIMS}")
+
+        templates = require_object(arcana.get("templates"), f"[{loc}] arcanaSignature.templates", errors)
+        default_t = require_object(templates.get("default"), f"[{loc}] arcanaSignature.templates.default", errors)
+        for key in ARCANA_SIGNATURE_TEMPLATE_DEFAULT_KEYS:
+            if not is_nonempty_str(default_t.get(key)):
+                errors.append(f"[{loc}] arcanaSignature.templates.default.{key}: missing non-empty string")
+        extra_default = sorted(set(default_t.keys()) - set(ARCANA_SIGNATURE_TEMPLATE_DEFAULT_KEYS))
+        if extra_default:
+            errors.append(f"[{loc}] arcanaSignature.templates.default: unexpected key(s) {extra_default}")
+        focuses_t = require_object(templates.get("focuses"), f"[{loc}] arcanaSignature.templates.focuses", errors)
+        if set(focuses_t.keys()) != set(ARCANA_SIGNATURE_FOCUSES):
+            errors.append(f"[{loc}] arcanaSignature.templates.focuses must cover exactly {ARCANA_SIGNATURE_FOCUSES}")
+        for fkey, fval in focuses_t.items():
+            fobj = require_object(fval, f"[{loc}] arcanaSignature.templates.focuses.{fkey}", errors)
+            for key in ARCANA_SIGNATURE_FOCUS_TEMPLATE_KEYS:
+                if not is_nonempty_str(fobj.get(key)):
+                    errors.append(f"[{loc}] arcanaSignature.templates.focuses.{fkey}.{key}: missing non-empty string")
+
+        pair_themes = require_object(arcana.get("pairThemes"), f"[{loc}] arcanaSignature.pairThemes", errors)
+        pt_ids = set(pair_themes.keys())
+        missing = sorted(ARCANA_SIGNATURE_EXPECTED_PAIR_IDS - pt_ids)
+        extra = sorted(pt_ids - ARCANA_SIGNATURE_EXPECTED_PAIR_IDS)
+        if missing or extra:
+            errors.append(f"[{loc}] arcanaSignature.pairThemes id mismatch: missing={missing}, extra={extra}")
+        for pid, entry in pair_themes.items():
+            eobj = require_object(entry, f"[{loc}] pairThemes.{pid}", errors)
+            for field in ("theme", "reflection"):
+                if not is_nonempty_str(eobj.get(field)):
+                    errors.append(f"[{loc}] pairThemes.{pid}.{field}: missing non-empty string")
+            has_bridge = isinstance(pairs_map.get(pid), dict) and bool(pairs_map[pid].get("bridgeCards"))
+            if has_bridge and not is_nonempty_str(eobj.get("bridgeNote")):
+                errors.append(f"[{loc}] pairThemes.{pid}.bridgeNote: required (shared entry has bridgeCards) and must be non-empty")
+
+        privacy = require_object(arcana.get("privacyCopy"), f"[{loc}] arcanaSignature.privacyCopy", errors)
+        for field in ("birthdayHelper", "focusHelper", "localStorageHelper"):
+            if not is_nonempty_str(privacy.get(field)):
+                errors.append(f"[{loc}] arcanaSignature.privacyCopy.{field}: missing non-empty string")
+
+        # User-facing scans: only-allowed placeholders, no name feature, no unsafe wording.
+        for path, text in collect_arcana_user_text(arcana):
+            for token in PLACEHOLDER_RE.findall(text):
+                if token not in allowed_placeholders:
+                    errors.append(f"[{loc}] {path}: disallowed placeholder {token!r}")
+            if NAME_FORBIDDEN_PLACEHOLDER_RE.search(text):
+                errors.append(f"[{loc}] {path}: forbidden name-feature placeholder")
+            low = text.lower()
+            for sub in NAME_FORBIDDEN_SUBSTRINGS:
+                if sub in low:
+                    errors.append(f"[{loc}] {path}: forbidden name-feature wording {sub!r}")
+            for regex in SAFETY_BANNED_RE + SAFETY_BANNED_RE_BY_LOCALE.get(loc, []):
+                if regex.search(text):
+                    errors.append(f"[{loc}] {path}: unsafe/deterministic wording matches /{regex.pattern}/")
+
+        # Name-feature guard on identifiers (the generic display key "name" is allowed).
+        id_values = [arcana.get("id"), arcana.get("kind"), calc.get("methodId")]
+        id_values += pos_ids + foc_ids + list(pt_ids)
+        for value in id_values:
+            if isinstance(value, str) and value in NAME_FORBIDDEN_ID_TOKENS:
+                errors.append(f"[{loc}] forbidden name-feature id {value!r}")
+        for token in as_list(arcana.get("placeholders")):
+            if isinstance(token, str) and NAME_FORBIDDEN_PLACEHOLDER_RE.fullmatch(token):
+                errors.append(f"[{loc}] arcanaSignature.placeholders contains forbidden token {token!r}")
+
+        structural[loc] = {
+            "id": arcana.get("id"),
+            "kind": arcana.get("kind"),
+            "enabled": arcana.get("enabled"),
+            "cardSource": arcana.get("cardSource"),
+            "cardCount": arcana.get("cardCount"),
+            "positionIds": pos_ids,
+            "cardFilters": [p.get("cardFilter") for p in positions if isinstance(p, dict)],
+            "focusIds": foc_ids,
+            "calculationConstants": {k: calc.get(k) for k in ARCANA_SIGNATURE_CALCULATION_CONSTANTS},
+            "placeholders": arcana.get("placeholders"),
+            "blockedClaims": safety.get("blockedClaims"),
+            "tone": safety.get("tone"),
+            "pairIds": sorted(pt_ids),
+            "focusTemplateKeys": sorted(focuses_t.keys()),
+        }
+
+    # Structural fields must be identical across locales; only text may differ.
+    if DEFAULT_LOCALE in structural:
+        ref = structural[DEFAULT_LOCALE]
+        for loc in LOCALES:
+            if loc == DEFAULT_LOCALE or loc not in structural:
+                continue
+            if structural[loc] != ref:
+                diffs = sorted(key for key in ref if structural[loc].get(key) != ref.get(key))
+                errors.append(
+                    f"arcanaSignature structural fields differ between '{DEFAULT_LOCALE}' and '{loc}': {diffs}"
+                )
+
+
+def validate(
+    per_locale: dict[str, dict[str, Any]],
+    shared_rules: dict[str, Any],
+    shared_personalized: dict[str, Any],
+) -> list[str]:
     """Run all content checks. Raises BuildError on errors; returns warnings."""
     errors: list[str] = []
     warnings: list[str] = []
     validate_card_sources(per_locale, errors)
     validate_v2_synthesis_sources(shared_rules, per_locale, errors, warnings)
+    validate_personalized_readings(per_locale, shared_personalized, errors, warnings)
     if errors:
         raise BuildError("content validation failed:\n  - " + "\n  - ".join(errors))
     return warnings
@@ -686,7 +1124,41 @@ def build_reading_synthesis(data: dict[str, Any], shared_rules: dict[str, Any]) 
     }
 
 
-def build_bundle(loc: str, data: dict[str, Any], shared_rules: dict[str, Any], version: str) -> dict[str, Any]:
+def build_personalized_readings(loc: str, data: dict[str, Any], shared_pairs: dict[str, Any]) -> dict[str, Any]:
+    """Merge the locale's Arcana Signature text with shared pair card data.
+
+    The shared file is the single source of truth for the visible (and bridge)
+    card ids; the locale file supplies theme/reflection/bridgeNote text.
+    """
+    arcana = copy.deepcopy(data["personalized"]["arcanaSignature"])
+    pairs_map = shared_pairs.get("pairs", {})
+
+    merged_pairs: dict[str, Any] = {}
+    for pid, text_entry in arcana.get("pairThemes", {}).items():
+        shared_entry = pairs_map.get(pid, {})
+        entry: dict[str, Any] = {"cards": copy.deepcopy(shared_entry.get("cards", []))}
+        if shared_entry.get("bridgeCards"):
+            entry["bridgeCards"] = copy.deepcopy(shared_entry["bridgeCards"])
+        entry["theme"] = text_entry.get("theme")
+        entry["reflection"] = text_entry.get("reflection")
+        if "bridgeNote" in text_entry:
+            entry["bridgeNote"] = text_entry["bridgeNote"]
+        merged_pairs[pid] = entry
+    arcana["pairThemes"] = merged_pairs
+
+    return {
+        "schemaVersion": PERSONALIZED_READINGS_SCHEMA_VERSION,
+        "arcanaSignature": arcana,
+    }
+
+
+def build_bundle(
+    loc: str,
+    data: dict[str, Any],
+    shared_rules: dict[str, Any],
+    shared_personalized: dict[str, Any],
+    version: str,
+) -> dict[str, Any]:
     return {
         "schemaVersion": CONTENT_SCHEMA_VERSION,
         "contentVersion": version,
@@ -697,6 +1169,7 @@ def build_bundle(loc: str, data: dict[str, Any], shared_rules: dict[str, Any], v
         "readingTypes": copy.deepcopy(data["readingTypes"]),
         "readings": copy.deepcopy(data["readings"]),
         "readingSynthesis": build_reading_synthesis(data, shared_rules),
+        "personalizedReadings": build_personalized_readings(loc, data, shared_personalized),
         "safety": copy.deepcopy(data["safety"]),
     }
 
@@ -724,6 +1197,15 @@ def write_outputs(bundles: dict[str, dict[str, Any]], version: str) -> Path:
         "minimumAppVersion": MINIMUM_APP_VERSION,
         "defaultLocale": DEFAULT_LOCALE,
         "availableLocales": LOCALES,
+        "features": {
+            "arcanaSignature": {
+                "enabled": True,
+                "moduleSchemaVersion": PERSONALIZED_READINGS_SCHEMA_VERSION,
+                "delivery": "inside_locale_bundle",
+                "bundlePath": "personalizedReadings.arcanaSignature",
+                "requiresContentSchemaVersion": CONTENT_SCHEMA_VERSION,
+            }
+        },
         "bundles": {},
     }
 
@@ -760,13 +1242,21 @@ def generate_pages() -> None:
 
 
 def copy_schema_docs() -> None:
-    """Publish schema docs beside the bundles for humans / Claude Code handoff."""
-    src = ROOT / "source" / "shared" / "rules" / "rule_schema_v2.md"
-    if not src.exists():
-        return
+    """Publish schema docs beside the bundles for humans / Claude Code handoff.
+
+    rule_schema_v2.md stays the authority for readingSynthesis; schema_v3_overview.md
+    explains v3 = v2 readingSynthesis + personalizedReadings.arcanaSignature.
+    """
+    sources = [
+        ROOT / "source" / "shared" / "rules" / "rule_schema_v2.md",
+        ROOT / "source" / "shared" / "schema_v3_overview.md",
+        ROOT / "source" / "shared" / PERSONALIZED_DIR_NAME / "arcana_signature_schema.md",
+    ]
     dst_dir = ROOT / "docs" / "schema"
     dst_dir.mkdir(parents=True, exist_ok=True)
-    shutil.copyfile(src, dst_dir / "rule_schema_v2.md")
+    for src in sources:
+        if src.exists():
+            shutil.copyfile(src, dst_dir / src.name)
 
 
 def self_verify(manifest_path: Path) -> None:
@@ -777,6 +1267,18 @@ def self_verify(manifest_path: Path) -> None:
         raise BuildError(f"manifest schemaVersion must be {MANIFEST_SCHEMA_VERSION}")
     if manifest.get("contentSchemaVersion") != CONTENT_SCHEMA_VERSION:
         raise BuildError(f"manifest contentSchemaVersion must be {CONTENT_SCHEMA_VERSION}")
+    if not str(manifest.get("latestContentVersion", "")).startswith(f"{VERSION_PREFIX}-"):
+        raise BuildError(f"manifest latestContentVersion must start with {VERSION_PREFIX!r}-")
+
+    feature = (manifest.get("features") or {}).get("arcanaSignature")
+    if not isinstance(feature, dict):
+        raise BuildError("manifest missing features.arcanaSignature")
+    if feature.get("requiresContentSchemaVersion") != CONTENT_SCHEMA_VERSION:
+        raise BuildError("features.arcanaSignature.requiresContentSchemaVersion mismatch")
+    if feature.get("moduleSchemaVersion") != PERSONALIZED_READINGS_SCHEMA_VERSION:
+        raise BuildError("features.arcanaSignature.moduleSchemaVersion mismatch")
+    if feature.get("bundlePath") != "personalizedReadings.arcanaSignature":
+        raise BuildError("features.arcanaSignature.bundlePath mismatch")
 
     for loc, info in manifest["bundles"].items():
         bundle_path = docs / info["url"]
@@ -794,6 +1296,36 @@ def self_verify(manifest_path: Path) -> None:
             raise BuildError(f"{loc} bundle contentVersion does not match manifest version")
         if "readingSynthesis" not in bundle:
             raise BuildError(f"{loc} bundle missing readingSynthesis")
+
+        personalized = bundle.get("personalizedReadings")
+        if not isinstance(personalized, dict):
+            raise BuildError(f"{loc} bundle missing personalizedReadings")
+        if personalized.get("schemaVersion") != PERSONALIZED_READINGS_SCHEMA_VERSION:
+            raise BuildError(f"{loc} personalizedReadings.schemaVersion must be {PERSONALIZED_READINGS_SCHEMA_VERSION}")
+        arcana = personalized.get("arcanaSignature")
+        if not isinstance(arcana, dict):
+            raise BuildError(f"{loc} bundle missing personalizedReadings.arcanaSignature")
+        if arcana.get("id") != ARCANA_SIGNATURE_ID:
+            raise BuildError(f"{loc} arcanaSignature.id must be {ARCANA_SIGNATURE_ID!r}")
+        if arcana.get("kind") != ARCANA_SIGNATURE_KIND:
+            raise BuildError(f"{loc} arcanaSignature.kind must be {ARCANA_SIGNATURE_KIND!r}")
+        if arcana.get("cardSource") != ARCANA_SIGNATURE_CARD_SOURCE:
+            raise BuildError(f"{loc} arcanaSignature.cardSource must be {ARCANA_SIGNATURE_CARD_SOURCE!r}")
+        if arcana.get("cardCount") != ARCANA_SIGNATURE_CARD_COUNT:
+            raise BuildError(f"{loc} arcanaSignature.cardCount must be {ARCANA_SIGNATURE_CARD_COUNT}")
+        positions = [p.get("id") for p in as_list(arcana.get("positions")) if isinstance(p, dict)]
+        if positions != ARCANA_SIGNATURE_POSITIONS:
+            raise BuildError(f"{loc} arcanaSignature.positions must be {ARCANA_SIGNATURE_POSITIONS}")
+        focus_ids = [f.get("id") for f in as_list(arcana.get("supportedFocuses")) if isinstance(f, dict)]
+        if focus_ids != ARCANA_SIGNATURE_FOCUSES:
+            raise BuildError(f"{loc} arcanaSignature.supportedFocuses must be {ARCANA_SIGNATURE_FOCUSES}")
+        pair_themes = arcana.get("pairThemes")
+        if not isinstance(pair_themes, dict) or set(pair_themes.keys()) != ARCANA_SIGNATURE_EXPECTED_PAIR_IDS:
+            raise BuildError(f"{loc} arcanaSignature.pairThemes must be the {len(ARCANA_SIGNATURE_EXPECTED_PAIR_IDS)} expected pairs")
+        for pid, entry in pair_themes.items():
+            cards = entry.get("cards") if isinstance(entry, dict) else None
+            if not isinstance(cards, list) or len(cards) != ARCANA_SIGNATURE_CARD_COUNT:
+                raise BuildError(f"{loc} pairThemes.{pid}.cards must list exactly {ARCANA_SIGNATURE_CARD_COUNT} cards")
 
 
 def prune_old_bundles(keep_versions: set[str]) -> list[str]:
@@ -821,12 +1353,16 @@ def prune_old_bundles(keep_versions: set[str]) -> list[str]:
 def main() -> int:
     try:
         shared_rules = load_shared_rules_v2()
+        shared_personalized = load_shared_personalized()
         per_locale = {loc: load_locale(loc) for loc in LOCALES}
-        warnings = validate(per_locale, shared_rules)
+        warnings = validate(per_locale, shared_rules, shared_personalized)
 
         # Build with empty contentVersion first; hash the actual delivered content;
         # then stamp the computed version into every bundle.
-        bundles = {loc: build_bundle(loc, per_locale[loc], shared_rules, "") for loc in LOCALES}
+        bundles = {
+            loc: build_bundle(loc, per_locale[loc], shared_rules, shared_personalized, "")
+            for loc in LOCALES
+        }
         version = compute_version(bundles)
         for loc in LOCALES:
             bundles[loc]["contentVersion"] = version
@@ -848,10 +1384,12 @@ def main() -> int:
     combo_count = len(bundles[DEFAULT_LOCALE]["readingSynthesis"]["combinationRules"])
     triad_count = len(bundles[DEFAULT_LOCALE]["readingSynthesis"]["triadRules"])
     orientation_count = len(bundles[DEFAULT_LOCALE]["readingSynthesis"]["orientationRules"])
+    pair_count = len(bundles[DEFAULT_LOCALE]["personalizedReadings"]["arcanaSignature"]["pairThemes"])
     print(
         f"Built {version}: {len(LOCALES)} locales, {card_count} cards each, "
         f"{combo_count} combination rules, {triad_count} triad rules, "
-        f"{orientation_count} orientation rules. Validation + self-verify OK."
+        f"{orientation_count} orientation rules, "
+        f"Arcana Signature ({pair_count} pairThemes). Validation + self-verify OK."
     )
     return 0
 
