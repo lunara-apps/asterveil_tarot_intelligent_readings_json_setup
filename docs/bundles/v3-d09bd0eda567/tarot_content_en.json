@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "contentVersion": "v3-33c74eeadfcf",
+  "contentVersion": "v3-d09bd0eda567",
   "locale": "en",
   "deckId": "asterveil_tarot",
   "deckName": "Asterveil Tarot",
@@ -24314,72 +24314,72 @@
             "the_magician",
             "wheel_of_fortune"
           ],
-          "theme": "Focused will meeting wider cycles",
-          "reflection": "Here a gift for focused intention meets the larger turning of cycles and timing. It is an invitation to notice where your effort meets the moment — to act with purpose while staying open to change."
+          "theme": "Focused will within changing cycles",
+          "reflection": "This signature brings together the Magician’s gift for intention and the Wheel of Fortune’s reminder that life moves through seasons. You may recognize a pattern of turning uncertainty into movement: gathering what is available, choosing a clear next step, and adapting when the path shifts. The invitation is not to control every change, but to meet each turn with presence, skill, and creative trust."
         },
         "the_high_priestess__justice": {
           "cards": [
             "the_high_priestess",
             "justice"
           ],
-          "theme": "Inner knowing and clear balance",
-          "reflection": "Quiet intuition meets a longing for fairness and clarity. This pattern invites you to notice where inner sensing and honest judgement can inform one another rather than compete."
+          "theme": "Inner knowing and honest balance",
+          "reflection": "This signature joins the High Priestess’s quiet intuition with Justice’s call for clarity, fairness, and truth. You may feel drawn to understand what is hidden beneath the surface while also needing choices to feel clean, balanced, and accountable. The invitation is to let inner sensing and clear discernment support one another, so wisdom can be both deeply felt and carefully lived."
         },
         "the_empress__the_hanged_man": {
           "cards": [
             "the_empress",
             "the_hanged_man"
           ],
-          "theme": "Nurturing and the pause that reveals",
-          "reflection": "A nurturing, creative warmth meets a willingness to pause and see differently. You might explore how care and a patient change of perspective can work together."
+          "theme": "Nurturing through pause and perspective",
+          "reflection": "This signature blends the Empress’s warmth, creativity, and care with the Hanged Man’s willingness to pause, soften, and see differently. You may carry a generous instinct to nurture what is growing, yet also learn through moments when life asks you to wait or surrender control. The invitation is to trust that growth is not always rushed; sometimes it ripens through stillness, tenderness, and a changed point of view."
         },
         "the_emperor__death": {
           "cards": [
             "the_emperor",
             "death"
           ],
-          "theme": "Structure and honest endings",
-          "reflection": "A love of order and steadiness meets the deep work of release and renewal. Held together, they invite you to notice which structures still serve you and what may be ready to gently transform."
+          "theme": "Structure that learns to transform",
+          "reflection": "This signature brings the Emperor’s steadiness, protection, and structure into conversation with Death’s deep process of release and renewal. You may feel the tension between building something lasting and recognizing when an old form has completed its purpose. The invitation is to create foundations that are strong enough to support change, and flexible enough to let life breathe through them."
         },
         "the_hierophant__temperance": {
           "cards": [
             "the_hierophant",
             "temperance"
           ],
-          "theme": "Shared wisdom and patient blending",
-          "reflection": "A respect for tradition and meaning meets a gift for balance and moderation. This pairing is an invitation to explore where learning and gentle, patient blending meet in your life."
+          "theme": "Shared wisdom refined with patience",
+          "reflection": "This signature joins the Hierophant’s respect for tradition, teaching, and belonging with Temperance’s art of blending, moderation, and gentle integration. You may be drawn to meaning, guidance, and shared values, while also needing space to adapt what you have inherited into something livable and kind. The invitation is to become a bridge: honoring wisdom without becoming rigid, and creating harmony without losing depth."
         },
         "the_lovers__the_devil": {
           "cards": [
             "the_lovers",
             "the_devil"
           ],
-          "theme": "Connection and honest attachments",
-          "reflection": "A capacity for meaningful choice and connection meets an honest look at what binds or tempts. Together they invite reflection on where your bonds feel freeing and where they feel heavy."
+          "theme": "Choice, desire, and inner freedom",
+          "reflection": "This signature places the Lovers’ theme of meaningful choice beside the Devil’s mirror of attachment, temptation, and unconscious pattern. You may feel life most strongly where love, desire, loyalty, and freedom meet. The invitation is to notice the difference between bonds that nourish you and bonds that narrow you, so connection can become more honest, embodied, and free."
         },
         "the_chariot__the_tower": {
           "cards": [
             "the_chariot",
             "the_tower"
           ],
-          "theme": "Drive and sudden change",
-          "reflection": "Determined momentum meets moments that clear away what no longer holds. You might notice how forward drive and unexpected change can together reshape your path."
+          "theme": "Directed will meeting necessary change",
+          "reflection": "This signature combines the Chariot’s focus, movement, and self-direction with the Tower’s clearing force. You may carry a strong instinct to move forward, yet life may also teach you through moments that rearrange the road beneath your feet. The invitation is to let courage be more than control: to choose your direction when you can, and to respond with presence when change arrives on its own."
         },
         "strength__the_star": {
           "cards": [
             "strength",
             "the_star"
           ],
-          "theme": "Quiet courage and gentle hope",
-          "reflection": "A patient, gentle courage meets renewal and quiet hope. Together they invite you to explore how steadiness and openness can carry you forward, even through tender seasons."
+          "theme": "Tender courage and renewed hope",
+          "reflection": "This signature brings Strength’s gentle bravery together with the Star’s quiet renewal after difficulty. You may carry a kind of resilience that does not need to harden in order to survive. The invitation is to trust softness as a form of power: the patience to stay with yourself, the courage to remain open, and the hope that slowly returns when you make space for healing light."
         },
         "the_hermit__the_moon": {
           "cards": [
             "the_hermit",
             "the_moon"
           ],
-          "theme": "Inner light and the unknown",
-          "reflection": "A search for understanding through reflection meets dreams, intuition, and what is not yet clear. This pattern invites a patient, curious relationship with mystery."
+          "theme": "Solitude, mystery, and the inner lantern",
+          "reflection": "This signature joins the Hermit’s patient search for inner truth with the Moon’s realm of dreams, uncertainty, and hidden feeling. You may be naturally drawn to what lies beneath appearances, preferring depth over easy answers. The invitation is to walk gently with mystery, using solitude as a lantern rather than a wall, and allowing unclear feelings to become questions you can meet with compassion."
         },
         "the_sun__wheel_of_fortune__the_magician": {
           "cards": [
@@ -24389,33 +24389,33 @@
           "bridgeCards": [
             "wheel_of_fortune"
           ],
-          "theme": "Warmth, will, and turning seasons",
-          "reflection": "Clarity, warmth, and a sense of vitality meet a gift for focusing intention into action. Together they invite you to notice where your inner light meets your capacity to begin.",
-          "bridgeNote": "In the traditional reduction, this signature passes through Wheel of Fortune (10) on its way from The Sun (19) to The Magician (1). Arcana Signature keeps Wheel of Fortune as a quiet connecting thread — a reminder of changing seasons — rather than a third card."
+          "theme": "Radiance moving through cycles into action",
+          "reflection": "This signature carries the Sun’s warmth, vitality, and clarity into the Magician’s ability to shape intention into action. Between them, the Wheel of Fortune becomes a quiet bridge: a reminder that growth often moves in cycles, not straight lines. The invitation is to let confidence and skill work together, meeting each season with creativity, perspective, and renewed willingness to begin.",
+          "bridgeNote": "In the traditional reduction, this signature passes through Wheel of Fortune (10) on its way from The Sun (19) to The Magician (1). Arcana Signature keeps Wheel of Fortune as a quiet connecting thread — a reminder of changing seasons — rather than a third visible card."
         },
         "the_high_priestess__judgement": {
           "cards": [
             "the_high_priestess",
             "judgement"
           ],
-          "theme": "Inner knowing and awakening",
-          "reflection": "Quiet inner knowing meets a sense of awakening and honest renewal. Together they invite you to listen inward and notice what may be calling you to rise."
+          "theme": "Private wisdom and the call to awaken",
+          "reflection": "This signature brings the High Priestess’s inward listening together with Judgement’s call to rise, respond, and live more consciously. You may sense a rhythm between retreat and expression: times when truth needs silence, and times when it asks to be answered. The invitation is to trust the wisdom that gathers quietly within you, then let it guide the moments when you choose to step forward."
         },
         "the_empress__the_world": {
           "cards": [
             "the_empress",
             "the_world"
           ],
-          "theme": "Nurturing and wholeness",
-          "reflection": "A nurturing, creative warmth meets a sense of completion and belonging. This pairing invites you to explore how tending to yourself and others connects to a feeling of wholeness."
+          "theme": "Creative care becoming wholeness",
+          "reflection": "This signature joins the Empress’s nurturing abundance with the World’s sense of completion, belonging, and integration. You may feel most aligned when care becomes creation, and creation becomes connection. The invitation is to notice what you are tending with love, how it belongs to a larger circle, and where receiving, giving, beauty, and completion can meet without force."
         },
         "the_fool__the_emperor": {
           "cards": [
             "the_fool",
             "the_emperor"
           ],
-          "theme": "Open beginnings and steady ground",
-          "reflection": "Trust and open-hearted beginning meet structure and steady ground. Together they invite you to notice how a free spirit and a stable foundation can support one another."
+          "theme": "Open beginnings with steady ground",
+          "reflection": "This signature brings the Fool’s openness, curiosity, and trust into relationship with the Emperor’s structure, steadiness, and responsibility. You may carry both the impulse to begin freely and the need to give that beginning a form that can last. The invitation is to let wonder and discipline become allies: a free spirit with a safe foundation, and a strong foundation that still leaves room for wonder."
         }
       },
       "privacyCopy": {
